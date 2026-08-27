@@ -1,0 +1,232 @@
+{
+ "GEN800": {
+  "theme": "Général",
+  "indicator": "Nouvelles 360°",
+  "label_fr": "Informations relatives à l’entreprise"
+ },
+ "GEN300": {
+  "theme": "Général",
+  "indicator": "Adhesion",
+  "label_fr": "Adhésions en matière de RSE"
+ },
+ "GEN600": {
+  "theme": "Général",
+  "indicator": "Reporting",
+  "label_fr": "Facteurs de qualité du reporting RSE"
+ },
+ "GEN701": {
+  "theme": "Général",
+  "indicator": "Certification",
+  "label_fr": "Certifications en matière de RSE"
+ },
+ "GEN5004s": {
+  "theme": "Général",
+  "indicator": "Certification",
+  "label_fr": "Audit externe en matière de RSE"
+ },
+ "LAB100": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Politique",
+  "label_fr": "Politiques relatives au social et aux droits humains"
+ },
+ "LAB1003": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Mesure",
+  "label_fr": "Déclaration relative aux frais de recrutement"
+ },
+ "LAB1007": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Mesure",
+  "label_fr": "Déclaration de travailleurs migrants"
+ },
+ "LAB310s": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives à la santé et la sécurité des employés"
+ },
+ "LAB3201s": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives aux conditions de travail"
+ },
+ "LAB340s": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Mesure",
+  "label_fr": "Mesures de gestion des carrières et formation"
+ },
+ "LAB3503": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives au travail des enfants, au travail forcé et au trafic d’êtres humains"
+ },
+ "LAB3604": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives à la discrimination et au harcèlement"
+ },
+ "LAB6011": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Reporting",
+  "label_fr": "Reporting sur le social et les droits humains"
+ },
+ "LAB601": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Reporting",
+  "label_fr": "Reporting sur le social et les droits humains"
+ },
+ "LAB3511": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives aux jeunes travailleurs"
+ },
+ "LAB1008": {
+  "theme": "Social & Droits de l'Homme",
+  "indicator": "Mesure",
+  "label_fr": "Déclaration concernant les jeunes travailleurs"
+ },
+ "ENV100s": {
+  "theme": "Environnement",
+  "indicator": "Politique",
+  "label_fr": "Politiques environnementales"
+ },
+ "ENV310": {
+  "theme": "Environnement",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives à la consommation énergétique et aux GES"
+ },
+ "ENV3229": {
+  "theme": "Environnement",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives à la gestion de l’eau"
+ },
+ "ENV4121": {
+  "theme": "Environnement",
+  "indicator": "Mesure",
+  "label_fr": "Mesures de prévention de la pollution de l’air"
+ },
+ "ENV3525": {
+  "theme": "Environnement",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives aux matières premières et aux produits chimiques"
+ },
+ "ENV3549": {
+  "theme": "Environnement",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives à la gestion des déchets"
+ },
+ "ENV3713": {
+  "theme": "Environnement",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives à la fin de vie des produits"
+ },
+ "ENV6001s": {
+  "theme": "Environnement",
+  "indicator": "Reporting",
+  "label_fr": "CDP"
+ },
+ "ENV600": {
+  "theme": "Environnement",
+  "indicator": "Reporting",
+  "label_fr": "Reporting environnemental"
+ },
+ "ENV630": {
+  "theme": "Environnement",
+  "indicator": "Reporting",
+  "label_fr": "Reporting sur les GES"
+ },
+ "ENV6332": {
+  "theme": "Environnement",
+  "indicator": "Reporting",
+  "label_fr": "Reporting environnemental"
+ },
+ "CAR100": {
+  "theme": "Environnement",
+  "indicator": "S/O",
+  "label_fr": "Objectif carbone"
+ },
+ "CAR104": {
+  "theme": "Environnement",
+  "indicator": "S/O",
+  "label_fr": "Système de suivi carbone"
+ },
+ "CAR105": {
+  "theme": "Environnement",
+  "indicator": "S/O",
+  "label_fr": "Périmètre de suivi carbone"
+ },
+ "CAR107": {
+  "theme": "Environnement",
+  "indicator": "S/O",
+  "label_fr": "Évaluation de la performance carbone"
+ },
+ "CAR108": {
+  "theme": "Environnement",
+  "indicator": "S/O",
+  "label_fr": "Pratiques de reporting des émissions de carbone"
+ },
+ "ENV7003": {
+  "theme": "Environnement",
+  "indicator": "Mesure",
+  "label_fr": "Mesures contre les risques environnementaux externes"
+ },
+ "ENV7012": {
+  "theme": "Environnement",
+  "indicator": "Mesure",
+  "label_fr": "Mesures contre les perturbations environnementales externes"
+ },
+ "FB100": {
+  "theme": "Éthique",
+  "indicator": "Politique",
+  "label_fr": "Politique d'éthique des affaires"
+ },
+ "FB3103": {
+  "theme": "Éthique",
+  "indicator": "Mesure",
+  "label_fr": "Mesures de lutte contre la corruption"
+ },
+ "FB3105": {
+  "theme": "Éthique",
+  "indicator": "Mesure",
+  "label_fr": "Mesures de gestion responsable de l’information"
+ },
+ "FBP600": {
+  "theme": "Éthique",
+  "indicator": "Reporting",
+  "label_fr": "Reporting sur l’éthique des affaires"
+ },
+ "SUP100": {
+  "theme": "Achats Responsables",
+  "indicator": "Politique",
+  "label_fr": "Politiques relatives aux achats responsables"
+ },
+ "SUP710": {
+  "theme": "Achats Responsables",
+  "indicator": "Reporting",
+  "label_fr": "Déclaration relative aux minerais du conflit"
+ },
+ "SUP101": {
+  "theme": "Achats Responsables",
+  "indicator": "Politique",
+  "label_fr": "Politique relative aux minerais du conflit"
+ },
+ "SUP307": {
+  "theme": "Achats Responsables",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives aux achats responsables"
+ },
+ "SUP320": {
+  "theme": "Achats Responsables",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives à l’approvisionnement inclusif"
+ },
+ "SUP621": {
+  "theme": "Achats Responsables",
+  "indicator": "Reporting",
+  "label_fr": "Reporting sur les minerais du conflit"
+ },
+ "SUP600": {
+  "theme": "Achats Responsables",
+  "indicator": "Reporting",
+  "label_fr": "Reporting lié aux achats responsables"
+ }
+}

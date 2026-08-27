@@ -1,0 +1,156 @@
+# ============================================================
+# SOS-EcoVadis — Taxonomie du Knowledge Catalog
+# Version: 1.0 (2026-08-27)
+# Propriétaire: François Dequenne (ESGIM)
+# Cette hiérarchie est la colonne vertébrale du catalogue.
+# Toute fiche DOIT référencer des valeurs définies ici.
+# ============================================================
+
+# ------------------------------------------------------------
+# Facette 1 — Situation du prospect (IDs permanents, vision v1.1 §3)
+# Le paramètre principal n'est pas la taille ni la médaille :
+# c'est première évaluation / envie de monter / panique après rétrogradation.
+# ------------------------------------------------------------
+situations:
+  S1:
+    label_en: "Upgrade"
+    label_fr: "Montée en médaille"
+    label_nl: "Upgrade"
+    description_fr: >
+      Une entreprise XS ou S a obtenu un badge (Fast Mover, Committed) ou une
+      médaille (Bronze) de façon autonome et veut monter au niveau supérieur
+      (Bronze, Argent, puis Or).
+  S2:
+    label_en: "Downgrade"
+    label_fr: "Rétrogradation"
+    label_nl: "Downgrade"
+    description_fr: >
+      Une entreprise a été rétrogradée faute de progression (Bronze → badge
+      Committed, ou Argent → Bronze — la cible principale) et veut récupérer
+      son niveau. Situation la plus fréquente après le départ du responsable
+      EcoVadis interne.
+  S3:
+    label_en: "First assessment demanded by a large account"
+    label_fr: "Première évaluation exigée par un donneur d'ordres"
+    label_nl: "Eerste beoordeling gevraagd door een opdrachtgever"
+    description_fr: >
+      Une entreprise XS reçoit soudain une demande d'évaluation EcoVadis d'un
+      grand client. Elle ne sait pas ce que c'est et n'a ni temps ni ressources.
+  # Réservé (phase 2, audience distincte — ne jamais confondre avec S3) :
+  A1:
+    label_fr: "Donneur d'ordres (service achats grand compte)"
+    status: reserved
+
+# ------------------------------------------------------------
+# Facette 2 — Taille d'entreprise (nomenclature EcoVadis)
+# ------------------------------------------------------------
+company_sizes:
+  XS: { label_fr: "très petite (XS) — moins de 25 ETP", label_nl: "zeer klein (XS)", in_scope: true }
+  S:  { label_fr: "petite (S) — 26 à 99 ETP",           label_nl: "klein (S)",       in_scope: true }
+  M:  { label_fr: "moyenne (M)",                         in_scope: false }
+  L:  { label_fr: "grande (L)",                          in_scope: false }
+
+# ------------------------------------------------------------
+# Facette 3 — Nature du contenu (alignée sur le modèle P-A-R d'EcoVadis)
+# Valeurs observées dans les en-têtes des notes sources.
+# ------------------------------------------------------------
+content_kinds:
+  general:     { label_fr: "Général / parcours et médailles" }
+  methodology: { label_fr: "Méthodologie EcoVadis" }
+  policies:    { label_fr: "Politiques (P du modèle P-A-R)" }
+  actions:     { label_fr: "Actions / Mesures (A du modèle P-A-R)" }
+  reporting:   { label_fr: "Reporting / Résultats (R du modèle P-A-R)" }
+
+# ------------------------------------------------------------
+# Facette 4 — Thème EcoVadis (les 4 thèmes officiels + général)
+# Terminologie officielle par langue: voir le glossaire (kb-0005).
+# ------------------------------------------------------------
+themes:
+  general:
+    label_en: "General"
+    label_fr: "Général"
+    label_nl: "Algemeen"
+  environment:
+    label_en: "Environment"
+    label_fr: "Environnement"
+    label_nl: "Milieu"          # jamais "Omgeving"
+    subtopics: [carbon-ghg, energy, water, waste, raw-materials-chemicals, external-climate-risks]
+  labor-human-rights:
+    label_en: "Labor & Human Rights"
+    label_fr: "Social et Droits Humains"     # jamais "droits de l'homme"
+    label_nl: "Arbeids- en Mensenrechten"    # jamais "Sociaal en Mensenrechten"
+    subtopics: [health-safety, working-conditions, training, diversity-inclusion, child-forced-labour, social-reporting]
+  ethics:
+    label_en: "Ethics"
+    label_fr: "Éthique"
+    label_nl: "Ethiek"
+    subtopics: [anti-corruption, information-security, harassment-discrimination]
+  sustainable-procurement:
+    label_en: "Sustainable Procurement"
+    label_fr: "Achats Responsables"          # nom officiel du thème, pas "achats durables"
+    label_nl: "Duurzame Inkoop"              # singulier
+    subtopics: [supplier-engagement, supplier-code-of-conduct, supplier-risk]
+
+# ------------------------------------------------------------
+# Facette 5 — Sujets transverses (vision v1.1 §6, extensible)
+# ------------------------------------------------------------
+topics:
+  - methodologie
+  - medailles-percentiles
+  - rising-bar
+  - questionnaire
+  - preuves
+  - environnement
+  - social-droits-humains
+  - ethique
+  - achats-responsables
+  - tarifs
+  - timing
+  - plateforme
+  - 360-watch
+  - donneur-d-ordres
+  - vsme-csrd
+  - carbone-ghg
+  - b-corp
+  - secteur-emballage
+  - secteur-pharma
+
+# ------------------------------------------------------------
+# Facette 6 — Audience
+# ------------------------------------------------------------
+audiences:
+  sme_owner:           { label_fr: "Dirigeant de PME" }
+  sustainability_lead: { label_fr: "Responsable durabilité / RSE en PME" }
+  buyer:               { label_fr: "Acheteur / donneur d'ordres (phase 2, A1)" }
+
+# ------------------------------------------------------------
+# Facette 7 — Langues
+# ------------------------------------------------------------
+languages:
+  en: { label: "English",    role: "pivot terminologique" }
+  fr: { label: "Français",   role: "langue principale de publication" }
+  nl: { label: "Nederlands", role: "néerlandais de Belgique (kmo, VTE, rapportering, vouvoiement u)" }
+  mul: { label: "Multilingue", role: "objets intrinsèquement trilingues (glossaire)" }
+
+# ------------------------------------------------------------
+# Types d'objets du catalogue (une fiche = un objet autonome)
+# ------------------------------------------------------------
+object_types:
+  article:  { id_range: "kb-0010 → kb-0099", description_fr: "Une note = un sujet = un article de connaissance" }
+  faq:      { id_range: "kb-0100 → kb-0999", description_fr: "Une question humaine + une réponse, autonome" }
+  pricing:  { id_range: "kb-0001",            description_fr: "Grille tarifaire et modalités de paiement" }
+  service:  { id_range: "kb-0003 → kb-0004",  description_fr: "Offre de service ESGIM structurée" }
+  expert:   { id_range: "kb-0002",            description_fr: "Identité d'auteur / expert référent" }
+  glossary: { id_range: "kb-0005",            description_fr: "Glossaire terminologique EN-FR-NL" }
+
+# ------------------------------------------------------------
+# Codes questions EcoVadis (métadonnées)
+# Ces codes (ENV7003, SUP307, GEN300…) sont les références des questions du
+# QUESTIONNAIRE EcoVadis — voir taxonomy/ecovadis-question-codes.json (46 codes
+# extraits d'un questionnaire de réévaluation réel, entreprise manufacturière S).
+# Ce ne sont PAS des questions que les humains posent à une IA : ils servent
+# uniquement de clé de liaison entre une fiche et les questions du questionnaire.
+# ------------------------------------------------------------
+ecovadis_question_codes:
+  source: "taxonomy/ecovadis-question-codes.json"
+  usage: "champ front matter `ecovadis_questions: [ENV7003, …]`"

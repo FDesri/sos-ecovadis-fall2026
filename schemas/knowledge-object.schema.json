@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/FDesri/sos-ecovadis-fall2026/schemas/knowledge-object.schema.json",
+  "title": "SOS-EcoVadis Knowledge Object (front matter)",
+  "description": "Schéma du front matter YAML de toute fiche du Knowledge Catalog. Une fiche = un objet de connaissance autonome, normalisé, relié aux autres.",
+  "type": "object",
+  "required": ["id", "type", "lang", "title", "slug", "summary", "author", "source", "date_created", "date_updated", "version", "status"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^kb-[0-9]{4}$",
+      "description": "Identifiant permanent, partagé par les trois versions linguistiques d'un même objet. Plages par type: voir taxonomy.yaml."
+    },
+    "type": {
+      "enum": ["article", "faq", "pricing", "service", "expert", "glossary"]
+    },
+    "lang": {
+      "enum": ["en", "fr", "nl", "mul"],
+      "description": "nl = néerlandais de Belgique (kmo, VTE, rapportering, vouvoiement u)."
+    },
+    "source_lang": {
+      "enum": ["en", "fr", "nl", "mul"],
+      "description": "Langue de la note source originale. Une traduction NL se fait depuis l'anglais ou le concept, jamais depuis le français (règle glossaire §1-2)."
+    },
+    "translation_of": {
+      "type": ["string", "null"],
+      "description": "Slug de la fiche dans la langue source quand cette fiche est une traduction; null pour l'original."
+    },
+    "title": { "type": "string", "description": "Titre formulé comme la question ou la recherche d'un humain (règle glossaire §1-5)." },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Stable, kebab-case, localisé par langue. Ne change jamais après publication." },
+    "summary": { "type": "string", "description": "2 à 4 phrases, answer-first: la réponse d'abord, le contexte ensuite. Alimente llms.txt, meta description et les cartes." },
+    "situations": { "type": "array", "items": { "enum": ["S1", "S2", "S3"] } },
+    "sizes": { "type": "array", "items": { "enum": ["XS", "S", "M", "L"] } },
+    "content_kind": { "enum": ["general", "methodology", "policies", "actions", "reporting"] },
+    "themes": { "type": "array", "items": { "enum": ["general", "environment", "labor-human-rights", "ethics", "sustainable-procurement"] } },
+    "topics": { "type": "array", "items": { "type": "string" }, "description": "Valeurs de taxonomy.yaml > topics." },
+    "ecovadis_questions": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^(GEN|LAB|ENV|CAR|FB|FBP|SUP)[0-9]{3,4}s?$" },
+      "description": "Codes des questions du questionnaire EcoVadis couvertes par la fiche (métadonnées de liaison, PAS des questions humaines)."
+    },
+    "keywords": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Les formulations qui coexistent: terme officiel, terme praticien, question posée. NL: repartir du concept, inclure kmo ET mkb, MVO ET duurzaamheid."
+    },
+    "audience": { "type": "array", "items": { "enum": ["sme_owner", "sustainability_lead", "buyer"] } },
+    "author": { "type": "string", "description": "Slug de l'objet expert (ex: francois-dequenne, kb-0002)." },
+    "expert_reviewer": { "type": ["string", "null"], "description": "Expert référent qui valide la fiche (gouvernance)." },
+    "source": {
+      "const": "esgim-proprietary",
+      "description": "Toutes les fiches proviennent de la même source propriétaire ESGIM (notes Evernote de François Dequenne)."
+    },
+    "source_note": { "type": "string", "description": "Titre Evernote + date de dernière mise à jour de la note source." },
+    "confidentiality": { "enum": ["public", "internal"], "default": "public" },
+    "reliability": {
+      "enum": ["expert-validated", "expert-drafted", "to-validate"],
+      "description": "expert-validated: relu et approuvé par François; expert-drafted: rédigé depuis une note experte, en attente de relecture; to-validate: contient des points à arbitrer."
+    },
+    "date_created": { "type": "string", "format": "date" },
+    "date_updated": { "type": "string", "format": "date" },
+    "version": { "type": "integer", "minimum": 1 },
+    "status": {
+      "enum": ["draft", "review", "published", "archived"],
+      "description": "Workflow: draft → review (relecture François) → published. archived: remplacée, jamais supprimée."
+    },
+    "related": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Slugs de fiches liées dans la MÊME langue. C'est le graphe de connaissances: service ↔ faq ↔ pricing ↔ article ↔ expert."
+    },
+    "faq": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["q", "a"],
+        "properties": { "q": { "type": "string" }, "a": { "type": "string" } }
+      },
+      "description": "Q/R embarquées dans un article. Les notes purement FAQ sont éclatées en objets faq autonomes."
+    }
+  }
+}
