@@ -19,7 +19,7 @@ content_kind: methodology
 themes: [general]
 topics: [methodologie, vsme-csrd]
 ecovadis_questions: []
-keywords: [materialiteitspiloot, deactivering onderwerp, verantwoording dubbele materialiteit, 2026]
+keywords: [materialiteitspiloot, deactivering onderwerp, verantwoording dubbele materialiteit, piloot 2026]
 audience: [sustainability_lead, sme_owner]
 author: francois-dequenne
 expert_reviewer: francois-dequenne

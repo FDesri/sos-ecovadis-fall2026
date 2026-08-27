@@ -19,7 +19,7 @@ content_kind: methodology
 themes: [general]
 topics: [methodologie, vsme-csrd]
 ecovadis_questions: []
-keywords: [pilote matérialité, désactivation de sujet, justification double matérialité, 2026]
+keywords: [pilote matérialité, désactivation de sujet, justification double matérialité, pilote 2026]
 audience: [sustainability_lead, sme_owner]
 author: francois-dequenne
 expert_reviewer: francois-dequenne

@@ -19,7 +19,7 @@ content_kind: methodology
 themes: [general]
 topics: [methodologie, vsme-csrd]
 ecovadis_questions: []
-keywords: [materiality pilot, topic deactivation, double materiality justification, 2026]
+keywords: [materiality pilot, topic deactivation, double materiality justification, pilot 2026]
 audience: [sustainability_lead, sme_owner]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
