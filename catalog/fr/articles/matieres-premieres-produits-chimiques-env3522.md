@@ -21,7 +21,7 @@ sizes: [S]
 content_kind: actions
 themes: [environment]
 topics: [environnement, preuves, questionnaire, achats-responsables]
-ecovadis_questions: [ENV3522]
+ecovadis_questions: [ENV3522, ENV3525]
 keywords: [ENV3522, matières premières EcoVadis, produits chimiques, substances dangereuses, FIS, CLP SGH, substitution, matériaux biosourcés, déchets dangereux, urgence environnementale]
 audience: [sustainability_lead]
 author: francois-dequenne

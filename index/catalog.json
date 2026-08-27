@@ -4160,7 +4160,8 @@
     "achats-responsables"
    ],
    "ecovadis_questions": [
-    "ENV3522"
+    "ENV3522",
+    "ENV3525"
    ],
    "audience": [
     "sustainability_lead"

@@ -228,5 +228,10 @@
   "theme": "Achats Responsables",
   "indicator": "Reporting",
   "label_fr": "Reporting lié aux achats responsables"
+ },
+ "ENV3522": {
+  "theme": "Environnement",
+  "indicator": "Mesure",
+  "label_fr": "Mesures relatives aux matières premières et aux produits chimiques (variante de code ; ENV3525 dans le questionnaire exemple)"
  }
 }
