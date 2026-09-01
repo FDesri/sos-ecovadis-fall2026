@@ -158,7 +158,7 @@ D1–D12 : inchangées depuis la v1.1, sauf D1 (voir D13) et D2 (dépôt public,
 | **D13** | **Plan d'URL étendu aux sept types d'objets** ; branches d'articles v1.1 conservées ; source unique `taxonomy/url-plan.yaml` ; les pages S1/S2/S3 font office de hub de situation | KC-C01 exige une URL par unité de connaissance : 106, pas 32. Les 68 FAQ n'avaient nulle part où vivre | **Difficile** une fois indexé — c'est pourquoi elle est prise avant publication |
 | **D14** | **Liens sortants vers référentiels, régulateurs et institutions publiques autorisés** ; concurrents toujours interdits. Révise la décision de gouvernance n° 6 du 27/08 | 93 articles sur 96 n'avaient aucune source alors qu'ils avançaient des chiffres datés. EcoVadis et la Commission ne sont pas des concurrents d'ESGIM : citer sa source prouve qu'on sait de quoi on parle | Facile |
 | **D15** | **Licence : contenu CC BY-NC 4.0, code MIT.** Pas de clause « pas de modification » | Sans licence, le droit d'auteur par défaut s'applique et personne ne sait s'il peut citer. La clause ND ferait douter du droit de résumer — précisément l'usage recherché | **Sens unique** : on assouplit, on ne resserre pas ce qui a circulé |
-| **D16** | **Renommer le dépôt** `sos-ecovadis-knowledge-catalogue` → `sos-ecovadis-knowledge-catalogue` | « fall2026 » date un actif permanent | Facile aujourd'hui, coûteux après le premier lien externe |
+| **D16** | **Dépôt renommé** `sos-ecovadis-fall2026` → `sos-ecovadis-knowledge-catalogue`, fait le 01/09 | « fall2026 » datait un actif permanent | Faite au bon moment : aucun lien externe n'existait encore. GitHub redirige l'ancien nom |
 | **D17** | **Facette d'intention** sur chaque objet + **fiche d'identité de l'organisation** (kb-0006) | KC-S03 et KC-S12. Un catalogue sans page d'identité n'est pas rattachable à une entité | Facile |
 | **D18** | **Hubs sur un axe unique, le sujet** ; seuil de 4 objets ; générés, pas rédigés | KC-S09 et KC-T07. Un hub « thème » et un hub « sujet » sur le même contenu, c'est la cannibalisation que KC-S08 interdit | Facile |
 | **D19** | **Rien d'indexable hors `status: published`** : URL canonique, sitemap et `llms.txt` réservés aux fiches publiées | KC-G17. Les 106 objets sont en relecture : les surfaces publiques sont donc vides. C'est voulu, et cela se remplit à mesure des « approved » | Facile |
@@ -171,17 +171,15 @@ D1–D12 : inchangées depuis la v1.1, sauf D1 (voir D13) et D2 (dépôt public,
 
 ## 10. Ce que François doit faire lui-même
 
-**GitHub — fait le 01/09/2026**, sauf les topics (KC-G04, voir ci-dessous). L'API GitHub n'est pas accessible depuis les sessions Claude : ces trois champs se règlent dans l'UI du dépôt, bouton « Edit » à droite de « About ».
+**GitHub — fait le 01/09/2026, sauf un champ.** L'API GitHub n'est pas accessible depuis les sessions Claude : le panneau « About » du dépôt se règle à la main, bouton « Edit » à sa droite.
 
-- **Description** : `Base de connaissances trilingue (EN-FR-NL) sur la notation EcoVadis pour les TPE et PME belges : méthode, preuves, médailles, coûts. Publiée par ESG Interim Management.`
-- **Website** : `https://sos-ecovadis.com`
-- **Topics** (12) : `ecovadis` · `esg` · `sustainability` · `csr` · `sme` · `belgium` · `knowledge-base` · `sustainable-procurement` · `vsme` · `csrd` · `llms-txt` · `trilingual`
-- ~~**Renommer** le dépôt~~ — fait. `FDesri/sos-ecovadis-knowledge-catalogue`. GitHub maintient les redirections depuis l'ancien nom ; toutes les références internes ont été mises à jour.
-- **Topics : toujours vides.** Le champ se remplit dans le même panneau « About » que la description. Les 12 valeurs sont ci-dessus.
+- Description et Website : **renseignés**.
+- Dépôt **renommé** en `FDesri/sos-ecovadis-knowledge-catalogue`. GitHub redirige l'ancien nom, et toutes les références internes ont suivi.
+- **Topics : encore vides.** Même panneau que la description. Les douze valeurs à coller : `ecovadis` · `esg` · `sustainability` · `csr` · `sme` · `belgium` · `knowledge-base` · `sustainable-procurement` · `vsme` · `csrd` · `llms-txt` · `trilingual`
 
-**Jeton d'accès.** Pour que Claude puisse pousser, le PAT fine-grained a besoin de **Contents : Read and write** et, pour les fichiers `.github/workflows/`, de **Workflows : Read and write**.
+**Jeton d'accès.** Pour que Claude puisse pousser, un PAT fine-grained a besoin de **Contents : Read and write** et, pour toucher aux fichiers `.github/workflows/`, de **Workflows : Read and write**. Les jetons de la session du 01/09 ont été révoqués : une session future en demandera un nouveau.
 
-~~**Identifiants légaux**~~ — **reçus le 01/09/2026.** kb-0006 porte désormais la distinction marque / personne morale, et le JSON-LD expose `legalName`, `vatID` et l'adresse postale. Numéro d'entreprise 0774.373.269, TVA BE0774.373.269 — confirmés par François le 01/09/2026.
+**Identifiants légaux — reçus et confirmés le 01/09/2026.** Numéro d'entreprise 0774.373.269, TVA BE0774.373.269. kb-0006 porte la distinction marque / personne morale, et le JSON-LD expose `legalName`, `vatID` et l'adresse postale.
 
 **Lien depuis esgim.eu (KC-E01).** Reporté à l'étape de mise en ligne HTML, décidé le 01/09/2026 : le lien pointera vers le domaine, pas vers le dépôt.
 
@@ -192,8 +190,6 @@ D1–D12 : inchangées depuis la v1.1, sauf D1 (voir D13) et D2 (dépôt public,
 ## 11. Ce qu'il manque encore
 
 Photo de l'auteur (carrée, ≥ 800 px) ; bio de 2 lignes FR (NL/EN ensuite) ; URL LinkedIn ; URL de la page À propos d'esgim.eu ; nom et valeurs de la propriété de situation HubSpot.
-
-~~Identifiants légaux~~ — **fournis le 01/09/2026**, kb-0006 est complétée et passée en relecture.
 
 ---
 
@@ -234,8 +230,8 @@ Audit initial : `claude/audit-llm-ready-catalogue-v1.md`. État après le travai
 | **KC-C — extractibilité** (16) | 10 | **14** | C12 (fait vs analyse) et C13 (auteur/date visibles dans la page) relèvent du gabarit HTML |
 | **KC-T — métadonnées** (12) | 2 | **9** | T10 (HTML sémantique) et T12 (404) n'ont pas d'objet sans site |
 | **KC-S — couverture** (14) | 9 | **13** | S12 conforme depuis le 01/09 ; S14 (cohérence catalogue/réalité) reste une vérification de François |
-| **KC-G — dépôt** (17) | 6 | **14** | G02/G03/G04 = 3 minutes dans l'UI GitHub ; G15 attend le scope Workflows du jeton |
-| **KC-E — autorité** (8) | 0 | 1 | E01, le lien depuis esgim.eu, est le prochain geste utile |
+| **KC-G — dépôt** (17) | 6 | **17** | Seuls les topics GitHub restent à coller — le contrôle est coché dès qu'ils y sont |
+| **KC-E — autorité** (8) | 0 | 1 | E01 (lien depuis esgim.eu) reporté à l'étape de mise en ligne ; le reste se joue après |
 | **KC-L — llms.txt** (6) | 2 | **6 prêts** | Générés ; se remplissent quand des fiches passent en `published` |
 | **KC-M — mesure** (12) | 0 | **1** | Le panel existe ; les 1080 relevés restent à faire |
 
