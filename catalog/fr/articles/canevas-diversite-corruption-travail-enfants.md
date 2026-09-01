@@ -53,7 +53,7 @@ faq:
 
 « Il n'y a rien de tout ça dans notre entreprise ! » — la réaction classique d'une PME belge face aux questions diversité, corruption et travail des enfants. Il faut pourtant répondre : EcoVadis évalue le **système de gestion**, pas l'existence d'incidents. La bonne nouvelle : les preuves attendues sont simples — une grille de recrutement, un registre cadeaux, un tableau de bord RH, une checklist d'embauche — et même « 0 cas » se reporte si le canal existe et est suivi. Cette fiche donne les preuves utiles par sujet et cinq canevas prêts à l'emploi.
 
-## 1) Diversité / non-discrimination (thème Social et Droits Humains)
+## Que répondre sur la diversité et la non-discrimination ?
 
 En Belgique, le cadre légal vise l'égalité de traitement dans l'accès au travail et les conditions de travail ; le guide belge du recrutement inclusif couvre du besoin jusqu'à l'intégration.
 
@@ -68,7 +68,7 @@ En Belgique, le cadre légal vise l'égalité de traitement dans l'accès au tra
 
 **À éviter :** « nous sommes une entreprise inclusive » sans preuve, une charte générique non déployée, des données nominatives inutiles.
 
-## 2) Risque de corruption (thème Éthique)
+## Que répondre sur le risque de corruption ?
 
 Le guide anticorruption du SPF Économie invite les entreprises belges à des mesures internes proportionnées à leur taille, secteur et zones d'activité : contrôles préalables sur les partenaires, procédures comptables sincères, systèmes de contrôle et formations documentées.
 
@@ -82,11 +82,11 @@ Le guide anticorruption du SPF Économie invite les entreprises belges à des me
 | Contrôle comptable | Exemple anonymisé d'approbation à deux niveaux : paiements sensibles, notes de frais, commissions |
 | Signalement / enquête | Registre anonymisé des alertes éthiques : date, sujet, statut, action corrective, clôture |
 
-## 3) Reporting social et droits humains
+## Que répondre sur le reporting social et droits humains ?
 
 Ici, EcoVadis attend un **document de reporting** : tableau de bord RH, bilan social, rapport interne — attestant le suivi actif des KPI avec unités et période, pas la simple disponibilité de l'information. Pour une entreprise belge, le **bilan social** est une pièce précieuse : il fait partie des comptes annuels et contient effectifs, mouvements du personnel et formations ; le schéma abrégé des petites sociétés couvre déjà effectifs, contrats, sexe, catégories, mouvements et formations. KPI à suivre : effectifs et ETP, répartition agrégée par sexe, turnover, heures et personnes formées (sécurité, éthique, non-discrimination, droits humains, anticorruption), accidents, dialogue social, signalements (anonymisés), jeunes travailleurs, fournisseurs critiques évalués socialement.
 
-## 4) Prévention du travail des enfants et du travail forcé
+## Que répondre sur le travail des enfants et le travail forcé ?
 
 La loi belge protège les mineurs de moins de 15 ans ou soumis à l'obligation scolaire à temps plein (exceptions strictes) ; les jeunes travailleurs bénéficient de protections spécifiques. Le travail forcé se traite aussi sous l'angle de la traite des êtres humains : longues heures, salaire faible ou absent, dépendance, rétention de documents.
 
@@ -99,11 +99,11 @@ La loi belge protège les mineurs de moins de 15 ans ou soumis à l'obligation s
 | Fournisseurs / sous-traitants | Questionnaire social, clause contractuelle, évaluation des fournisseurs à risque, vérification des agences d'intérim |
 | Registre alertes | Registre anonymisé — ou « 0 incident » si le suivi est réel |
 
-## Les cinq canevas prêts à copier
+## Quels sont les cinq canevas prêts à copier ?
 
 Le catalogue ESGIM fournit cinq modèles directement réutilisables : **(1) Fiche de preuve d'une action** — en-tête (thème, critère, date, responsable, période), risque identifié, action réalisée, périmètre, preuves jointes en annexes, KPI de résultat, décision de suivi, validation ; **(2) Registre d'actions diversité** — date, processus, risque, action, preuve, KPI, action suivante ; **(3) Matrice de risque corruption** — processus, scénario, niveau brut, mesure de contrôle, preuve, responsable, fréquence, dernier résultat ; **(4) Tableau de bord Social & Droits Humains** — 10 KPI avec définition, unité, N-1/N, source, commentaire, et bloc de revue interne ; **(5) Registre âge / jeunes travailleurs / travail forcé** — contrôles RH à l'embauche, contrôles fournisseurs, registre des alertes.
 
-## Le dossier minimal recommandé (entreprise S belge)
+## Quel est le dossier minimal pour une entreprise S belge ?
 
 | Sujet EcoVadis | Document principal | Annexes utiles |
 |---|---|---|

@@ -51,7 +51,7 @@ faq:
 
 EcoVadis is 's werelds toonaangevende platform voor duurzaamheidsratings, vertrouwd door meer dan 150.000 organisaties in 185 landen en 250 sectoren. Anders dan puur prestatiegerichte ratings evalueert de EcoVadis-rating de **kwaliteit van het duurzaamheidsmanagementsysteem** — beleid, acties en resultaten — wat continue verbetering bevordert en toelaat om verwezenlijkingen zichtbaar te maken via de scorecard en de medailles.
 
-## 1. De matrix thema's × criteria
+## Hoe is de matrix thema's × criteria opgebouwd?
 
 De ruggengraat van de beoordeling is een matrix die de vier duurzaamheidsthema's kruist met een consistente set beoordelingscriteria. De thema's:
 
@@ -62,7 +62,7 @@ De ruggengraat van de beoordeling is een matrix die de vier duurzaamheidsthema's
 
 Elk thema wordt beoordeeld op **zeven criteria**: beleid, aansluitingen (endorsements), maatregelen, certificeringen, dekking, rapportering en 360° Watch. Een onderneming moet dus bijvoorbeeld degelijk milieubeleid, milieumaatregelen én milieurapportering tonen — en hetzelfde doen voor de drie andere thema's. De structuur geeft gelijk gewicht aan het bestaan van beleid, de praktische uitrol en de doeltreffendheid van rapportering en toezicht.
 
-## 2. De beoordelingscriteria uitgelegd
+## Wat meet elk beoordelingscriterium?
 
 - **Beleid:** formele duurzaamheidsengagementen — de basis van de evaluatie.
 - **Aansluitingen (endorsements):** erkenningen door derden die de geloofwaardigheid van het beleid versterken.
@@ -72,13 +72,13 @@ Elk thema wordt beoordeeld op **zeven criteria**: beleid, aansluitingen (endorse
 - **Rapportering:** de belangrijkste duurzaamheids-KPI's.
 - **360° Watch:** AI-gestuurde monitoring van externe reputatie en risico's.
 
-## 3. Hoe scoring en weging werken
+## Hoe werken scoring en weging?
 
 EcoVadis aggregeert de resultaten van elk criterium over de vier thema's. Elk thema heeft zijn eigen gewicht, aangepast aan sector en grootte, zodat de meest impactvolle domeinen prioriteit krijgen. Alleen relevante, **"geactiveerde" criteria** tellen mee, op basis van het risicoprofiel van de organisatie.
 
 Individuele scores vallen in vijf schijven — **0, 25, 50, 75 of 100** — en de scorecard toont per thema de sterktes en verbeterpunten. De totaalbeoordeling benchmarkt de onderneming tegen haar peers en toont waar gerichte actie de meeste waarde oplevert. Negatieve 360° Watch-bevindingen kunnen de medaille-eligibiliteit beïnvloeden.
 
-## 4. Maatwerk via geactiveerde criteria
+## Waarom is uw vragenlijst niet dezelfde als die van uw buur?
 
 Bij de registratie geeft de onderneming haar kerngegevens op: sector, grootte, activiteiten. EcoVadis activeert dan onder elk thema de subonderwerpen die relevant zijn voor haar risicoprofiel. Een logistieke speler in zeevracht kan biodiversiteit en impact op mariene ecosystemen geactiveerd zien; een professioneel dienstenbedrijf wellicht niet.
 

@@ -51,7 +51,7 @@ faq:
 
 En trois ans, EcoVadis a changé de nature : d'un score fixe à une compétition continue par percentiles, d'un questionnaire déclaratif à des preuves publiques et vérifiées, d'une notation documentaire à une veille médiatique par IA qui peut bloquer les médailles. Comprendre cette trajectoire 2024-2026 explique pourquoi la médaille qui semblait accessible hier demande aujourd'hui une vraie discipline de gestion.
 
-## Les principales évolutions d'EcoVadis (2024-2026)
+## Qu'est-ce qui a changé chez EcoVadis entre 2024 et 2026 ?
 
 **En 2024 :**
 
@@ -71,7 +71,7 @@ En trois ans, EcoVadis a changé de nature : d'un score fixe à une compétition
 - **Valorisation des normes VSME et ESRS** : de nouveaux points forts pour les rapports conformes au standard VSME de l'EFRAG (PME européennes) et à la CSRD/ESRS.
 - **Intégration des risques environnementaux externes** ([ENV7003](risques-environnementaux-externes-env7003.md)) et des **actions face aux perturbations environnementales externes** ([ENV7012](perturbations-environnementales-env7012.md)).
 
-## Pourquoi obtenir et conserver une médaille est devenu plus difficile
+## Pourquoi obtenir et conserver une médaille est-il devenu plus difficile ?
 
 - **Une compétition continue (percentiles vs scores fixes)** : les seuils de score montent constamment à mesure que le réseau EcoVadis s'élargit et s'améliore. Le score indicatif estimé pour l'Or est passé de **77/100 en juillet 2025 à 78/100 en janvier 2026**.
 - **Exigences de transparence accrues pour le Reporting** : cet indicateur pèse 14 % de la note globale. Pour viser un score élevé, les KPI doivent être publiés dans un **rapport annuel ou de durabilité public** (plus seulement sur un site web), et au moins **85 % des critères de durabilité activés** doivent être couverts par des KPI pour la note maximale.

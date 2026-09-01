@@ -50,7 +50,7 @@ faq:
 
 Het EcoVadis-thema **Arbeids- en Mensenrechten** groepeert zeven precieze criteria, beoordeeld via een managementsysteem op basis van beleid, acties (maatregelen en certificeringen) en resultaten (rapportering). Aan de resultatenkant komen voor een kmo vijf HR-indicatoren systematisch terug. Ze bestaan al in standaard Belgische documenten — jaarverslag van de preventiedienst, opleidingsplan, personeelsregister — maar de perimeters moeten worden vastgelegd en de trends verklaard.
 
-## De zeven criteria van het thema
+## Wat zijn de zeven criteria van het thema?
 
 1. **Gezondheid en veiligheid van de medewerkers** (arbeidsomstandigheden, ongevallen, preventie)
 2. **Arbeidsvoorwaarden** (sociaal overleg, verloning, arbeidstijd)
@@ -60,7 +60,7 @@ Het EcoVadis-thema **Arbeids- en Mensenrechten** groepeert zeven precieze criter
 6. **Mensenrechten** (preventie van dwangarbeid en kinderarbeid, eerbied voor de fundamentele vrijheden)
 7. **Consumenten en klanten** (gezondheid en veiligheid van klanten, voor aspecten die verband houden met het gebruik van producten of diensten)
 
-## Een uitgewerkt voorbeeld (ESGIM-klant: Waalse flexografische drukkerij, grootte S)
+## Hoe ziet een echt dossier eruit bij een Waalse drukkerij van grootte S?
 
 | Indicator | 2024 | 2025 | Bron |
 |---|---|---|---|
@@ -70,14 +70,14 @@ Het EcoVadis-thema **Arbeids- en Mensenrechten** groepeert zeven precieze criter
 | Opleidingsuren / medewerker | 19,2 | **≈ 14,0** | Opleidingsplan 2025 (45,5 dagen × 8 u ÷ 26) |
 | % vrouwen | 6,89 | **7,69** | 2 vrouwen / 26 werknemers |
 
-## De perimeters om vast te leggen
+## Welke perimeters moet u vastleggen?
 
 - **Gewerkte uren:** 35.862 u zonder uitzendkrachten. De preventiedienst geeft daarnaast 5.136 u uitzendarbeid aan (0 ongevallen). Als de 37.331 u van 2024 de uitzendkrachten omvatte, moet voor 2025 40.998 u worden aangehouden — één keer beslissen en dezelfde methode elk jaar toepassen.
 - **Ongevallen:** 1 aangegeven ongeval + 4 lichte ongevallen + 0 ongevallen op de weg van en naar het werk. Frequentiegraad 27,9; werkelijke ernstgraad 6,8.
 - **Opleiding:** 45,5 dagen gerealiseerd in 2025, omgerekend aan 8 u/dag; rekent de onderneming 7,6 u/dag, dan wordt het 13,3 u. Een duidelijke daling tegenover 2024 — documenteren, want EcoVadis kijkt naar de trend.
 - **% vrouwen:** personeelsbestand 2025 van 26 werknemers, twee vrouwen geïdentificeerd in het competentiebestand. De 6,89 % van 2024 kwam overeen met 2/29 — personeelsbestand gedaald, aantal vrouwen stabiel. Door HR te laten bevestigen: het competentiebestand mengt vaste medewerkers en uitzendkrachten.
 
-## Ongunstige signalen anticiperen
+## Hoe anticipeert u op ongunstige signalen?
 
 Twee signalen om in dit voorbeeld vóór de herbeoordeling voor te bereiden: de **ernst** (245 verloren dagen tegenover 192, opgedreven door één ongeval met blijvende ongeschiktheid) en de **daling van de opleidingsuren**. Bereid voor elk de bewijsfiche voor met het verklarende narratief, in plaats van te hopen dat het onopgemerkt blijft.
 

@@ -56,7 +56,7 @@ faq:
 
 La plupart des PME rencontrent EcoVadis parce qu'un client l'exige. La meilleure raison de s'y engager : l'évaluation est un plan tout fait pour bâtir un **système de gestion de la durabilité (SMS)** — un ensemble structuré de politiques, processus et contrôles, dans l'esprit d'ISO 26000 — avec un étalonnage objectif adapté à votre secteur, votre taille et votre localisation, et une fiche d'évaluation qui sert de feuille de route.
 
-## Le modèle P-A-R : comment EcoVadis évalue les systèmes de gestion
+## Comment EcoVadis évalue-t-il les systèmes de gestion ?
 
 EcoVadis évalue selon sa structure **Politiques-Actions-Résultats (P-A-R)** :
 
@@ -68,7 +68,7 @@ Le processus est itératif — chaque catégorie renforce les autres : les polit
 
 La méthodologie s'adapte au contexte : les industriels doivent typiquement traiter l'eau, la biodiversité, la pollution et la fin de vie des produits ; les sociétés de conseil se concentrent davantage sur le plaidoyer environnemental et la diversité.
 
-## La décomposition du score
+## Comment le score se décompose-t-il ?
 
 - **Politiques :** 20 % pour les documents fondateurs ; 5 % pour les adhésions vérifiables.
 - **Actions/Mesures :** 24 % — plus de points pour des mesures multiples et documentées par critère activé.
@@ -78,7 +78,7 @@ La méthodologie s'adapte au contexte : les industriels doivent typiquement trai
 
 Les pondérations varient par secteur et sont optimisées dynamiquement : les domaines à plus fort impact pèsent plus. Progresser vers l'Or ou le Platine exige d'élargir la couverture **et** d'approfondir les objectifs quantitatifs, avec un reporting vérifié en externe et des politiques mises à jour.
 
-## Par où commencer ? La courbe de maturité
+## Par où commencer sur la courbe de maturité ?
 
 **Débutant — les fondations d'abord.** Définir les sujets matériels à partir du modèle d'affaires, des pairs et des critères activés ; rédiger des politiques qualitatives concises (en consolidant les sujets proches) ; déployer des actions simples et peu gourmandes (formations, procédures de réclamation) ; démarrer un suivi interne de KPI reliés aux politiques. Un grossiste en articles ménagers, nouveau sur EcoVadis, a introduit des politiques fondatrices et un tableau de bord KPI sous Excel — médaille Bronze et fondation solide.
 
@@ -86,7 +86,7 @@ Les pondérations varient par secteur et sont optimisées dynamiquement : les do
 
 **Avancé — meilleures pratiques et vérification.** Analyses de double matérialité et revues régulières des politiques ; actions et certifications à l'échelle de l'entreprise ; audits externes des contrôles et pratiques ESG ; KPI ESG intégrés à l'ERP et au reporting financier, vérifiés en externe. Un logisticien a conservé son Platine grâce à une stratégie durabilité de chaîne d'approvisionnement : double matérialité, couverture accrue des actions achats, vérification externe des KPI.
 
-## Utiliser la fiche d'évaluation pour l'amélioration continue
+## Comment utiliser la fiche d'évaluation pour progresser ?
 
 Concentrez l'effort sur les indicateurs et thèmes sous les 100 — surtout ceux qui pèsent le plus dans le score global — et évaluez la faisabilité avant de vous lancer dans des certifications lourdes. Le plan d'actions correctives fournit des recommandations priorisées : filtrez par poids le plus élevé et croisez avec la fiche pour cibler l'impact maximal.
 

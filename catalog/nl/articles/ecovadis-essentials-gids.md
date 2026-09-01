@@ -52,7 +52,7 @@ faq:
 
 ESG Interim Management begeleidt ondernemingen van de eerste kennismaking tot de versnelling richting Goud of Platinum — bewijslacunes dichten, documentkwaliteit en processen verbeteren, uitvoerbare verbeterplannen leveren, met meer dan 100 afgeronde projecten. Deze spiekbrief volgt dezelfde twee sporen: het **fundament** voor de eerste beoordeling, de **versnelling** voor de herbeoordeling.
 
-## Het fundamentspoor: EcoVadis voor nieuwkomers
+## Waar begint u bij een eerste beoordeling?
 
 **Het vertrekpunt.** EcoVadis is het meest gebruikte platform voor duurzaamheidsratings en beoordeelt de vier thema's — Milieu, Arbeids- en Mensenrechten, Ethiek, Duurzame Inkoop — via drie praktijklagen (**Beleid, Acties, Resultaten**): formele engagementen, aantoonbare maatregelen, kwantitatieve KPI's met trends. Succes komt uit het evenwicht tussen de drie, niet uit goede bedoelingen alleen. De **360° Watch** voegt externe bronnen toe — ngo-rapporten, media, regelgevende beslissingen — vandaar het belang van consistentie tussen interne praktijk en publiek beeld.
 
@@ -74,7 +74,7 @@ ESG Interim Management begeleidt ondernemingen van de eerste kennismaking tot de
 
 **Het ESGIM-fundamenttraject:** Stap 1 — insights report / gap-analyse; Stap 2 — uitvoering van de routekaart; Stap 3 — review en afronding van de beoordeling.
 
-## Het versnellingsspoor: de EcoVadis-herbeoordeling
+## Wat doet u anders bij een herbeoordeling?
 
 Bij de jaarlijkse herbeoordeling verschuift de focus van basisnaleving naar **betekenisvolle, gedocumenteerde vooruitgang jaar na jaar**. Vijf sleutelstappen:
 

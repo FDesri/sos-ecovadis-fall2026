@@ -47,7 +47,7 @@ faq:
 
 **Expertinzicht — François Dequenne:** ENV7003 is een nieuwe vraag die in Q1 2026 aan de vragenlijsten werd toegevoegd voor ondernemingen van grootte S en meer. Ze weerspiegelt rechtstreeks de extreme weersgebeurtenissen die uit de klimaatopwarming voortvloeien. Ze vraagt twee soorten bewijs: een beoordeling van de fysieke klimaatrisico's en een beoordeling van de waterbekkengerelateerde risico's. Geen impact op de score — maar wat eruit komt, staat wel op uw scorecard.
 
-## 1. Beoordeling van fysieke klimaatrisico's
+## Hoe beoordeelt u fysieke klimaatrisico's?
 
 **Voorbeelden van bij te voegen documenten:**
 
@@ -61,7 +61,7 @@ faq:
 - **Acute fysieke risico's:** gebeurtenisgedreven gevaren — hevigere stormen, overstromingen, bosbranden, hittegolven.
 - **Chronische fysieke risico's:** evoluties op langere termijn — aanhoudend hogere temperaturen, zeespiegelstijging, langdurige droogteperiodes.
 
-## 2. Beoordeling van waterbekkengerelateerde risico's
+## Hoe beoordeelt u waterbekkengerelateerde risico's?
 
 **Voorbeelden van bij te voegen documenten:**
 

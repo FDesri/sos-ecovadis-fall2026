@@ -56,13 +56,13 @@ faq:
 
 **Expert insight — François Dequenne:** the biggest mistake we see is companies preparing a generic EcoVadis submission without first understanding which criteria actually count for their sector. That's where scores stall. Your score is not built from a single universal questionnaire: it is shaped by your sector, your size and where you operate. Two companies submitting the same week can receive entirely different scorecards, because different criteria are activated for each. Focus on the wrong areas and you spend months preparing evidence that carries minimal weight; understand your sector's activation pattern and every hour of preparation becomes targeted.
 
-## What "activated criteria" actually means
+## What does activated criteria actually mean?
 
 EcoVadis assesses companies across **21 sustainability criteria** grouped into the four themes. Not all 21 apply to every company. When you register, you provide your industry classification (**ISIC code**), company size and operational locations. EcoVadis uses these to determine which criteria are material: **high-importance** criteria carry the greatest weight in your score, **medium-importance** criteria contribute less, and **non-activated** criteria don't count at all. A software company won't face questions on hazardous substance management; a chemicals manufacturer will, with significant weight.
 
 The overall score is a weighted average of the four theme scores — and the theme weights also shift by sector, size and country risk profile. Two companies can have identical raw theme scores and different overall results.
 
-## Manufacturing
+## What weighs most in manufacturing?
 
 For manufacturers — machinery, components, plastics, industrial equipment — **Environment and Labour** typically carry the highest combined weight.
 
@@ -74,7 +74,7 @@ Within Environment, **Energy Consumption & GHGs** is activated at high importanc
 
 > "For manufacturers, the data on energy, waste and health and safety usually exists in EHS systems, utility bills or incident logs. The gap is in structuring it into the format EcoVadis can score."
 
-## FMCG and consumer goods
+## What weighs most in FMCG and consumer goods?
 
 For FMCG and consumer goods brands the assessment looks markedly different: **Sustainable Procurement carries more weight, and Labour extends deeper into supply chain risks**.
 
@@ -82,7 +82,7 @@ For FMCG and consumer goods brands the assessment looks markedly different: **Su
 
 **Sustainable Procurement remains the lowest-scoring theme globally** — a global average of 43.1/100 according to the EcoVadis Index, 9th edition (2025). For FMCG companies under pressure from the Consumer Goods Forum and regulators on supply chain transparency, it is both the greatest risk and the greatest improvement opportunity. Scoring well requires at minimum: a supplier code of conduct, evidence of supplier sustainability assessments (questionnaire-based at minimum), and records of buyer training on responsible sourcing. Supply-chain-level due diligence — audit coverage of the supply base, procurement team training on forced labour risks — is assessed here too. Many FMCG companies have these programmes; the gap is usually translating them into the format and specificity analysts can verify.
 
-## Chemicals
+## What weighs most in chemicals?
 
 Chemicals companies face the **broadest environmental activation**: Materials/Chemicals & Waste, Air Pollution and Water are typically all high importance; depending on locations and operations, Biodiversity and Employee Health & Safety can be triggered too. This reflects the sector's genuine risk profile: hazardous substances at scale, VOC emissions, complex waste streams, operations near water sources.
 
@@ -90,7 +90,7 @@ On Materials, Chemicals & Waste, the assessment probes GHS-aligned substance lab
 
 For Environment overall, treat **ISO 14001 as the foundational certification** — but coverage decides its value: a certificate covering 30% of sites contributes far less than one covering 80%.
 
-## The cross-sector truth: no activated criterion can be ignored
+## Can an activated criterion ever be ignored?
 
 Criteria activated at medium importance still contribute to the theme score. A medium-importance criterion scored at zero drags the theme down and can cost a medal level — remember the percentile-based medal bar rises each cycle (Platinum top 1%, Gold top 5%, Silver top 15%, Bronze top 35%).
 

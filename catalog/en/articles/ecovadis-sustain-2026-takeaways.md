@@ -49,7 +49,7 @@ faq:
 
 Attended live by ESGIM (March 2026), the Sustain conference confirmed a shift: sustainability is moving from awareness creation to execution. EcoVadis framed it as four pillars of **sustained advantage** — resilience (securing critical resources, spotting early signals), innovation (new growth models; mining carbon data with AI revealed supply-chain emissions 21× higher than direct emissions), intelligence (anticipating risks; integrations with Amazon Business, Microsoft, Moody's) and trust ("trust is the multiplier": turning data into action with consulting partners such as SGS and Schneider Electric).
 
-## The keynotes
+## What did the keynotes say?
 
 **Helena Helmersson (ex-CEO H&M):** perspective creates clarity — she plots sustainability on the Gartner Hype Cycle, and adds an exponential curve on top of it: impact.
 
@@ -59,19 +59,19 @@ Attended live by ESGIM (March 2026), the Sustain conference confirmed a shift: s
 
 **Paul Polman (ex-CEO Unilever):** it goes very fast — unlearn and learn again. The **green economy is worth $5T, expected to grow to $7T — the second growth sector**; companies with over 50% green revenues attracted valuations 12-15% higher. Four forces are redefining operating models: **geopolitics** (produce where it is safest — key topic, only 2% implemented), **climate & nature risks** (the cost of acting is lower than the cost of not acting), **AI**, and **regulation** — the three-directional current (USA, China, EU), where **Omnibus pushes obligations to the private sector**: if a large company committed to Scope 3 reduction, suppliers will have to come along. **92% of companies have not stopped their net zero goals.** Only 5% of CEOs can measure the ROI of sustainability; what we miss is leadership.
 
-## EcoVadis' strategy: trust at scale, AI-first
+## What is EcoVadis' strategy: trust at scale, AI-first?
 
 The bottleneck in AI is **trusted data** — 60% of AI projects will be abandoned because of poor data quality. EcoVadis' answer is three filters: the global network, human verification, and worker-level insight (18M+ workers' data through worker-voice surveys — visibility beyond self-reported data). The strategy: **unlock the power of unique data with AI** — one unified platform to uncover hidden risk, agent-assisted workflows with human-led resolution, and a connected ecosystem. Concretely for rated companies: AI-powered document verification and outlier detection, document eligibility checks, and suggested answers based on the documents you have uploaded — a direct answer to questionnaire fatigue. Product-level data remains rare: only 6% of companies can produce it.
 
-## Procurement in practice: Schneider Electric's method
+## How does Schneider Electric run its procurement?
 
 Schneider Electric combines on-site audits with EcoVadis ratings for strategic suppliers, focused on improvement — supplier emissions are 40× its own Scope 1 & 2, and it assesses the carbon emissions of its 1,000 largest suppliers. The method: **meet suppliers where they are; set achievable targets; provide support.** Not imposing targets: on living wage, chapter 1 asked suppliers to have a policy; chapter 2 asks them to measure the gap and build a roadmap. Five years ago many suppliers didn't know what carbon accounting was; now they can talk about Scope 3. One tip passed on: **start every negotiation with sustainability.**
 
-## The capability gap: the Sustainable Procurement Barometer
+## What does the Sustainable Procurement Barometer reveal?
 
 Capability is growing but hasn't caught up with ambition (EcoVadis & Accenture): 48% of buyers have visibility on 75%+ of Tier 1 suppliers, **versus 10% for half of Tier 2 — Tier 3 is a black box**. Two out of three organisations already collect product-level carbon data; 30% have fully integrated sustainability into procurement processes; just 17% of suppliers feel strongly motivated by their customers. Seven in ten cite unclear ROI, supplier data and competing priorities as the top barriers. The key to unlock value? **It's not ambition. It's integration**: goals × incentives, data × decisions, investment × priorities, narrative × reality.
 
-## The commercial proof: Siemens Gamesa
+## What does the Siemens Gamesa case prove?
 
 Siemens Gamesa tested the hypothesis of a negative relationship between EcoVadis performance and supplier quality costs. Finding: **higher EcoVadis scores correlate with lower quality costs** — sustainability creates financial value. The effect is strongest for Environment and Sustainable Procurement, weaker but visible for Labor & Human Rights and Ethics. EcoVadis becomes an early, actionable signal for supplier selection and improvement. Related signals: an SBTi commitment is a preferred-supplier criterion at AstraZeneca; Amazon Business now shows a green score on product selections; steel is already carbon-priced via ETS in Europe or CBAM at the border.
 

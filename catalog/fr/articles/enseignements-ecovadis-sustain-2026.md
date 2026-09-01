@@ -50,7 +50,7 @@ faq:
 
 Suivie en direct par ESGIM (mars 2026), la conférence Sustain a confirmé un basculement : la durabilité passe de la sensibilisation à l'exécution. EcoVadis l'a cadrée en quatre piliers de **l'avantage durable** — la résilience (sécuriser les ressources critiques, capter les signaux faibles), l'innovation (nouveaux modèles de croissance ; l'exploitation IA des données carbone a révélé des émissions de chaîne d'approvisionnement 21 fois supérieures aux émissions directes), l'intelligence (anticiper les risques ; intégrations avec Amazon Business, Microsoft, Moody's) et la confiance (« la confiance est le multiplicateur » : transformer les données en actions avec des partenaires conseil comme SGS et Schneider Electric).
 
-## Les keynotes
+## Qu'ont dit les keynotes ?
 
 **Helena Helmersson (ex-CEO H&M) :** la perspective crée la clarté — elle place la durabilité sur le Hype Cycle de Gartner, et y ajoute une courbe exponentielle : celle de l'impact.
 
@@ -60,19 +60,19 @@ Suivie en direct par ESGIM (mars 2026), la conférence Sustain a confirmé un ba
 
 **Paul Polman (ex-CEO Unilever) :** tout va très vite — désapprendre et réapprendre. **L'économie verte pèse 5 000 milliards de dollars, attendue à 7 000 milliards — le deuxième secteur de croissance** ; les entreprises à plus de 50 % de revenus verts obtiennent des valorisations supérieures de 12 à 15 %. Quatre forces redéfinissent les modèles opérationnels : la **géopolitique** (produire là où c'est le plus sûr — sujet clé, seulement 2 % de mise en œuvre), les **risques climat et nature** (agir coûte moins cher que ne pas agir), l'**IA**, et la **réglementation** — le courant à trois directions (USA, Chine, UE), où **l'Omnibus pousse les obligations vers le secteur privé** : si un grand groupe s'est engagé sur la réduction du Scope 3, ses fournisseurs devront suivre. **92 % des entreprises n'ont pas abandonné leurs objectifs net zero.** Seuls 5 % des CEO savent mesurer le retour sur investissement de la durabilité ; ce qui manque, c'est le leadership.
 
-## La stratégie EcoVadis : la confiance à l'échelle, l'IA d'abord
+## Quelle est la stratégie d'EcoVadis : la confiance à l'échelle, l'IA d'abord ?
 
 Le goulot d'étranglement de l'IA, ce sont les **données de confiance** — 60 % des projets IA seront abandonnés pour cause de mauvaise qualité de données. La réponse d'EcoVadis tient en trois filtres : le réseau mondial, la vérification humaine, et la connaissance au niveau des travailleurs (données de 18 millions de travailleurs via des enquêtes worker-voice — une visibilité au-delà de l'auto-déclaratif). La stratégie : **libérer la puissance de ces données uniques avec l'IA** — une plateforme unifiée pour révéler les risques cachés, des workflows assistés par agents avec résolution humaine, et un écosystème connecté. Concrètement pour les entreprises évaluées : vérification des documents par IA, détection d'anomalies, contrôles d'éligibilité documentaire et réponses suggérées à partir des documents déjà chargés — une réponse directe à la fatigue du questionnaire. La donnée au niveau produit reste rare : seulement 6 % des entreprises savent la produire.
 
-## Les achats en pratique : la méthode Schneider Electric
+## Comment Schneider Electric pilote-t-il ses achats ?
 
 Schneider Electric combine audits sur site et notations EcoVadis pour ses fournisseurs stratégiques, avec un focus sur l'amélioration — les émissions de ses fournisseurs représentent 40 fois ses propres Scopes 1 & 2, et il évalue les émissions carbone de ses 1 000 plus grands fournisseurs. La méthode : **rencontrer les fournisseurs là où ils sont ; fixer des objectifs atteignables ; apporter du soutien.** Pas d'objectifs imposés : sur le salaire décent, le chapitre 1 demandait une politique ; le chapitre 2 demande de mesurer l'écart et de bâtir une feuille de route. Il y a cinq ans, beaucoup de fournisseurs ignoraient ce qu'était la comptabilité carbone ; aujourd'hui ils parlent de Scope 3. Un conseil transmis : **commencer chaque négociation par la durabilité.**
 
-## L'écart de capacités : le Baromètre des Achats Responsables
+## Que révèle le Baromètre des Achats Responsables ?
 
 Les capacités progressent mais ne rattrapent pas l'ambition (EcoVadis & Accenture) : 48 % des acheteurs ont une visibilité sur plus de 75 % de leurs fournisseurs de rang 1, **contre 10 % pour la moitié du rang 2 — le rang 3 est une boîte noire**. Deux organisations sur trois collectent déjà des données carbone au niveau produit ; 30 % ont pleinement intégré la durabilité dans leurs processus achats ; seuls 17 % des fournisseurs se sentent fortement motivés par leurs clients. Sept sur dix citent le ROI flou, les données fournisseurs et les priorités concurrentes comme premiers freins. La clé pour débloquer la valeur ? **Ce n'est pas l'ambition. C'est l'intégration** : objectifs × incitants, données × décisions, investissements × priorités, discours × réalité.
 
-## La preuve commerciale : Siemens Gamesa
+## Que prouve le cas Siemens Gamesa ?
 
 Siemens Gamesa a testé l'hypothèse d'une relation négative entre performance EcoVadis et coûts qualité fournisseurs. Résultat : **de meilleurs scores EcoVadis corrèlent avec des coûts qualité plus bas** — la durabilité crée de la valeur financière. L'effet est le plus fort sur l'Environnement et les Achats Responsables, plus faible mais visible sur le Social et l'Éthique. EcoVadis devient un signal précoce et actionnable pour la sélection et l'amélioration des fournisseurs. Signaux connexes : l'engagement SBTi est un critère de fournisseur privilégié chez AstraZeneca ; Amazon Business affiche désormais un score vert sur des sélections de produits ; l'acier est déjà tarifé carbone via l'ETS en Europe ou le CBAM à la frontière.
 

@@ -54,7 +54,7 @@ faq:
 
 EcoVadis rates more than 150,000 companies across 185 countries and 250 sectors; in Belgium — an open economy embedded in European value chains — the rating has become a passport to international tenders and sustainable finance. Since **1 January 2024**, medals no longer depend on fixed point thresholds but **exclusively on percentile** over the trailing 12 months. The "Rising Bar" consequence: with unchanged practices, your percentile mechanically falls because everyone else improves — and the medal can drop despite a stable score.
 
-## The 2024 percentile revolution
+## What did the 2024 percentile revolution change?
 
 | Recognition | Percentile threshold (since 2024) | Pre-2024 (estimated selectivity) |
 |---|---|---|
@@ -65,7 +65,7 @@ EcoVadis rates more than 150,000 companies across 185 countries and 250 sectors;
 
 The global average keeps rising: ~40 points in 2011, 44 in 2016, past 50 in 2022, **53.4 in 2024** (+1.7 points between 2023 and 2024). A company at 53 points, in the top 50%, held Bronze in 2023; in 2024 it is unmedalled or Committed, since Bronze now requires the top third worldwide.
 
-## Point-equivalent inflation (dated estimates)
+## How far have point equivalents inflated?
 
 | Medal | Indicative score (July 2024) | Expected evolution (2026) |
 |---|---|---|
@@ -76,33 +76,33 @@ The global average keeps rising: ~40 points in 2011, 44 in 2016, past 50 in 2022
 
 The indicative Silver threshold moved from about 68 to 72 points between July 2025 and January 2026 — a brutal acceleration. Historically 65 points were often enough for Silver; today they place a company around the 65th percentile, barely Bronze. The point "price" of excellence rises every year, driven by the professionalisation of CSR functions, specialised software and CSRD regulatory pressure. *(These point equivalents vary by publication window — see the Rising Bar article for the most recently observed values.)*
 
-## The badges: Committed and Fast Mover
+## What are the Committed and Fast Mover badges for?
 
 **Committed**: overall score of at least **45 points** — the threshold of "good" performance: basic policies and concrete actions in place, without the quantifiable results medals require. **Fast Mover**: score of **34 to 44 points** with an improvement of at least **6 points within a maximum of 18 months** — strategic for Belgian SMEs at the start of their journey: it showcases a strong upward trajectory. A medal-eligible company cannot receive a badge; badges also serve those who reach 45+ but miss the top 35% or fail an eligibility criterion (a theme score below 30).
 
-## The P-A-R model and the 360° Watch
+## How do the P-A-R model and the 360° Watch fit together?
 
 The theme score is a weighted average: **Policies 25%** (formal commitments, charters, quantified targets), **Actions 40%** (implementation, training, audits, certifications), **Results 35%** (KPI reporting, 360° Watch). To cross 70 points, you need multi-year quantitative results proving the actions had real impact.
 
 The **360° Watch** is the final arbiter: even at 90 points, a Watch score of 0 on one theme — or 25 on two themes — makes a company ineligible for medals. EcoVadis scans more than 100,000 sources (media, NGOs, government sites) with AI and human experts. Grid: 0 = immediate ineligibility; 25 = ineligibility risk; 50 = neutral; 75-100 = positive.
 
-## Company size and Belgian SME challenges
+## What challenges does size create for Belgian SMEs?
 
 Four sizes: XS (1-25), S (26-99), M (100-999), L (1000+), counted in FTEs (hours worked / full-time hours). SMEs are penalised by **lack of formalisation**, not by their practices: for EcoVadis, no document means no practice. The "Coverage" indicator of large groups is simplified for a single-site SME, but the results requirement stays high.
 
-## Market focus 1: food packaging in Belgium
+## Where does food packaging in Belgium stand?
 
 A heavily scrutinised sector (plastic pollution, resources), above the cross-sector average (48.9 as early as 2020, including 52.5 on Environment). Public benchmarks: **SIG** (global carton-packaging leader) — 99/100 in 2025, seventh consecutive Platinum; **deSter** (Hoogstraten, Belgium) — Platinum 2025, −63% GHG vs 2019, 64% of revenue from reusable/compostable products; **ANL Packaging** (Belgium) — formerly Silver, structured around the circular economy (closed water circuits, photovoltaics). Key sector criteria: **eco-design** (recycled, bio-based, FSC, lightweighting), **end-of-life** (100% recyclability, PFAS-free barriers), **decarbonisation** (energy-intensive extrusion and thermoforming, renewables).
 
-## Market focus 2: machinery and equipment for pharma
+## Where does machinery and equipment for pharma stand?
 
 Belgium is a major biopharma hub (Pfizer, GSK, Janssen): equipment makers face strong indirect pressure. Through EcoVadis, the industry launched the **Responsible Health Initiative (RHI)** — GSK, Teva and Takeda use it to harmonise supplier sustainability standards: a good score is no longer an advantage but a **condition for staying on the approved-supplier panel**. Benchmarks: **Hosokawa Micron** (Benelux) — Silver at 68/100 in 2024, top 15% of its industry (a 68 once close to Gold); **Aguettant** — Silver, above the sector average on all four themes; **Omnia Group** — "circularity by design" 2024-2025. Assessment specifics: **ethics and compliance** (anti-corruption, patents), **health & safety** (assembly shops and on-site installation, ISO 45001), **hazardous substances** (REACH, RoHS — avoiding any contamination of final pharmaceutical products).
 
-## Outlook 2025-2026
+## What should you expect in 2025-2026?
 
 Since 1 January 2025, **unrounded scores** reward fine-grained progress (60 → 62.3). From 2026: **GRI** alignment becomes stricter (a mere "reference to GRI" is no longer enough — substantial use of the indicators is required), and EcoVadis puts more value on **public KPI disclosure** (website, annual report) than on internal documents. For SMEs outside CSRD scope, the **VSME** standard is integrated: **Basic module → maximum score 75/100**, **Comprehensive module → up to 100/100**.
 
-## Three strategic axes
+## What are the three strategic axes?
 
 1. **Systematic formalisation** — every practice turned into a written, signed, dated policy: the fastest, cheapest lever for an SME.
 2. **Investing in Sustainable Procurement** — the weakest theme everywhere (averages of 40-45), hence the largest headroom: a supplier code of conduct and assessing your own suppliers can earn the decisive points between Silver and Gold.

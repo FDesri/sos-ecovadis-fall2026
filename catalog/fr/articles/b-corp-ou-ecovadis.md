@@ -54,11 +54,11 @@ faq:
 
 Sous la pression croissante des régulateurs, des parties prenantes et des clients, la certification selon un standard reconnu est un moyen efficace de démontrer des progrès tangibles — et vu l'investissement financier et humain, le choix du parcours mérite réflexion.
 
-## Ce que les deux démarches ont en commun
+## Qu'ont en commun B Corp et EcoVadis ?
 
 **L'évaluation documentaire :** les deux exigent une documentation complète des pratiques, avec des questionnaires adaptés au secteur, à la taille et aux effectifs. **L'amélioration continue :** les B Corps certifiées doivent se recertifier tous les trois ans ; les évaluations EcoVadis se répètent typiquement chaque année pour vérifier les progrès.
 
-## Les différences clés
+## Quelles sont les différences clés ?
 
 **La portée.** EcoVadis est l'une des notations RSE les plus utilisées, avec plus de 130 000 entreprises évaluées dans le monde ; il n'existe qu'environ 9 000 B Corps.
 
@@ -68,21 +68,21 @@ Sous la pression croissante des régulateurs, des parties prenantes et des clien
 
 **Les Impact Business Models.** EcoVadis évalue d'abord les politiques, mesures et pratiques de reporting existantes ; l'analyse Impact Business Model (IBM) de B Corp va plus loin, en évaluant comment l'entreprise est structurée pour produire des résultats sociaux ou environnementaux positifs spécifiques.
 
-## Déjà noté EcoVadis ? B Corp est peut-être l'étape suivante
+## Déjà noté EcoVadis : B Corp est-il l'étape suivante ?
 
 Le B Impact Assessment (BIA) met l'accent sur la performance et l'impact, avec un périmètre plus large — davantage de questions sur l'engagement communautaire et la responsabilité vis-à-vis des clients. Deux attraits supplémentaires : **la crédibilité** (69 % des Européens qui connaissent B Corp disent que la certification influence positivement leur choix d'un produit ou service — B Corporation, 2024) et **la communauté** (9 000+ B Corps dans 162 secteurs et 93 pays, avec les événements, conférences et formations de B Lab).
 
-## Déjà B Corp ? Voici ce qu'EcoVadis apporte
+## Déjà B Corp : qu'apporte EcoVadis en plus ?
 
 Premier fournisseur mondial de notations de durabilité, EcoVadis permet de partager des fiches d'évaluation détaillées avec clients, fournisseurs et partenaires de la chaîne de valeur — une transparence que B Corp n'exige pas. Son approche structurée en quatre thèmes et P-A-R s'intègre facilement à la gestion interne aux côtés des pratiques B Corp. Et **l'accès au financement** : les banques et institutions financières, surtout en Europe, utilisent de plus en plus les notations EcoVadis pour suivre la performance ESG ; une bonne notation peut faciliter un financement ou débloquer des conditions préférentielles liées à l'ESG.
 
-## Prix et délais
+## Combien coûtent-ils et en combien de temps ?
 
 **B Corp :** quatre phases — évaluation (éligibilité et BIA), vérification (revue approfondie par B Lab ; les entreprises entre 75 et 80 points peuvent s'améliorer jusqu'au seuil de 80), amélioration, post-vérification (signature de la Déclaration d'interdépendance). Typiquement **9 à 24 mois**, avec des frais de vérification et une redevance annuelle selon la taille et la géographie.
 
 **EcoVadis :** deux étapes principales — l'inscription et le questionnaire complété à partir de la documentation existante ; les analystes examinent ensuite pendant environ **six à huit semaines** ; l'ensemble prend typiquement **quatre à six mois**. Repère historique : au 1ᵉʳ juillet 2024, les seuils percentiles correspondaient à Platine 81, Or 73, Argent 66, Bronze 58 — des seuils qui ont nettement monté depuis (voir l'article Rising Bar).
 
-## Un actif stratégique dans les deux cas
+## Pourquoi est-ce un actif stratégique dans les deux cas ?
 
 Choisissez le parcours qui correspond à votre position sur la courbe de maturité. En début de chemin, la notation EcoVadis est un excellent premier pas et une plateforme puissante de transparence de la chaîne d'approvisionnement ; la certification B Corp aide les entreprises plus mûres à asseoir leur réputation de pionnières.
 

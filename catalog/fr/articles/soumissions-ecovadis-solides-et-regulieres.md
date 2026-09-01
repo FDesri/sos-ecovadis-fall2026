@@ -55,15 +55,15 @@ faq:
 
 Pour tenir le rythme, pensez en deux voies complémentaires : **renforcer votre système de gestion de la durabilité**, et **exécuter chaque évaluation avec précision**. Avec le temps, elles se fondent en un cycle d'amélioration continue plutôt qu'en une course avant l'échéance.
 
-## Pourquoi EcoVadis compte pour votre entreprise
+## Pourquoi EcoVadis compte-t-il pour votre entreprise ?
 
 Une bonne notation vous aide à : développer un système de gestion où politiques, plans d'actions et indicateurs forment un tout cohérent ; étalonner la performance dans le temps plutôt que rapporter une fois ; faciliter l'accès au financement en démontrant que les risques ESG sont identifiés, gérés et suivis ; réduire le risque de chaîne d'approvisionnement par la visibilité sur les pratiques fournisseurs ; et vous aligner sur les meilleures pratiques mondiales, la méthodologie s'appuyant sur des standards internationaux reconnus. Ces bénéfices s'amplifient quand l'évaluation s'inscrit dans une stratégie plus large plutôt que dans la seule exigence d'un client.
 
-## EcoVadis : un chemin, pas une case à cocher
+## Pourquoi EcoVadis est-il un chemin et non une case à cocher ?
 
 L'état d'esprit « chemin » change chaque cycle : toute soumission devient une occasion d'affiner stratégie, documentation et données. C'est essentiel parce que la méthodologie évolue — les critères se durcissent, les attentes de qualité des preuves montent, les pratiques de référence bougent à mesure que les entreprises mûrissent. Une soumission qui valait l'Or peut ne plus suffire si l'organisation reste immobile. Si l'objectif de long terme est une performance de niveau Platine, les améliorations incrémentales doivent s'intégrer à la planification, au budget et à la gouvernance — pas attendre l'ouverture de la plateforme.
 
-## Voie n° 1 : renforcer le système avant de soumettre
+## Voie n° 1 : comment renforcer le système avant de soumettre ?
 
 **Savoir où vous en êtes.** L'approche « gap-first » cartographie politiques, procédures, KPI et certifications existants face aux thèmes EcoVadis ; identifie les pratiques formalisées et celles restées informelles ou non documentées ; clarifie rôles et responsabilités pour révéler les trous de pilotage. Le diagnostic montre à la fois les forces à valoriser et les zones à structurer avant la prochaine évaluation.
 
@@ -71,7 +71,7 @@ L'état d'esprit « chemin » change chaque cycle : toute soumission devient une
 
 **Traduire l'analyse en plan par phases.** Distinguez l'urgent, l'important qui demande de la préparation, et le long terme au service des ambitions stratégiques. L'objectif : passer d'efforts isolés à un système de gestion cohérent et résilient, socle d'un score qui progresse régulièrement.
 
-## Voie n° 2 : exécuter l'évaluation en cours avec précision
+## Voie n° 2 : comment exécuter l'évaluation en cours avec précision ?
 
 **Gérer l'évaluation comme un projet.** Un calendrier clair de l'ouverture de la plateforme à la soumission ; des rôles répartis entre départements ; des revues et validations planifiées, jamais à la dernière minute. Les phases : cadrage, collecte des données et documents, rédaction, revue interne, validation finale — une discipline précieuse quand les échéances clients sont serrées.
 
@@ -79,11 +79,11 @@ L'état d'esprit « chemin » change chaque cycle : toute soumission devient une
 
 **Rédiger des réponses claires et cohérentes.** Utilisez le modèle Politiques-Actions-Résultats pour raconter l'histoire : dites ce que chaque document démontre (politique, action ou résultat) ; décrivez périmètre, limites et période en langage simple ; gardez terminologie et données cohérentes pour que les politiques se relient aux actions et les actions aux résultats. Une présentation structurée aide les analystes à attribuer les points avec confiance — et montre aux équipes internes comment leur travail contribue.
 
-## Combiner les deux voies dans le temps
+## Comment combiner les deux voies dans le temps ?
 
 Les premières années, la plupart des organisations misent sur l'exécution pour répondre vite aux demandes clients ; avec l'expérience, elles s'attaquent stratégiquement aux écarts structurels. Les plus efficaces font tourner une boucle continue : chaque cycle livre un score bien documenté et un retour clair → ce retour nourrit une revue structurée des politiques, processus et données → les améliorations se reflètent dans l'évaluation suivante, élevant la performance et la confiance. Que la priorité immédiate soit une première notation ou une transformation de long terme, l'état d'esprit « chemin » garantit que le progrès ne s'arrête pas à la soumission du questionnaire.
 
-## Le rôle d'ESGIM
+## Où ESGIM intervient-il ?
 
 Pour les organisations qui renforcent d'abord leur système : une gap analysis structurée des processus et preuves face aux attentes EcoVadis — gains rapides et chantiers structurels — puis une feuille de route pragmatique, priorisée, alignée sur la stratégie. Pour celles qui priorisent l'évaluation de l'année : une solution d'exécution — gestion de projet, collecte ciblée des preuves, contrôle qualité documentaire, réponses claires et cohérentes — qui maximise le score à maturité constante tout en améliorant les processus internes pour les cycles suivants. Avec l'approche par étapes d'ESGIM, chaque évaluation devient un jalon d'un chemin de durabilité plus large, fort de plus de 100 projets EcoVadis menés à bien.
 

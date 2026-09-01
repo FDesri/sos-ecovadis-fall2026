@@ -52,7 +52,7 @@ faq:
 
 EcoVadis is the world's largest provider of business sustainability ratings, and a higher score strengthens commercial opportunities: many large corporations require suppliers to undergo an assessment to win or keep contracts. The good news — there are quick wins that boost performance without overhauling the entire sustainability strategy in one go.
 
-## Quick win 1: formalise policies and procedures
+## Quick win 1: how do you formalise policies and procedures?
 
 The fastest lever: turn existing practices — health and safety training, recycling programmes, diversity commitments — into **written, structured policies**. Draft a company-wide sustainability policy covering environment, labour, ethics and procurement (high-level commitments), complemented by targeted policies (anti-bribery, diversity & inclusion, carbon reduction). Have them **signed by top management and communicated internally**: a strong signal that sustainability is embedded, not improvised.
 
@@ -68,23 +68,23 @@ Understand what you are optimising against — the scoring grid behind each them
 | Results (35%) | Reporting (40%) | Quality of reporting available to stakeholders | 0 / 25 / 50 / 75 / 100 |
 | | 360° Watch (60%) | Standpoints of stakeholder representatives (authorities, unions, NGOs) | 0 Severe / 25 Major / 50 Minor / 75 None / 100 Positive |
 
-## Quick win 2: data and reporting processes
+## Quick win 2: which data and reporting processes do you set up?
 
 EcoVadis heavily rewards performance measurement. Tracking energy consumption, waste volumes or employee turnover can move the score — and **spreadsheets are enough to start**, as long as data is clear and repeatable. Establish a KPI dashboard aligned with the EcoVadis themes; report GHG emissions, preferably Scope 1 and 2 (the Carbon Action module helps tackle Scope 3); introduce an annual sustainability report, even a short PDF, to demonstrate transparency. Consistency is the key: EcoVadis doesn't expect perfection at first, but rewards structured data.
 
-## Quick win 3: supplier engagement
+## Quick win 3: how do you engage suppliers quickly?
 
 Supply chain practices are a strong differentiator. Immediate steps: **map your critical suppliers** and assess their risks by geography, industry and management system; **introduce a supplier code of conduct**; **create a due diligence procedure** aligned with current regulations (e.g. CSDDD). Even modest progress adds valuable points.
 
-## Quick win 4: certify and benchmark
+## Quick win 4: which certifications and audits should you target?
 
 Certifications are highly valued: **ISO 14001** (environmental management), **ISO 45001** (health & safety) and **ISO 37001** (anti-bribery) are quick wins if the organisation already complies with good practices. If ISO certification is too costly, evidence of internal audits, external verification or industry-specific certifications still adds points.
 
-## Quick win 5: boost your carbon management
+## Quick win 5: how do you boost carbon management?
 
 The Carbon Scorecard evaluates carbon management across commitment, actions and reporting, with a ranking from Insufficient to Leader. Quick wins: set clear, ambitious climate targets (a Science-Based Target boosts the Commitment score); implement practical emission-reduction measures; keep the carbon inventory up to date across Scopes 1, 2 and 3; report transparently; and regularly review strengths and gaps on the scorecard.
 
-## What this looks like across the portfolio
+## What do these wins deliver across the ESGIM portfolio?
 
 Engagements delivered by ESGIM and its consultants:
 
@@ -96,7 +96,7 @@ Engagements delivered by ESGIM and its consultants:
 
 *The Bridgestone and Les Tartes de Françoise engagements were delivered by consultants now at ESGIM, under a previous banner.*
 
-## From action to momentum
+## How do you turn action into momentum?
 
 Improving quickly is about turning existing good intentions into **structured evidence** — policies, data, engagements, certifications. These quick wins add up, often shifting scores by one or even two medal levels in a single cycle. Start with policies, reporting and supplier engagement, and layer on climate action for long-term credibility.
 

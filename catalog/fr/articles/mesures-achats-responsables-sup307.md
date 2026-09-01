@@ -53,7 +53,7 @@ faq:
 
 SUP307 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre pour intégrer les facteurs sociaux et environnementaux dans ses achats ? » — neuf sous-actions. La règle d'or : **ne cocher que ce qui est prouvable par un document dédié**. Une option cochée sans preuve spécifique est neutralisée par l'analyste et fragilise l'ensemble de la section. Dans un dossier de PME industrielle bien tenu, cinq options sur neuf sont souvent couvrables immédiatement ; deux autres sont des quick wins d'une demi-journée.
 
-## Les neuf sous-actions et leurs preuves
+## Quelles sont les neuf sous-actions et leurs preuves ?
 
 **1. Code de conduite RSE fournisseurs.** Le code de conduite et le rapport annuel/RSE. Il doit attester la communication de vos attentes RSE à vos fournisseurs — et exister dans un document **distinct** de la politique d'achats responsables : le premier est externe (fournisseurs), la seconde interne (équipe achats).
 
@@ -73,7 +73,7 @@ SUP307 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre po
 
 **9. Autres actions.** À ne cocher **que si les options 1 à 8 ne s'appliquent pas** — EcoVadis le précise explicitement.
 
-## Exemple concret (client ESGIM : imprimeur flexographique wallon, taille S)
+## À quoi ressemble un dossier réel chez un imprimeur wallon de taille S ?
 
 ### Cinq options à cocher maintenant
 
@@ -97,11 +97,11 @@ Un même PDF de 13 pages peut porter trois options — mais **découpez-le en de
 
 **9 — Autres actions :** comme les options 1 à 4 s'appliquent, la cocher affaiblit la lecture. Les pièces qu'on serait tenté d'y mettre (recyclage de cartouches, fontaine à eau, relighting, photovoltaïque, bornes EV) sont mieux valorisées dans les sections Énergie/GES et Déchets.
 
-## La frontière avec SUP600
+## Où passe la frontière avec SUP600 ?
 
 Le tableau Excel de suivi fournisseurs sert SUP600 (les KPI), mais il porte deux éléments dont SUP307 a besoin — à récupérer autrement : la **règle de sanction** (« score insuffisant ou pas de certificat → arrêt de la collaboration ou audit sous 3 mois »), à recopier dans la clause contractuelle type de l'option 2 ; et les **KPI** (part du volume d'achats couverte, taux de réponse, part certifiée tiers, part de CoC signés, mesures d'atténuation ouvertes/clôturées), déjà définis dans la procédure achats — l'Excel les alimente, c'est exactement le matériau de SUP600.
 
-## Trois points à traiter avant upload
+## Que traiter avant de charger les preuves ?
 
 1. **Un placeholder dans une annexe** (« à compléter avant diffusion : nombre de fournisseurs sollicités, part du volume couvert ») : à remplir — un document visiblement inachevé décrédibilise le reste.
 2. **Le code de conduite n'a pas de clause de conséquence** en cas de manquement. Une page « Clause RSE type » ou une section « Non-conformité et conséquences » en v2 transforme l'option 2 d'un « présumé » en un « démontré ».

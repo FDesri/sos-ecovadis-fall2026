@@ -51,7 +51,7 @@ faq:
 
 EcoVadis is the world's leading sustainability ratings platform, trusted by over 150,000 organisations across 185 countries and 250 industries. Unlike performance-only ratings, the EcoVadis rating evaluates the **quality of a company's sustainability management system** — policies, actions and results — which helps organisations improve continuously and demonstrate achievements through a scorecard and medals.
 
-## 1. The pillar-criteria framework
+## How is the theme-criteria matrix built?
 
 The backbone of the assessment is a matrix linking the four sustainability pillars with a consistent set of assessment criteria. The pillars:
 
@@ -62,7 +62,7 @@ The backbone of the assessment is a matrix linking the four sustainability pilla
 
 Each pillar is assessed using **seven criteria**: policies, endorsements, measures, certifications, coverage, reporting, and 360° Watch. A company must therefore show, for example, robust environmental policies, environmental measures and environmental reporting — and do the same for the other three pillars. The structure gives equal consideration to policy existence, practical deployment, and the effectiveness of reporting and oversight.
 
-## 2. The assessment criteria explained
+## What does each assessment criterion measure?
 
 - **Policies:** formal sustainability commitments — the foundation of the evaluation.
 - **Endorsements:** third-party recognitions that reinforce policy credibility.
@@ -72,13 +72,13 @@ Each pillar is assessed using **seven criteria**: policies, endorsements, measur
 - **Reporting:** key sustainability performance indicators.
 - **360° Watch:** AI-driven monitoring of external reputation and risks.
 
-## 3. How scoring and weighting work
+## How do scoring and weighting work?
 
 EcoVadis aggregates results for each criterion across the four pillars. Each pillar has its own weight, adjusted for industry and size, prioritising the most impactful areas. Only relevant, **"activated" criteria** are considered, based on each organisation's risk profile.
 
 Individual scores fall into five bands — **0, 25, 50, 75 or 100** — with the scorecard displaying pillar-by-pillar strengths and improvement areas. The overall assessment benchmarks the company against peers and highlights where targeted action delivers the most value. Negative 360° Watch findings can affect medal eligibility.
 
-## 4. Tailoring through activated criteria
+## Why is your questionnaire not the same as your neighbour's?
 
 When companies register, they provide key data about their industry, size and operations. EcoVadis then activates the subtopics relevant to the company's risk profile under each pillar. A logistics company focused on sea freight might have biodiversity and marine ecosystem impact activated; a professional services firm may not.
 

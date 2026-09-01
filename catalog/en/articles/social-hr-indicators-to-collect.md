@@ -50,7 +50,7 @@ faq:
 
 The EcoVadis **Labor & Human Rights** theme groups seven precise criteria, assessed through a management system built on policies, actions (measures and certifications) and results (reporting). On the results side, five HR indicators come up systematically for an SME. They already exist in standard Belgian documents — the prevention service's annual report, the training plan, the staff register — but scopes must be settled and trends explained.
 
-## The theme's seven criteria
+## What are the theme's seven criteria?
 
 1. **Employee health and safety** (working conditions, accidents, prevention)
 2. **Working conditions** (social dialogue, remuneration, working time)
@@ -60,7 +60,7 @@ The EcoVadis **Labor & Human Rights** theme groups seven precise criteria, asses
 6. **Human rights** (prevention of forced labour and child labour, respect for fundamental freedoms)
 7. **Consumers and customers** (customer health and safety, for aspects linked to the use of products or services)
 
-## A worked example (ESGIM client: Walloon flexographic printer, size S)
+## What does a real file look like at a Walloon printer of size S?
 
 | Indicator | 2024 | 2025 | Source |
 |---|---|---|---|
@@ -70,14 +70,14 @@ The EcoVadis **Labor & Human Rights** theme groups seven precise criteria, asses
 | Training hours / employee | 19.2 | **≈ 14.0** | 2025 annual training plan (45.5 days delivered × 8 h ÷ 26) |
 | % of women | 6.89 | **7.69** | 2 women / 26 workers |
 
-## The scopes to settle
+## Which scopes do you have to settle?
 
 - **Hours worked:** 35,862 h excluding temporary workers. The prevention service additionally declares 5,136 h of temporary workers (0 accidents). If 2024's 37,331 h included temps, then 40,998 h should be retained for 2025 — settle it once to keep the same method year over year.
 - **Accidents:** 1 declared accident + 4 minor accidents + 0 commuting accidents. Frequency rate 27.9; actual severity rate 6.8.
 - **Training:** 45.5 days delivered in 2025, converted at 8 h/day; if the company counts 7.6 h/day, the result becomes 13.3 h. A clear drop versus 2024 — document it, because EcoVadis looks at the trend.
 - **% of women:** 2025 headcount of 26 workers, two women identified in the skills file. 2024's 6.89% corresponded to 2/29 — headcount down, women stable. To be confirmed by HR: the skills file mixes employees and temporary workers.
 
-## Anticipating unfavourable signals
+## How do you anticipate unfavourable signals?
 
 Two signals to prepare before reassessment in this example: **severity** (245 days lost versus 192, inflated by a single accident with permanent incapacity) and the **drop in training hours**. For each, prepare the evidence sheet with the narrative explaining the gap rather than hoping it goes unnoticed.
 

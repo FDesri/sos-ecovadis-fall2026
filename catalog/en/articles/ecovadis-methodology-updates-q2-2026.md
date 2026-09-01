@@ -49,7 +49,7 @@ faq:
 
 Four updates landed in Q2 2026: Scope 2 targets must state their calculation methodology (market- or location-based); Select-specific consultations disappear in favour of a universal two-day factual error check; the Environment scorecard gains more granular Improvement Areas for Water, Biodiversity and Air pollution; and the biannual country risk review reclassifies ten countries. None of these rewards waiting — they reward precise, standards-aligned evidence.
 
-## 1. Scope 2 market- and location-based targets (10 July 2026)
+## What changes on 10 July 2026 for market- and location-based Scope 2 targets?
 
 **Affects:** Policies; Energy Consumption & GHGs; sizes S and up. **Applies to:** Sustainability Rating and Carbon Rating.
 
@@ -59,7 +59,7 @@ Why: **standardised interoperability** (one internationally recognised set of cl
 
 The option "We have an absolute scope 2 reduction target" remains; respondents now also select market-based or location-based. **No change to scoring or to Strengths/Improvement Areas generation.**
 
-## 2. Phase-out of the Select Check Up and Select Score Drop consultation (15 July 2026)
+## Why do the Select Check Up and the Score Drop consultation end on 15 July 2026?
 
 **Affects:** all themes, all sizes, Select subscriptions.
 
@@ -67,13 +67,13 @@ EcoVadis discontinues the Select Check Up (outreach for corrupted documents or c
 
 The replacement, launched July 2026 for everyone: a **factual error check** — scorecard results are visible exclusively to the rated company for **two business days** before network publication, during which factual errors can be reported. Practical consequence for SMEs: no one will call you about a corrupted PDF or a declared-but-unattached certificate any more. Submission quality control is now entirely on your side, before you submit.
 
-## 3. Additional scorecard granularity through new Improvement Areas (15 July 2026)
+## What do the new scorecard Improvement Areas of 15 July 2026 add?
 
 **Affects:** Environment; sizes S and up.
 
 Third batch of the granularity programme: the scorecard moves from broad Improvement Areas to **highly specific, diagnostic feedback mapping directly to sector best practices** already present in the questionnaire. If a practice is not identified as in place, it is explicitly flagged as an Improvement Area. These specific areas are examples of available actions, not mandatory requirements. This batch applies to the Environment criteria **Water, Biodiversity and Air pollution**.
 
-## 4. Country risk update — August 2026 (released 29 July 2026)
+## What changes in the August 2026 country risk update?
 
 Countries are classified Low/Medium/High risk from 23 international indexes (Environment, Health & Safety, Human Rights, Governance), reviewed biannually. This round incorporates conflict data (World Bank) and carbon data adjustments.
 

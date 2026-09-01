@@ -53,7 +53,7 @@ faq:
 
 > "Om dezelfde medaille te behouden, moet u verbeteren. Om een medaille hoger te klimmen, moet u jaar na jaar substantiële vooruitgang tonen."
 
-## De competitieve realiteit: waarom uw vorige strategie niet volstaat
+## Waarom volstaat de strategie van vorig jaar niet meer?
 
 Sinds de overstap naar het percentielsysteem in 2024 wordt het stapsgewijs moeilijker om medailles te behalen en te behouden. Medailles gaan naar de toppresteerders van de voorbije 12 maanden — u concurreert met elke andere verbeterende onderneming, niet met een statische benchmark. Alleen al tussen juli 2025 en januari 2026 sprong de Zilverdrempel vier punten omhoog.
 
@@ -66,7 +66,7 @@ Sinds de overstap naar het percentielsysteem in 2024 wordt het stapsgewijs moeil
 
 De strategie van vorig jaar herhalen levert niet hetzelfde resultaat op. Uw medaille behouden vraagt meetbare verbetering; stijgen vraagt substantiële vooruitgang op meerdere indicatoren.
 
-## De sleutelinzichten van 2025
+## Wat onthoudt u van 2025?
 
 > "Een duurzaamheidsrapport wordt geen sterk EcoVadis-bewijsstuk in de week vóór de indiening. Drie tot vier maanden om het op te bouwen, plus extra tijd voor externe assurance. Organisaties die rapportering als een parallel werktraject behandelen — ontwikkeld naast hun beoordeling, niet ervoor in elkaar gezet — komen bij de indiening aan met alles op zijn plaats."
 
@@ -97,7 +97,7 @@ Een degelijk rapport opbouwen vraagt drie tot vier maanden, plus doorlooptijd vo
 
 Voor kleinere ondernemingen zijn ISO-certificeringen soms te duur. Goed nieuws: **duurzaamheidsgerelateerde audits kunnen in de plaats scoren**, onder voorwaarden — een op zichzelf staande audit (die niet bijdraagt aan een certificering), die meer dan 30% van de totale operaties dekt, over onderwerpen die voor u materieel zijn, met het volledige rapport van een gekwalificeerde of geaccrediteerde externe auditor. Geldige voorbeelden: Sedex SMETA (nauw aansluitend bij de EcoVadis-methodologie), amfori BSCI, TfS voor de chemie; zelfs tweedepartijaudits in opdracht van klanten, mits uitgevoerd door een gekwalificeerde externe auditor. Het levert minder op dan een certificering (ISO 14001 draagt tot 100 punten bij op milieumanagementsystemen) — en opgelet: grote of kleine non-conformiteiten in het rapport kunnen punten kosten of uw 360° Watch voeden.
 
-## De methodologische veranderingen van 2026
+## Wat verandert er in de methodologie van 2026?
 
 **Verandering 1 — Zelf milieuonderwerpen als materieel aanduiden.** EcoVadis zet zijn pilot rond materialiteitspersonalisatie voort: organisaties in specifieke sectoren (farmaceutische productie, kunststoffen, elektronica, bepaalde landbouwtakken) krijgen de vraag of onderwerpen zoals water, luchtverontreiniging, productgebruik, einde levensduur en klantveiligheid materieel zijn voor hun activiteiten. Zo niet, dan worden de bijbehorende vragen gedeactiveerd. Om niet-materialiteit te bewijzen: een volledige materialiteitsanalyse — de significante ESG-onderwerpen, de impact van de organisatie op elk ervan, en de niet-materieel geachte onderwerpen mét motivering. Opgelet: tegenstrijdige informatie (360° Watch-bevindingen, processen zichtbaar in andere documenten) doet EcoVadis het onderwerp heractiveren.
 
@@ -105,7 +105,7 @@ Voor kleinere ondernemingen zijn ISO-certificeringen soms te duur. Goed nieuws: 
 
 **Verandering 3 — Erkenning van het VSME-rapporteringskader.** EcoVadis erkent voortaan formeel de EFRAG **VSME**-standaard — het vereenvoudigde EU-kader voor kmo's buiten de CSRD-scope. Rapportering volgens de **Basic Module** kan tot 75/100 halen op Rapportering (andere criteria vervuld); **Basic + Comprehensive Modules** kan de volle 100 halen. Een vereenvoudigde weg naar sterke indieningen én naar de opkomende Europese rapporteringsverwachtingen.
 
-## Uw actieplan 2026
+## Welk actieplan voor 2026?
 
 - **Controleer uw beoordelingsscope** bij het begin van elke cyclus — de documentatie moet perfect aansluiten bij groep, entiteit of site.
 - **Verhoog uw rapporteringsmaturiteit**: werk naar een publiek rapport volgens GRI, ESRS of VSME, met KPI's die alle relevante onderwerpen dekken.

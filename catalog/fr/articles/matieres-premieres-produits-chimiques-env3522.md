@@ -53,7 +53,7 @@ faq:
 
 ENV3522 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre pour gérer les matières premières et les produits chimiques ? » — neuf sous-actions. Comme pour les déchets (ENV3549), l'essentiel des preuves existe déjà dans un dossier industriel : procédures, fiches d'information sécurité, registres de collecteurs, certificats. Le travail consiste à relier chaque document à la bonne sous-action, à identifier les vrais trous, et à ne pas gaspiller des preuves attendues ailleurs dans le questionnaire.
 
-## Les neuf sous-actions et leurs preuves
+## Quelles sont les neuf sous-actions et leurs preuves ?
 
 **1. Réduction de la consommation de matériaux via l'optimisation des processus.** Factures et registres d'installation d'équipements à haut rendement, présentation des améliorations, comparaison des consommations avant/après. Exemples : production allégée (lean), fabrication assistée par ordinateur, numérisation des processus.
 
@@ -73,7 +73,7 @@ ENV3522 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre p
 
 **9. Autres actions** non couvertes ailleurs dans la question.
 
-## Exemple concret (client ESGIM : imprimeur flexographique wallon, taille S)
+## À quoi ressemble un dossier réel chez un imprimeur wallon de taille S ?
 
 Sur les ~70 pièces du dossier, **9 documents sont directement utilisables** et 6 autres exploitables moyennant adaptation. Sept sous-actions sur neuf sont couvertes ou adaptables ; deux restent des trous réels.
 
@@ -89,7 +89,7 @@ Sur les ~70 pièces du dossier, **9 documents sont directement utilisables** et 
 | 8. Substances alternatives | **Fiche de conformité EU 2025/40 du fournisseur d'encres** : ~60 encres/vernis sans métaux lourds intentionnels (<100 ppm Pb+Hg+Cr+Cd) et sans PFAS/cires PTFE | ✅ Direct, mais c'est une conformité, pas une substitution — renforcer par une preuve de changement de formulation |
 | 9. Autres | Certificat FSSC 22000/ISO 22000 (maîtrise des matières entrantes), analyse VACCP fournisseurs | ✅ Appoint |
 
-## Les deux vrais trous — et un piège
+## Quels sont les deux vrais trous — et le piège ?
 
 **Action 3 (biosourcé)** et **action 6 (preuve de formation)**. La 6 est la plus rentable : une demi-journée FIS solvants avec liste d'émargement signée, et elle passe au vert. La 3 demande un fait réel — un lubrifiant végétal, un nettoyant faible COV, un solvant de lavage biosourcé — à vérifier auprès des achats avant de tenter quoi que ce soit.
 

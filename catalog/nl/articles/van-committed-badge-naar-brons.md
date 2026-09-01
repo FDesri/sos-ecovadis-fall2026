@@ -49,13 +49,13 @@ faq:
 
 **Expertinzicht — François Dequenne:** de meeste ondernemingen in uw situatie hebben de activiteiten al. Ze hebben ze alleen niet geformaliseerd. Dat is de kloof die ik in deze fase het vaakst zie. Het werk is niet méér doen — het is documenteren wat bestaat, als gestructureerd beleid en maatregelen, conform de EcoVadis-normen. Drie zaken blokkeren de weg naar Brons telkens weer: scores voor Ethiek en Duurzame Inkoop onder de 30 punten (een sterke totaalscore beschermt u niet — elk thema moet die vloer halen); informele processen die nooit in een beleidsdocument terechtkwamen (een gedragscode met ontvangstbevestiging van de medewerkers doet de score sneller bewegen dan de meesten verwachten); en niet weten waar de echte kloof zit vóór het beoordelingsvenster opent. In mei 2026 ligt de Bronsdrempel rond 64/100 — in minder dan een jaar 2 punten opgeschoven. Wachten houdt uw positie niet vast.
 
-## Hoe EcoVadis-medailles in 2026 worden toegekend
+## Hoe worden EcoVadis-medailles in 2026 toegekend?
 
 Sinds januari 2024 kent EcoVadis medailles uitsluitend toe op **percentielrang**, niet op vaste drempels. Uw totaalscore wordt vergeleken met alle ondernemingen die de voorbije 12 maanden werden beoordeeld: Brons = top 35%, Zilver = top 15%, Goud = top 5%, Platinum = top 1%. De databank groeit, ondernemingen verbeteren: de vereiste score stijgt mettertijd. De referenties komen uit de ESGIM-portfoliodata (mei 2026) — richtinggevend, geen officiële doelen.
 
 Elke onderneming met de Committed Badge strijdt voor Brons tegen dezelfde stijgende lat: ongeveer 64/100 in mei 2026, tegenover 62 in juli 2025. Twee punten in minder dan een jaar lijkt weinig; over een wereldwijde databank van meer dan 130.000 beoordeelde ondernemingen is dat een meetbare verschuiving van de gemiddelde kwaliteit van duurzaamheidsbeheer.
 
-## Het Bronsprofiel: wat een systeem van 64/100 werkelijk bevat
+## Wat bevat een managementsysteem van 64/100 werkelijk?
 
 Brons betekent dat uw duurzaamheidsmanagementsysteem minstens 65% van alle wereldwijd beoordeelde ondernemingen overtreft. Een onderneming in de Bronszone heeft in 2026 doorgaans:
 
@@ -75,13 +75,13 @@ De kloof tussen de Committed Badge en Brons is vaak een **formaliseringskloof**.
 
 > "Uitzoeken welke praktijken geformaliseerd zijn en welke nog informeel of ongedocumenteerd, is vaak waar het echte werk begint. Die diagnose toont zowel uw sterktes als de zones die meer structuur nodig hebben vóór u indient."
 
-## De regel die meer Bronskandidaten diskwalificeert dan eender welke andere
+## Welke regel diskwalificeert de meeste Bronskandidaten?
 
 Om voor **eender welke** medaille in aanmerking te komen, moet een onderneming **minstens 30 punten in elk van de vier thema's** halen: Milieu, Arbeids- en Mensenrechten, Ethiek, Duurzame Inkoop. Een sterke totaalscore biedt geen bescherming: 66 in totaal maar 28 op Ethiek = geen medaille.
 
 De thema's die in de klantenanalyses van ESGIM het vaakst onder de 30 zitten: **Ethiek** en **Duurzame Inkoop** — daar is de documentatie het zwakst bij ondernemingen zonder eerder gestructureerd duurzaamheidsbeheer. Een gedragscode met ontvangstbevestiging van de medewerkers, opgebouwd volgens de EcoVadis-methodologie, kan Ethiek boven de vloer tillen; een inkoopbeleid dat naar leveranciersduurzaamheid verwijst doet hetzelfde voor Duurzame Inkoop. Beide zijn in enkele weken haalbaar. **De themascores controleren is de eerste diagnosestap, vóór al het andere verbeterwerk.**
 
-## De hefboomkaart: wat u bouwt voor Brons
+## Wat moet u bouwen om Brons te halen?
 
 *Aanbevelingen uit patronen in het ESGIM-klantenportfolio — courante hefbomen met hoge impact, geen universele checklist. Hun gewicht hangt af van grootte, sector en geactiveerde criteria.*
 
@@ -93,7 +93,7 @@ De thema's die in de klantenanalyses van ESGIM het vaakst onder de 30 zitten: **
 
 **Duurzame Inkoop.** Een inkoopbeleid met duurzaamheidseisen voor leveranciers is het startpunt — twee of drie zinnen in het bestaande aankoopbeleid volstaan aanvankelijk. Duurzaamheidsclausules in leverancierscontracten versterken het thema verder.
 
-## Hoe dat er in de praktijk uitziet
+## Hoe ziet dat er in de praktijk uit?
 
 Een middelgrote Europese logistieke onderneming (ongeveer 500 medewerkers) schakelde ESGIM in toen een belangrijke industriële klant Brons eiste voor de status van voorkeursleverancier. De onderneming had de Committed Badge met 50. De gap-analyse vond één diskwalificerende factor: Ethiek onder 30 — geen formele gedragscode, geen gedocumenteerd klachtenmechanisme, ondanks duidelijke informele verwachtingen. Ook Duurzame Inkoop en Milieu zaten onder de Bronsreferentie, vooral omdat milieu-KPI's intern werden opgevolgd maar nooit als gestructureerd bewijs ingediend.
 
@@ -101,7 +101,7 @@ ESGIM pakte eerst Ethiek aan: een gedragscode rond anticorruptie en informatiebe
 
 Over het hele portfolio verbeteren ESGIM-klanten gemiddeld 13,8 punten — doorgaans genoeg om vanuit de Committed-zone in één cyclus Brons te halen.
 
-## Na Brons
+## Wat komt er na Brons?
 
 > "Elke EcoVadis-beoordeling wordt meer en meer een bevestiging van de vooruitgang die al bezig is. Uw indiening begint een consistent en geloofwaardig verhaal te vertellen: beleid gestaafd door actie, actie bewezen door data, en data die de prioriteiten aanscherpen."
 

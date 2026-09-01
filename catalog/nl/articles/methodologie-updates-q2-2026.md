@@ -49,7 +49,7 @@ faq:
 
 Vier updates in Q2 2026: Scope 2-doelen moeten hun berekeningsmethodologie vermelden (market- of location-based); de Select-specifieke consultaties verdwijnen ten voordele van een universele controle op feitelijke fouten van twee werkdagen; de milieuscorecard krijgt fijnmazigere verbeterpunten voor Water, Biodiversiteit en Luchtverontreiniging; en de halfjaarlijkse landenrisicoherziening herklasseert tien landen. Geen van deze wijzigingen beloont afwachten — ze belonen precieze, op standaarden afgestemde bewijsstukken.
 
-## 1. Scope 2 market-based en location-based doelen (10 juli 2026)
+## Wat verandert er op 10 juli 2026 aan market-based en location-based Scope 2-doelen?
 
 **Betreft:** Beleid; Energieverbruik & broeikasgassen; groottes S en meer. **Van toepassing op:** Sustainability Rating en Carbon Rating.
 
@@ -59,7 +59,7 @@ Waarom: **gestandaardiseerde interoperabiliteit** (één internationaal erkend g
 
 De optie "We hebben een absoluut Scope 2-reductiedoel" blijft; respondenten kiezen voortaan ook market-based of location-based. **Geen wijziging aan de scoring of aan de generatie van sterktes en verbeterpunten.**
 
-## 2. Afschaffing van de Select Check Up en de Select Score Drop-consultatie (15 juli 2026)
+## Waarom verdwijnen de Select Check Up en de Score Drop-consultatie op 15 juli 2026?
 
 **Betreft:** alle thema's, alle groottes, Select-abonnementen.
 
@@ -67,13 +67,13 @@ EcoVadis schaft de Select Check Up af (contactname bij corrupte documenten of ge
 
 De vervanging, gelanceerd in juli 2026 voor iedereen: een **controle op feitelijke fouten** — de scorecardresultaten zijn **twee werkdagen** vóór de netwerkpublicatie exclusief zichtbaar voor de beoordeelde onderneming, die dan feitelijke fouten kan melden. Praktisch gevolg voor een kmo: niemand belt u nog over een corrupte pdf of een gedeclareerd maar niet bijgevoegd certificaat. De kwaliteitscontrole van de indiening ligt voortaan volledig bij u, vóór u indient.
 
-## 3. Extra granulariteit op de scorecard: nieuwe verbeterpunten (15 juli 2026)
+## Wat voegen de nieuwe verbeterpunten van 15 juli 2026 op de scorecard toe?
 
 **Betreft:** Milieu; groottes S en meer.
 
 Derde lot van het granulariteitsprogramma: de scorecard evolueert van brede verbeterpunten naar **zeer specifieke, diagnostische feedback die rechtstreeks verwijst naar sectorale beste praktijken** die al in de vragenlijst zitten. Wordt een praktijk niet als aanwezig geïdentificeerd, dan wordt ze expliciet als verbeterpunt gemarkeerd. Deze specifieke punten zijn voorbeelden van beschikbare acties, geen verplichte vereisten. Dit lot geldt voor de milieucriteria **Water, Biodiversiteit en Luchtverontreiniging**.
 
-## 4. Landenrisico-update — augustus 2026 (gepubliceerd 29 juli 2026)
+## Wat verandert er in de landenrisico-update van augustus 2026?
 
 Landen worden ingedeeld als Laag/Middelhoog/Hoog risico op basis van 23 internationale indexen (Milieu, Gezondheid & Veiligheid, Mensenrechten, Governance), tweemaal per jaar herzien. Deze ronde verwerkt conflictdata (Wereldbank) en aanpassingen van koolstofdata.
 

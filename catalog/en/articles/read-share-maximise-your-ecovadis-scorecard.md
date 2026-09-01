@@ -52,7 +52,7 @@ faq:
 
 **Expert insight — François Dequenne:** your EcoVadis scorecard isn't just a rating. It's your sustainability strategy mapped for customers, investors, and continuous improvement. For many suppliers the EcoVadis score is now a commercial requirement rather than a "nice to have" — yet the scorecard can feel opaque the first time you see it. This article explains how to read it, how to share it, what it costs, how long it is valid, and what a "good" score actually looks like.
 
-## How to read your scorecard
+## How do you read your scorecard?
 
 The result of an assessment is a scorecard from 0 to 100 with detailed performance across the four themes: Environment, Labor & Human Rights, Ethics, and Sustainable Procurement. At the top you see your **overall score**, your **percentile** (how you compare with all other assessed organisations), and your **medal** if you rank in the top 35% or higher.
 
@@ -81,7 +81,7 @@ Medals are awarded by percentile (and absence of major controversies): Bronze = 
 
 **12 months from publication.** After that, customers may be notified the score is no longer current, you receive reminders to relaunch, and some buyers treat an out-of-date scorecard as non-compliance. In some cases (higher scores, lower risk profiles) customers accept a 24-month cycle — but EcoVadis itself considers the scorecard valid for 12 months, so customer requirements decide. Reassess at least annually if sustainability is part of your commercial proposition, you are working towards specific targets (net zero, human rights due diligence), or key customers actively track your score.
 
-## How to share your scorecard
+## How do you share your scorecard?
 
 Sharing is a commercial opportunity, not administration. Three primary methods:
 
@@ -95,13 +95,13 @@ Strategic practices that maximise impact: internal alignment across procurement,
 
 EcoVadis runs an **annual subscription**: the fee covers one assessment per year, platform access and your scorecard, charged when you launch or renew. Higher tiers add functionality (more connected customers, advanced analytics, multi-site options). Treat the subscription as an ongoing investment, embedded in the ESG budget, supplier qualification costs, or frameworks tied to customer obligations. From ESGIM's experience, companies get the best value when they plan the year around the assessment date, using the months before launch to close gaps rather than rushing low-quality evidence.
 
-## Reading the scorecard's structure for improvement
+## How do you read the scorecard's structure to improve?
 
 Beyond the headline figures: theme-by-theme scores with sector and region comparisons; a colour-coded Policies-Actions-Results breakdown; a list of **strengths**; and a list of **improvement areas** that forms the basis of your corrective action plan.
 
 Tips for efficiency: start with your strongest theme to understand what "good" looks like in your own context; then examine the weakest theme, especially if material to your sector (Environment for manufacturing, Labor & Human Rights for labour-intensive chains); use the improvement areas as a roadmap — each bullet usually corresponds to a specific missing or weak document, practice or result.
 
-## How to improve your score
+## How do you improve your score?
 
 > "Every improvement area on your scorecard points to a specific gap: a missing policy, a process not yet formalised, a KPI not yet tracked. Working through that list systematically is how you build a sustainability management system — not just improve a score."
 

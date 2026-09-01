@@ -47,14 +47,14 @@ faq:
 
 De milieu-indicatoren van EcoVadis meten de impact van de onderneming op de planeet binnen het thema **Milieu**. Voor een kmo is de moeilijkheid niet de cijfers vinden — ze bestaan al in facturen, de CO₂-balans en reglementaire aangiften — maar **de meest verdedigbare bron kiezen** wanneer ze uiteenlopen, en dezelfde methode jaar na jaar aanhouden: EcoVadis kijkt naar de trend.
 
-## Wat het thema Milieu dekt
+## Wat dekt het thema Milieu?
 
 - **Energieverbruik en broeikasgassen:** energieverbruik, emissies (Scope 1, 2 en 3).
 - **Grondstoffen en water:** waterverbruik, grondstoffenbeheer.
 - **Afval en lozingen:** afvalproductie, afvalwater en gevaarlijke stoffen.
 - **Lokale impact:** biodiversiteit en lokale verontreiniging.
 
-## De indicatoren en hun eenheden
+## Welke indicatoren, in welke eenheden?
 
 | Indicator | Eenheid |
 |---|---|
@@ -67,7 +67,7 @@ De milieu-indicatoren van EcoVadis meten de impact van de onderneming op de plan
 | Niet-gevaarlijk afval | kg |
 | Gevaloriseerd afval | kg |
 
-## Een uitgewerkt voorbeeld (ESGIM-klant: Waalse flexografische drukkerij, grootte S)
+## Hoe ziet dat eruit bij een Waalse drukkerij van grootte S?
 
 | Gevraagde indicator | Waarde 2025 | Betrouwbaarheid | Bron |
 |---|---|---|---|
@@ -81,7 +81,7 @@ De milieu-indicatoren van EcoVadis meten de impact van de onderneming op de plan
 | Niet-gevaarlijk afval (kg) | **413.090** | Betrouwbaar | Milieuaangifte 2026 |
 | Gevaloriseerd afval (kg) | **~578.860** (99,9 % van het totaal 579.440) | Betrouwbaar | 100 % R-codes, geen D-verwijdering |
 
-## De typische arbitrages vóór het opladen van bewijsstukken
+## Welke afwegingen maakt u vóór u bewijs oplaadt?
 
 Drie punten om te beslechten vóór u iets op het platform oplaadt:
 

@@ -47,7 +47,7 @@ faq:
 
 **Regard d'expert — François Dequenne :** ENV7003 est une nouvelle question ajoutée aux questionnaires au T1 2026 pour les entreprises de taille S et plus. Elle reflète directement la multiplication des événements climatiques extrêmes liés au réchauffement. Elle demande deux types de preuves : une évaluation des risques climatiques physiques et une évaluation des risques liés aux bassins hydrographiques. Sans impact sur le score — mais ce qui en ressort s'affiche sur votre fiche d'évaluation.
 
-## 1. Évaluation des risques climatiques physiques
+## Comment évaluer les risques climatiques physiques ?
 
 **Exemples de documents à joindre :**
 
@@ -61,7 +61,7 @@ faq:
 - **Risques physiques graves (aigus) :** aléas résultant d'événements — intensification des ouragans, inondations, incendies de forêt, vagues de chaleur.
 - **Risques physiques chroniques :** évolutions de long terme — températures constamment plus élevées, élévation du niveau de la mer, épisodes de sécheresse prolongés.
 
-## 2. Évaluation des risques liés aux bassins hydrographiques
+## Comment évaluer les risques liés aux bassins hydrographiques ?
 
 **Exemples de documents à joindre :**
 

@@ -53,7 +53,7 @@ faq:
 
 ENV3522 asks: "What actions has your company implemented to manage raw materials and chemicals?" — nine sub-actions. As with waste (ENV3549), most of the evidence already exists in an industrial file: procedures, safety information sheets, collector registers, certificates. The work consists of linking each document to the right sub-action, identifying the real gaps, and not wasting evidence that is expected elsewhere in the questionnaire.
 
-## The nine sub-actions and their evidence
+## What are the nine sub-actions and their evidence?
 
 **1. Reducing material consumption through process optimisation.** Invoices and installation records for high-efficiency equipment, presentation of improvements, before/after consumption comparison. Examples: lean production techniques, computer-aided manufacturing, process digitalisation.
 
@@ -73,7 +73,7 @@ ENV3522 asks: "What actions has your company implemented to manage raw materials
 
 **9. Other actions** not covered elsewhere in the question.
 
-## Concrete example (ESGIM client: Walloon flexographic printer, size S)
+## What does a real file look like at a Walloon printer of size S?
 
 Of the ~70 documents in the file, **9 are directly usable** and 6 more are exploitable with adaptation. Seven of the nine sub-actions are covered or adaptable; two remain real gaps.
 
@@ -89,7 +89,7 @@ Of the ~70 documents in the file, **9 are directly usable** and 6 more are explo
 | 8. Alternative substances | **Ink supplier's EU 2025/40 compliance sheet**: ~60 inks/varnishes without intentional heavy metals (<100 ppm Pb+Hg+Cr+Cd) and without PFAS/PTFE waxes | ✅ Direct, but it is compliance, not substitution — strengthen with evidence of a formulation change |
 | 9. Other | FSSC 22000/ISO 22000 certificate (control of incoming materials), supplier VACCP analysis | ✅ Supporting |
 
-## The two real gaps — and one trap
+## What are the two real gaps — and the trap?
 
 **Action 3 (bio-based)** and **action 6 (training evidence)**. Number 6 is the most profitable: a half-day on the solvent safety sheets with a signed attendance list, and it turns green. Number 3 requires a real fact — a plant-based lubricant, a low-VOC cleaner, a bio-based washing solvent — to verify with procurement before attempting anything.
 

@@ -51,7 +51,7 @@ faq:
 
 **Regard d'expert — François Dequenne :** voici les principales questions des participants au dernier webinaire ESG Interim Management, classées par sujet. La méthodologie 2026 apporte trois nouveautés : (1) la flexibilité de matérialité, qui permet de désactiver des sujets environnementaux non matériels (actuellement en pilote dans certains secteurs), (2) une évaluation de la sévérité de la Veille 360° intégrant le consensus des parties prenantes, et (3) la reconnaissance formelle du standard VSME avec une notation différenciée Basic / Comprehensive. Pendant ce temps, les seuils continuent de monter : l'Argent est passé de 68 à 72 points entre juillet 2025 et janvier 2026.
 
-## Périmètre et structure de l'évaluation
+## Comment le périmètre et la structure de l'évaluation changent-ils ?
 
 **Le niveau groupe rend-il la notation plus difficile que le niveau entité ?** Oui, en général. La raison principale est l'indicateur **Couverture**, qui ne s'active que pour les évaluations groupe et mesure l'étendue du déploiement des actions (certifications, formations, processus) dans l'organisation. Si 20 % seulement des filiales détiennent une certification ISO, la Couverture score plus bas qu'à 80 %. La consolidation documentaire entre entités est aussi un défi pratique. Pour les entités plus petites, la Couverture peut ne pas s'activer : l'évaluation entité devient plus accessible. Alignez le choix sur votre réalité opérationnelle : durabilité gérée centralement → évaluation groupe ; entités indépendantes → le niveau entité peut être plus stratégique.
 
@@ -67,7 +67,7 @@ faq:
 
 **Peut-on élargir le périmètre au groupe quand un client a demandé la notation d'un sous-groupe ?** Oui, avec coordination : le support EcoVadis pour le changement de périmètre, et votre client d'abord — certains veulent spécifiquement l'entité avec laquelle ils travaillent. Si c'est accepté, une fiche groupe a l'avantage d'être partageable avec plusieurs clients.
 
-## Exigences de reporting et KPI
+## Quelles sont les nouvelles exigences de reporting et de KPI ?
 
 > « La divulgation publique des KPI est désormais une variable de notation. Les organisations qui obtiennent les meilleurs scores Rapports sont celles dont les indicateurs matériels figurent dans leur rapport de durabilité — accessibles, année après année, vérifiables par quiconque examine leur soumission EcoVadis. »
 
@@ -79,7 +79,7 @@ faq:
 
 **Si notre rapport fondé sur la matérialité n'atteint pas les 67 % de couverture des critères EcoVadis, comment est-ce noté ?** Dès 2026, il y a plus de flexibilité pour exclure les sujets environnementaux non matériels, mais la couverture reste attendue pour les sujets actifs. Ne pas les rapporter fera probablement baisser la Couverture. Une documentation de matérialité solide et des décisions de périmètre clairement expliquées aident — les analystes peuvent en tenir compte, et la transparence de l'approche est valorisée.
 
-## Alignement sur les référentiels de reporting
+## Comment s'aligner sur les référentiels de reporting ?
 
 **EcoVadis reconnaîtra-t-il le reporting CSRD comme le GRI ?** Oui : les ESRS (standards de la CSRD) sont reconnus comme cadre formel. Dès 2026, la conformité formelle compte plus que la simple « référence » — un reporting en conformité avec les ESRS obtient tous les points, comme le GRI « in accordance with ».
 
@@ -99,7 +99,7 @@ faq:
 
 **EcoVadis interroge-t-il sur la conformité EUDR ?** Oui — dans les sections Environnement et Achats Responsables, surtout pour les entreprises traitant les matières premières couvertes (bovins, cacao, café, huile de palme, caoutchouc, soja, bois et dérivés) : politiques de déforestation, processus de vigilance, systèmes de traçabilité, gestion des risques. Avec l'entrée en application, la préparation pèsera de plus en plus.
 
-## Matérialité et personnalisation des sujets
+## Comment fonctionne la personnalisation de la matérialité ?
 
 **Y a-t-il des exigences pour qu'une analyse de matérialité soit acceptée ?** Oui : une méthodologie reconnue (processus de matérialité GRI ou double matérialité CSRD) avec engagement des parties prenantes, un processus systématique, une documentation formelle, une approbation par la gouvernance et une couverture complète des sujets — évaluant matérialité d'impact et matérialité financière, avec des conclusions défendables. Soumettez le rapport complet avec le questionnaire et référencez-le pour toute demande d'ajustement de sujets.
 
@@ -107,7 +107,7 @@ faq:
 
 **Nous prévoyons de renouveler en septembre ; faut-il soumettre en août avant la mise à jour méthodologique ?** Cela dépend de votre préparation et de votre tolérance au risque. Une soumission en août est notée selon la méthodologie actuelle avec 12 mois de validité ; à partir de septembre, les critères mis à jour s'appliquent. Pesez l'état de la documentation, les changements annoncés et la criticité du score : bien préparé face à des mises à jour plus strictes, août peut être avantageux ; si la qualité demande du temps, l'amélioration peut l'emporter sur le changement méthodologique.
 
-## Certifications et audits
+## Que change-t-il sur les certifications et les audits ?
 
 **Nous avons l'ISO sur certains sites à risque mais pas tous. Des audits internes vérifiés par un tiers peuvent-ils prouver un système déployé partout ?** Oui — et EcoVadis note les deux éléments séparément dans les évaluations groupe : une fois en **Certifications** (ISO sur au moins une entité) et une fois en **Couverture** (pourcentage de sites couverts — plus il est élevé, plus il rapporte). Rendez les audits crédibles : auditeurs externes qualifiés, méthodologies d'audit ISO, rapports formels, et un programme d'audit documenté (calendrier, périmètre, couverture des sites non certifiés). Des audits tiers scorent nettement mieux que l'absence de vérification, sans atteindre la certification complète.
 

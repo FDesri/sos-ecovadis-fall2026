@@ -46,14 +46,14 @@ faq:
 
 EcoVadis environmental indicators measure the company's impact on the planet within the **Environment** theme. For an SME the difficulty is not finding the figures — they already exist in invoices, the carbon footprint and regulatory declarations — but **choosing the most defensible source** when they diverge, and keeping the same method year after year: EcoVadis looks at the trend.
 
-## What the Environment theme covers
+## What does the Environment theme cover?
 
 - **Energy consumption and GHG:** energy use, greenhouse gas emissions (Scopes 1, 2 and 3).
 - **Resources and water:** water use, raw materials management.
 - **Waste and discharges:** waste production, wastewater and hazardous substances management.
 - **Local impact:** biodiversity and local pollution.
 
-## The indicators and their units
+## Which indicators, in which units?
 
 | Indicator | Unit |
 |---|---|
@@ -66,7 +66,7 @@ EcoVadis environmental indicators measure the company's impact on the planet wit
 | Non-hazardous waste | kg |
 | Recovered waste | kg |
 
-## A worked example (ESGIM client: Walloon flexographic printer, size S)
+## What does this look like at a Walloon printer of size S?
 
 | Requested indicator | 2025 value | Reliability | Source |
 |---|---|---|---|
@@ -80,7 +80,7 @@ EcoVadis environmental indicators measure the company's impact on the planet wit
 | Non-hazardous waste (kg) | **413,090** | Reliable | 2026 environmental declaration |
 | Recovered waste (kg) | **~578,860** (99.9% of the 579,440 total) | Reliable | 100% R-codes, no D-disposal |
 
-## The typical arbitrations before uploading evidence
+## Which trade-offs do you settle before uploading evidence?
 
 Three points to settle before uploading anything to the platform:
 

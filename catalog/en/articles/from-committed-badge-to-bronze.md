@@ -49,13 +49,13 @@ faq:
 
 **Expert insight — François Dequenne:** most companies in your situation already have the activities. They just haven't formalised them. That's the gap I see most often at this stage. The work isn't to do more — it's to document what exists as structured policies and measures and to ensure it meets EcoVadis standards. Three things consistently hold companies back from Bronze: Ethics and Sustainable Procurement scores sitting below 30 (a strong overall score doesn't protect you — every theme needs to clear that floor); informal processes that never made it into a policy (a Code of Conduct with employee acknowledgement can move the needle faster than most people expect); and not knowing where the actual gap is before the assessment window opens. As of May 2026, the Bronze threshold sits at approximately 64/100 — it has moved 2 points in under a year. Waiting doesn't hold your position.
 
-## How EcoVadis medals are awarded in 2026
+## How are EcoVadis medals awarded in 2026?
 
 Since January 2024, EcoVadis awards medals based entirely on **percentile ranking**, not fixed score thresholds. Your overall score is compared against every company rated on the platform over the previous 12 months: Bronze goes to the top 35%, Silver to the top 15%, Gold to the top 5%, Platinum to the top 1%. Because the database keeps growing and companies keep improving, the approximate score required for each medal rises over time. The benchmarks in this article come from ESG Interim Management's internal client portfolio data, last updated May 2026 — directional indicators, not official EcoVadis targets.
 
 Every company holding the Committed Badge is competing for Bronze against the same rising bar: approximately 64/100 as of May 2026, up from 62 in July 2025. Two points in under a year may not sound significant; across a global database of over 130,000 rated companies, it reflects a measurable shift in the average quality of sustainability management.
 
-## The Bronze profile: what a 64/100 management system actually contains
+## What does a 64/100 management system actually contain?
 
 Bronze means your sustainability management system outperforms at least 65% of all companies rated globally over the previous 12 months. A company scoring in the Bronze range in 2026 typically has:
 
@@ -75,13 +75,13 @@ The gap between the Committed Badge and Bronze is often a **formalisation gap**.
 
 > "Identifying which practices are formalised and which are still informal or undocumented is often where the real work begins. That diagnosis helps you see both your strengths and the areas that need more structure before you submit."
 
-## The rule that disqualifies more Bronze candidates than any other
+## Which rule disqualifies the most Bronze candidates?
 
 To qualify for **any** EcoVadis medal, a company must score **at least 30 points in each of the four themes**: Environment, Labour & Human Rights, Ethics, and Sustainable Procurement. A strong overall score provides no protection: a company scoring 66 overall but 28 in Ethics receives no medal.
 
 The themes most consistently below 30 in ESGIM's client analyses are **Ethics** and **Sustainable Procurement**, where documentation tends to be weakest in companies without prior structured sustainability management. A Code of Conduct with employee acknowledgement, structured according to the EcoVadis methodology, can bring Ethics above the floor; a procurement policy referencing supplier sustainability can do the same for Sustainable Procurement. Both are achievable in weeks. **Checking theme-level scores is the first diagnostic step before any other improvement work.**
 
-## The lever map: what to build for Bronze
+## What do you have to build to reach Bronze?
 
 *These recommendations are drawn from patterns observed across ESGIM's client portfolio — common high-impact levers, not a universal checklist. Their relative weight varies with your size, industry and activated criteria. Use them as a starting point for diagnosis.*
 
@@ -93,7 +93,7 @@ The themes most consistently below 30 in ESGIM's client analyses are **Ethics** 
 
 **Sustainable Procurement.** A procurement policy naming sustainability requirements for suppliers is the entry point — two or three sentences in an existing purchasing policy will suffice initially. Adding sustainability clauses to supplier contracts improves the theme further.
 
-## What this looks like in practice
+## What does this look like in practice?
 
 A mid-size European logistics company (about 500 employees) engaged ESGIM when a key manufacturing client introduced a Bronze requirement for preferred supplier status. The company held the Committed Badge at 50. Gap analysis identified a single medal disqualifier: Ethics below 30 — no formal Code of Conduct, no documented grievance mechanism, despite clear informal expectations. Sustainable Procurement and Environment were also below the Bronze benchmark, largely because environmental KPIs were tracked internally but never submitted as structured evidence.
 
@@ -101,7 +101,7 @@ ESGIM prioritised Ethics first: a Code of Conduct covering anti-corruption and i
 
 Across the portfolio, ESGIM clients improve by an average of 13.8 points — typically enough to clear Bronze from the Committed range in a single cycle.
 
-## What comes after Bronze
+## What comes after Bronze?
 
 > "Each EcoVadis assessment becomes more about confirming your organisation's progress already underway. Your submission begins to tell a consistent and credible story: policies backed by action, action evidenced by data, and data used to refine priorities."
 

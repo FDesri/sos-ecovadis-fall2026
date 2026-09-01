@@ -55,7 +55,7 @@ faq:
 
 De druk rond de duurzaamheid van leveranciers is niet langer voorbehouden aan grote multinationals. Middelgrote ondernemingen krijgen nu duurzaamheidseisen van hun grootste klanten als standaardvoorwaarde om zaken te doen: EcoVadis-scoredrempels in aanbestedingen, gedragscodes gerefereerd in contracten, Scope 3-vragenlijsten van de inkoopteams stroomopwaarts. Die vragen komen vaak sneller binnen dan een duurzaamheidsfunctie van één persoon kan beantwoorden. Dit kader zegt waar te beginnen, gebouwd voor beperkte teams en echte deadlines.
 
-## Waarom Duurzame Inkoop hoger op de agenda staat
+## Waarom staat Duurzame Inkoop hoger op de agenda?
 
 Drie krachten komen samen, ongeacht de sector.
 
@@ -65,23 +65,23 @@ Drie krachten komen samen, ongeacht de sector.
 
 **Vragen naar Scope 3-data.** Klanten die science-based doelen of CSRD-naleving nastreven, hebben emissiedata uit hun toeleveringsketen nodig. Vandaag levert 30% van de leveranciers geen enkele koolstofdata aan hun kopers. Ondernemingen die betrouwbare Scope 1-, 2- en 3-data kunnen leveren, hebben een meetbaar commercieel voordeel.
 
-## Vóór u bouwt: begrijp wat telt
+## Wat moet u begrijpen vóór u iets bouwt?
 
 De eerste stap is begrijpen welke duurzaamheidsrisico's en -impacts werkelijk materieel zijn voor uw toeleveringsketen. Een tool kiezen of een beleid schrijven vóór deze stap produceert activiteit zonder richting. Een producent die grondstoffen, chemicaliën en logistiek koopt, draagt andere risico's dan een softwarebedrijf dat IT-infrastructuur koopt; inkopen in risicogeografieën stelt anders bloot dan uitsluitend in de EU kopen.
 
 Een basale materialiteitsmapping — uitgavencategorieën, sectoren en geografieën van de leveranciers, en de risico's bij elk — legt de basis voor een proportioneel programma. Ze hoeft niet complex te zijn: een uitgavenanalyse per categorie met een risicolaag op basis van publiek beschikbare tools volstaat voor een werkbare prioriteitenlijst.
 
-## Stap 1: breng uw leveranciersbasis in kaart
+## Stap 1: hoe brengt u uw leveranciersbasis in kaart?
 
 Haal uw inkoopdata op en segmenteer leveranciers per uitgave, categorie en geografie. Identificeer de top 20% van de uitgaven — die schijf concentreert doorgaans 80% van uw inkooprisico en -impact. Stel per segment drie vragen: welke duurzaamheidsrisico's horen bij deze sector of geografie? Wat is de impact als er iets misgaat? Hoeveel invloed heeft de onderneming op deze leverancier?
 
 Het snijpunt van hoog risico en hoge invloed is waar het programma begint. Een middelgrote onderneming heeft zelden de bandbreedte om honderden leveranciersrelaties even intensief te beheren: een gelaagde aanpak — diepgaand engagement voor de top 20%, lichtere eisen voor de rest — is realistisch én verdedigbaar tegenover klanten en auditors.
 
-## Stap 2: leg de nulmeting vast met een leveranciersbeoordeling
+## Stap 2: hoe legt u de nulmeting vast?
 
 Een duurzaamheidsbeoordeling van leveranciers bouwt systematisch een beeld op over de vier domeinen die het meest tellen: milieupraktijken, arbeids- en mensenrechten, ethiek en anticorruptie, en duurzame inkoop. Voor ondernemingen die zelf al EcoVadis-verzoeken van hun klanten krijgen, is dit het moment om hun leveranciers met hetzelfde referentiekader te beoordelen — EcoVadis evalueert 21 criteria op maat van sector, grootte en geografie van elke leverancier, en uw eigen inkoopprogramma via EcoVadis laten lopen levert geverifieerde data en de aanzet van een verdedigbaar programmadossier op. Voor leveranciers die nog niet op EcoVadis zitten, is een gestructureerde zelfbeoordelingsvragenlijst over dezelfde vier thema's een werkbaar vertrekpunt.
 
-## Stap 3: bouw uw beleid
+## Stap 3: welk beleid bouwt u?
 
 Drie beleidsdocumenten vormen het minimale levensvatbare fundament:
 
@@ -91,7 +91,7 @@ Drie beleidsdocumenten vormen het minimale levensvatbare fundament:
 
 Samen voldoen ze aan de vereisten van het EcoVadis-thema Duurzame Inkoop, tonen ze zorgplicht aan tegenover klanten en creëren ze het papieren spoor dat CSDDD- en CSRD-rapportering uiteindelijk zullen vereisen.
 
-## Stap 4: engageer, meet en verbeter
+## Stap 4: hoe engageert, meet en verbetert u?
 
 Governance, communicatie en een reviewritme maken van statische documenten een werkend systeem. Voor prioritaire leveranciers: stuur de gedragscode, vraag erkenning of ondertekening, start een beoordeling via EcoVadis of een vergelijkbaar kader. Voor minder prioritaire leveranciers is een eenvoudige conformiteitsverklaring een redelijk begin.
 

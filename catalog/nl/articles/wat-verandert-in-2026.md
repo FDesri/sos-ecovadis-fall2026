@@ -50,7 +50,7 @@ faq:
 
 **Expertinzicht — François Dequenne:** hier zijn de belangrijkste vragen van de deelnemers aan de recentste ESG Interim Management-webinar, per onderwerp gebundeld. De methodologie van 2026 brengt drie kernupdates: (1) meer materialiteitsflexibiliteit om niet-materiële milieuonderwerpen uit te schakelen (momenteel in pilot in bepaalde sectoren), (2) een ernstbeoordeling van 360° Watch die stakeholderconsensus meeneemt, en (3) formele erkenning van de VSME-standaard met gedifferentieerde scoring Basic / Comprehensive. Ondertussen blijven de drempels stijgen: Zilver ging van 68 naar 72 punten tussen juli 2025 en januari 2026 alleen al.
 
-## Scope en structuur van de beoordeling
+## Hoe veranderen scope en structuur van de beoordeling?
 
 **Maakt rapporteren op groepsniveau het scoren moeilijker dan op entiteitsniveau?** Doorgaans wel. De hoofdreden is de indicator **Dekking**, die alleen bij groepsbeoordelingen activeert en meet hoe breed duurzaamheidsacties (certificeringen, opleidingen, processen) in de organisatie zijn uitgerold. Houden maar 20% van de dochters een ISO-certificering aan, dan scoort Dekking lager dan bij 80%. Documentatie consolideren over entiteiten heen is bovendien een praktische uitdaging. Bij kleinere entiteiten activeert Dekking mogelijk niet: de entiteitsbeoordeling wordt dan haalbaarder. Stem de keuze af op uw operationele realiteit: centraal beheerde duurzaamheid → groepsbeoordeling; onafhankelijk werkende entiteiten → entiteitsniveau kan strategischer zijn.
 
@@ -66,7 +66,7 @@ faq:
 
 **Kunnen we de scope verruimen naar de overkoepelende groep als een klant een rating van een subgroep vroeg?** Ja, mits coördinatie: de EcoVadis-support voor de scopewijziging, en eerst uw klant — sommige klanten willen specifiek de entiteit waarmee ze zakendoen. Bij akkoord heeft een groepsscorecard het voordeel dat ze met meerdere klanten deelbaar is.
 
-## Rapporteringseisen en KPI's
+## Wat zijn de nieuwe rapporterings- en KPI-eisen?
 
 > "De publieke bekendmaking van KPI's is voortaan een scoringsvariabele. De organisaties met de hoogste rapporteringsscores zijn die waarvan de materiële indicatoren in hun duurzaamheidsrapport staan — toegankelijk, jaar na jaar, verifieerbaar door iedereen die hun EcoVadis-indiening bekijkt."
 
@@ -78,7 +78,7 @@ faq:
 
 **Als ons materialiteitsgebaseerde rapport de 67% dekking van de EcoVadis-criteria niet haalt, hoe wordt dat gescoord?** Vanaf 2026 is er meer flexibiliteit om niet-materiële milieuonderwerpen uit te sluiten, maar voor actieve onderwerpen blijft dekking verwacht. Er niet over rapporteren verlaagt allicht de Dekking. Een degelijke materialiteitsdocumentatie en duidelijk uitgelegde scopekeuzes helpen — analisten kunnen die context meenemen, en transparantie over de aanpak wordt gewaardeerd.
 
-## Afstemming op rapporteringsstandaarden
+## Hoe stemt u af op de rapporteringsstandaarden?
 
 **Erkent EcoVadis CSRD-rapportering zoals GRI?** Ja: de ESRS (de CSRD-standaarden) zijn erkend als formeel kader. Vanaf 2026 telt formele naleving meer dan "ernaar verwijzen" — rapporteren in overeenstemming met de ESRS levert alle punten op, net als GRI "in accordance with".
 
@@ -98,7 +98,7 @@ faq:
 
 **Vraagt EcoVadis naar EUDR-naleving?** Ja — in de secties Milieu en Duurzame Inkoop, vooral voor bedrijven die met de gedekte grondstoffen werken (runderen, cacao, koffie, palmolie, rubber, soja, hout en afgeleiden): ontbossingsbeleid, due-diligenceprocessen, traceerbaarheidssystemen, risicobeheer. Naarmate de handhaving start, weegt de paraatheid zwaarder.
 
-## Materialiteit en onderwerppersonalisatie
+## Hoe werkt de materialiteitspersonalisatie?
 
 **Zijn er vereisten opdat een materialiteitsanalyse aanvaard wordt?** Ja: een erkende methodologie (GRI-materialiteitsproces of CSRD dubbele materialiteit) met stakeholderbetrokkenheid, een systematisch beoordelingsproces, formele documentatie, goedkeuring door de governance en volledige onderwerpdekking — met evaluatie van impact- én financiële materialiteit en verdedigbare conclusies. Dien het volledige rapport in met de vragenlijst en verwijs ernaar bij elke vraag tot onderwerp-aanpassing.
 
@@ -106,7 +106,7 @@ faq:
 
 **Wij plannen de hernieuwing in september; moeten we in augustus indienen, vóór de methodologie-update?** Dat hangt af van uw paraatheid en risicotolerantie. Een indiening in augustus wordt gescoord onder de huidige methodologie met 12 maanden geldigheid; vanaf september gelden de bijgewerkte criteria. Weeg de staat van uw documentatie, de aangekondigde wijzigingen en het zakelijke belang van uw score af: goed voorbereid en met strengere updates in zicht kan augustus voordelig zijn; vraagt de kwaliteit meer tijd, dan kan de verbetering zwaarder wegen dan de methodologiewijziging.
 
-## Certificeringen en audits
+## Wat verandert er aan certificeringen en audits?
 
 **We hebben ISO op sommige risicosites maar niet op alle. Kunnen door derden geverifieerde interne audits bewijzen dat het systeem overal wordt beheerd?** Ja — en EcoVadis scoort de twee elementen apart bij groepsbeoordelingen: één keer onder **Certificeringen** (ISO op minstens één entiteit) en één keer onder **Dekking** (percentage gedekte sites — hoe hoger, hoe meer punten). Maak de audits geloofwaardig: gekwalificeerde externe auditors, ISO-auditmethodologieën, formele auditrapporten, en een gedocumenteerd auditprogramma met agenda, scope en dekking van de niet-gecertificeerde sites. Externe audits scoren aanzienlijk beter dan geen verificatie, al halen ze niet het niveau van een volledige certificering.
 

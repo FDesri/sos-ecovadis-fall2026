@@ -53,7 +53,7 @@ faq:
 
 SUP307 asks: "What actions has your company implemented to integrate social and environmental factors into procurement?" — nine sub-actions. The golden rule: **only tick what a dedicated document can prove**. A ticked option without specific evidence is neutralised by the assessor and weakens the whole section. In a well-kept industrial SME file, five of the nine options are often coverable immediately; two more are half-day quick wins.
 
-## The nine sub-actions and their evidence
+## What are the nine sub-actions and their evidence?
 
 **1. Supplier CSR code of conduct.** The code of conduct and the annual/CSR report. It must attest the communication of your CSR expectations to suppliers — and exist as a document **distinct** from the sustainable procurement policy: the former is external (suppliers), the latter internal (procurement team).
 
@@ -73,7 +73,7 @@ SUP307 asks: "What actions has your company implemented to integrate social and 
 
 **9. Other actions.** To tick **only if options 1 to 8 do not apply** — EcoVadis states this explicitly.
 
-## Concrete example (ESGIM client: Walloon flexographic printer, size S)
+## What does a real file look like at a Walloon printer of size S?
 
 ### Five options to tick now
 
@@ -97,11 +97,11 @@ A single 13-page PDF can carry three options — but **split it into two uploads
 
 **9 — Other actions:** since options 1 to 4 apply, ticking it weakens the reading. The documents one might be tempted to put there (cartridge recycling, water fountain, relighting, photovoltaics, EV chargers) are worth more in the Energy/GHG and Waste sections.
 
-## The boundary with SUP600
+## Where does the boundary with SUP600 fall?
 
 The supplier-monitoring Excel serves SUP600 (the KPIs), but it carries two elements SUP307 needs — recover them differently: the **sanction rule** ("insufficient score or no certificate → end of collaboration or audit within 3 months"), to be copied into option 2's template contract clause; and the **KPIs** (share of purchase volume covered, response rate, third-party-certified share, share of signed CoCs, mitigation measures open/closed), already defined in the procurement procedure — the Excel feeds them, which is exactly SUP600's material.
 
-## Three points to fix before upload
+## What should you fix before uploading?
 
 1. **A placeholder in an annex** ("to complete before distribution: number of suppliers contacted, share of volume covered"): fill it — a visibly unfinished internal document discredits the rest.
 2. **The code of conduct has no consequence clause** for breaches. A "Template CSR clause" page or a "Non-compliance and consequences" section in v2 turns option 2 from "presumed" into "demonstrated".

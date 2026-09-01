@@ -53,7 +53,7 @@ faq:
 
 **Regard d'expert — François Dequenne :** votre fiche d'évaluation (scorecard) EcoVadis n'est pas qu'une note. C'est votre stratégie de durabilité cartographiée pour vos clients, vos investisseurs et votre amélioration continue. Pour beaucoup de fournisseurs, le score EcoVadis est désormais une exigence commerciale, plus un « nice to have » — et pourtant la fiche paraît opaque la première fois. Cet article explique comment la lire, la partager, ce qu'elle coûte, sa durée de validité, et ce qu'est réellement un « bon » score.
 
-## Comment lire votre fiche d'évaluation
+## Comment lire votre fiche d'évaluation ?
 
 Le résultat d'une évaluation prend la forme d'une fiche notée de 0 à 100, détaillée sur les quatre thèmes : Environnement, Social et Droits Humains, Éthique, Achats Responsables. En haut : votre **score global**, votre **percentile** (votre position face à toutes les organisations évaluées) et votre **médaille** si vous êtes dans le top 35 % ou mieux.
 
@@ -82,7 +82,7 @@ Les médailles sont attribuées par percentile (et en l'absence de controverse m
 
 **12 mois à compter de la publication.** Passé ce délai, vos clients peuvent être notifiés que le score n'est plus à jour, vous recevez des rappels pour relancer, et certains donneurs d'ordres traitent une fiche périmée comme une non-conformité. Dans certains cas (scores élevés, profils à faible risque), des clients acceptent un cycle de 24 mois — mais EcoVadis considère la fiche valable 12 mois : ce sont les exigences clients qui tranchent. Réévaluez au moins chaque année si la durabilité fait partie de votre proposition commerciale, si vous poursuivez des objectifs précis (zéro émission nette, devoir de vigilance) ou si des clients clés suivent activement votre score.
 
-## Comment partager votre fiche d'évaluation
+## Comment partager votre fiche d'évaluation ?
 
 Le partage est une opportunité commerciale, pas de l'administration. Trois canaux principaux :
 
@@ -96,13 +96,13 @@ Les pratiques qui maximisent l'impact : l'alignement interne entre achats, vente
 
 EcoVadis fonctionne par **abonnement annuel** : la redevance couvre une évaluation par an, l'accès à la plateforme et votre fiche d'évaluation, facturée au lancement ou au renouvellement. Les formules supérieures ajoutent des fonctionnalités (plus de clients connectés, analyses avancées, multi-sites). Traitez l'abonnement comme un investissement récurrent, intégré au budget ESG, aux coûts de qualification fournisseurs ou aux cadres liés aux obligations clients. D'expérience ESGIM, les entreprises en tirent le meilleur parti en planifiant l'année autour de la date d'évaluation : les mois précédant le lancement servent à combler les écarts plutôt qu'à précipiter des preuves de faible qualité.
 
-## Lire la structure de la fiche pour s'améliorer
+## Comment lire la structure de la fiche pour s'améliorer ?
 
 Au-delà des chiffres de tête : des scores par thème avec comparaisons sectorielles et régionales ; une décomposition Politiques-Actions-Résultats souvent codée par couleurs ; une liste de **forces** ; une liste de **points d'amélioration**, base du plan d'actions correctives.
 
 Pour être efficace : commencez par votre thème le plus fort pour comprendre ce que « bien » veut dire dans votre contexte ; examinez ensuite le thème le plus faible, surtout s'il est matériel pour votre secteur (Environnement pour l'industrie, Social et Droits Humains pour les chaînes à forte main-d'œuvre) ; utilisez les points d'amélioration comme feuille de route — chaque puce correspond généralement à un document, une pratique ou un résultat manquant ou faible.
 
-## Comment améliorer votre score
+## Comment améliorer votre score ?
 
 > « Chaque point d'amélioration de votre fiche pointe un écart précis : une politique manquante, un processus pas encore formalisé, un KPI pas encore suivi. Traiter cette liste systématiquement, c'est construire un système de gestion de la durabilité — pas seulement améliorer un score. »
 

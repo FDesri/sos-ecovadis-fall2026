@@ -58,13 +58,13 @@ faq:
 
 De beoordeling dekt de vier thema's via beleid, acties en resultaten. De echte vraag is niet of u het alleen *kunt*, maar of de tijd die kruipt in het aanleren van een complexe, voortdurend evoluerende methodologie uw beste investering is.
 
-## De solotocht: EcoVadis intern aanpakken
+## Wat houdt EcoVadis intern beheren in?
 
 Waarom ondernemingen voor intern kiezen: **kostenbeheersing** (minder externe erelonen); **bestaande kennis benutten** (een zelfverzekerd duurzaamheidsteam); **interne capaciteit opbouwen** (de beoordeling als leerervaring); **controle behouden** (gevoelige informatie blijft binnen).
 
 De uitdagingen die erbij horen: **de nuances begrijpen** van een complexe, evoluerende methodologie; **beperkte middelen** (documentatie verzamelen vreet tijd weg van essentiële taken); **objectiviteit** (interne vooringenomenheid vertroebelt de zelfevaluatie); en **koers houden** terwijl de standaarden blijven bewegen.
 
-## Essentiële tips voor de solo-avonturier
+## Welk advies geldt als u het alleen doet?
 
 - **Vertrek vroeg:** begin 3 tot 6 maanden vóór de deadline — tijd voor documentatie, nieuwe initiatieven en het dichten van lacunes.
 - **Stel een afdelingsoverschrijdend team samen** dat alle duurzaamheidsaspecten dekt.
@@ -80,7 +80,7 @@ De beleidsdekking wordt in schijven gescoord: onder 33% van de sleutelthema's = 
 |---|---|---|---|---|
 | Geen geformaliseerd beleid | Kwalitatieve doelstellingen of kwantitatieve doelen; minder dan 67% van de sleutelfactoren gedekt | Doelstellingen/doelen; meer dan 67% gedekt | Doelstellingen/doelen; meer dan 67% gedekt; 1 van: governance en verantwoordelijkheden, herzieningsmechanisme, specifieke scope | Kwalitatieve doelstellingen voor alle sleutelfactoren; kwantitatieve doelen voor minstens 50% ervan; 2 van: governance, herzieningsmechanisme, specifieke scope |
 
-## Expertbegeleiding zoeken
+## Wanneer zoekt u expertbegeleiding?
 
 Voor veel organisaties is een partnerschap de strategischere keuze: **navigatie door het labyrint** (grondige methodologiekennis); een **onbevooroordeelde blik** op uw praktijken; **inzichten uit beste praktijken** van uiteenlopende organisaties; en een **gestroomlijnd proces** dat tijd en middelen bespaart en toch een grondige indiening garandeert.
 

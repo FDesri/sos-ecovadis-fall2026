@@ -50,7 +50,7 @@ faq:
 
 Five families of tips concentrate most of the field experience: team organisation, assessment scoping, documentary discipline, the Reporting score, and anticipating what's new (materiality, 360° Watch). None requires a big budget — all require starting early.
 
-## 1. Team organisation and project management
+## How do you organise the team and run the project?
 
 **Appoint a dedicated project lead (ambassador):** a single owner to steer the assessment, centralise information, manage the document library year over year and keep the submission deadlines.
 
@@ -63,11 +63,11 @@ Five families of tips concentrate most of the field experience: team organisatio
 
 **Anticipate the questionnaire:** open it well in advance to analyse methodology changes, and review EcoVadis' "Methodology Changes" section quarterly to prepare upstream.
 
-## 2. Defining the assessment scope
+## How do you define the assessment scope?
 
 **Clarify the assessment level from the outset:** group, specific legal entity or geographic site. **Align the scope with real governance:** centrally managed sustainability → group assessment; autonomous entities → entity- or site-level. **Actively manage mergers and acquisitions:** report any legal structure change to EcoVadis promptly — a **one-year grace period** is granted to integrate newly acquired subsidiaries into reports and policies.
 
-## 3. Documentary requirements and management
+## Which documentary requirements apply, and how do you manage them?
 
 **Respect the validity rules:** every document must carry the company logo or name and a creation or revision date. Photos, unsigned declarations and third-party documents (unless they explicitly name your company) are systematically rejected.
 
@@ -80,7 +80,7 @@ Five families of tips concentrate most of the field experience: team organisatio
 
 **Optimise the document library (55-file limit):** EcoVadis limits uploads to **55 new documents per year** — favour complete, cross-cutting documents that answer several sub-questions at once (a global policy, an H&S dashboard). Do not delete older, still-valid documents: they can be reused without touching the annual quota.
 
-## 4. Raising the Reporting score, and using audits
+## How do you raise the Reporting score, and when do audits help?
 
 **Publish a public sustainability report:** posting KPIs on a website no longer earns points. EcoVadis requires KPIs integrated into a **publicly accessible annual or sustainability report**, otherwise the Reporting score is capped at **50/100**. Drafting typically takes **3-4 months** — start well upstream.
 
@@ -90,7 +90,7 @@ Five families of tips concentrate most of the field experience: team organisatio
 
 **Use audits as an alternative to certifications:** if formal certifications (ISO 14001…) are too costly for your size, submit external audit reports (SMETA, BSCI, TfS). Conditions: a standalone audit (not tied to a certification), performed within the **last 2 years** by a verified external auditor, covering **more than 30% of your global operations**.
 
-## 5. Anticipating what's new: materiality and 360° Watch
+## How do you anticipate materiality and the 360° Watch?
 
 **Rigorously justify non-materiality (2026 pilot):** if you can exclude certain environmental topics (water, air pollution…), submit a **formal materiality (or double materiality) analysis** defining the topics and justifying the exclusion with impact data or stakeholder feedback. Failing that, detail your reasons in the EcoVadis comments to avoid the criterion being reactivated.
 

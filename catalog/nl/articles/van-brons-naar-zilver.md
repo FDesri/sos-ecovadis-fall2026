@@ -49,13 +49,13 @@ faq:
 
 **Expertinzicht — François Dequenne:** van Brons naar Zilver gaan is niet méér van hetzelfde doen. Dat is de fout die ik in deze fase het vaakst zie. Brons haalt u door beleid en enkele maatregelen te hebben. Zilver vraagt iets anders: aantonen dat duurzaamheidsbeheer **systematisch door de hele organisatie** loopt — niet geïsoleerd op het hoofdkantoor, niet geconcentreerd in één of twee thema's. Drie patronen houden Brons-ondernemingen telkens weer tegen: KPI-rapportering die sommige criteria dekt maar niet allemaal consistent; managementsystemen die op het hoofdkantoor bestaan maar niet zijn doorgetrokken naar vestigingen of sleutelsites; themascores die er globaal goed uitzien maar één zwakke plek verbergen. In mei 2026 ligt Zilver rond 73/100. Hier en daar een document toevoegen dicht die kloof niet.
 
-## Hoe EcoVadis-medailles in 2026 worden toegekend
+## Hoe worden EcoVadis-medailles in 2026 toegekend?
 
 Sinds januari 2024 kent EcoVadis medailles uitsluitend toe op basis van **percentielrang**, niet op vaste scoredrempels. Uw totaalscore wordt vergeleken met die van elke onderneming die de voorbije 12 maanden op het platform werd beoordeeld: Brons gaat naar de top 35%, Zilver naar de top 15%, Goud naar de top 5%, Platinum naar de top 1%. Omdat de databank blijft groeien en ondernemingen blijven verbeteren, stijgt de benodigde score voor elke medaille mettertijd.
 
 De scorereferenties in dit artikel komen uit de interne portfoliodata van ESG Interim Management, laatst bijgewerkt in mei 2026. Het zijn richtinggevende indicatoren, geen vaste doelen die EcoVadis publiceert.
 
-## Het Zilverprofiel: wat 73/100 betekent voor uw managementsysteem
+## Wat betekent 73/100 voor uw managementsysteem?
 
 Zilver plaatst uw onderneming in de top 15% van alle wereldwijd beoordeelde ondernemingen over de voorbije 12 maanden. Brons behalen is een echte mijlpaal — een gedocumenteerd, gestructureerd managementsysteem, gevalideerd tegen een wereldwijde vergelijkingsgroep, dat de toegangsdrempel van de grootste inkooporganisaties haalt. Zilver is een ander verhaal: in mei 2026 ligt het rond 73/100, tegenover ongeveer 68 in juli 2025 — een kloof van zo'n 9 punten boven Brons.
 
@@ -67,14 +67,14 @@ Zilver plaatst uw onderneming in de top 15% van alle wereldwijd beoordeelde onde
 
 Het sleutelwoord op Zilverniveau is **"gestructureerd"**. Brons vraagt bewijs dat beleid en enkele maatregelen bestaan. Zilver vraagt bewijs dat dat beleid steunt op werkende managementsystemen, dat maatregelen de geactiveerde criteria consistent dekken, en dat de prestaties worden opgevolgd en gerapporteerd.
 
-## De score in context: hoe de lat is opgeschoven
+## Hoever is de lat opgeschoven?
 
 De kloof tussen Brons en Zilver is de voorbije twaalf maanden groter geworden; de overstap is veeleisender dan in 2024. Die groeiende kloof betekent dat Zilver-ondernemingen sneller verbeteren dan de Brons-groep. Om ze te dichten moet u het structurele verschil tussen beide niveaus aanpakken — niet gewoon documenten toevoegen.
 
 > "Het Correctief Actieplan van EcoVadis geeft geprioriteerde aanbevelingen. Filteren op het hoogste gewicht en kruisen met de scorecard zorgt ervoor dat verbeteringen gericht zijn op maximale impact."
 > — *Pascal Durdu, Senior Sustainability Consultant, ESG Interim Management*
 
-## De omslag die de meeste Brons-houders missen
+## Welke omslag missen de meeste Brons-houders?
 
 De meest voorkomende misvatting in deze fase: verdergaan met wat eerder werkte — meer documenten zoeken, meer velden invullen, meer vakjes aanvinken. Drie patronen houden Brons-ondernemingen telkens tegen:
 
@@ -86,7 +86,7 @@ De meest voorkomende misvatting in deze fase: verdergaan met wat eerder werkte �
 
 *Een noot bij deze aanbevelingen:* ze komen uit patronen die ESGIM in zijn klantenportfolio waarneemt. Het zijn courante hefbomen met hoge impact, geen universele checklist — hun relatieve gewicht hangt af van uw grootte, sector, land en de criteria die voor uw scorecard geactiveerd zijn. Een gap-analyse tegen uw eigen scorecard blijft altijd de aanbevolen eerste stap.
 
-## De hefboomkaart: wat u bouwt voor Zilver
+## Wat moet u bouwen om Zilver te halen?
 
 **Milieu.** Stel kwantitatieve reductiedoelen voor broeikasgassen met een duidelijke tijdlijn en referentiejaar ("Scope 1- en 2-emissies met 20% verminderen tegen 2030 ten opzichte van 2023" is een toekomstgericht engagement dat de indicator Beleid rechtstreeks verbetert). Voer formele procedures in voor afval-, water- of luchtverontreinigingsbeheer waar die criteria geactiveerd zijn. Begin met een jaarlijks KPI-rapport over de belangrijkste milieu-indicatoren: dat alleen al doet de indicator Resultaten bij veel ondernemingen stijgen.
 
@@ -96,7 +96,7 @@ De meest voorkomende misvatting in deze fase: verdergaan met wat eerder werkte �
 
 **Duurzame Inkoop.** Hét prioritaire thema in deze overgang voor de meeste ondernemingen. Zet een formeel screeningproces of een zelfevaluatievragenlijst op voor strategische en risicoleveranciers. Rol een leveranciersgedragscode uit naar de top van uw leveranciersbestand. Rapporteer het percentage van de inkoopuitgaven dat door duurzaamheidscriteria wordt gedekt. De [EcoVadis essentials-gids](ecovadis-essentials-gids.md) legt uit hoe u leveranciersengagement in het platform aantoont.
 
-## Hoe dat er in de praktijk uitziet
+## Hoe ziet dat er in de praktijk uit?
 
 Een middelgrote chemieonderneming in Noord-Europa (ongeveer 600 medewerkers, vier sites) had twee cycli op rij Brons toen haar grootste klant een Zilver-vereiste invoerde — met één beoordelingscyclus om te verbeteren. De gap-analyse van ESGIM legde drie knelpunten bloot: broeikasgasdata intern opgevolgd maar zonder reductiedoelen en zonder ingediend milieu-KPI-rapport; een thema Duurzame Inkoop op 38/100 (geen leveranciersvragenlijst, geen leveranciersrisicoanalyse, geen verspreide gedragscode); en procedures Arbeids- en Mensenrechten die alleen de hoofdsite dekten.
 
@@ -104,7 +104,7 @@ Het verbeterprogramma van vijf maanden bracht kwantitatieve reductiedoelen, een 
 
 Over het hele portfolio verbeteren ESGIM-klanten gemiddeld met **13,8 punten**. Voor ondernemingen in de zone Brons-Zilver leveren gestructureerde investeringen in Duurzame Inkoop en KPI-rapportering doorgaans de snelste winst op.
 
-## Na Zilver
+## Wat komt er na Zilver?
 
 > "Met de trajectgerichte aanpak van ESGIM wordt elke EcoVadis-beoordeling vooral een bevestiging van de vooruitgang die al aan de gang is — een kaart van de weg die u al hebt afgelegd, niet alleen van de weg die nog voor u ligt."
 > — *Isabelle de Cambry, Senior Sustainability Consultant & Trainer, ESG Interim Management*

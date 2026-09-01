@@ -56,7 +56,7 @@ faq:
 
 La pression sur la durabilité des fournisseurs ne se limite plus aux grandes multinationales. Les entreprises de taille intermédiaire reçoivent désormais des exigences de durabilité de leurs plus grands clients comme condition standard des affaires : seuils de score EcoVadis dans les appels d'offres, codes de conduite référencés dans les contrats, questionnaires Scope 3 envoyés par les équipes achats en amont. Ces demandes arrivent souvent plus vite qu'une fonction durabilité tenue par une seule personne ne peut y répondre. Ce cadre indique par où commencer, pensé pour des équipes limitées et de vraies échéances.
 
-## Pourquoi les Achats Responsables sont montés dans l'agenda
+## Pourquoi les Achats Responsables sont-ils montés dans l'agenda ?
 
 Trois forces convergent, quel que soit le secteur.
 
@@ -66,23 +66,23 @@ Trois forces convergent, quel que soit le secteur.
 
 **Les demandes de données Scope 3.** Les clients qui poursuivent des objectifs science-based ou la conformité CSRD ont besoin des données d'émissions de leur chaîne d'approvisionnement. Aujourd'hui, 30 % des fournisseurs ne transmettent aucune donnée carbone à leurs acheteurs. Les entreprises capables de fournir des données Scopes 1, 2 et 3 fiables détiennent un avantage commercial mesurable.
 
-## Avant de construire : comprendre ce qui compte
+## Que faut-il comprendre avant de construire quoi que ce soit ?
 
 La première étape est de comprendre quels risques et impacts de durabilité sont réellement matériels pour votre chaîne d'approvisionnement. Choisir un outil ou écrire une politique avant cette étape produit de l'activité sans direction. Un industriel qui achète des matières premières, des produits chimiques et de la logistique ne porte pas les mêmes risques qu'un éditeur de logiciels qui achète de l'infrastructure IT ; s'approvisionner dans des géographies à risque expose autrement qu'acheter exclusivement dans l'UE.
 
 Une cartographie de matérialité basique — catégories de dépenses, secteurs et géographies des fournisseurs, risques associés à chacun — fonde un programme proportionné. Elle n'a pas besoin d'être complexe : une analyse des dépenses par catégorie avec une surcouche de risque à partir d'outils publics suffit à produire une liste de priorités opérante.
 
-## Étape 1 : cartographier la base fournisseurs
+## Étape 1 : comment cartographier la base fournisseurs ?
 
 Tirez vos données d'achats et segmentez les fournisseurs par dépense, catégorie et géographie. Identifiez le top 20 % des dépenses — cette tranche concentre typiquement 80 % du risque et de l'impact achats. Pour chaque segment, trois questions : quels risques de durabilité sont associés à ce secteur ou cette géographie ? Quel serait l'impact si quelque chose tournait mal ? Quelle influence l'entreprise a-t-elle sur ce fournisseur ?
 
 L'intersection risque élevé × influence élevée est le point de départ du programme. Une entreprise de taille intermédiaire n'a pas la bande passante pour gérer des centaines de relations avec la même intensité : l'approche par niveaux — engagement profond sur le top 20 %, exigences allégées pour le reste — est à la fois réaliste et défendable devant clients et auditeurs.
 
-## Étape 2 : établir la base de référence par l'évaluation des fournisseurs
+## Étape 2 : comment établir la base de référence ?
 
 Une évaluation de durabilité des fournisseurs construit une image systématique sur les quatre domaines qui comptent le plus : pratiques environnementales, social et droits humains, éthique et anticorruption, achats responsables. Pour les entreprises qui reçoivent déjà des demandes EcoVadis de leurs propres clients, c'est le moment d'évaluer leurs fournisseurs avec le même référentiel — EcoVadis évalue 21 critères adaptés au secteur, à la taille et à la géographie de chaque fournisseur, et faire tourner son propre programme d'achats via EcoVadis donne des données vérifiées et l'amorce d'un historique de programme défendable. Pour les fournisseurs pas encore sur EcoVadis, un questionnaire d'auto-évaluation structuré couvrant les mêmes quatre thèmes est un point de départ praticable.
 
-## Étape 3 : bâtir les politiques
+## Étape 3 : quelles politiques bâtir ?
 
 Trois documents forment le socle minimum viable :
 
@@ -92,7 +92,7 @@ Trois documents forment le socle minimum viable :
 
 Ensemble, ils satisfont les exigences du thème Achats Responsables d'EcoVadis, démontrent le devoir de vigilance aux clients et créent la traçabilité que les divulgations CSDDD et CSRD finiront par exiger.
 
-## Étape 4 : engager, mesurer, améliorer
+## Étape 4 : comment engager, mesurer et améliorer ?
 
 La gouvernance, la communication et la cadence de revue transforment des documents statiques en système vivant. Pour les fournisseurs prioritaires : envoyer le code de conduite, demander reconnaissance ou signature, lancer une évaluation via EcoVadis ou un référentiel comparable. Pour les moins prioritaires, une simple déclaration de conformité est un départ raisonnable.
 

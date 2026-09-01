@@ -53,7 +53,7 @@ faq:
 
 EcoVadis is 's werelds grootste leverancier van duurzaamheidsratings, en een hogere score versterkt de commerciële kansen: veel grote bedrijven eisen dat leveranciers een beoordeling ondergaan om contracten te winnen of te behouden. Het goede nieuws: er bestaan quick wins die de prestaties opkrikken zonder de hele duurzaamheidsstrategie in één keer om te gooien.
 
-## Quick win 1: beleid en procedures formaliseren
+## Quick win 1: hoe formaliseert u beleid en procedures?
 
 De snelste hefboom: bestaande praktijken — veiligheidsopleidingen, recyclageprogramma's, diversiteitsengagementen — omzetten in **geschreven, gestructureerd beleid**. Stel een bedrijfsbreed duurzaamheidsbeleid op dat milieu, arbeid, ethiek en inkoop dekt (engagementen op hoofdlijnen), aangevuld met gerichte beleidsdocumenten (anticorruptie, diversiteit & inclusie, koolstofreductie). Laat ze **ondertekenen door de directie en intern communiceren**: het signaal dat duurzaamheid verankerd is, niet geïmproviseerd.
 
@@ -69,23 +69,23 @@ Begrijp de tabel die u optimaliseert — het scoreraster achter elk thema:
 | Resultaten (35%) | Rapportering (40%) | Kwaliteit van de rapportering die stakeholders ter beschikking staat | 0 / 25 / 50 / 75 / 100 |
 | | 360° Watch (60%) | Standpunten van stakeholdervertegenwoordigers (overheden, vakbonden, ngo's) | 0 Ernstig / 25 Groot / 50 Klein / 75 Geen / 100 Positief |
 
-## Quick win 2: data- en rapporteringsprocessen
+## Quick win 2: welke data- en rapporteringsprocessen zet u op?
 
 EcoVadis beloont prestatiemeting sterk. Energieverbruik, afvalvolumes of personeelsverloop opvolgen kan de score doen bewegen — en **een spreadsheet volstaat om te beginnen**, zolang de data helder en reproduceerbaar zijn. Zet een KPI-dashboard op volgens de EcoVadis-thema's; rapporteer broeikasgasemissies, bij voorkeur Scope 1 en 2 (de Carbon Action-module helpt voor Scope 3); voer een jaarlijks duurzaamheidsrapport in, zelfs een korte pdf, om transparantie te tonen. Consistentie is de sleutel.
 
-## Quick win 3: leveranciersengagement
+## Quick win 3: hoe engageert u uw leveranciers snel?
 
 Ketenpraktijken zijn een sterke differentiator. Onmiddellijke stappen: **breng uw kritieke leveranciers in kaart** en beoordeel hun risico's per geografie, sector en managementsysteem; **voer een leveranciersgedragscode in**; **creëer een due-diligenceprocedure** in lijn met de regelgeving (bv. CSDDD). Zelfs bescheiden vooruitgang levert waardevolle punten op.
 
-## Quick win 4: certificeren en benchmarken
+## Quick win 4: welke certificaten en audits viseert u?
 
 Certificeringen worden hoog gewaardeerd: **ISO 14001** (milieumanagement), **ISO 45001** (welzijn op het werk) en **ISO 37001** (anticorruptie) zijn quick wins als de organisatie de goede praktijken al toepast. Is ISO-certificering te duur, dan leveren bewijzen van interne audits, externe verificatie of sectorcertificeringen nog steeds punten op.
 
-## Quick win 5: versterk uw koolstofbeheer
+## Quick win 5: hoe versterkt u uw koolstofbeheer?
 
 De CO₂-scorecard beoordeelt het koolstofbeheer op engagement, acties en rapportering, met een klassement van Onvoldoende tot Leider. Quick wins: stel heldere, ambitieuze klimaatdoelen (een Science-Based Target verhoogt de Engagementscore); voer praktische reductiemaatregelen in; houd de koolstofinventaris actueel over Scope 1, 2 en 3; rapporteer transparant; en herbekijk regelmatig sterktes en lacunes op de scorecard.
 
-## Wat dat oplevert in het portfolio
+## Wat leveren deze winsten op in het ESGIM-portfolio?
 
 Missies uitgevoerd door ESGIM en zijn consultants:
 
@@ -97,7 +97,7 @@ Missies uitgevoerd door ESGIM en zijn consultants:
 
 *De missies Bridgestone en Les Tartes de Françoise werden uitgevoerd door consultants die vandaag bij ESGIM werken, onder een vorige naam.*
 
-## Van actie naar momentum
+## Hoe zet u actie om in momentum?
 
 Snel verbeteren betekent bestaande goede bedoelingen omzetten in **gestructureerd bewijs** — beleid, data, engagementen, certificeringen. Die quick wins tellen op en verschuiven de score vaak met één of zelfs twee medailleniveaus in één cyclus. Begin met beleid, rapportering en leveranciersengagement, en bouw daar klimaatactie bovenop voor geloofwaardigheid op lange termijn.
 

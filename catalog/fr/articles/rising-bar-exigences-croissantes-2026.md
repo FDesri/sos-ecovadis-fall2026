@@ -53,7 +53,7 @@ faq:
 
 > « Pour conserver la même médaille, il faut s'améliorer. Pour monter de médaille, il faut démontrer une amélioration substantielle d'année en année. »
 
-## La réalité compétitive : pourquoi la stratégie de l'an dernier ne suffira pas
+## Pourquoi la stratégie de l'an dernier ne suffira-t-elle pas ?
 
 Depuis le passage au système percentile en 2024, obtenir et conserver une médaille devient progressivement plus difficile. Les médailles vont aux meilleurs des 12 derniers mois — vous concourez contre toutes les entreprises qui s'améliorent, pas contre un repère figé. Entre juillet 2025 et janvier 2026, le seuil de l'Argent a bondi de quatre points.
 
@@ -66,7 +66,7 @@ Depuis le passage au système percentile en 2024, obtenir et conserver une méda
 
 Reproduire la stratégie de l'an dernier ne produira pas le même résultat. Conserver sa médaille exige une amélioration mesurable ; monter, des progrès substantiels sur plusieurs indicateurs.
 
-## Les leçons clés de 2025
+## Que retenir de 2025 ?
 
 > « Un rapport de durabilité ne devient pas une preuve EcoVadis solide la semaine avant la soumission. Trois à quatre mois pour le construire, plus le délai d'assurance externe. Les organisations qui traitent le reporting comme un chantier parallèle — développé au fil de l'évaluation, pas assemblé pour elle — arrivent à la soumission avec tout en place. »
 
@@ -97,7 +97,7 @@ Un rapport solide demande trois à quatre mois, plus le délai d'assurance : com
 
 Pour les petites entreprises, les certifications ISO peuvent être coûteuses. Bonne nouvelle : **des audits liés à la durabilité peuvent scorer à leur place**, sous conditions — audit autonome (ne contribuant pas à une certification), couvrant plus de 30 % des opérations totales, sur des sujets matériels pour vous, avec le rapport complet d'un auditeur externe qualifié ou accrédité. Exemples valables : Sedex SMETA (très aligné sur la méthodologie EcoVadis), amfori BSCI, TfS pour la chimie ; même les audits de seconde partie menés par un auditeur externe qualifié. Cela rapporte moins qu'une certification (ISO 14001 contribue jusqu'à 100 points sur les systèmes de gestion environnementale) — et attention : des non-conformités majeures ou mineures dans le rapport peuvent coûter des points ou alimenter votre Veille 360°.
 
-## Les évolutions méthodologiques 2026
+## Qu'est-ce qui change dans la méthodologie 2026 ?
 
 **Évolution n° 1 — Le choix des sujets environnementaux matériels.** EcoVadis poursuit son pilote de personnalisation de la matérialité : les organisations de certains secteurs (fabrication pharmaceutique, plasturgie, électronique, certaines filières agricoles) sont interrogées sur la matérialité de sujets comme l'eau, la pollution de l'air, l'utilisation du produit, la fin de vie et la santé-sécurité des clients. Si un sujet n'est pas matériel, les questions liées se désactivent. Pour le prouver : une analyse de matérialité complète — les sujets ESG significatifs, l'impact de l'organisation sur chacun, et les sujets écartés avec leur justification. Prudence : toute information contradictoire (observations de la Veille 360°, processus visibles dans d'autres documents) conduit EcoVadis à réactiver le sujet.
 
@@ -105,7 +105,7 @@ Pour les petites entreprises, les certifications ISO peuvent être coûteuses. B
 
 **Évolution n° 3 — La reconnaissance du référentiel VSME.** EcoVadis reconnaît désormais formellement le standard EFRAG **VSME** — le cadre européen simplifié pour les PME hors du champ CSRD. Un reporting aligné sur le **module Basic** peut atteindre 75/100 en Rapports (autres critères remplis) ; **Basic + Comprehensive** peut atteindre 100. Une voie simplifiée vers des soumissions solides et les attentes européennes émergentes.
 
-## Votre plan d'action 2026
+## Quel plan d'action pour 2026 ?
 
 - **Vérifiez votre périmètre d'évaluation** au début de chaque cycle — la documentation doit s'aligner parfaitement sur le niveau groupe, entité ou site.
 - **Élevez la maturité de votre reporting** : visez un rapport public aligné GRI, ESRS ou VSME, avec des KPI couvrant tous les sujets pertinents.

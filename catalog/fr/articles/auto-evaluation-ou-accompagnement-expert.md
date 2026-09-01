@@ -59,13 +59,13 @@ faq:
 
 L'évaluation couvre les quatre thèmes à travers politiques, actions et résultats. La vraie question n'est pas de savoir si vous *pouvez* le faire seul, mais si le temps passé à apprendre une méthodologie complexe et mouvante est votre meilleur investissement.
 
-## La traversée en solitaire : gérer EcoVadis en interne
+## Que suppose de gérer EcoVadis en interne ?
 
 Les raisons du choix interne : **la maîtrise des coûts** (moins d'honoraires externes) ; **l'exploitation du savoir existant** (une équipe durabilité confiante) ; **la montée en compétence** (l'évaluation comme apprentissage) ; **le contrôle** (les informations sensibles restent en interne).
 
 Les défis qui l'accompagnent : **comprendre les subtilités** d'une méthodologie complexe et évolutive ; **les ressources limitées** (la collecte documentaire dévore du temps au détriment de l'essentiel) ; **l'objectivité** (les biais internes brouillent l'auto-évaluation) ; et **tenir la distance** face à des standards qui bougent en permanence.
 
-## Les conseils essentiels de l'aventurier solitaire
+## Quels conseils pour ceux qui font seuls ?
 
 - **Partir tôt :** commencez 3 à 6 mois avant l'échéance — le temps de la documentation, des nouvelles initiatives et des corrections d'écarts.
 - **Monter une équipe transverse** couvrant tous les aspects de la durabilité.
@@ -81,7 +81,7 @@ La couverture des politiques est notée par paliers : sous 33 % des enjeux clés
 |---|---|---|---|---|
 | Aucune politique formalisée | Objectifs qualitatifs ou cibles quantitatives ; moins de 67 % des critères clés couverts | Objectifs/cibles ; plus de 67 % couverts | Objectifs/cibles ; plus de 67 % couverts ; 1 parmi : gouvernance et responsabilités, mécanisme de revue, périmètre spécifique | Objectifs qualitatifs pour tous les critères clés ; cibles quantitatives pour au moins 50 % d'entre eux ; 2 parmi : gouvernance, mécanisme de revue, périmètre spécifique |
 
-## Chercher l'accompagnement expert
+## Quand chercher un accompagnement expert ?
 
 Pour beaucoup d'organisations, le partenariat est le choix le plus stratégique : **la navigation dans le labyrinthe** (connaissance approfondie de la méthodologie) ; **un regard neutre** sur vos pratiques ; **les enseignements des meilleures pratiques** issus d'organisations variées ; et **un processus fluidifié** qui économise temps et ressources tout en garantissant une soumission rigoureuse.
 

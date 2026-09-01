@@ -55,13 +55,13 @@ faq:
 
 The typical scene: your largest customer says your score must reach Silver by Q3; you are the sustainability manager — and the sustainability team. The first thing to figure out is what data EcoVadis actually wants on greenhouse gas emissions.
 
-## Why GHG emissions are central to your Environment score
+## Why are GHG emissions central to the Environment score?
 
 Within the Environment theme, **energy consumption and GHG emissions** is a primary criterion for most rated companies (activation depends on country, sector and size). The theme can also cover materials, chemicals and waste, water, biodiversity, product use and end-of-life, customer health and safety, and environmental services and advocacy — but GHG management carries the highest commercial visibility and is what buyers scrutinise most. For manufacturing, chemicals, packaging and logistics companies, Environment typically carries the highest weight in the overall score: GHG management is a core determinant of Silver, Gold or Platinum.
 
 Assessors look at GHG through **P-A-R**: **Policy** (a formal climate/GHG policy endorsed by senior management), **Actions** (reduction initiatives, energy or carbon audits, certifications), **Results** (actual reductions, verified data, third-party recognition). A GHG policy with no supporting measurement data scores at Policy level only — companies that write a policy but never complete the baseline consistently fail to break through to Silver, however good their other submissions.
 
-## What a GHG baseline actually is
+## What is a GHG baseline, really?
 
 A quantified measurement of your emissions across three scopes:
 
@@ -71,20 +71,20 @@ A quantified measurement of your emissions across three scopes:
 
 For EcoVadis, a reliable Scope 1 + 2 baseline is the minimum for credible GHG management; adding the most material Scope 3 categories significantly strengthens Actions and Results evidence.
 
-## The data you actually need
+## Which data do you actually need?
 
 No large team required. **Scope 1:** natural gas or heating oil consumption (invoices or meter readings, full calendar year); company vehicle fuel (fuel cards, fleet records); sector-relevant process emissions. **Scope 2:** electricity by site, full year (utility invoices); renewable certificates for the market-based calculation. **Scope 3 starters:** business travel; an employee commuting survey (acceptable as a starting point); freight and logistics data; purchased-goods spend for a Category 1 screening estimate.
 
 Emissions = activity data × emission factors. The **GHG Protocol Corporate Standard** (WRI/WBCSD, ghgprotocol.org) is the globally accepted methodology, recognised directly by EcoVadis assessors.
 
-## How the baseline feeds your score
+## How does the baseline feed your score?
 
 - **Policy level:** reference the baseline methodology in your environmental policy — "we measure and manage emissions in line with GHG Protocol methodology" beats a generic commitment.
 - **Actions level:** upload the inventory results and document specific initiatives — efficiency upgrades, renewable procurement, fleet electrification. Each documented action adds.
 - **Results level:** reported emissions data earns Results credit; one reporting year is enough to be scored, and three or more years in the same document earns a bonus. Remember: EcoVadis assesses the management system, not environmental performance — the size of the reduction does not add points; quantified, documented reporting does.
 - **Third-party recognition:** CDP submissions, SBTi commitments or ISO 14001 certification lift the Results score across multiple criteria at once.
 
-## Value beyond EcoVadis
+## What is this work worth beyond EcoVadis?
 
 The same baseline is the foundation of the wider programme: **CSRD** (ESRS E1 requires Scope 1, 2, 3 disclosures — same data structure), **SBTi** (validation starts from a clean multi-year inventory), **CDP** (the climate questionnaire centres on inventory, targets and initiatives). One investment, four compliance and disclosure pathways — the efficiency that matters most to a resource-constrained sustainability manager.
 

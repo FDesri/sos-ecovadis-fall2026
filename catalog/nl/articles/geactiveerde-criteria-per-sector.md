@@ -56,13 +56,13 @@ faq:
 
 **Expertinzicht — François Dequenne:** de grootste fout die we zien: ondernemingen die een generieke EcoVadis-indiening voorbereiden zonder eerst te begrijpen welke criteria voor hun sector echt tellen. Dáár blijven scores steken. Uw score komt niet uit één universele vragenlijst: hij wordt gevormd door uw sector, uw grootte en uw vestigingen. Twee ondernemingen die in dezelfde week indienen, kunnen totaal verschillende scorecards krijgen, omdat voor elk andere criteria geactiveerd zijn. Focus op de verkeerde domeinen en u besteedt maanden aan bewijs met minimaal gewicht; begrijp het activeringspatroon van uw sector en elk uur voorbereiding wordt gericht.
 
-## Wat "geactiveerde criteria" werkelijk betekent
+## Wat betekent geactiveerde criteria werkelijk?
 
 EcoVadis beoordeelt ondernemingen op **21 duurzaamheidscriteria**, gegroepeerd in de vier thema's. Niet alle 21 gelden voor iedereen. Bij registratie geeft u uw sectorclassificatie (**ISIC-code**), grootte en vestigingen op. EcoVadis bepaalt daarmee welke criteria materieel zijn: criteria met **hoog belang** wegen het zwaarst, criteria met **gemiddeld belang** tellen minder, en **niet-geactiveerde** criteria tellen helemaal niet. Een softwarebedrijf krijgt geen vragen over het beheer van gevaarlijke stoffen; een chemieproducent wel, met veel gewicht.
 
 De totaalscore is een gewogen gemiddelde van de vier themascores — en ook de themagewichten verschuiven per sector, grootte en landenrisicoprofiel. Twee ondernemingen kunnen identieke ruwe themascores hebben en toch andere totaalresultaten.
 
-## Productie
+## Wat weegt het zwaarst in de productie?
 
 Voor producenten — machines, componenten, kunststoffen, industriële uitrusting — dragen **Milieu en Arbeid** doorgaans het hoogste gecombineerde gewicht.
 
@@ -74,7 +74,7 @@ Binnen Milieu is **Energieverbruik & broeikasgassen** voor de meeste productiese
 
 > "Bij producenten bestaan de data over energie, afval en veiligheid meestal al in EHS-systemen, energiefacturen of incidentenlogboeken. De kloof zit in het structureren ervan in het formaat dat EcoVadis kan scoren."
 
-## FMCG en consumentengoederen
+## Wat weegt het zwaarst in FMCG en consumentengoederen?
 
 Voor FMCG-bedrijven en consumentenmerken ziet de beoordeling er duidelijk anders uit: **Duurzame Inkoop weegt zwaarder, en Arbeid reikt dieper in de ketenrisico's**.
 
@@ -82,7 +82,7 @@ Voor FMCG-bedrijven en consumentenmerken ziet de beoordeling er duidelijk anders
 
 **Duurzame Inkoop blijft wereldwijd het laagst scorende thema** — een wereldwijd gemiddelde van 43,1/100 volgens de EcoVadis Index, 9e editie (2025). Voor FMCG-bedrijven, onder druk van het Consumer Goods Forum en regelgevers rond ketentransparantie, is dit thema tegelijk het grootste risico en de grootste kans. Goed scoren vereist minstens: een leveranciersgedragscode, bewijs van duurzaamheidsevaluaties van leveranciers (minimaal via vragenlijst), en registraties van opleidingen verantwoord inkopen voor de aankopers. Ook due diligence op ketenniveau — auditdekking van het leveranciersbestand, opleiding van het inkoopteam rond dwangarbeidrisico's — wordt hier beoordeeld. Veel FMCG-bedrijven hebben die programma's; de kloof zit meestal in de vertaling naar het formaat en de precisie die analisten kunnen verifiëren.
 
-## Chemie
+## Wat weegt het zwaarst in de chemie?
 
 Chemiebedrijven krijgen de **breedste milieuactivering**: Materialen & afval, Luchtverontreiniging en Water staan doorgaans alle drie op hoog belang; afhankelijk van locaties en activiteiten kunnen ook Biodiversiteit en Gezondheid & veiligheid geactiveerd worden. Dat weerspiegelt het reële risicoprofiel: gevaarlijke stoffen op schaal, VOS-emissies, complexe afvalstromen, sites nabij waterbronnen.
 
@@ -90,7 +90,7 @@ Bij Materialen & afval peilt de beoordeling naar GHS-conforme etikettering, proc
 
 Voor Milieu in het algemeen: behandel **ISO 14001 als de basiscertificering** — maar de dekking bepaalt de waarde: een certificaat voor 30% van de sites draagt veel minder bij dan een voor 80%.
 
-## De sectoroverstijgende waarheid: geen enkel geactiveerd criterium mag u negeren
+## Mag u een geactiveerd criterium ooit negeren?
 
 Criteria met gemiddeld belang tellen wél mee in de themascore. Een gemiddeld criterium op nul trekt het thema omlaag en kan een medailleniveau kosten — te meer omdat de percentiellat elke cyclus stijgt (Platinum top 1%, Goud top 5%, Zilver top 15%, Brons top 35%).
 

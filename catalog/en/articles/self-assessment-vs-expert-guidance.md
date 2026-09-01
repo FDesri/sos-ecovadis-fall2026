@@ -57,13 +57,13 @@ faq:
 
 The assessment evaluates the four themes through policies, actions and results. The real question is not whether you *can* do it alone, but whether the time spent learning a complex, constantly evolving methodology is your best investment.
 
-## The solo voyage: tackling EcoVadis in-house
+## What does running EcoVadis in-house involve?
 
 Reasons companies choose the in-house route: **cost control** (fewer external fees); **leveraging existing knowledge** (a confident sustainability team); **building internal capacity** (the assessment as a learning experience); **maintaining control** (sensitive information stays inside).
 
 The challenges that come with it: **understanding the nuances** of a complex, evolving methodology; **resource constraints** (documentation gathering is time-consuming and pulls people from essential tasks); **objectivity** (internal biases cloud self-assessment); and **staying the course** as standards keep evolving.
 
-## Essential tips for the solo adventurer
+## What advice applies if you go it alone?
 
 - **Chart your course early:** start 3-6 months before the deadline — time for documentation, new initiatives and gap-fixing.
 - **Assemble a cross-functional team** covering every sustainability aspect.
@@ -79,7 +79,7 @@ Policy coverage is scored in bands: below 33% of key issues = low score; 33-65% 
 |---|---|---|---|---|
 | No formalised policy | Qualitative objectives or quantitative targets; less than 67% of key criteria covered | Objectives/targets; more than 67% covered | Objectives/targets; more than 67% covered; 1 of: governance & responsibilities, review mechanism, specific scope | Qualitative objectives for all key criteria; quantitative targets for at least 50% of them; 2 of: governance, review mechanism, specific scope |
 
-## Seeking expert guidance
+## When should you seek expert guidance?
 
 For many organisations, partnering is the more strategic choice: **navigating the labyrinth** (in-depth methodology knowledge); an **unbiased perspective** on your practices; **best-practice insights** from diverse organisations; and a **streamlined process** that saves time while ensuring a thorough submission.
 

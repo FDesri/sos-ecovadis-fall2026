@@ -49,11 +49,11 @@ faq:
 
 **Expertinzicht — François Dequenne:** op Goudniveau wordt de vraag: werken die systemen echt, zijn ze volledig uitgerold, en zijn ze zichtbaar voor de buitenwereld? Dat is een betekenisvolle omslag — en precies daar zie ik veel Zilver-houders vastlopen. De ondernemingen die doorbreken naar Goud doen consequent enkele dingen anders: SMART, kwantitatieve doelen in plaats van louter kwalitatieve engagementen; een publiek duurzaamheidsrapport volgens een erkende standaard — niet alleen interne rapportering; gedocumenteerde maatregelen voor elk geactiveerd criterium, en meer. In mei 2026 staat Goud op 81/100, tegenover 77 amper een jaar geleden — sneller stijgend dan eender welk ander medailleniveau in de eerste helft van 2026. Zilver-houders met scores in de lage tot midden 70 hebben minder marge dan hun percentielpositie doet vermoeden, en de kloof van 8 punten tussen Zilver en Goud is niet gelijk verdeeld over de scorecard. Precies weten waar te focussen maakt het verschil.
 
-## Wat Goud betekent
+## Wat betekent Goud?
 
 De Gouden medaille is voorbehouden aan de **top 5%** van alle ondernemingen die EcoVadis de voorbije 12 maanden beoordeelde. In 2024 betekende dat een score rond 73/100; in mei 2026 ongeveer 81. Ze halen veronderstelt dat u de criteria voor Brons en Zilver overtreft en duurzaamheidsbeheer veel gedetailleerder aanpakt. Dat vraagt tijd en investering — en het is een grote stap vooruit in stakeholderengagement en in de uitvoering van uw duurzaamheidsstrategie.
 
-## De volgende stappen begrijpen: "consistent en volledig"
+## Wat betekent consistent en volledig precies?
 
 Gezien de veel strengere criteria op Goudniveau is het sleutelbegrip doorheen de hele beoordeling **"consistent en volledig"**.
 
@@ -61,17 +61,17 @@ Voor Brons of Zilver is volledig bewijs voor alle geactiveerde criteria niet nod
 
 Bijvoorbeeld: een zuivelcoöperatie zonder bewijs voor haar biodiversiteitsstrategie moet daar de inspanning concentreren. Een productiebedrijf moet stevig bewijs leveren over zijn strategie rond welzijn op het werk. En voor de meeste Goud-kandidaten is afdoende bewijs van een **proactieve engagementstrategie met leveranciers, klanten en andere stakeholders** cruciaal.
 
-## Wat geldt als bewijs van Goudniveau
+## Wat geldt als bewijs van Goudniveau?
 
 De juiste bewijsstukken zijn vitaal: gedragscodes, duurzaamheidsrapporten, verslagen van recente externe audits, opleidingsmateriaal — allemaal voldoende **recent, relevant en volledig**.
 
 Eén type bewijs is essentieel voor zowel Goud als Platinum: **bewijs van doeltreffende rapportering**. Uw materiaal moet aantonen dat u kwantitatieve doelen hebt gesteld en een haalbaar plan hebt om ze te bereiken.
 
-## Volg en meet uw vooruitgang doeltreffend
+## Hoe volgt en meet u uw vooruitgang doeltreffend?
 
 Toon de kaders waarmee u de vooruitgang opvolgt: KPI-dashboards en beleidsdocumenten die uw opvolgingspraktijken beschrijven. Neem ook KPI's op voor stakeholders in uw **waardeketen** — leveranciers en klanten — om te tonen dat u de impact van uw onderneming voorbij de eigen muren aanpakt.
 
-## Toon het engagement van de directie
+## Hoe toont u het engagement van de directie aan?
 
 De betrokkenheid van het topmanagement verbetert de beoordeling om twee redenen. Ten eerste vraagt Goud meer financiële en tijdsinvestering dan Brons of Zilver: het draagvlak bij de directie moet het hele jaar door standhouden, onderhouden met gerichte opleidingen en regelmatige strategie-updates. Ten tweede vraagt Goud het bewijs dat duurzaamheidsbeheer **verankerd zit in de bedrijfsstrategie**: deelname van bestuurders aan sectorfora of duurzaamheidsconferenties toont dat engagement; een geïntegreerd jaarverslag met een specifiek duurzaamheidsluik documenteert het. Zo verbetert uw EcoVadis-score op natuurlijke wijze naarmate de duurzaamheidsmaturiteit van de organisatie groeit.
 

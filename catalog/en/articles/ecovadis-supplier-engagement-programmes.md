@@ -55,11 +55,11 @@ faq:
 
 The turning point is familiar: the business has chosen EcoVadis as its primary tool for assessing supplier sustainability, a timeline is agreed, communication has gone out — and then reality arrives: hundreds or thousands of suppliers, wide variation in maturity, limited resources on both sides, a deadline that is not moving. A supplier engagement programme is not a request; it is a system. Done well, it creates transparency, drives measurable improvement and feeds the supply chain and Scope 3 data regulators increasingly demand. Done poorly, it generates friction, low completion rates and data that does not hold up.
 
-## Why buying programmes stall
+## Why do buying programmes stall?
 
 Most underperforming programmes fail for the same reasons: suppliers receive an invitation without context; score thresholds are set without reference to where suppliers actually stand; capacity building is absent; the internal team lacks bandwidth to follow up. The numbers reflect the gap: 71% of organisations view supply chain sustainability as critical to their own goals, yet only 26% of buyers cover more than half their addressable spend with third-party ESG ratings. It is not primarily a technology problem — it is a programme design problem, and it is closeable: the teams seeing the best results treat supplier engagement as an ongoing operating model, not a one-off campaign.
 
-## Step 1: Segment before you invite
+## Step 1: how do you segment before inviting?
 
 Segment the supplier base across at least three dimensions: sustainability risk (industry, geography, activity), spend, and strategic importance. High spend × high risk defines the priority population, assessed first and engaged most intensively.
 
@@ -71,19 +71,19 @@ Segment the supplier base across at least three dimensions: sustainability risk 
 
 This matters for compliance too: the CSDDD requires proportionate due diligence across value chains — under the Omnibus package as currently proposed, transposition is extended to 26 July 2028, with phased application expected from 2029. Segmentation is not just good practice; it is the programme architecture regulators expect to see documented.
 
-## Step 2: Set requirements and make them contractually real
+## Step 2: how do you make requirements contractually real?
 
 Answer three questions before any invitation goes out: what score or medal is required — or is cycle one a "complete and share" baseline? What is the completion timeline? What happens if a supplier misses the threshold?
 
 Thresholds must be grounded in baseline reality. Requiring Gold in year one without knowing where suppliers start sets the programme up to fail; a more effective model sets "complete and share" as the cycle-one minimum and introduces thresholds in subsequent cycles. Contractual integration strengthens the signal: embedding EcoVadis requirements in contracts, onboarding criteria and RFP scoring marks this as a business requirement, not a voluntary initiative — the path taken by major buyers such as DHL, Merck and Brenntag.
 
-## Step 3: Communicate before you activate
+## Step 3: what do you communicate before activating?
 
 The first supplier communication sets the tone for the whole programme. Suppliers invited without prior context are less likely to complete and more likely to treat the assessment as an administrative burden. A well-structured launch communication covers: the reason for the request, the timeline and any score requirements, the support available, and the commercial implications. Where a dedicated supplier briefing or training precedes activation, completion rates and evidence quality are consistently higher.
 
 The 2024 EcoVadis Sustainable Procurement Barometer found 67% of leading buyers require suppliers to participate in sustainability ratings — and 53% provide ESG training and e-learning to support them. The correlation is not coincidental: the programmes seeing the best results build capability alongside the requirement.
 
-## Step 4: Build capability, not just compliance
+## Step 4: how do you build capability, not just compliance?
 
 > "Capacity building is the investment that separates a supplier engagement programme from a compliance exercise. Suppliers who receive the right training and documentation support achieve better scores, produce stronger evidence, and sustain those improvements across subsequent cycles."
 
@@ -91,7 +91,7 @@ The most common reason programmes plateau is that the requirement exceeds the ca
 
 Collective action makes this more efficient: sector-wide initiatives operating through the EcoVadis ecosystem let multiple buyers align requirements and pool training, reducing the burden on suppliers facing requests from many customers at once. One of the clearest themes from EcoVadis Sustain 2026: the organisations making the fastest progress build shared systems suppliers can work with, not fragmented processes they have to fight through.
 
-## Step 5: Monitor, act, and close the loop
+## Step 5: how do you monitor, act and close the loop?
 
 Collecting scores is not an outcome. The value comes from what the data enables: supplier risk assessment, improvement tracking, procurement decisions grounded in evidence. Build a review cadence into governance: track completion rates by segment, review score distributions across the four themes (Environment, Labour & Human Rights, Ethics, Sustainable Procurement), flag suppliers whose performance declined or who need a corrective action plan. EcoVadis's live monitoring surfaces alerts on significant ESG incidents for rated suppliers — a continuous view of risk rather than a point-in-time snapshot.
 
@@ -99,7 +99,7 @@ Critically, results should feed upward: preferred-supplier designations, contrac
 
 The annual programme cycle: segmentation (risk × spend) → invitation by tier → launch communication → assessment → scorecard review → action planning (CAPs for priority suppliers) → reassessment.
 
-## Connecting it to the bigger picture
+## How does this connect to the bigger picture?
 
 A well-run programme is a live data source for the most demanding reporting obligations: ESRS E1 and S2 under CSRD require supply chain climate data and due diligence evidence — EcoVadis scorecards and evidence packages are directly relevant to both; supplier engagement is a primary mechanism for reducing Scope 3 Category 1 emissions; and for CSDDD preparation, a documented, evidence-based programme with proportionate due diligence by tier is precisely what the Directive expects. Addressing Scope 3 effectively requires procurement and sustainability teams to work from the same data — EcoVadis is one of the most effective bridges between the two.
 

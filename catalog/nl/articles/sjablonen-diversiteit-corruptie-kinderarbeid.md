@@ -54,7 +54,7 @@ faq:
 
 "Dat speelt allemaal niet in onze onderneming!" — de klassieke reactie van een Belgische kmo op de vragen over diversiteit, corruptie en kinderarbeid. Toch moet u antwoorden: EcoVadis beoordeelt het **managementsysteem**, niet het bestaan van incidenten. Het goede nieuws: het verwachte bewijs is eenvoudig — een selectierooster, een geschenkenregister, een hr-dashboard, een aanwervingschecklist — en zelfs "0 gevallen" is rapporteerbaar als het kanaal bestaat en wordt opgevolgd. Deze fiche geeft het nuttige bewijs per onderwerp en vijf gebruiksklare sjablonen.
 
-## 1) Diversiteit / non-discriminatie (thema Arbeids- en Mensenrechten)
+## Wat antwoordt u over diversiteit en non-discriminatie?
 
 In België mikt het wettelijke kader op gelijke behandeling in de toegang tot werk en de arbeidsvoorwaarden; de Belgische gids voor inclusieve rekrutering dekt het traject van behoefte tot integratie.
 
@@ -69,7 +69,7 @@ In België mikt het wettelijke kader op gelijke behandeling in de toegang tot we
 
 **Te vermijden:** "wij zijn een inclusieve onderneming" zonder bewijs, een generiek charter dat niet is uitgerold, onnodige persoonsgegevens.
 
-## 2) Corruptierisico (thema Ethiek)
+## Wat antwoordt u over corruptierisico?
 
 De anticorruptiegids van de FOD Economie nodigt Belgische ondernemingen uit tot interne maatregelen op maat van hun grootte, sector en activiteitsgebieden: voorafgaande controles op partners, eerlijke boekhoudprocedures, controlesystemen en gedocumenteerde opleidingen.
 
@@ -83,11 +83,11 @@ De anticorruptiegids van de FOD Economie nodigt Belgische ondernemingen uit tot 
 | Eenvoudige boekhoudcontrole | Geanonimiseerd voorbeeld van goedkeuring op twee niveaus: gevoelige betalingen, onkostennota's, commissies |
 | Melding / onderzoek | Geanonimiseerd register van ethische meldingen: datum, onderwerp, status, corrigerende actie, afsluiting |
 
-## 3) Rapportering sociaal en mensenrechten
+## Wat antwoordt u over sociale en mensenrechtenrapportering?
 
 Hier verwacht EcoVadis een **rapporteringsdocument**: hr-dashboard, sociale balans, intern managementrapport — dat de actieve opvolging van KPI's aantoont met eenheden en periode, niet de loutere beschikbaarheid van informatie. Voor een Belgische onderneming is de **sociale balans** een waardevol stuk: ze maakt deel uit van de jaarrekening en bevat personeelsbestand, personeelsverloop en opleidingen; het verkorte schema van kleine vennootschappen dekt al personeelsbestand, contracten, geslacht, categorieën, verloop en opleidingen. Op te volgen KPI's: personeelsbestand en VTE, geaggregeerde verdeling per geslacht, verloop, opleidingsuren en opgeleide medewerkers (veiligheid, ethiek, non-discriminatie, mensenrechten, anticorruptie), ongevallen, sociaal overleg, geanonimiseerde meldingen, jonge werknemers, kritieke leveranciers sociaal beoordeeld.
 
-## 4) Preventie van kinderarbeid en dwangarbeid
+## Wat antwoordt u over kinderarbeid en dwangarbeid?
 
 De Belgische wet beschermt strikt de minderjarigen onder 15 jaar of nog in voltijdse leerplicht (beperkte uitzonderingen); jonge werknemers genieten specifieke bescherming. Dwangarbeid wordt ook behandeld via mensenhandel: lange uren, laag of geen loon, economische afhankelijkheid, inhouding van documenten.
 
@@ -100,11 +100,11 @@ De Belgische wet beschermt strikt de minderjarigen onder 15 jaar of nog in volti
 | Leveranciers / onderaannemers | Sociale vragenlijst, contractclausule, beoordeling van risicoleveranciers, controle van uitzendkantoren |
 | Meldingsregister | Geanonimiseerd register — of "0 incidenten" als de opvolging reëel is |
 
-## De vijf kopieerklare sjablonen
+## Wat zijn de vijf kopieerklare sjablonen?
 
 De ESGIM-catalogus levert vijf rechtstreeks herbruikbare modellen: **(1) Bewijsfiche van een actie** — hoofding (thema, criterium, datum, verantwoordelijke, periode), geïdentificeerd risico, uitgevoerde actie, scope, bewijzen als bijlagen, resultaat-KPI's, opvolgingsbeslissing, validatie; **(2) Register diversiteitsacties** — datum, proces, risico, actie, bewijs, KPI, volgende actie; **(3) Corruptierisicomatrix** — proces, scenario, brutoniveau, controlemaatregel, bewijs, verantwoordelijke, frequentie, laatste resultaat; **(4) Dashboard Arbeids- en Mensenrechten** — 10 KPI's met definitie, eenheid, jaar N-1/N, bron, commentaar, en een blok interne review; **(5) Register leeftijd / jonge werknemers / dwangarbeid** — aanwervingscontroles, leverancierscontroles, meldingsregister.
 
-## Het aanbevolen minimumdossier (Belgische onderneming, grootte S)
+## Wat is het minimumdossier voor een Belgische onderneming van grootte S?
 
 | EcoVadis-onderwerp | Hoofddocument om op te laden | Nuttige bijlagen |
 |---|---|---|

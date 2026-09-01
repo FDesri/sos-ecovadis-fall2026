@@ -46,7 +46,7 @@ faq:
 
 ENV7012 trekt de klimaatrisicobeoordeling (ENV7003) door naar het terrein van de **acties**: wat doet de onderneming concreet om milieuverstoringen te weerstaan? Twee families van bewijs worden verwacht — adaptieve praktijken die in de operaties geïntegreerd zijn, en noodreserves of vangnetten. Geen impact op de score, maar zichtbaar op de scorecard.
 
-## 1. Adaptieve praktijken integreren in de operaties
+## Hoe integreert u adaptieve praktijken in de operaties?
 
 **Voorbeelden van bij te voegen documenten:**
 
@@ -62,7 +62,7 @@ ENV7012 trekt de klimaatrisicobeoordeling (ENV7003) door naar het terrein van de
 - Aanpassing van processen of site-onderhoud om het verlies van lokale ecosysteemdiensten op te vangen (bodemerosie, aantasting van natuurlijke stormbuffers)
 - Aanpassing van interne logistieke routes of toegangswegen om overstromingsgevoelige zones te vermijden
 
-## 2. Noodreserves en vangnetten
+## Welke noodreserves en vangnetten voorziet u?
 
 **Voorbeelden van bij te voegen documenten:**
 

@@ -57,13 +57,13 @@ faq:
 
 **Regard d'expert — François Dequenne :** la plus grande erreur que nous voyons, ce sont les entreprises qui préparent une soumission EcoVadis générique sans comprendre d'abord quels critères comptent réellement pour leur secteur. C'est là que les scores stagnent. Votre score ne sort pas d'un questionnaire universel : il est façonné par votre secteur, votre taille et vos implantations. Deux entreprises qui soumettent la même semaine peuvent recevoir des fiches d'évaluation entièrement différentes, parce que des critères différents sont activés. Concentrez-vous au mauvais endroit et vous passerez des mois sur des preuves à faible poids ; comprenez le schéma d'activation de votre secteur et chaque heure de préparation devient ciblée.
 
-## Ce que « critères activés » veut vraiment dire
+## Que veut vraiment dire « critères activés » ?
 
 EcoVadis évalue les entreprises sur **21 critères de durabilité** répartis dans les quatre thèmes. Tous ne s'appliquent pas à tout le monde. À l'inscription, vous fournissez votre classification sectorielle (**code ISIC**), votre taille et vos implantations. EcoVadis en déduit les critères matériels : les critères à **importance élevée** pèsent le plus dans le score, ceux à **importance moyenne** contribuent moins, et les critères **non activés** ne comptent pas. Un éditeur de logiciels n'aura pas de questions sur la gestion des substances dangereuses ; un chimiste, oui, avec un poids significatif.
 
 Le score global est une moyenne pondérée des quatre scores thématiques — et les poids des thèmes varient aussi selon le secteur, la taille et le profil de risque pays. Deux entreprises peuvent avoir des scores thématiques bruts identiques et des résultats globaux différents.
 
-## Industrie manufacturière
+## Qu'est-ce qui pèse le plus dans l'industrie manufacturière ?
 
 Pour les industriels — machines, composants, plastiques, équipements — **Environnement et Social** portent généralement le poids combiné le plus élevé.
 
@@ -75,7 +75,7 @@ Dans l'Environnement, **Énergie & GES** est activé à importance élevée pour
 
 > « Chez les industriels, les données énergie, déchets et santé-sécurité existent déjà dans les systèmes EHS, les factures d'énergie ou les registres d'incidents. L'écart, c'est de les structurer dans le format qu'EcoVadis peut noter. »
 
-## Grande consommation (FMCG)
+## Qu'est-ce qui pèse le plus en grande consommation (FMCG) ?
 
 Pour les marques de grande consommation, l'évaluation change nettement : **les Achats Responsables pèsent plus lourd, et le Social s'étend aux risques de la chaîne d'approvisionnement**.
 
@@ -83,7 +83,7 @@ Pour les marques de grande consommation, l'évaluation change nettement : **les 
 
 **Les Achats Responsables restent le thème le moins bien noté au monde** — moyenne globale de 43,1/100 selon l'Index EcoVadis, 9ᵉ édition (2025). Pour la grande consommation, sous pression du Consumer Goods Forum et des régulateurs sur la transparence de la chaîne, c'est à la fois le plus grand risque et la plus grande opportunité. Bien scorer exige au minimum : un code de conduite fournisseur, des preuves d'évaluations de durabilité des fournisseurs (au moins par questionnaire), et des traces de formation des acheteurs aux achats responsables. La vigilance au niveau de la chaîne — couverture d'audit du panel, formation des équipes achats aux risques de travail forcé — s'évalue ici aussi. Beaucoup d'entreprises ont ces programmes ; l'écart est généralement de les traduire dans le format et la précision vérifiables par les analystes.
 
-## Chimie
+## Qu'est-ce qui pèse le plus en chimie ?
 
 Les entreprises chimiques subissent **l'activation environnementale la plus large** : Matières & déchets, Pollution de l'air et Eau sont typiquement tous à importance élevée ; selon les sites et opérations, la Biodiversité et la Santé-Sécurité peuvent se déclencher aussi. C'est le reflet du profil de risque réel du secteur : substances dangereuses à grande échelle, émissions de COV, flux de déchets complexes, sites proches de ressources en eau.
 
@@ -91,7 +91,7 @@ Sur Matières & déchets, l'évaluation sonde l'étiquetage aligné SGH, les pro
 
 Pour l'Environnement en général, traitez **ISO 14001 comme la certification socle** — mais la couverture décide de sa valeur : un certificat couvrant 30 % des sites apporte bien moins qu'un certificat à 80 %.
 
-## La vérité transsectorielle : aucun critère activé ne peut être ignoré
+## Peut-on ignorer un critère activé ?
 
 Les critères à importance moyenne contribuent quand même au score du thème. Un critère moyen noté zéro tire le thème vers le bas et peut coûter un niveau de médaille — d'autant que la barre percentile monte à chaque cycle (Platine top 1 %, Or top 5 %, Argent top 15 %, Bronze top 35 %).
 

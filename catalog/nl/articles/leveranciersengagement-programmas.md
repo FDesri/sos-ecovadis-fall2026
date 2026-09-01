@@ -56,11 +56,11 @@ faq:
 
 Het kantelpunt is herkenbaar: de onderneming heeft EcoVadis gekozen als hoofdinstrument om de duurzaamheidsprestaties van leveranciers te beoordelen, een tijdlijn ligt vast, de communicatie is vertrokken — en dan komt de realiteit: honderden of duizenden leveranciers, sterk uiteenlopende maturiteit, beperkte middelen aan beide kanten, een deadline die niet beweegt. Een leveranciersengagementprogramma is geen verzoek; het is een systeem. Goed uitgevoerd creëert het transparantie, meetbare verbetering en de keten- en Scope 3-data die regelgevers steeds vaker eisen. Slecht uitgevoerd produceert het wrijving, lage voltooiingsgraden en data die niet standhoudt.
 
-## Waarom inkoopprogramma's vastlopen
+## Waarom lopen inkoopprogramma's vast?
 
 De meeste ondermaatse programma's falen om dezelfde redenen: uitnodigingen zonder context, scoredrempels los van het reële vertrekpunt van de leveranciers, geen capaciteitsopbouw, geen interne bandbreedte voor opvolging. De cijfers tonen de kloof: 71% van de organisaties vindt ketenduurzaamheid kritiek voor de eigen doelen, maar slechts 26% van de kopers dekt meer dan de helft van hun adresseerbare uitgaven met externe ESG-ratings. Het is niet in de eerste plaats een technologieprobleem — het is een ontwerpprobleem, en het is te dichten: de teams met de beste resultaten behandelen leveranciersengagement als een doorlopend werkingsmodel, niet als een eenmalige campagne.
 
-## Stap 1: segmenteer vóór u uitnodigt
+## Stap 1: hoe segmenteert u vóór u uitnodigt?
 
 Segmenteer de leveranciersbasis op minstens drie dimensies: duurzaamheidsrisico (sector, geografie, activiteit), uitgave en strategisch belang. Het snijpunt hoge uitgave × hoog risico definieert de prioritaire populatie, eerst beoordeeld en het intensiefst geëngageerd.
 
@@ -72,19 +72,19 @@ Segmenteer de leveranciersbasis op minstens drie dimensies: duurzaamheidsrisico 
 
 Dit telt ook voor de naleving: de CSDDD vereist proportionele zorgplicht over de waardeketens — met het Omnibus-pakket zoals voorgesteld is de omzetting verschoven naar 26 juli 2028, met gefaseerde toepassing verwacht vanaf 2029. Segmentatie is niet louter goede praktijk: het is de programma-architectuur die regelgevers gedocumenteerd verwachten te zien.
 
-## Stap 2: leg de eisen vast en maak ze contractueel hard
+## Stap 2: hoe maakt u de eisen contractueel hard?
 
 Beantwoord drie vragen vóór er een uitnodiging vertrekt: welke score of medaille is vereist — of is cyclus 1 een basis "invullen en delen"? Wat is de tijdlijn? Wat gebeurt er als een leverancier de drempel mist?
 
 Drempels moeten vertrekken van de reële nulmeting. Goud eisen in jaar één zonder het vertrekpunt te kennen, veroordeelt het programma; het doeltreffende model legt "invullen en de scorecard delen" vast als minimum van cyclus 1 en voert drempels in vanaf de volgende cycli. Contractuele integratie versterkt het signaal: EcoVadis-eisen opnemen in contracten, onboardingcriteria en aanbestedingsscores maakt duidelijk dat dit een zakelijke vereiste is, geen vrijwillig initiatief — de weg die grote kopers als DHL, Merck en Brenntag al zijn ingeslagen.
 
-## Stap 3: communiceer vóór u activeert
+## Stap 3: wat communiceert u vóór u activeert?
 
 De eerste leverancierscommunicatie zet de toon voor het hele programma. Een leverancier die zonder voorafgaande context wordt uitgenodigd, vult minder vaak in en behandelt de beoordeling als administratieve last. Een goed gestructureerde lanceringscommunicatie dekt: de reden van het verzoek, de tijdlijn en eventuele score-eisen, de beschikbare ondersteuning en de commerciële implicaties. Waar een briefing of opleiding voor leveranciers aan de activering voorafgaat, liggen voltooiingsgraden en bewijskwaliteit systematisch hoger.
 
 De EcoVadis Sustainable Procurement Barometer 2024 stelde vast dat 67% van de toonaangevende kopers deelname aan duurzaamheidsratings eist — en 53% biedt ESG-opleiding en e-learning ter ondersteuning. Die correlatie is geen toeval: de programma's met de beste resultaten bouwen capaciteit op naast de vereiste.
 
-## Stap 4: bouw capaciteit, niet alleen naleving
+## Stap 4: hoe bouwt u capaciteit, niet alleen naleving?
 
 > "Capaciteitsopbouw is de investering die een leveranciersengagementprogramma onderscheidt van een nalevingsoefening. Leveranciers die de juiste opleiding en documentatieondersteuning krijgen, halen betere scores, produceren sterker bewijs en houden die verbeteringen vol in de volgende cycli."
 
@@ -92,7 +92,7 @@ De meest voorkomende reden waarom programma's een plateau bereiken: de vereiste 
 
 Collectieve actie maakt dit efficiënter: sectorbrede initiatieven via het EcoVadis-ecosysteem laten meerdere kopers hun eisen afstemmen en opleiding bundelen, wat de last verlicht voor leveranciers die van veel klanten tegelijk verzoeken krijgen. Een van de duidelijkste lessen van EcoVadis Sustain 2026: de organisaties die het snelst vooruitgaan, bouwen gedeelde systemen waarmee leveranciers kunnen werken, geen gefragmenteerde processen waar ze zich doorheen moeten vechten.
 
-## Stap 5: monitor, handel en sluit de lus
+## Stap 5: hoe monitort, handelt en sluit u de lus?
 
 Scores verzamelen is geen resultaat. De waarde komt van wat de data mogelijk maakt: risicobeoordeling van leveranciers, opvolging van verbetering, inkoopbeslissingen op basis van bewijs. Bouw een reviewritme in de governance: voltooiingsgraden per segment, scoreverdelingen over de vier thema's (Milieu, Arbeids- en Mensenrechten, Ethiek, Duurzame Inkoop), signalering van leveranciers met dalende prestaties of nood aan een corrigerend actieplan. De live monitoring van EcoVadis geeft alerts bij significante ESG-incidenten van beoordeelde leveranciers — een continu risicobeeld in plaats van een momentopname.
 
@@ -100,7 +100,7 @@ Cruciaal: de resultaten moeten opwaarts stromen — aanduidingen van voorkeursle
 
 De jaarlijkse programmacyclus: segmentatie (risico × uitgave) → uitnodiging per tier → lanceringscommunicatie → beoordeling → scorecard-review → actieplanning (prioritaire leveranciers) → herbeoordeling.
 
-## De koppeling aan het grotere geheel
+## Hoe sluit dit aan bij het grotere geheel?
 
 Een goed gerund programma is een levende databron voor de meest veeleisende rapporteringsverplichtingen: onder de CSRD vereisen ESRS E1 en S2 respectievelijk klimaatdata uit de keten en zorgplichtbewijs — EcoVadis-scorecards en bewijsdossiers zijn voor beide rechtstreeks relevant; leveranciersengagement is een primair mechanisme om Scope 3-emissies van categorie 1 te verminderen; en voor de CSDDD-voorbereiding is een gedocumenteerd, op bewijs gebaseerd programma met proportionele zorgplicht per tier precies wat de richtlijn verwacht. Scope 3 doeltreffend aanpakken vereist dat inkoop- en duurzaamheidsteams met dezelfde data werken — EcoVadis is een van de doeltreffendste bruggen tussen beide.
 

@@ -47,7 +47,7 @@ faq:
 
 ENV7012 prolonge l'évaluation des risques climatiques (ENV7003) sur le terrain des **actions** : que fait concrètement l'entreprise pour résister aux perturbations environnementales ? Deux familles de preuves sont attendues — les pratiques adaptatives intégrées aux opérations, et les réserves d'urgence ou filets de sécurité. Sans impact sur le score, mais visible sur la fiche d'évaluation.
 
-## 1. Intégration de pratiques adaptatives dans les opérations
+## Comment intégrer des pratiques adaptatives dans les opérations ?
 
 **Exemples de documents à joindre :**
 
@@ -63,7 +63,7 @@ ENV7012 prolonge l'évaluation des risques climatiques (ENV7003) sur le terrain 
 - Adaptation des processus ou de l'entretien des sites pour contrer la perte de services écosystémiques locaux (érosion des sols, dégradation des zones tampons naturelles contre les tempêtes)
 - Modification des itinéraires logistiques internes ou des voies d'accès pour éviter les zones inondables
 
-## 2. Réserves d'urgence et filets de sécurité
+## Quelles réserves d'urgence et quels filets de sécurité prévoir ?
 
 **Exemples de documents à joindre :**
 

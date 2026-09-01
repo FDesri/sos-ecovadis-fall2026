@@ -50,7 +50,7 @@ faq:
 
 Quatre mises à jour sont tombées au T2 2026 : les objectifs Scope 2 doivent préciser leur méthodologie de calcul (market-based ou location-based) ; les consultations propres à Select disparaissent au profit d'un contrôle universel d'erreurs factuelles de deux jours ; la fiche d'évaluation Environnement gagne des points d'amélioration plus granulaires pour l'Eau, la Biodiversité et la Pollution de l'air ; et la révision semestrielle du risque pays reclasse dix pays. Aucune de ces évolutions ne récompense l'attentisme — elles récompensent des preuves précises et alignées sur les standards.
 
-## 1. Objectifs Scope 2 market-based et location-based (10 juillet 2026)
+## Que change-t-il au 10 juillet 2026 sur les objectifs Scope 2 market-based et location-based ?
 
 **Concerne :** Politiques ; Consommation d'énergie et GES ; tailles S et plus. **S'applique à :** Sustainability Rating et Carbon Rating.
 
@@ -60,7 +60,7 @@ Pourquoi : **l'interopérabilité standardisée** (un seul jeu d'objectifs clima
 
 L'option « Nous avons un objectif absolu de réduction Scope 2 » demeure ; il faut désormais y sélectionner market-based ou location-based. **Aucun changement de notation ni de génération des forces et points d'amélioration.**
 
-## 2. Suppression du Select Check Up et de la consultation Score Drop pour Select (15 juillet 2026)
+## Pourquoi le Select Check Up et la consultation Score Drop disparaissent-ils au 15 juillet 2026 ?
 
 **Concerne :** tous les thèmes, toutes les tailles, abonnements Select.
 
@@ -68,13 +68,13 @@ EcoVadis supprime le Select Check Up (relances en cas de documents corrompus ou 
 
 Le remplacement, lancé en juillet 2026 pour tous : un **contrôle d'erreurs factuelles** — les résultats de la fiche sont visibles exclusivement par l'entreprise évaluée pendant **deux jours ouvrables** avant la publication sur le réseau, période pendant laquelle les erreurs factuelles peuvent être signalées. Conséquence pratique pour une PME : plus personne ne vous appellera pour un PDF corrompu ou un certificat déclaré mais non joint. Le contrôle qualité de la soumission repose désormais entièrement sur vous, avant de soumettre.
 
-## 3. Une fiche d'évaluation plus granulaire : nouveaux points d'amélioration (15 juillet 2026)
+## Qu'apportent les nouveaux points d'amélioration de la fiche, publiés le 15 juillet 2026 ?
 
 **Concerne :** Environnement ; tailles S et plus.
 
 Troisième lot du programme de granularité : la fiche passe de points d'amélioration généraux à un **retour diagnostique très spécifique, directement relié aux meilleures pratiques sectorielles** déjà présentes dans le questionnaire. Si une pratique n'est pas identifiée comme en place, elle est explicitement signalée en point d'amélioration. Ces points spécifiques sont des exemples d'actions disponibles, pas des exigences obligatoires. Ce lot s'applique aux critères Environnement **Eau, Biodiversité et Pollution de l'air**.
 
-## 4. Mise à jour du risque pays — août 2026 (publiée le 29 juillet 2026)
+## Qu'est-ce qui change dans la mise à jour du risque pays d'août 2026 ?
 
 Les pays sont classés risque Faible/Moyen/Élevé à partir de 23 indices internationaux (Environnement, Santé-Sécurité, Droits Humains, Gouvernance), révisés deux fois par an. Cette édition intègre les données de conflits (Banque mondiale) et des ajustements de données carbone.
 

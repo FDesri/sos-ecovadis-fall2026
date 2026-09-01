@@ -48,13 +48,13 @@ faq:
 
 **Expert insight — François Dequenne:** getting from Bronze to Silver is not about doing more of the same. That is the mistake I see most often at this stage. Bronze gets you there by having policies and some measures in place. Silver requires something different: demonstrating that sustainability management is **systematic across your organisation** — not isolated to the head office, not concentrated in one or two themes. Three patterns consistently hold Bronze companies back: KPI reporting that covers some criteria but not all of them consistently; management systems that exist at headquarters but have not scaled to subsidiaries or key sites; and theme-level scores that look fine overall but hide a weak spot. As of May 2026, Silver sits at approximately 73/100. Incremental document additions will not close that.
 
-## How EcoVadis medals are awarded in 2026
+## How are EcoVadis medals awarded in 2026?
 
 Since January 2024, EcoVadis awards medals based entirely on **percentile ranking**, not fixed score thresholds. Your overall score is compared against every company rated on the platform over the previous 12 months: Bronze goes to the top 35%, Silver to the top 15%, Gold to the top 5%, Platinum to the top 1%. Because the database keeps growing and companies keep improving, the approximate score required for each medal rises over time.
 
 The score benchmarks in this article are drawn from ESG Interim Management's internal client portfolio data, last updated May 2026. They are directional indicators, not fixed targets published by EcoVadis.
 
-## The Silver profile: what 73/100 means for your management system
+## What does 73/100 mean for your management system?
 
 Silver places your company in the top 15% of all companies rated globally over the previous 12 months. Earning Bronze is a genuine milestone — a documented, structured management system validated against a global peer group, clearing the entry threshold for the biggest buying organisations. Silver is a different proposition: as of May 2026 it sits at about 73/100, up from about 68 in July 2025, a gap of roughly 9 points above Bronze.
 
@@ -66,14 +66,14 @@ Silver places your company in the top 15% of all companies rated globally over t
 
 The defining word at Silver level is **"structured."** Bronze requires evidence that policies and some measures exist. Silver requires evidence that those policies are backed by functioning management systems, that measures cover the activated criteria consistently, and that performance is tracked and reported.
 
-## The score in context: how the bar has moved
+## How far has the bar moved?
 
 The Bronze-to-Silver gap has widened over the past twelve months, making the transition more demanding than it was in 2024. The widening gap reflects that Silver-level companies are improving faster than the Bronze cohort. To close it, Bronze holders need to address the structural difference between the two levels, not simply add more documents.
 
 > "EcoVadis's corrective action plan provides prioritised recommendations. Filtering by highest weight and cross-referencing with the scorecard helps ensure improvements are targeted for maximum impact."
 > — *Pascal Durdu, Senior Sustainability Consultant, ESG Interim Management*
 
-## The shift that most Bronze holders miss
+## Which shift do most Bronze holders miss?
 
 The most common misread at this stage is treating it as a continuation of what worked before: finding more documents, filling in more fields, ticking more boxes. Three patterns consistently hold Bronze companies back:
 
@@ -85,7 +85,7 @@ The most common misread at this stage is treating it as a continuation of what w
 
 *A note on these recommendations:* they are drawn from patterns observed across ESGIM's client portfolio. They are common high-impact levers, not a universal checklist — their relative weight varies with your size, industry, country and the criteria activated for your scorecard. A gap analysis against your own scorecard is always the recommended first step.
 
-## The lever map: what to build for Silver
+## What do you have to build to reach Silver?
 
 **Environment.** Set quantitative GHG reduction targets with a defined timeline and baseline year ("reduce Scope 1 and 2 emissions by 20% by 2030 against a 2023 baseline" is a future-facing commitment that directly improves the Policies indicator). Introduce formal procedures for waste, water or air pollution management where these are activated criteria. Begin submitting an annual KPI report on key environmental metrics: this alone shifts the Results indicator for many companies.
 
@@ -95,7 +95,7 @@ The most common misread at this stage is treating it as a continuation of what w
 
 **Sustainable Procurement.** The priority theme at this transition for most companies. Implement a formal supplier screening process or self-assessment questionnaire for strategic and high-risk suppliers. Roll out a Supplier Code of Conduct to the top tier of your supply base. Report on the percentage of procurement spend covered by sustainability criteria. The [EcoVadis essentials guide](ecovadis-essentials-guide.md) covers how to evidence supplier engagement within the assessment platform.
 
-## What this looks like in practice
+## What does this look like in practice?
 
 A mid-size chemicals company in Northern Europe (about 600 employees, four sites) had held Bronze for two consecutive cycles when its largest customer introduced a Silver requirement, leaving one assessment cycle to improve. ESGIM's gap analysis identified three bottlenecks: GHG data tracked internally but no reduction targets and no formal environmental KPI report submitted; a Sustainable Procurement theme at 38/100 (no supplier SAQ, no supplier risk assessment, no Supplier Code of Conduct distributed); and Labour & Human Rights procedures covering the main site only.
 
@@ -103,7 +103,7 @@ The five-month improvement programme introduced quantitative GHG reduction targe
 
 Across its portfolio, ESGIM clients achieve an average score improvement of **13.8 points**. For companies in the Bronze-to-Silver range, structured investment in Sustainable Procurement and KPI reporting typically delivers the fastest gains.
 
-## What comes after Silver
+## What comes after Silver?
 
 > "With ESGIM's journey-based approach, each EcoVadis assessment becomes more about confirming your organisation's progress already underway — a way of mapping the road you have already travelled, not just the road ahead."
 > — *Isabelle de Cambry, Senior Sustainability Consultant & Trainer, ESG Interim Management*

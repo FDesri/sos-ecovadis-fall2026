@@ -51,7 +51,7 @@ faq:
 
 EcoVadis est la première plateforme mondiale de notation RSE, utilisée par plus de 150 000 organisations dans 185 pays et 250 secteurs. Contrairement aux notations purement axées sur la performance, la notation EcoVadis évalue la **qualité du système de gestion de la durabilité** — politiques, actions, résultats — ce qui favorise l'amélioration continue et permet de valoriser ses acquis via la fiche d'évaluation (scorecard) et les médailles.
 
-## 1. La matrice thèmes × critères
+## Comment la matrice thèmes × critères est-elle construite ?
 
 L'ossature de l'évaluation est une matrice qui croise les quatre thèmes de durabilité avec un jeu cohérent de critères d'évaluation. Les thèmes :
 
@@ -62,7 +62,7 @@ L'ossature de l'évaluation est une matrice qui croise les quatre thèmes de dur
 
 Chaque thème est évalué selon **sept critères** : politiques, adhésions, mesures, certifications, couverture, rapports et Veille 360°. Une entreprise doit donc montrer, par exemple, des politiques environnementales solides, des mesures environnementales et un reporting environnemental — et faire de même pour les trois autres thèmes. La structure donne un poids égal à l'existence des politiques, au déploiement pratique et à l'efficacité du reporting et du contrôle.
 
-## 2. Les critères d'évaluation expliqués
+## Que mesure chaque critère d'évaluation ?
 
 - **Politiques :** engagements de durabilité formels — le socle de l'évaluation.
 - **Adhésions :** reconnaissances tierces qui renforcent la crédibilité des politiques.
@@ -72,13 +72,13 @@ Chaque thème est évalué selon **sept critères** : politiques, adhésions, me
 - **Rapports :** les indicateurs clés de performance durabilité.
 - **Veille 360° :** surveillance par IA de la réputation et des risques externes.
 
-## 3. Comment fonctionnent la notation et la pondération
+## Comment fonctionnent la notation et la pondération ?
 
 EcoVadis agrège les résultats de chaque critère sur les quatre thèmes. Chaque thème a son propre poids, ajusté au secteur et à la taille, pour prioriser les domaines les plus impactants. Seuls les **critères « activés »**, pertinents pour le profil de risque de l'organisation, sont pris en compte.
 
 Les scores individuels tombent dans cinq paliers — **0, 25, 50, 75 ou 100** — et la fiche d'évaluation affiche, thème par thème, les forces et les points d'amélioration. L'évaluation globale compare l'entreprise à ses pairs et met en lumière les actions ciblées à plus forte valeur. Des observations négatives de la Veille 360° peuvent affecter l'éligibilité aux médailles.
 
-## 4. Le sur-mesure par les critères activés
+## Pourquoi votre questionnaire n'est-il pas celui du voisin ?
 
 À l'inscription, l'entreprise fournit ses données clés : secteur, taille, activités. EcoVadis active alors, sous chaque thème, les sous-sujets pertinents pour son profil de risque. Un logisticien maritime peut voir la biodiversité et l'impact sur les écosystèmes marins activés ; un cabinet de services professionnels, non.
 

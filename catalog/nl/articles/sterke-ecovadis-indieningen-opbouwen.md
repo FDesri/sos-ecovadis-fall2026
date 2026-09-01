@@ -54,15 +54,15 @@ faq:
 
 Om het tempo te houden, denkt u best in twee complementaire sporen: **uw duurzaamheidsmanagementsysteem versterken**, en **elke beoordeling precies uitvoeren**. Mettertijd vloeien ze samen tot een cyclus van continue verbetering, in plaats van een sprint vóór de deadline.
 
-## Waarom EcoVadis telt voor uw onderneming
+## Waarom telt EcoVadis voor uw onderneming?
 
 Een sterke rating helpt u om: een managementsysteem uit te bouwen waarin beleid, actieplannen en indicatoren een coherent geheel vormen; de prestaties doorheen de tijd te benchmarken in plaats van eenmalig te rapporteren; de toegang tot financiering te vergemakkelijken door aan te tonen dat ESG-risico's geïdentificeerd, beheerd en opgevolgd worden; het ketenrisico te beheersen dankzij zicht op de leverancierspraktijken; en aan te sluiten bij de wereldwijde beste praktijken, want de methodologie steunt op breed erkende internationale standaarden. Die voordelen worden groter wanneer de beoordeling deel is van een bredere strategie in plaats van louter een klantvereiste.
 
-## EcoVadis als traject, niet als vakje
+## Waarom is EcoVadis een traject en geen vakje?
 
 De trajectmentaliteit verandert elke cyclus: elke indiening wordt een kans om strategie, documentatie en data te verfijnen. Dat is essentieel omdat de methodologie evolueert — criteria worden strenger, de verwachtingen rond bewijskwaliteit stijgen, referentiepraktijken verschuiven naarmate meer ondernemingen rijpen. Een indiening die ooit Goud opleverde, volstaat in de toekomst misschien niet meer als de organisatie stilstaat. Wie op lange termijn Platinum-niveau ambieert, moet de stapsgewijze verbeteringen verweven in de bedrijfsplanning, het budget en de governance — niet wachten tot het platform opent.
 
-## Spoor 1: versterk uw systeem vóór u indient
+## Spoor 1: hoe versterkt u het systeem vóór u indient?
 
 **Weet waar u vandaag staat.** De "gap-first"-aanpak brengt bestaand beleid, procedures, KPI's en certificeringen in kaart tegenover de EcoVadis-thema's; identificeert welke praktijken geformaliseerd zijn en welke informeel of ongedocumenteerd blijven; en verheldert rollen en verantwoordelijkheden om eigenaarschapslacunes bloot te leggen. De diagnose toont zowel de sterktes om uit te spelen als de zones die structuur nodig hebben vóór de volgende beoordeling.
 
@@ -70,7 +70,7 @@ De trajectmentaliteit verandert elke cyclus: elke indiening wordt een kans om st
 
 **Vertaal de inzichten in een gefaseerd plan.** Maak het onderscheid tussen dringende acties, belangrijke acties die voorbereiding vragen, en langetermijninitiatieven in dienst van de strategische ambities. Het doel: van geïsoleerde inspanningen naar een coherent, veerkrachtig managementsysteem dat een gestaag stijgende score onderbouwt.
 
-## Spoor 2: voer de huidige beoordeling precies uit
+## Spoor 2: hoe voert u de huidige beoordeling precies uit?
 
 **Behandel de beoordeling als een project.** Een duidelijke tijdlijn van platformopening tot indiening; rollen verdeeld over de afdelingen; reviews en goedkeuringen ingepland, nooit op het laatste moment. Fasen: scoping, verzameling van data en documenten, redactie, interne review, eindgoedkeuring — een discipline die extra loont bij strakke klantendeadlines.
 
@@ -78,11 +78,11 @@ De trajectmentaliteit verandert elke cyclus: elke indiening wordt een kans om st
 
 **Schrijf heldere, consistente antwoorden.** Gebruik het model Beleid-Acties-Resultaten om het verhaal te vertellen: benoem wat elk document aantoont (beleid, actie of resultaat); beschrijf scope, grenzen en periode in klare taal; houd terminologie en data consistent zodat beleid logisch aansluit op acties en acties op resultaten. Een gestructureerde presentatie helpt de analisten om met vertrouwen punten toe te kennen — en toont de interne teams hoe hun werk bijdraagt.
 
-## Beide sporen combineren doorheen de tijd
+## Hoe combineert u beide sporen doorheen de tijd?
 
 De eerste jaren leunen de meeste organisaties op de uitvoering om snel op klantvragen te antwoorden; met de ervaring pakken ze de diepere structurele lacunes strategisch aan. De meest doeltreffende laten een continue lus draaien: elke cyclus levert een goed onderbouwde score en heldere feedback op → die feedback voedt een gestructureerde review van beleid, processen en data → de verbeteringen tonen zich in de volgende beoordeling, met meer prestaties én meer vertrouwen. Of de prioriteit nu een eerste rating is of een langetermijntransformatie: de trajectmentaliteit garandeert dat de vooruitgang niet stopt bij de indiening van de vragenlijst.
 
-## De rol van ESGIM
+## Waar komt ESGIM in beeld?
 
 Voor organisaties die eerst hun systeem versterken: een gestructureerde gap-analyse van processen en bewijs tegenover de EcoVadis-verwachtingen — quick wins en structurele werven — gevolgd door een pragmatische, geprioriteerde routekaart, afgestemd op de strategie. Voor wie de beoordeling van dit jaar vooropstelt: een uitvoeringsgerichte aanpak — projectbeheer, gerichte bewijsverzameling, documentkwaliteitscontrole, heldere en consistente antwoorden — die de score maximaliseert bij de huidige maturiteit en tegelijk de interne processen verbetert voor de volgende cycli. Met de trajectgerichte aanpak van ESGIM wordt elke beoordeling een mijlpaal in een breder duurzaamheidstraject, gestoeld op meer dan 100 afgeronde EcoVadis-projecten.
 

@@ -49,7 +49,7 @@ faq:
 
 **Expert insight — François Dequenne:** here are the top questions answered, categorised by topic, from the latest ESG Interim Management webinar. The 2026 methodology brings three key updates: (1) enhanced materiality flexibility allowing companies to opt out of non-material environmental topics (currently piloted in specific industries), (2) improved 360° Watch severity assessment incorporating stakeholder consensus, and (3) formal recognition of VSME reporting standards with differentiated scoring for Basic versus Comprehensive modules. Meanwhile, medal thresholds keep rising: the Silver threshold increased from 68 to 72 points between July 2025 and January 2026 alone.
 
-## Assessment scope and structure
+## How do assessment scope and structure change?
 
 **Does group-level reporting make scoring harder than entity-level?** Yes, generally. The primary reason is the **Coverage** indicator, which only activates for group-level assessments and measures how widely sustainability actions (certifications, training, processes) are deployed across the organisation. If only 20% of subsidiaries hold an ISO certification, Coverage scores lower than at 80%. Consolidating documentation across entities is also a practical challenge. For smaller entities Coverage may not activate, making entity-level assessments more achievable. Match the choice to your operational reality: centrally managed sustainability → group assessment; independently operating entities → entity-level may be more strategic.
 
@@ -65,7 +65,7 @@ faq:
 
 **Can we change scope to the overarching group when a client requested a rating on a sub-group?** Yes, with coordination: EcoVadis support for the scope change, and your requesting client first — some clients specifically want the entity they do business with. If accepted, a group-level scorecard has the advantage of being shareable with multiple clients.
 
-## Reporting requirements and KPIs
+## What are the new reporting and KPI requirements?
 
 > "Public disclosure of KPIs is now a scoring variable. The organisations achieving the highest Reporting scores are the ones whose material indicators appear in their sustainability report — accessible, year-on-year, and verifiable by anyone reviewing their EcoVadis submission."
 
@@ -77,7 +77,7 @@ faq:
 
 **If our materiality-based report doesn't reach EcoVadis' 67% criteria coverage, how is it scored?** From 2026 there is more flexibility to exclude non-material environmental topics, but coverage is still expected for active topics. Not reporting on them likely lowers Coverage. Robust materiality documentation and clearly explained scope decisions help — analysts may consider the context, and transparency about a materiality-based approach is valued.
 
-## Alignment with reporting standards
+## How do you align with the reporting standards?
 
 **Will EcoVadis consider CSRD reporting like GRI?** Yes: ESRS (the CSRD standards) is recognised as a formal framework. From 2026, formal compliance matters more than "referencing" — reporting in accordance with ESRS earns full points, like GRI "in accordance with".
 
@@ -97,7 +97,7 @@ faq:
 
 **Does EcoVadis ask about EUDR compliance?** Yes — in the Environment and Sustainable Procurement sections, especially for companies dealing in covered commodities (cattle, cocoa, coffee, palm oil, rubber, soy, wood and derivatives): deforestation policies, due diligence processes, traceability systems, risk management. As enforcement begins, compliance readiness will weigh more.
 
-## Materiality and topic customisation
+## How does materiality customisation work?
 
 **Are there requirements for a materiality analysis to be accepted?** Yes: a recognised methodology (GRI materiality process or CSRD double materiality) with stakeholder engagement, a systematic assessment process, formal documentation, governance approval and comprehensive topic coverage — evaluating both impact and financial materiality, with defensible conclusions. Submit the full report with your questionnaire and reference it when requesting topic adjustments.
 
@@ -105,7 +105,7 @@ faq:
 
 **We plan to renew in September; should we submit in August before the methodology update?** It depends on readiness and risk tolerance. An August submission is scored under the current methodology with 12-month validity; September onwards uses the updated criteria. Weigh documentation readiness, the announced changes and the business criticality of your score: if you are well prepared and the updates look more stringent, August can be advantageous; if quality needs more time, the improvement may outweigh the methodology change.
 
-## Certifications and audits
+## What changes on certifications and audits?
 
 **We have ISO for some high-risk sites but not all. Can third-party internal audits evidence group-wide management?** Yes — and EcoVadis scores the two elements separately in group assessments: once under **Certifications** (ISO at at least one entity) and once under **Coverage** (percentage of sites covered — the higher, the more points). Make audits credible: qualified external auditors, ISO audit methodologies, formal audit reports, and a documented audit programme showing schedule, scope and coverage of non-certified sites. Third-party audits score substantially better than no verification, though not as high as full certification.
 

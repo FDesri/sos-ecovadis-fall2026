@@ -50,7 +50,7 @@ faq:
 
 Cinq familles de conseils concentrent l'essentiel de l'expérience de terrain : l'organisation de l'équipe, le cadrage du périmètre, la discipline documentaire, le score Reporting, et l'anticipation des nouveautés (matérialité, Veille 360°). Aucun n'exige de gros budget — tous exigent de s'y prendre à l'avance.
 
-## 1. Organisation de l'équipe et gestion de projet
+## Comment organiser l'équipe et piloter le projet ?
 
 **Désigner un chef de projet dédié (ambassadeur)** : un responsable unique pour piloter l'évaluation, centraliser les informations, gérer la base documentaire d'une année sur l'autre et tenir les échéances de soumission.
 
@@ -63,11 +63,11 @@ Cinq familles de conseils concentrent l'essentiel de l'expérience de terrain : 
 
 **Anticiper le questionnaire** : ouvrez-le bien à l'avance pour analyser les nouveautés méthodologiques, et suivez trimestriellement la section « Methodology Changes » d'EcoVadis pour vous y préparer en amont.
 
-## 2. Définition du périmètre d'évaluation (scoping)
+## Comment définir le périmètre d'évaluation ?
 
 **Clarifier le niveau d'évaluation dès le départ** : groupe, entité légale spécifique ou site géographique. **Aligner le périmètre sur la gouvernance réelle** : durabilité gérée centralement par le siège → évaluation groupe ; entités autonomes → évaluation par entité ou par site. **Gérer activement les fusions-acquisitions** : signalez rapidement tout changement de structure juridique à EcoVadis — une **période de grâce d'un an** est accordée pour intégrer les nouvelles filiales acquises dans vos rapports et politiques.
 
-## 3. Exigences et gestion documentaire
+## Quelles exigences documentaires respecter, et comment les gérer ?
 
 **Respecter les critères de validité** : chaque document doit porter le logo ou le nom de l'entreprise et une date de création ou de révision. Photos, déclarations non signées et documents de tiers (sauf mention explicite de votre entreprise) sont systématiquement rejetés.
 
@@ -80,7 +80,7 @@ Cinq familles de conseils concentrent l'essentiel de l'expérience de terrain : 
 
 **Optimiser la bibliothèque (limite de 55 fichiers)** : EcoVadis limite le chargement à **55 nouveaux documents par an** — privilégiez des documents complets et transversaux qui répondent à plusieurs sous-questions à la fois (politique globale, tableau de bord SST). Ne supprimez pas les anciens documents encore valides : ils restent réutilisables sans entamer le quota annuel.
 
-## 4. Améliorer le score Reporting, et le recours aux audits
+## Comment améliorer le score Reporting, et quand recourir aux audits ?
 
 **Publier un rapport de durabilité public** : publier de simples KPI sur son site ne rapporte plus de points. EcoVadis exige l'intégration des KPI dans un **rapport annuel ou de durabilité accessible au public**, sous peine d'un score Reporting plafonné à **50/100**. La rédaction prend généralement **3 à 4 mois** — à lancer bien en amont.
 
@@ -90,7 +90,7 @@ Cinq familles de conseils concentrent l'essentiel de l'expérience de terrain : 
 
 **Utiliser les audits comme alternative aux certifications** : si les certifications formelles (ISO 14001…) sont trop coûteuses pour votre taille, soumettez des rapports d'audits externes (SMETA, BSCI, TfS). Conditions : audit autonome (non lié à une certification), réalisé au cours des **2 dernières années** par un auditeur externe vérifié, couvrant **plus de 30 % de vos opérations globales**.
 
-## 5. Anticiper les nouveautés : matérialité et Veille 360°
+## Comment anticiper la matérialité et la Veille 360° ?
 
 **Justifier rigoureusement la non-matérialité (pilote 2026)** : si vous pouvez exclure certains sujets environnementaux (eau, pollution de l'air…), soumettez une **analyse formelle de matérialité (ou double matérialité)** qui définit les thèmes et justifie l'exclusion par des données d'impact ou des retours de parties prenantes. À défaut, détaillez vos raisons dans les commentaires pour éviter la réactivation du critère.
 

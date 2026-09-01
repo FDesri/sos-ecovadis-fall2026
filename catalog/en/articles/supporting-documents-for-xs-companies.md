@@ -50,7 +50,7 @@ faq:
 
 EcoVadis questionnaires are tailored to each company — sector, location, size — including very small companies with **up to 25 employees**. On average, **about ten questions** are asked of XS companies, and certain indicators (endorsements such as the UN Global Compact, coverage) **do not apply**. Most importantly: EcoVadis grants XS companies more flexibility and **accepts non-formalised supporting documents** — provided they remain recent, relevant, complete and tied to the assessment scope. (Reference: EcoVadis Help Center.)
 
-## What every document must respect
+## What must every document respect?
 
 Any formalised document reflecting your CSR management system and supporting your answers can serve: CSR management procedures, CSR reports, social audit reports, social and environmental policies, a code of ethics or conduct, employee handbooks, certificates (ISO 14001, ISO 45001…), a UN Global Compact Communication on Progress, annual reports with an integrated CSR section.
 
@@ -64,7 +64,7 @@ The common rules:
 
 **EcoVadis will not consider:** documents created solely to answer the questionnaire; objectives, actions or reports copied from another organisation or online sources without reasonable proof of implementation; informal documents (no company name/logo, no issue or review date); evidence hidden behind links (analysts do not download additional documents); evidence unrelated to the 21 CSR criteria.
 
-## Validated examples per indicator
+## Which examples are validated per indicator?
 
 **Policies** — proof of **commitment**: a letter **signed** by the CEO on the main CSR issues (found in the sector risk profile), used for internal and/or external communication; action plans or roadmaps with the **list of actions** planned (annual health & safety plan…).
 
@@ -72,7 +72,7 @@ The common rules:
 
 **Reporting** — proof of **KPI tracking**: resources consumed (waste, water, energy) with a unit and reference period; clearly explained estimates where actual data is hard to obtain (estimated consumption of a rented office…); verifiable emissions information based on invoices and contracts, tracked in an official document. On the social side: monitored topics (accidents, training…) with units and a reporting period. **Careful:** energy or water invoices are **not** admissible as reporting evidence — the indicator assesses active tracking and progress analysis, not raw availability of information. Reporting must be no older than two calendar years and cover at least one year.
 
-## The quick list
+## What is the quick list for an XS company?
 
 **Validated documents:** proof of employee training; internal awareness e-mails; purchase invoices for eco-labelled products (as measures); a business ethics policy; internal environmental dashboards; an Excel sheet of HR KPIs; an internal management presentation; risk assessment documents.
 

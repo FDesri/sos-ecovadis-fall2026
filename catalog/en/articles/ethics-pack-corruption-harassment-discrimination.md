@@ -54,7 +54,7 @@ faq:
 
 A very "Belgian SME / EcoVadis" selection: simple, credible, documentable and communicable actions **without building a bureaucratic machine**. It was built for an ESGIM client — a Walloon building-services (HVAC/electrical) installer, size XS — and transfers as-is to any Belgian SME. Starting point: EcoVadis assesses the management system through Policy-Actions-Results; documents must be formalised, recent, pre-existing and demonstrate practices actually implemented (reference: EcoVadis Help Center). For a small structure, simple documents suffice: a signed commitment letter, action plans, evidence of concrete actions, reporting elements.
 
-## 1) Corruption risk prevention — ten small actions
+## Which ten small actions prevent corruption risk?
 
 | Simple action | How to set it up | Possible EcoVadis evidence |
 |---|---|---|
@@ -73,7 +73,7 @@ Useful references: the Belgian anti-corruption guide (prevention, awareness, cle
 
 **The 5 most profitable:** gifts register, supplier clause, annual mini-training with attendance, new-supplier checklist, communicated reporting channel. Note: in Belgium the internal **whistleblowing channel is mandatory from 50 workers**; below that, voluntary (except specific sectors) — but good ESG evidence.
 
-## 2) Harassment and discrimination prevention — ten small actions
+## Which ten small actions prevent harassment and discrimination?
 
 | Simple action | How to set it up | Possible EcoVadis evidence |
 |---|---|---|
@@ -92,7 +92,7 @@ Belgian framework: the FPS Employment requires employers to prevent psychosocial
 
 **The 5 most profitable:** annual communication signed by management, displayed reporting procedure, clearly identified contact person, mini-training or toolbox, recruitment checklist.
 
-## The evidence pack: one 10-15 page PDF
+## What does the evidence pack look like as one PDF?
 
 For an SME, assemble a single file titled for instance "**Prevention measures — Ethics, anti-corruption, respect at work and non-discrimination — 2026**": (1) signed management commitment, (2) gift/invitation/conflict-of-interest rules, (3) register — template + extract, (4) supplier anti-corruption clause, (5) completed new-supplier checklist, (6) reporting procedure, (7) staff communication, (8) internal harassment/discrimination note, (9) contact persons and psychosocial procedure, (10) training/toolbox with attendance sheet, (11) simple indicators: people trained, reports, confirmed incidents, corrective actions.
 

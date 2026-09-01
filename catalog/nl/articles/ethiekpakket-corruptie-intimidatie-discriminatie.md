@@ -54,7 +54,7 @@ faq:
 
 Een zeer "Belgische kmo / EcoVadis"-selectie: eenvoudige, geloofwaardige, documenteerbare en communiceerbare acties **zonder een bureaucratische machine op te tuigen**. Ze werd opgebouwd voor een ESGIM-klant — een Waalse installateur bouwtechniek, grootte XS — en is zo overdraagbaar naar elke Belgische kmo. Vertrekpunt: EcoVadis beoordeelt het managementsysteem via Beleid-Acties-Resultaten; documenten moeten geformaliseerd, recent en vooraf bestaand zijn en werkelijk uitgevoerde praktijken aantonen (referentie: EcoVadis Help Center). Voor een kleine structuur volstaan eenvoudige documenten: een ondertekende engagementsbrief, actieplannen, bewijzen van concrete acties, rapporteringselementen.
 
-## 1) Preventie van corruptierisico's — tien kleine acties
+## Welke tien kleine acties voorkomen corruptierisico?
 
 | Eenvoudige actie | Hoe invoeren | Mogelijk EcoVadis-bewijs |
 |---|---|---|
@@ -73,7 +73,7 @@ Nuttige referenties: de Belgische anticorruptiegids (preventie, sensibilisering,
 
 **De 5 rendabelste:** geschenkenregister, leveranciersclausule, jaarlijkse mini-opleiding met aanwezigheid, checklist nieuwe leverancier, gecommuniceerd meldingskanaal. Let op: in België is het interne **klokkenluiderskanaal verplicht vanaf 50 werknemers**; eronder vrijwillig (behalve specifieke sectoren) — maar goed ESG-bewijs.
 
-## 2) Preventie van intimidatie en discriminatie — tien kleine acties
+## Welke tien kleine acties voorkomen intimidatie en discriminatie?
 
 | Eenvoudige actie | Hoe invoeren | Mogelijk EcoVadis-bewijs |
 |---|---|---|
@@ -92,7 +92,7 @@ Belgisch kader: de FOD Werkgelegenheid verplicht de werkgever psychosociale risi
 
 **De 5 rendabelste:** jaarlijkse communicatie ondertekend door de directie, geafficheerde meldingsprocedure, duidelijk geïdentificeerde contactpersoon, mini-opleiding of toolbox, rekruteringschecklist.
 
-## Het bewijspakket: één pdf van 10 à 15 pagina's
+## Hoe ziet het bewijspakket eruit als één pdf?
 
 Stel voor een kmo één dossier samen, bijvoorbeeld getiteld "**Preventiemaatregelen — Ethiek, anticorruptie, respect op het werk en non-discriminatie — 2026**": (1) ondertekend engagement van de directie, (2) regels geschenken/uitnodigingen/belangenconflicten, (3) register — sjabloon + uittreksel, (4) anticorruptieclausule leveranciers, (5) ingevulde checklist nieuwe leverancier, (6) meldingsprocedure, (7) communicatie aan het personeel, (8) interne nota intimidatie/discriminatie, (9) contactpersonen en psychosociale procedure, (10) opleiding/toolbox met aanwezigheidslijst, (11) eenvoudige indicatoren: opgeleide personen, meldingen, bevestigde incidenten, corrigerende acties.
 

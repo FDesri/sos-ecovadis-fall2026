@@ -46,7 +46,7 @@ faq:
 
 **Expert insight — François Dequenne:** ENV7003 is a new question added to questionnaires in Q1 2026 for size S companies and up. It directly reflects the extreme weather events that derive from climate warming. It asks for two kinds of evidence: a physical climate risk assessment and a watershed-related risk assessment. No impact on the score — but what comes out of it is displayed on your scorecard.
 
-## 1. Physical climate risk assessment
+## How do you assess physical climate risks?
 
 **Examples of documents to attach:**
 
@@ -60,7 +60,7 @@ faq:
 - **Acute physical risks:** event-driven hazards — intensifying hurricanes, floods, wildfires, heatwaves.
 - **Chronic physical risks:** longer-term shifts in climate patterns — persistently higher temperatures, sea-level rise, prolonged drought episodes.
 
-## 2. Watershed-related risk assessment
+## How do you assess watershed-related risks?
 
 **Examples of documents to attach:**
 

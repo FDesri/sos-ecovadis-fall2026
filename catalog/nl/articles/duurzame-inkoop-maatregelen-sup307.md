@@ -54,7 +54,7 @@ faq:
 
 SUP307 vraagt: "Welke acties heeft uw onderneming ingevoerd om sociale en milieufactoren in haar inkoop te integreren?" — negen deelacties. De gouden regel: **vink alleen aan wat een specifiek document kan bewijzen**. Een aangevinkte optie zonder specifiek bewijs wordt door de analist geneutraliseerd en verzwakt de hele sectie. In een goed bijgehouden dossier van een industriële kmo zijn vijf van de negen opties vaak meteen te dekken; twee andere zijn quick wins van een halve dag.
 
-## De negen deelacties en hun bewijsstukken
+## Wat zijn de negen deelacties en hun bewijsstukken?
 
 **1. MVO-gedragscode voor leveranciers.** De gedragscode en het jaar-/MVO-rapport. Ze moet de communicatie van uw MVO-verwachtingen aan uw leveranciers aantonen — en bestaan als een document **apart** van het duurzame-inkoopbeleid: het eerste is extern (leveranciers), het tweede intern (inkoopteam).
 
@@ -74,7 +74,7 @@ SUP307 vraagt: "Welke acties heeft uw onderneming ingevoerd om sociale en milieu
 
 **9. Andere acties.** Alleen aanvinken **als opties 1 tot 8 niet van toepassing zijn** — EcoVadis zegt dat expliciet.
 
-## Concreet voorbeeld (ESGIM-klant: Waalse flexografische drukkerij, grootte S)
+## Hoe ziet een echt dossier eruit bij een Waalse drukkerij van grootte S?
 
 ### Vijf opties om nu aan te vinken
 
@@ -98,11 +98,11 @@ Eén pdf van 13 pagina's kan drie opties dragen — maar **splits ze in twee upl
 
 **9 — Andere acties:** aangezien opties 1 tot 4 van toepassing zijn, verzwakt aanvinken de lezing. De stukken die men er zou willen onderbrengen (cartridgerecyclage, waterfontein, relighting, fotovoltaïsche panelen, laadpalen) renderen beter in de secties Energie/broeikasgassen en Afval.
 
-## De grens met SUP600
+## Waar ligt de grens met SUP600?
 
 De Excel voor leveranciersopvolging dient SUP600 (de KPI's), maar draagt twee elementen die SUP307 nodig heeft — anders te recupereren: de **sanctieregel** ("onvoldoende score of geen certificaat → einde van de samenwerking of audit binnen 3 maanden"), over te nemen in de typecontractclausule van optie 2; en de **KPI's** (gedekt aandeel van het inkoopvolume, responsgraad, aandeel met certificering door derden, aandeel ondertekende gedragscodes, open/afgesloten mitigatiemaatregelen), al gedefinieerd in de inkoopprocedure — de Excel voedt ze, precies het materiaal van SUP600.
 
-## Drie punten om te regelen vóór het opladen
+## Wat regelt u vóór het opladen?
 
 1. **Een placeholder in een bijlage** ("in te vullen vóór verspreiding: aantal aangeschreven leveranciers, gedekt volumeaandeel"): invullen — een zichtbaar onafgewerkt intern document ondergraaft de rest.
 2. **De gedragscode heeft geen consequentieclausule** bij inbreuken. Een pagina "Type-MVO-clausule" of een sectie "Niet-naleving en gevolgen" in v2 maakt van optie 2 een "aangetoond" in plaats van een "verondersteld".

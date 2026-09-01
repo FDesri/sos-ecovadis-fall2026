@@ -55,7 +55,7 @@ faq:
 
 De meeste kmo's ontmoeten EcoVadis omdat een klant het eist. De betere reden om in te stappen: de beoordeling is een kant-en-klare blauwdruk voor een **duurzaamheidsmanagementsysteem (SMS)** — een gestructureerd geheel van beleid, processen en controles, in de geest van ISO 26000 — met objectieve benchmarking op maat van uw sector, grootte en locatie, en een scorecard die meteen als verbeterroutekaart dient.
 
-## Het P-A-R-model: hoe EcoVadis managementsystemen evalueert
+## Hoe evalueert EcoVadis managementsystemen?
 
 EcoVadis evalueert via zijn structuur **Beleid-Acties-Resultaten (P-A-R)**:
 
@@ -67,7 +67,7 @@ Het proces is iteratief — elke categorie versterkt de andere: het beleid zet d
 
 De methodologie past zich aan de context aan: producenten moeten doorgaans water, biodiversiteit, vervuiling en einde levensduur behandelen; adviesbureaus focussen meer op milieu-advocacy en diversiteit.
 
-## De opbouw van de score
+## Hoe is de score opgebouwd?
 
 - **Beleid:** 20% voor de basisdocumenten; 5% voor verifieerbare aansluitingen.
 - **Acties/Maatregelen:** 24% — meer punten voor meerdere, gedocumenteerde maatregelen per geactiveerd criterium.
@@ -77,7 +77,7 @@ De methodologie past zich aan de context aan: producenten moeten doorgaans water
 
 De gewichten verschillen per sector en worden dynamisch geoptimaliseerd: domeinen met meer impact wegen zwaarder. Doorgroeien naar Goud of Platinum betekent de dekking verbreden **én** de kwantitatieve doelen verdiepen, met extern geverifieerde rapportering en geactualiseerd beleid.
 
-## Waar begint u? De maturiteitscurve
+## Waar begint u op de maturiteitscurve?
 
 **Beginner — eerst de fundamenten.** Materiële onderwerpen bepalen vanuit uw bedrijfsmodel, uw peers en de geactiveerde criteria; bondige kwalitatieve beleidsdocumenten schrijven (verwante onderwerpen bundelen); eenvoudige, lichte acties uitrollen (opleidingen, klachtenprocedures); interne KPI-opvolging starten, gekoppeld aan het beleid. Een groothandel in huishoudartikelen, nieuw op EcoVadis, voerde basisbeleid en een Excel-KPI-dashboard in — met een Bronzen medaille en een stevige SMS-basis als resultaat.
 
@@ -85,7 +85,7 @@ De gewichten verschillen per sector en worden dynamisch geoptimaliseerd: domeine
 
 **Expert — beste praktijken en verificatie.** Dubbele-materialiteitsanalyses en regelmatige beleidsherzieningen; bedrijfsbrede acties en certificeringen; externe audits van controles en ESG-praktijken; ESG-KPI's geïntegreerd met ERP en financiële rapportering, extern geverifieerd. Een logistiek bedrijf behield zijn Platinum via een duurzaamheidsstrategie voor de toeleveringsketen: dubbele materialiteit, ruimere dekking van de inkoopacties, externe KPI-verificatie.
 
-## De scorecard gebruiken voor continue verbetering
+## Hoe gebruikt u de scorecard om te blijven verbeteren?
 
 Richt de inspanning op de indicatoren en thema's onder de 100 — vooral die welke het zwaarst doorwegen in de totaalscore — en toets de haalbaarheid vóór u aan zware certificeringen begint. Het Correctief Actieplan levert geprioriteerde aanbevelingen: filter op het hoogste gewicht en kruis met de scorecard om de verbeteringen op maximale impact te richten.
 

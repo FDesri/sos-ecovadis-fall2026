@@ -52,7 +52,7 @@ faq:
 
 > "To maintain the same medal, you must improve. To increase your medal, you have to showcase substantial improvement year on year."
 
-## The competitive reality: why your previous strategy won't suffice
+## Why will last year's strategy no longer suffice?
 
 Since EcoVadis moved to a percentile-based system in 2024, achieving and keeping medals has become progressively harder. Medals go to top performers over the previous 12 months — you compete against every other improving company, not a static benchmark. Between July 2025 and January 2026 alone, the Silver threshold jumped four points.
 
@@ -65,7 +65,7 @@ Since EcoVadis moved to a percentile-based system in 2024, achieving and keeping
 
 Simply replicating last year's strategy will not deliver the same result. To keep your medal you must demonstrate measurable improvement; to advance, substantial progress across multiple indicators.
 
-## 2025's key learnings
+## What should you take away from 2025?
 
 > "A sustainability report does not become a strong EcoVadis evidence document the week before submission. Three to four months to build it, additional time for external assurance on top. Organisations that treat reporting as a parallel work stream — developed alongside their assessment, not assembled for it — arrive at submission with everything in place."
 
@@ -96,7 +96,7 @@ Building a solid report takes three to four months, plus assurance lead time: st
 
 For smaller companies, ISO certifications can be costly. Good news: **sustainability-related audits can score instead**, under conditions — a standalone audit (not contributing to a certification), covering more than 30% of total operations, on topics material for you, with the complete report from a qualified or accredited external auditor. Valid examples: Sedex SMETA (closely aligned with the EcoVadis methodology), amfori BSCI, TfS for chemicals; even second-party customer audits by a qualified external auditor. It contributes less than a certification (ISO 14001 contributes up to 100 points on environmental management systems) — and beware: major or minor non-conformities in the report can cost points or feed your 360° Watch indicator.
 
-## 2026 methodology changes: what's coming
+## What is changing in the 2026 methodology?
 
 **Change #1 — Choosing environmental material topics.** EcoVadis continues its materiality customisation pilot: organisations in specific industries (pharmaceutical manufacturing, plastics, electronics, some agriculture) are asked whether topics such as water, air pollution, product use, product end-of-life and customer health & safety are material to their operations. If not, related questions deactivate. To prove non-materiality, provide a comprehensive materiality assessment: the significant ESG topics, how the organisation impacts each, and the topics not considered material with the reasoning. Caution: contradictory information (360° Watch findings, processes visible in other documents) leads EcoVadis to reactivate the topic.
 
@@ -104,7 +104,7 @@ For smaller companies, ISO certifications can be costly. Good news: **sustainabi
 
 **Change #3 — VSME reporting framework recognition.** EcoVadis now formally recognises the EFRAG **VSME** standard — the simplified EU framework for SMEs outside CSRD scope. Reporting aligned with the VSME **Basic Module** can reach 75/100 on Reporting (other criteria met); **Basic + Comprehensive Modules** can reach the full 100. A streamlined path for EU-exposed SMEs to strong submissions and emerging European reporting expectations.
 
-## Your 2026 action plan
+## What action plan for 2026?
 
 - **Verify your assessment scope** at the outset of each cycle — documentation must align perfectly with group, entity or site level.
 - **Elevate reporting maturity**: work towards a public report aligned with GRI, ESRS or VSME, with KPIs covering all relevant topics.

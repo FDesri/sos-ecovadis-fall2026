@@ -49,13 +49,13 @@ faq:
 
 **Regard d'expert — François Dequenne :** la plupart des entreprises dans votre situation ont déjà les activités. Elles ne les ont simplement pas formalisées. C'est l'écart que je vois le plus souvent à ce stade. Le travail n'est pas d'en faire plus — c'est de documenter ce qui existe en politiques et mesures structurées, conformes aux standards EcoVadis. Trois choses bloquent régulièrement l'accès au Bronze : des scores Éthique et Achats Responsables sous les 30 points (un bon score global ne vous protège pas — chaque thème doit franchir ce plancher) ; des processus informels jamais transformés en politique (un code de conduite avec accusé de réception des employés fait bouger les choses plus vite qu'on ne le croit) ; ne pas savoir où est l'écart réel avant l'ouverture de la fenêtre d'évaluation. En mai 2026, le seuil Bronze se situe vers 64/100 — il a bougé de 2 points en moins d'un an. Attendre ne préserve pas votre position.
 
-## Comment les médailles EcoVadis sont attribuées en 2026
+## Comment les médailles EcoVadis sont-elles attribuées en 2026 ?
 
 Depuis janvier 2024, EcoVadis attribue les médailles uniquement au **rang percentile**, plus sur des seuils fixes. Votre score global est comparé à toutes les entreprises évaluées sur les 12 derniers mois : Bronze = top 35 %, Argent = top 15 %, Or = top 5 %, Platine = top 1 %. La base grandit, les entreprises progressent : le score requis monte avec le temps. Les repères cités proviennent des données du portefeuille clients ESGIM (mise à jour mai 2026) — indicatifs, pas des objectifs officiels.
 
 Toute entreprise au badge Committed concourt pour le Bronze face à la même barre montante : environ 64/100 en mai 2026, contre 62 en juillet 2025. Deux points en moins d'un an peuvent sembler peu ; sur une base mondiale de plus de 130 000 entreprises évaluées, c'est un déplacement mesurable de la qualité moyenne des systèmes de gestion.
 
-## Le profil Bronze : ce que contient réellement un système à 64/100
+## Que contient réellement un système de gestion à 64/100 ?
 
 Le Bronze signifie que votre système de gestion de la durabilité surclasse au moins 65 % des entreprises évaluées dans le monde sur les 12 derniers mois. Une entreprise dans la zone Bronze en 2026 a typiquement :
 
@@ -75,13 +75,13 @@ L'écart entre badge Committed et Bronze est souvent un **écart de formalisatio
 
 > « Identifier quelles pratiques sont formalisées et lesquelles restent informelles ou non documentées, c'est souvent là que commence le vrai travail. Ce diagnostic montre à la fois vos forces et les zones qui demandent plus de structure avant de soumettre. »
 
-## La règle qui disqualifie plus de candidats au Bronze que toute autre
+## Quelle règle disqualifie le plus de candidats au Bronze ?
 
 Pour prétendre à **n'importe quelle** médaille, il faut **au moins 30 points dans chacun des quatre thèmes** : Environnement, Social et Droits Humains, Éthique, Achats Responsables. Un bon score global ne protège pas : 66 au global mais 28 en Éthique = aucune médaille.
 
 Les thèmes les plus souvent sous les 30 points dans les analyses clients d'ESGIM : l'**Éthique** et les **Achats Responsables**, là où la documentation est la plus faible chez les entreprises sans gestion structurée préalable. Un code de conduite avec accusé de réception des employés, structuré selon la méthodologie EcoVadis, peut faire franchir le plancher à l'Éthique ; une politique d'achats mentionnant la durabilité des fournisseurs fait de même pour les Achats Responsables. Les deux sont réalisables en quelques semaines. **Vérifier les scores par thème est la première étape de tout diagnostic.**
 
-## La carte des leviers : quoi construire pour le Bronze
+## Que faut-il construire pour atteindre le Bronze ?
 
 *Recommandations tirées des schémas observés dans le portefeuille clients ESGIM — leviers à fort impact courants, pas une check-list universelle. Leur poids varie selon taille, secteur et critères activés.*
 
@@ -93,7 +93,7 @@ Les thèmes les plus souvent sous les 30 points dans les analyses clients d'ESGI
 
 **Achats Responsables.** Une politique d'achats nommant des exigences de durabilité pour les fournisseurs est le point d'entrée — deux ou trois phrases dans la politique d'achats existante suffisent au départ. Des clauses de durabilité dans les contrats fournisseurs améliorent encore le thème.
 
-## Ce que ça donne en pratique
+## À quoi cela ressemble-t-il en pratique ?
 
 Une entreprise logistique européenne de taille intermédiaire (environ 500 salariés) a fait appel à ESGIM quand un client industriel clé a exigé le Bronze pour le statut de fournisseur privilégié. Elle détenait le badge Committed à 50. L'analyse des écarts a identifié une seule cause de disqualification : l'Éthique sous 30 — pas de code de conduite formel, pas de mécanisme de réclamation documenté, malgré des attentes claires en interne. Achats Responsables et Environnement étaient aussi sous le repère Bronze, surtout parce que les KPI environnementaux étaient suivis en interne sans jamais être soumis comme preuves structurées.
 
@@ -101,7 +101,7 @@ ESGIM a priorisé l'Éthique : code de conduite anticorruption et sécurité de 
 
 Sur l'ensemble du portefeuille, les clients ESGIM progressent en moyenne de 13,8 points — généralement assez pour franchir le Bronze depuis la zone Committed en un seul cycle.
 
-## Après le Bronze
+## Et après le Bronze ?
 
 > « Chaque évaluation EcoVadis devient davantage la confirmation des progrès déjà engagés. Votre soumission commence à raconter une histoire cohérente et crédible : des politiques appuyées par des actions, des actions prouvées par des données, des données qui affinent les priorités. »
 

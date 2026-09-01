@@ -55,7 +55,7 @@ faq:
 
 Une sélection très « PME belge / EcoVadis » : des actions simples, crédibles, documentables et communicables **sans créer une usine à gaz**. Elle a été construite pour un client ESGIM — un installateur en techniques spéciales du bâtiment wallon, taille XS — et se transpose telle quelle à toute PME belge. Point de départ : EcoVadis évalue le système de management via Politiques-Actions-Résultats ; les documents doivent être formalisés, récents, préexistants et démontrer des pratiques réellement mises en œuvre (référence : Centre d'aide EcoVadis). Pour une petite structure, des documents simples suffisent : lettre d'engagement signée, plans d'action, preuves d'actions concrètes, éléments de reporting.
 
-## 1) Prévention des risques de corruption — dix petites actions
+## Quelles dix petites actions préviennent le risque de corruption ?
 
 | Action simple | Mise en place | Preuve EcoVadis possible |
 |---|---|---|
@@ -74,7 +74,7 @@ Références utiles : le guide belge anticorruption (prévention, sensibilisatio
 
 **Les 5 plus rentables :** registre cadeaux, clause fournisseurs, mini-formation annuelle avec présence, check-list nouveau fournisseur, canal de signalement communiqué. À noter : en Belgique, le canal interne pour **lanceurs d'alerte est obligatoire à partir de 50 travailleurs** ; sous ce seuil, volontaire (sauf secteurs spécifiques) — mais bonne preuve ESG.
 
-## 2) Prévention du harcèlement et de la discrimination — dix petites actions
+## Quelles dix petites actions préviennent le harcèlement et la discrimination ?
 
 | Action simple | Mise en place | Preuve EcoVadis possible |
 |---|---|---|
@@ -93,7 +93,7 @@ Cadre belge : le SPF Emploi impose à l'employeur de prévenir les risques psych
 
 **Les 5 plus rentables :** communication annuelle signée par la direction, procédure de signalement affichée, personne de contact clairement identifiée, mini-formation ou toolbox, check-list recrutement.
 
-## Le pack documentaire : un seul PDF de 10 à 15 pages
+## À quoi ressemble le pack documentaire en un seul PDF ?
 
 Pour une PME, assembler un dossier unique intitulé par exemple « **Mesures de prévention — Éthique, anticorruption, respect au travail et non-discrimination — 2026** » : (1) engagement signé de la direction, (2) règles cadeaux/invitations/conflits d'intérêts, (3) registre — modèle + extrait, (4) clause anticorruption fournisseurs, (5) check-list nouveau fournisseur remplie, (6) procédure de signalement, (7) communication au personnel, (8) note interne harcèlement/discrimination, (9) personnes de contact et procédure psychosociale, (10) formation/toolbox avec feuille de présence, (11) indicateurs simples : personnes formées, signalements, incidents confirmés, actions correctives.
 

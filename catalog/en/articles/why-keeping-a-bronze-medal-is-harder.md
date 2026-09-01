@@ -50,7 +50,7 @@ faq:
 
 In three years EcoVadis changed in nature: from a fixed score to continuous percentile competition, from a declarative questionnaire to public and verified evidence, from a document-based rating to AI media monitoring that can block medals. Understanding the 2024-2026 trajectory explains why the medal that looked accessible yesterday now demands real management discipline.
 
-## The main EcoVadis changes (2024-2026)
+## What changed at EcoVadis between 2024 and 2026?
 
 **In 2024:**
 
@@ -70,7 +70,7 @@ In three years EcoVadis changed in nature: from a fixed score to continuous perc
 - **Recognition of VSME and ESRS standards**: new strengths for reports compliant with EFRAG's VSME standard (European SMEs) and with CSRD/ESRS.
 - **Integration of external environmental risks** ([ENV7003](external-climate-risk-assessment-env7003.md)) and **actions against external environmental disruptions** ([ENV7012](adapting-to-environmental-disruptions-env7012.md)).
 
-## Why earning and keeping a medal has become harder
+## Why has earning and keeping a medal become harder?
 
 - **Continuous competition (percentiles vs fixed scores)**: score thresholds rise constantly as the EcoVadis network grows and improves. The estimated indicative score for Gold went from **77/100 in July 2025 to 78/100 in January 2026**.
 - **Higher transparency requirements for Reporting**: this indicator weighs 14% of the overall score. For a high score, KPIs must be published in a **public annual or sustainability report** (no longer just a website), and at least **85% of the activated sustainability criteria** must be covered by KPIs for the maximum score.

@@ -52,7 +52,7 @@ faq:
 
 ESG Interim Management supports companies from foundational onboarding to acceleration towards Gold or Platinum — addressing evidence gaps, improving documentation quality and processes, and delivering actionable improvement plans, with more than 100 projects completed. This cheat sheet follows the same two tracks: **foundation** for first-timers, **acceleration** for reassessed companies.
 
-## The foundation track: EcoVadis for newcomers
+## Where do you start for a first assessment?
 
 **Your starting point.** EcoVadis is the most widely used business sustainability rating platform, assessing the four themes — Environment, Labor & Human Rights, Ethics, Sustainable Procurement — through three layers of practice (**Policies, Actions, Results**): formal commitments, demonstrable measures, and quantitative KPIs with trend data. Success comes from balancing all three, not from good intentions alone. The **360° Watch** adds external sources — NGO reports, media coverage, regulatory findings — so consistency between internal practice and public image strengthens the rating.
 
@@ -74,7 +74,7 @@ ESG Interim Management supports companies from foundational onboarding to accele
 
 **The ESGIM foundation journey:** Step 1 — insights report / gap analysis; Step 2 — roadmap implementation; Step 3 — assessment review and completion.
 
-## The acceleration track: EcoVadis reassessment
+## What should you do differently at reassessment?
 
 For annual reassessment the focus shifts from baseline compliance to **meaningful, documented year-on-year progress**. Five key steps:
 

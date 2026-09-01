@@ -54,7 +54,7 @@ faq:
 
 The pressure to address supplier sustainability is no longer confined to large multinationals. Mid-market companies now receive sustainability requirements from their largest customers as a standard condition of doing business: RFPs include EcoVadis score thresholds, contracts reference supplier codes of conduct, Scope 3 questionnaires arrive from procurement teams upstream. These demands often arrive faster than a one-person sustainability function can respond. This framework sets out where to start, built for limited teams and real deadlines.
 
-## Why sustainable procurement has moved up the agenda
+## Why has sustainable procurement moved up the agenda?
 
 Three forces are converging, regardless of sector.
 
@@ -64,23 +64,23 @@ Three forces are converging, regardless of sector.
 
 **Scope 3 data demands.** Customers pursuing science-based targets or CSRD compliance need emissions data from their supply chains. Currently, 30% of suppliers provide no carbon data whatsoever to their buyers. Companies that can provide reliable Scope 1, 2 and 3 data hold a measurable commercial advantage.
 
-## Before you build: understand what matters
+## What do you need to understand before building anything?
 
 The first step is understanding which sustainability risks and impacts are actually material to your supply chain. Selecting a tool or writing a policy before this step produces activity without direction. A manufacturing business buying raw materials, chemicals and logistics faces different risks from a software company buying IT infrastructure; sourcing from high-risk geographies carries different labour and human-rights exposure from buying entirely EU-based.
 
 A basic materiality mapping — spend categories, suppliers' industries and geographies, and the risks associated with each — gives the foundation for a proportionate programme. It does not need to be complex: a spend analysis by category with a risk overlay using publicly available tools is enough to produce a working priority list.
 
-## Step 1: Map your supply base
+## Step 1: how do you map your supply base?
 
 Pull your procurement data and segment suppliers by spend, category and geography. Identify the top 20% by spend — this tier typically accounts for 80% of your procurement risk and impact. For each segment, ask three questions: what sustainability risks are associated with this industry or geography? What is the potential impact if something goes wrong? How much influence does the business have over this supplier?
 
 The intersection of high risk and high influence is where the programme starts. Mid-market companies rarely have the bandwidth to manage hundreds of supplier relationships with equal intensity: a tiered approach — deep engagement with the top 20%, lighter-touch requirements for the rest — is both realistic and defensible to customers and auditors.
 
-## Step 2: Set your baseline with a supplier assessment
+## Step 2: how do you set your baseline?
 
 A supplier sustainability assessment builds a systematic picture across the four areas that matter most: environmental practices, labour and human rights, ethics and anti-corruption, and sustainable procurement. For companies already receiving EcoVadis requests from their own customers, this is the moment to assess suppliers using the same framework — EcoVadis evaluates over 21 criteria tailored to each supplier's industry, size and geography, and running your own buying programme through it gives verified data and the beginnings of a defensible programme record. For suppliers not yet on EcoVadis, a structured self-assessment questionnaire covering the same four themes is a workable starting point.
 
-## Step 3: Build your policies
+## Step 3: which policies do you build?
 
 Three policy documents form the minimum viable foundation:
 
@@ -90,7 +90,7 @@ Three policy documents form the minimum viable foundation:
 
 Together they satisfy the EcoVadis Sustainable Procurement theme requirements, demonstrate due diligence to customers, and create the paper trail that CSDDD and CSRD disclosures will eventually require.
 
-## Step 4: Engage, measure, and improve
+## Step 4: how do you engage, measure and improve?
 
 Governance, communication and review cadence turn static documents into a working system. For priority suppliers: send the code of conduct, request acknowledgement or signature, initiate an assessment through EcoVadis or a comparable framework. For lower-priority suppliers, a simple declaration of compliance is a reasonable start.
 

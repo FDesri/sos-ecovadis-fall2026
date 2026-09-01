@@ -50,7 +50,7 @@ faq:
 
 In drie jaar veranderde EcoVadis van aard: van een vaste score naar continue percentielcompetitie, van een declaratieve vragenlijst naar publiek en geverifieerd bewijs, van een documentbeoordeling naar AI-mediamonitoring die medailles kan blokkeren. Wie het traject 2024-2026 begrijpt, begrijpt waarom de medaille die gisteren haalbaar leek, vandaag echte beheersdiscipline vraagt.
 
-## De belangrijkste EcoVadis-veranderingen (2024-2026)
+## Wat is er tussen 2024 en 2026 veranderd bij EcoVadis?
 
 **In 2024:**
 
@@ -70,7 +70,7 @@ In drie jaar veranderde EcoVadis van aard: van een vaste score naar continue per
 - **Erkenning van de VSME- en ESRS-standaarden**: nieuwe sterktes voor rapporten conform de VSME-standaard van EFRAG (Europese kmo's) en de CSRD/ESRS.
 - **Integratie van externe milieurisico's** ([ENV7003](externe-klimaatrisicos-env7003.md)) en van **acties tegen externe milieuverstoringen** ([ENV7012](milieuverstoringen-aanpakken-env7012.md)).
 
-## Waarom een medaille behalen en behouden moeilijker is geworden
+## Waarom is een medaille behalen en behouden moeilijker geworden?
 
 - **Continue competitie (percentielen vs vaste scores)**: de scoredrempels stijgen voortdurend naarmate het EcoVadis-netwerk groeit en verbetert. De indicatieve score voor Goud ging van **77/100 in juli 2025 naar 78/100 in januari 2026**.
 - **Hogere transparantie-eisen voor Rapportering**: deze indicator weegt 14% van de totaalscore. Voor een hoge score moeten de KPI's gepubliceerd staan in een **publiek jaarverslag of duurzaamheidsrapport** (niet langer alleen op een website), en moet minstens **85% van de geactiveerde criteria** door KPI's gedekt zijn voor de maximumscore.

@@ -45,7 +45,7 @@ faq:
 
 ENV7012 extends the climate risk assessment (ENV7003) into the territory of **actions**: what does the company concretely do to withstand environmental disruptions? Two families of evidence are expected — adaptive practices integrated into operations, and emergency reserves or safety nets. No impact on the score, but visible on the scorecard.
 
-## 1. Integrating adaptive practices into operations
+## How do you integrate adaptive practices into operations?
 
 **Examples of documents to attach:**
 
@@ -61,7 +61,7 @@ ENV7012 extends the climate risk assessment (ENV7003) into the territory of **ac
 - Adapting processes or site maintenance to counter the loss of local ecosystem services (soil erosion, degradation of natural storm buffers)
 - Modifying internal logistics routes or access roads to avoid flood-prone areas
 
-## 2. Emergency reserves and safety nets
+## Which emergency reserves and safety nets should you plan?
 
 **Examples of documents to attach:**
 

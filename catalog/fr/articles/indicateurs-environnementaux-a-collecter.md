@@ -46,14 +46,14 @@ faq:
 
 Les indicateurs environnementaux d'EcoVadis mesurent l'impact de l'entreprise sur la planète dans le cadre du thème **Environnement**. Pour une PME, la difficulté n'est pas de trouver les chiffres — ils existent dans les factures, le bilan carbone et les déclarations réglementaires — mais de **choisir la source la plus défendable** quand elles divergent, et de garder la même méthode d'une année à l'autre : EcoVadis regarde la tendance.
 
-## Ce que couvre le thème Environnement
+## Que couvre le thème Environnement ?
 
 - **Consommation d'énergie et GES :** consommation d'énergie, émissions de gaz à effet de serre (Scopes 1, 2 et 3).
 - **Ressources et eau :** utilisation de l'eau, gestion des matières premières.
 - **Déchets et rejets :** production de déchets, gestion des eaux usées et des substances dangereuses.
 - **Impact local :** biodiversité et pollution locale.
 
-## Les indicateurs et leurs unités
+## Quels indicateurs, dans quelles unités ?
 
 | Indicateur | Unité |
 |---|---|
@@ -66,7 +66,7 @@ Les indicateurs environnementaux d'EcoVadis mesurent l'impact de l'entreprise su
 | Déchets non dangereux | kg |
 | Déchets valorisés | kg |
 
-## Exemple concret (client ESGIM : imprimerie flexographique wallonne, taille S)
+## À quoi cela ressemble-t-il chez un imprimeur wallon de taille S ?
 
 | Indicateur demandé | Valeur 2025 | Fiabilité | Source |
 |---|---|---|---|
@@ -80,7 +80,7 @@ Les indicateurs environnementaux d'EcoVadis mesurent l'impact de l'entreprise su
 | Déchets non dangereux (kg) | **413 090** | Fiable | Déclaration environnementale 2026 |
 | Déchets valorisés (kg) | **~578 860** (99,9 % du total 579 440) | Fiable | 100 % codes R, aucune élimination D |
 
-## Les arbitrages typiques avant de charger les preuves
+## Quels arbitrages faire avant de charger les preuves ?
 
 Trois points à trancher avant de charger quoi que ce soit sur la plateforme :
 

@@ -51,7 +51,7 @@ faq:
 
 ENV3549 vraagt: "Welke acties heeft uw onderneming ingevoerd om afval te beheren?" — vijf deelacties om te documenteren. De meeste industriële kmo's hebben het essentiële al (procedures, registers van ophalers, certificaten); het werk bestaat erin elk document aan de juiste deelactie te koppelen, het terugkerende opleidingsgat te dichten en tegenstrijdigheden tussen documenten weg te werken vóór het opladen.
 
-## De vijf deelacties en hun bewijsstukken
+## Wat zijn de vijf deelacties en hun bewijsstukken?
 
 **1. Interne afvalreductie (hergebruik, terugwinning, recyclage).** Documenten om toe te voegen: instructies voor afvalbeheer, contract met een derde partij, registers van hergebruikte materialen, websitefragment over vermeden afval. Het document moet methodes aantonen die de afvalproductie intern verminderen: hergebruik van componenten, opknappen van gebruikte materialen.
 
@@ -63,7 +63,7 @@ ENV3549 vraagt: "Welke acties heeft uw onderneming ingevoerd om afval te beheren
 
 **5. Andere acties** die elders in de vraag niet aan bod komen.
 
-## Concreet voorbeeld (ESGIM-klant: Waalse flexografische drukkerij, grootte S)
+## Hoe ziet een echt dossier eruit bij een Waalse drukkerij van grootte S?
 
 | Deelactie | Hoofdbewijs | Ondersteunend bewijs |
 |---|---|---|
@@ -73,7 +73,7 @@ ENV3549 vraagt: "Welke acties heeft uw onderneming ingevoerd om afval te beheren
 | 4. Inventaris / mapping | Het bestand van de gewestelijke milieuaangifte 2025: stroom → afvalcode → vergunde bestemmeling → gewest → code eindverwerking (R1-R12) → meetmethode → jaar N en N-1 — een echte mapping | Evolutieanalyse 2023-2025 (intensiteit kg/t product) + officiële rapporten 2023-2025 |
 | 5. Andere acties | De solventdistillatie op de site: 112 t geregenereerd (R2) op 144,6 t, ofwel 77% intern verwerkt — de sterkste actie van het dossier | Geen specifiek bewijs voorhanden → te produceren |
 
-## De drie dingen om recht te zetten vóór het opladen
+## Wat zet u recht vóór het opladen?
 
 **De opleiding is het gapende gat.** De opleidingsplannen bevatten geen enkele lijn "afval" of "sorteren"; de lijnen die de procedure zouden dekken, staan "in te plannen". Zonder bewijs is deelactie 2 verloren — en het is het goedkoopste punt om te recupereren: een toolbox van een halfuur over sorteren, met ondertekende aanwezigheidslijst, naar het model van een bestaande toolbox.
 
@@ -81,7 +81,7 @@ ENV3549 vraagt: "Welke acties heeft uw onderneming ingevoerd om afval te beheren
 
 **De sterkste actie is nergens gedocumenteerd.** De solventdistillatie verschijnt alleen als een regel in een rekenblad. Een fiche van één pagina (processchema, teller, geregenereerde tonnages over drie jaar, besparing op nieuw solvent) maakt er een zelfstandig bewijsstuk van — ook herbruikbaar voor de vragen over energie en inkoop.
 
-## Twee operationele details
+## Welke operationele details vergeet u best niet?
 
 Verwijder vermeldingen als "door de klant te valideren vóór externe verspreiding" uit een ophalersrapport vóór het opladen. Wanneer de tonnages van een ophaler niet sporen met de reglementaire aangifte (verschillende perimeters: meerdere ophalers), voeg dan een perimeternota toe — anders lijkt het verschil op een fout. Ten slotte: een stijging van het gevaarlijk afval (+20,7% in absolute cijfers hier) wordt gelezen als een verslechtering. EcoVadis vergeeft ze als ze wordt toegelicht **én** gekoppeld aan een becijferd doel ("−10% kg/t tegen 2028") in het milieubeleid.
 

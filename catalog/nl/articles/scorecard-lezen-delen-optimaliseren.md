@@ -52,7 +52,7 @@ faq:
 
 **Expertinzicht — François Dequenne:** uw EcoVadis-scorecard is niet zomaar een rating. Het is uw duurzaamheidsstrategie, in kaart gebracht voor klanten, investeerders en continue verbetering. Voor veel leveranciers is de EcoVadis-score vandaag een commerciële vereiste, geen "nice to have" meer — en toch voelt de scorecard de eerste keer ondoorzichtig aan. Dit artikel legt uit hoe u ze leest, deelt, wat ze kost, hoelang ze geldig is en wat een "goede" score werkelijk is.
 
-## Hoe u uw scorecard leest
+## Hoe leest u uw scorecard?
 
 Het resultaat van een beoordeling is een scorecard van 0 tot 100, gedetailleerd over de vier thema's: Milieu, Arbeids- en Mensenrechten, Ethiek en Duurzame Inkoop. Bovenaan ziet u uw **totaalscore**, uw **percentiel** (uw positie tegenover alle beoordeelde organisaties) en uw **medaille** als u in de top 35% of hoger zit.
 
@@ -81,7 +81,7 @@ Medailles worden per percentiel toegekend (en bij afwezigheid van grote controve
 
 **12 maanden vanaf publicatie.** Daarna kunnen klanten verwittigd worden dat de score niet meer actueel is, krijgt u herinneringen om een nieuwe beoordeling te starten, en behandelen sommige kopers een verouderde scorecard als een non-conformiteit. In bepaalde gevallen (hogere scores, lager risicoprofiel) aanvaarden klanten een cyclus van 24 maanden — maar EcoVadis zelf beschouwt de scorecard als 12 maanden geldig, dus de klantvereisten beslissen. Herbeoordeel minstens jaarlijks als duurzaamheid deel uitmaakt van uw commerciële propositie, als u naar specifieke doelen toewerkt (netto-nul-uitstoot, due diligence voor mensenrechten) of als sleutelklanten uw score actief opvolgen.
 
-## Hoe u uw scorecard deelt
+## Hoe deelt u uw scorecard?
 
 Delen is een commerciële kans, geen administratie. Drie hoofdkanalen:
 
@@ -95,13 +95,13 @@ Praktijken die de impact maximaliseren: interne afstemming tussen inkoop, sales 
 
 EcoVadis werkt met een **jaarabonnement**: de vergoeding dekt één beoordeling per jaar, de platformtoegang en uw scorecard, aangerekend bij lancering of verlenging. Hogere formules voegen functionaliteit toe (meer verbonden klanten, geavanceerde analyses, multi-site). Behandel het abonnement als een terugkerende investering, ingebed in het ESG-budget, de kosten voor leverancierskwalificatie of kaders die aan klantverplichtingen vasthangen. Uit ESGIM-ervaring halen ondernemingen het meeste waarde wanneer ze het jaar rond de beoordelingsdatum plannen: de maanden vóór de lancering dienen om lacunes te dichten in plaats van bewijs van lage kwaliteit te overhaasten.
 
-## De structuur van de scorecard lezen om te verbeteren
+## Hoe leest u de structuur van de scorecard om te verbeteren?
 
 Voorbij de kerncijfers: scores per thema met sector- en regiovergelijkingen; een kleurgecodeerde opsplitsing Beleid-Acties-Resultaten; een lijst **sterktes**; en een lijst **verbeterpunten**, de basis van uw Correctief Actieplan.
 
 Efficiëntietips: begin bij uw sterkste thema om te zien wat "goed" betekent in uw eigen context; onderzoek daarna het zwakste thema, zeker als het materieel is voor uw sector (Milieu voor productie, Arbeids- en Mensenrechten voor arbeidsintensieve ketens); gebruik de verbeterpunten als routekaart — elke bullet stemt meestal overeen met een specifiek ontbrekend of zwak document, praktijk of resultaat.
 
-## Hoe u uw score verbetert
+## Hoe verbetert u uw score?
 
 > "Elk verbeterpunt op uw scorecard wijst naar een specifieke lacune: een ontbrekend beleid, een proces dat nog niet geformaliseerd is, een KPI die nog niet wordt opgevolgd. Die lijst systematisch afwerken — zo bouwt u een duurzaamheidsmanagementsysteem, in plaats van alleen een score te verbeteren."
 

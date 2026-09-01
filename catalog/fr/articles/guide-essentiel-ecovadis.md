@@ -53,7 +53,7 @@ faq:
 
 ESG Interim Management accompagne les entreprises de l'initiation à l'accélération vers l'Or ou le Platine — combler les lacunes de preuves, améliorer la qualité documentaire et les processus, livrer des plans d'amélioration actionnables, avec plus de 100 projets menés. Cet aide-mémoire suit les deux mêmes parcours : la **fondation** pour la première évaluation, l'**accélération** pour la réévaluation.
 
-## Le parcours fondation : EcoVadis pour les nouveaux venus
+## Par quoi commencer pour une première évaluation ?
 
 **Le point de départ.** EcoVadis est la plateforme de notation RSE la plus utilisée, qui évalue les quatre thèmes — Environnement, Social et Droits Humains, Éthique, Achats Responsables — à travers trois couches de pratique (**Politiques, Actions, Résultats**) : engagements formels, mesures démontrables, KPI quantitatifs avec tendances. Le succès vient de l'équilibre des trois, pas des seules bonnes intentions. La **Veille 360°** ajoute les sources externes — rapports d'ONG, presse, décisions réglementaires — d'où l'importance de la cohérence entre pratique interne et image publique.
 
@@ -75,7 +75,7 @@ ESG Interim Management accompagne les entreprises de l'initiation à l'accélér
 
 **Le parcours fondation ESGIM :** Étape 1 — rapport d'analyse / gap analysis ; Étape 2 — mise en œuvre de la feuille de route ; Étape 3 — revue et finalisation de l'évaluation.
 
-## Le parcours accélération : la réévaluation EcoVadis
+## Que faire différemment lors d'une réévaluation ?
 
 En réévaluation annuelle, l'enjeu passe de la conformité de base à un **progrès documenté, année après année**. Cinq étapes clés :
 

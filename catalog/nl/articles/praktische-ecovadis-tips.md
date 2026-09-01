@@ -50,7 +50,7 @@ faq:
 
 Vijf families van tips bundelen het gros van de terreinervaring: de teamorganisatie, de afbakening van de scope, de documentdiscipline, de rapporteringsscore, en het anticiperen op de nieuwigheden (materialiteit, 360° Watch). Geen enkele vraagt een groot budget — allemaal vragen ze dat u er vroeg aan begint.
 
-## 1. Teamorganisatie en projectbeheer
+## Hoe organiseert u het team en stuurt u het project?
 
 **Duid een toegewijde projectleider aan (ambassadeur):** één verantwoordelijke die de beoordeling stuurt, de informatie centraliseert, de documentbibliotheek jaar na jaar beheert en de indieningsdeadlines bewaakt.
 
@@ -63,11 +63,11 @@ Vijf families van tips bundelen het gros van de terreinervaring: de teamorganisa
 
 **Anticipeer op de vragenlijst:** open ze ruim op voorhand om de methodologische nieuwigheden te analyseren, en volg elk kwartaal de sectie "Methodology Changes" van EcoVadis om u stroomopwaarts voor te bereiden.
 
-## 2. De beoordelingsscope afbakenen
+## Hoe bakent u de beoordelingsscope af?
 
 **Leg het beoordelingsniveau van bij het begin vast:** groep, specifieke juridische entiteit of geografische site. **Stem de scope af op de echte governance:** centraal beheerde duurzaamheid → groepsbeoordeling; autonome entiteiten → beoordeling per entiteit of site. **Beheer fusies en overnames actief:** meld elke wijziging van de juridische structuur snel aan EcoVadis — er geldt een **respijtperiode van één jaar** om nieuw verworven dochters in rapporten en beleid te integreren.
 
-## 3. Documentvereisten en -beheer
+## Welke documentvereisten gelden, en hoe beheert u ze?
 
 **Respecteer de geldigheidscriteria:** elk document draagt het logo of de naam van de onderneming en een aanmaak- of herzieningsdatum. Foto's, niet-ondertekende verklaringen en documenten van derden (tenzij ze uw onderneming expliciet vermelden) worden systematisch afgewezen.
 
@@ -80,7 +80,7 @@ Vijf families van tips bundelen het gros van de terreinervaring: de teamorganisa
 
 **Optimaliseer de documentbibliotheek (limiet van 55 bestanden):** EcoVadis beperkt het opladen tot **55 nieuwe documenten per jaar** — kies volledige, transversale documenten die meerdere subvragen tegelijk beantwoorden (een globaal beleid, een welzijnsdashboard). Verwijder oudere, nog geldige documenten niet: ze blijven herbruikbaar zonder het jaarquotum aan te spreken.
 
-## 4. De rapporteringsscore verbeteren, en audits inzetten
+## Hoe verhoogt u de rapporteringsscore, en wanneer helpen audits?
 
 **Publiceer een publiek duurzaamheidsrapport:** KPI's op de website zetten levert geen punten meer op. EcoVadis eist KPI's geïntegreerd in een **publiek toegankelijk jaar- of duurzaamheidsrapport**, anders wordt de rapporteringsscore afgetopt op **50/100**. De redactie duurt doorgaans **3 tot 4 maanden** — ruim op voorhand te starten.
 
@@ -90,7 +90,7 @@ Vijf families van tips bundelen het gros van de terreinervaring: de teamorganisa
 
 **Gebruik audits als alternatief voor certificeringen:** zijn formele certificeringen (ISO 14001…) te duur voor uw omvang, dien dan externe auditrapporten in (SMETA, BSCI, TfS). Voorwaarden: een op zichzelf staande audit (niet gekoppeld aan een certificering), uitgevoerd in de **laatste 2 jaar** door een geverifieerde externe auditor, met dekking van **meer dan 30% van uw wereldwijde activiteiten**.
 
-## 5. Anticiperen op de nieuwigheden: materialiteit en 360° Watch
+## Hoe anticipeert u op materialiteit en de 360° Watch?
 
 **Motiveer niet-materialiteit grondig (pilot 2026):** kunt u bepaalde milieuonderwerpen uitsluiten (water, luchtverontreiniging…), dien dan een **formele materialiteitsanalyse (of dubbele materialiteit)** in die de thema's afbakent en de uitsluiting staaft met impactdata of stakeholderfeedback. Zo niet, licht uw redenen toe in de commentaarvelden om heractivering van het criterium te vermijden.
 

@@ -53,7 +53,7 @@ faq:
 
 ENV3522 vraagt: "Welke acties heeft uw onderneming ingevoerd om grondstoffen en chemicaliën te beheren?" — negen deelacties. Zoals bij afval (ENV3549) bestaat het meeste bewijs al in een industrieel dossier: procedures, veiligheidsinformatiefiches, registers van ophalers, certificaten. Het werk bestaat erin elk document aan de juiste deelactie te koppelen, de echte gaten te identificeren en geen bewijs te verspillen dat elders in de vragenlijst wordt verwacht.
 
-## De negen deelacties en hun bewijsstukken
+## Wat zijn de negen deelacties en hun bewijsstukken?
 
 **1. Vermindering van het materiaalverbruik via procesoptimalisatie.** Facturen en installatieregisters van hoogrenderende apparatuur, presentatie van de verbeteringen, verbruiksvergelijking vóór/na. Voorbeelden: lean production, computerondersteunde fabricage, digitalisering van processen.
 
@@ -73,7 +73,7 @@ ENV3522 vraagt: "Welke acties heeft uw onderneming ingevoerd om grondstoffen en 
 
 **9. Andere acties** die elders in de vraag niet aan bod komen.
 
-## Concreet voorbeeld (ESGIM-klant: Waalse flexografische drukkerij, grootte S)
+## Hoe ziet een echt dossier eruit bij een Waalse drukkerij van grootte S?
 
 Van de ~70 stukken in het dossier zijn **9 documenten rechtstreeks bruikbaar** en 6 andere exploiteerbaar mits aanpassing. Zeven van de negen deelacties zijn gedekt of aanpasbaar; twee blijven echte gaten.
 
@@ -89,7 +89,7 @@ Van de ~70 stukken in het dossier zijn **9 documenten rechtstreeks bruikbaar** e
 | 8. Alternatieve stoffen | **Conformiteitsfiche EU 2025/40 van de inktleverancier**: ~60 inkten/vernissen zonder intentionele zware metalen (<100 ppm Pb+Hg+Cr+Cd) en zonder PFAS/PTFE-wassen | ✅ Rechtstreeks, maar het is conformiteit, geen substitutie — versterken met een bewijs van formuleringswijziging |
 | 9. Andere | Certificaat FSSC 22000/ISO 22000 (beheersing van inkomende materialen), VACCP-analyse leveranciers | ✅ Ondersteunend |
 
-## De twee echte gaten — en één valkuil
+## Wat zijn de twee echte gaten — en de valkuil?
 
 **Actie 3 (biogebaseerd)** en **actie 6 (opleidingsbewijs)**. Nummer 6 is het rendabelst: een halve dag over de veiligheidsfiches van de solventen met een ondertekende aanwezigheidslijst, en ze staat op groen. Nummer 3 vraagt een echt feit — een plantaardig smeermiddel, een reiniger met weinig VOS, een biogebaseerd spoelsolvent — te verifiëren bij de aankoopdienst vóór u iets probeert.
 

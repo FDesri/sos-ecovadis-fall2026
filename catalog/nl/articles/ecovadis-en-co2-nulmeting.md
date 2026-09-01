@@ -55,13 +55,13 @@ faq:
 
 De typische scène: uw grootste klant meldt dat uw score tegen Q3 Zilver moet halen; u bent de duurzaamheidsverantwoordelijke — én het duurzaamheidsteam. Het eerste dat u moet uitklaren: welke emissiedata EcoVadis werkelijk verwacht.
 
-## Waarom broeikasgassen centraal staan in de Milieuscore
+## Waarom staan broeikasgassen centraal in de Milieuscore?
 
 Binnen het thema Milieu is **energieverbruik en broeikasgassen** een primair criterium voor de meeste beoordeelde ondernemingen (de activering hangt af van land, sector en grootte). Het thema kan ook materialen en afval, water, biodiversiteit, productgebruik en einde levensduur, klantveiligheid en milieudiensten dekken — maar het beheer van broeikasgassen draagt de grootste commerciële zichtbaarheid en krijgt de strengste blik van de kopers. Voor productie, chemie, verpakking en logistiek weegt Milieu doorgaans het zwaarst in de totaalscore: het broeikasgasbeheer bepaalt in grote mate Zilver, Goud of Platinum.
 
 De analisten lezen de broeikasgassen via **P-A-R**: **Beleid** (een formeel klimaat-/broeikasgasbeleid, bekrachtigd door de directie), **Acties** (reductie-initiatieven, energie- of koolstofaudits, certificeringen), **Resultaten** (werkelijke reducties, geverifieerde data, erkenning door derden). Beleid zonder meetdata scoort alleen op Beleidsniveau — ondernemingen die een beleid schrijven maar de nulmeting nooit maken, breken systematisch niet door naar Zilver, hoe goed de rest van hun dossier ook is.
 
-## Wat een CO₂-nulmeting werkelijk is
+## Wat is een CO₂-nulmeting werkelijk?
 
 Een gekwantificeerde meting van uw emissies over drie scopes:
 
@@ -71,20 +71,20 @@ Een gekwantificeerde meting van uw emissies over drie scopes:
 
 Voor EcoVadis is een betrouwbare Scope 1 + 2-nulmeting het minimum voor geloofwaardig broeikasgasbeheer; de meest materiële Scope 3-categorieën toevoegen versterkt het bewijs van Acties en Resultaten aanzienlijk.
 
-## De data die u werkelijk nodig hebt
+## Welke data hebt u echt nodig?
 
 Geen groot team vereist. **Scope 1:** verbruik van aardgas of stookolie (facturen of meterstanden, volledig kalenderjaar); brandstof van de bedrijfsvoertuigen (tankkaarten, vlootbeheer); sectorrelevante procesemissies. **Scope 2:** elektriciteit per site, volledig jaar (facturen); hernieuwbare certificaten voor de market-based berekening. **Scope 3-starters:** zakenreizen; een korte enquête woon-werkverkeer (aanvaardbaar als vertrekpunt); vracht- en logistiekdata; aankoopuitgaven voor een screeningraming van categorie 1.
 
 Emissies = activiteitsdata × emissiefactoren. De **GHG Protocol Corporate Standard** (WRI/WBCSD, ghgprotocol.org) is de wereldwijd aanvaarde methodologie, rechtstreeks erkend door de EcoVadis-analisten.
 
-## Hoe de nulmeting uw score voedt
+## Hoe voedt de nulmeting uw score?
 
 - **Beleidsniveau:** verwijs naar de methodologie van de nulmeting in uw milieubeleid — "wij meten en beheren onze emissies volgens de GHG Protocol-methodologie" klinkt geloofwaardiger dan een generiek engagement.
 - **Actieniveau:** laad de inventarisresultaten op en documenteer concrete initiatieven — energie-efficiëntie, aankoop van hernieuwbare elektriciteit, elektrificatie van de vloot. Elke gedocumenteerde actie telt.
 - **Resultaatniveau:** gerapporteerde emissiedata leveren Resultatenkrediet op; één rapporteringsjaar volstaat om gescoord te worden, en drie of meer jaren in hetzelfde document leveren een bonus op. Onthoud: EcoVadis beoordeelt het managementsysteem, niet de milieuprestatie — de omvang van de reductie levert op zich geen punten op; gekwantificeerde, gedocumenteerde rapportering wel.
 - **Erkenning door derden:** een CDP-indiening, een SBTi-engagement of een ISO 14001-certificering tillen de Resultatenscore over meerdere criteria tegelijk omhoog.
 
-## Waarde voorbij EcoVadis
+## Wat is dit werk waard voorbij EcoVadis?
 
 Dezelfde nulmeting is het fundament van het bredere programma: **CSRD** (ESRS E1 vereist Scope 1, 2 en 3 — dezelfde datastructuur), **SBTi** (validatie vertrekt van een propere meerjareninventaris), **CDP** (de klimaatvragenlijst draait om inventaris, doelen en initiatieven). Eén investering, vier nalevings- en rapporteringstrajecten — de efficiëntie die het zwaarst weegt voor een duurzaamheidsverantwoordelijke met beperkte middelen.
 

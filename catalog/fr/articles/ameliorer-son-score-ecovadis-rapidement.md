@@ -52,7 +52,7 @@ faq:
 
 EcoVadis est le premier fournisseur mondial de notations RSE, et un meilleur score renforce les opportunités commerciales : beaucoup de grands groupes exigent l'évaluation de leurs fournisseurs pour attribuer ou reconduire des contrats. La bonne nouvelle : il existe des gains rapides qui font progresser la performance sans refondre d'un coup toute la stratégie.
 
-## Gain rapide n° 1 : formaliser les politiques et procédures
+## Gain rapide n° 1 : comment formaliser politiques et procédures ?
 
 Le levier le plus rapide : transformer les pratiques existantes — formations santé-sécurité, programmes de recyclage, engagements de diversité — en **politiques écrites et structurées**. Rédigez une politique de durabilité d'entreprise couvrant environnement, social, éthique et achats (engagements de haut niveau), complétée par des politiques ciblées (anticorruption, diversité et inclusion, réduction carbone). Faites-les **signer par la direction et communiquer en interne** : le signal d'une durabilité ancrée, pas improvisée.
 
@@ -68,23 +68,23 @@ Comprenez la grille que vous optimisez — le barème derrière chaque thème :
 | Résultats (35 %) | Rapports (40 %) | Qualité du reporting accessible aux parties prenantes | 0 / 25 / 50 / 75 / 100 |
 | | Veille 360° (60 %) | Positions des représentants des parties prenantes (autorités, syndicats, ONG) | 0 Sévère / 25 Majeur / 50 Mineur / 75 Aucun / 100 Positif |
 
-## Gain rapide n° 2 : les processus de données et de reporting
+## Gain rapide n° 2 : quels processus de données et de reporting mettre en place ?
 
 EcoVadis récompense fortement la mesure de la performance. Suivre la consommation d'énergie, les volumes de déchets ou la rotation du personnel peut déplacer le score — et **un tableur suffit pour commencer**, tant que la donnée est claire et reproductible. Montez un tableau de bord KPI aligné sur les thèmes EcoVadis ; rapportez les émissions de GES, de préférence Scopes 1 et 2 (le module Carbon Action aide pour le Scope 3) ; introduisez un rapport de durabilité annuel, même un court PDF, pour démontrer la transparence. La constance est la clé.
 
-## Gain rapide n° 3 : l'engagement fournisseurs
+## Gain rapide n° 3 : comment engager ses fournisseurs vite ?
 
 Les pratiques de chaîne d'approvisionnement différencient fortement. Étapes immédiates : **cartographier les fournisseurs critiques** et évaluer leurs risques par géographie, secteur et système de gestion ; **introduire un code de conduite fournisseur** ; **créer une procédure de vigilance** alignée sur la réglementation (CSDDD, par exemple). Même un progrès modeste ajoute des points précieux.
 
-## Gain rapide n° 4 : certifier et faire auditer
+## Gain rapide n° 4 : quelles certifications et quels audits viser ?
 
 Les certifications sont très valorisées : **ISO 14001** (management environnemental), **ISO 45001** (santé-sécurité) et **ISO 37001** (anticorruption) sont des gains rapides si l'organisation applique déjà les bonnes pratiques. Si la certification ISO coûte trop cher, les preuves d'audits internes, de vérification externe ou de certifications sectorielles rapportent encore des points.
 
-## Gain rapide n° 5 : muscler la gestion carbone
+## Gain rapide n° 5 : comment muscler la gestion carbone ?
 
 La fiche d'évaluation carbone note la gestion carbone sur l'engagement, les actions et le reporting, avec un classement d'Insuffisant à Leader. Gains rapides : fixer des objectifs climatiques clairs et ambitieux (un Science-Based Target dope le score Engagement) ; déployer des mesures concrètes de réduction ; tenir l'inventaire carbone à jour sur les Scopes 1, 2 et 3 ; rapporter avec transparence ; revoir régulièrement forces et lacunes sur la fiche.
 
-## Ce que ça donne dans le portefeuille
+## Que donnent ces gains dans le portefeuille ESGIM ?
 
 Des missions menées par ESGIM et ses consultants :
 
@@ -96,7 +96,7 @@ Des missions menées par ESGIM et ses consultants :
 
 *Les missions Bridgestone et Les Tartes de Françoise ont été menées par des consultants aujourd'hui chez ESGIM, sous une enseigne précédente.*
 
-## De l'action à l'élan
+## Comment passer de l'action à l'élan ?
 
 Améliorer vite, c'est transformer les bonnes intentions existantes en **preuves structurées** — politiques, données, engagements, certifications. Ces gains rapides s'additionnent et déplacent souvent le score d'un, voire deux niveaux de médaille en un seul cycle. Commencez par les politiques, le reporting et l'engagement fournisseurs, puis ajoutez l'action climatique pour la crédibilité de long terme.
 

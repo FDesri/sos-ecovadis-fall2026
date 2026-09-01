@@ -51,7 +51,7 @@ faq:
 
 ESGIM volgde de Sustain-conferentie live (maart 2026); ze bevestigde een omslag: duurzaamheid verschuift van bewustmaking naar uitvoering. EcoVadis kaderde het als vier pijlers van **duurzaam voordeel** — veerkracht (kritieke middelen veiligstellen, vroege signalen opvangen), innovatie (nieuwe groeimodellen; AI-analyse van koolstofdata toonde ketenemissies 21× hoger dan directe emissies), intelligentie (risico's anticiperen; integraties met Amazon Business, Microsoft, Moody's) en vertrouwen ("vertrouwen is de vermenigvuldiger": data omzetten in actie met consultingpartners zoals SGS en Schneider Electric).
 
-## De keynotes
+## Wat zeiden de keynotes?
 
 **Helena Helmersson (ex-CEO H&M):** perspectief schept helderheid — ze plaatst duurzaamheid op de Gartner Hype Cycle en voegt er een exponentiële curve aan toe: die van de impact.
 
@@ -61,19 +61,19 @@ ESGIM volgde de Sustain-conferentie live (maart 2026); ze bevestigde een omslag:
 
 **Paul Polman (ex-CEO Unilever):** het gaat heel snel — afleren en opnieuw leren. **De groene economie is 5.000 miljard dollar waard, met verwachte groei naar 7.000 miljard — de tweede groeisector**; ondernemingen met meer dan 50% groene omzet halen waarderingen die 12 à 15% hoger liggen. Vier krachten hertekenen de bedrijfsmodellen: **geopolitiek** (produceren waar het het veiligst is — sleutelthema, amper 2% uitgevoerd), **klimaat- en natuurrisico's** (handelen kost minder dan niet handelen), **AI**, en **regelgeving** — de drierichtingsstroom (VS, China, EU), waarbij **Omnibus de verplichtingen naar de privésector duwt**: als een groot bedrijf zich tot Scope 3-reductie verbond, zullen de leveranciers moeten volgen. **92% van de bedrijven heeft zijn netto-nuldoelen niet opgegeven.** Slechts 5% van de CEO's kan het rendement van duurzaamheid meten; wat ontbreekt is leiderschap.
 
-## De EcoVadis-strategie: vertrouwen op schaal, AI-first
+## Wat is de strategie van EcoVadis: vertrouwen op schaal, AI-first?
 
 Het knelpunt van AI is **betrouwbare data** — 60% van de AI-projecten zal stranden op slechte datakwaliteit. Het antwoord van EcoVadis bestaat uit drie filters: het wereldwijde netwerk, menselijke verificatie, en inzicht op werknemersniveau (data van 18M+ werknemers via worker-voice-enquêtes — zicht voorbij de zelfgerapporteerde data). De strategie: **de kracht van die unieke data ontsluiten met AI** — één geïntegreerd platform om verborgen risico's bloot te leggen, agentondersteunde workflows met menselijke besluitvorming, en een verbonden ecosysteem. Concreet voor beoordeelde ondernemingen: AI-gestuurde documentverificatie en anomaliedetectie, controles op documentgeschiktheid en voorgestelde antwoorden op basis van de al opgeladen documenten — een rechtstreeks antwoord op de vragenlijstmoeheid. Data op productniveau blijft zeldzaam: slechts 6% van de ondernemingen kan ze produceren.
 
-## Inkoop in de praktijk: de methode-Schneider Electric
+## Hoe stuurt Schneider Electric zijn inkoop aan?
 
 Schneider Electric combineert audits op locatie met EcoVadis-ratings voor strategische leveranciers, gericht op verbetering — de emissies van zijn leveranciers bedragen 40× zijn eigen Scope 1 & 2, en het beoordeelt de koolstofemissies van zijn 1.000 grootste leveranciers. De methode: **ontmoet leveranciers waar ze staan; stel haalbare doelen; bied ondersteuning.** Geen opgelegde doelen: rond leefbaar loon vroeg hoofdstuk 1 om een beleid; hoofdstuk 2 vraagt de kloof te meten en een routekaart te bouwen. Vijf jaar geleden wisten veel leveranciers niet wat koolstofboekhouding was; vandaag praten ze over Scope 3. Eén doorgegeven tip: **begin elke onderhandeling met duurzaamheid.**
 
-## De capaciteitskloof: de Sustainable Procurement Barometer
+## Wat onthult de Sustainable Procurement Barometer?
 
 De capaciteiten groeien maar halen de ambitie niet in (EcoVadis & Accenture): 48% van de inkopers heeft zicht op 75%+ van hun tier 1-leveranciers, **tegenover 10% voor de helft van tier 2 — tier 3 is een zwarte doos**. Twee op drie organisaties verzamelen al koolstofdata op productniveau; 30% heeft duurzaamheid volledig digitaal in de inkoopprocessen geïntegreerd; amper 17% van de leveranciers voelt zich sterk gemotiveerd door klanten. Zeven op tien noemen het onduidelijke rendement, leveranciersdata en concurrerende prioriteiten als grootste hinderpalen. De sleutel om waarde te ontsluiten? **Niet ambitie. Integratie**: doelen × incentives, data × beslissingen, investeringen × prioriteiten, verhaal × realiteit.
 
-## Het commerciële bewijs: Siemens Gamesa
+## Wat bewijst de case Siemens Gamesa?
 
 Siemens Gamesa testte de hypothese van een negatief verband tussen EcoVadis-prestaties en kwaliteitskosten van leveranciers. Bevinding: **hogere EcoVadis-scores correleren met lagere kwaliteitskosten** — duurzaamheid creëert financiële waarde. Het effect is het sterkst voor Milieu en Duurzame Inkoop, zwakker maar zichtbaar voor Arbeids- en Mensenrechten en Ethiek. EcoVadis wordt zo een vroeg, bruikbaar signaal voor leveranciersselectie en -verbetering. Verwante signalen: een SBTi-engagement is een criterium voor voorkeursleveranciers bij AstraZeneca; Amazon Business toont voortaan een groene score bij productselecties; staal wordt al koolstofbeprijsd via ETS in Europa of CBAM aan de grens.
 

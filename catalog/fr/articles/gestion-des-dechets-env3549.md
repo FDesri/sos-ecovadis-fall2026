@@ -50,7 +50,7 @@ faq:
 
 ENV3549 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre pour gérer les déchets ? » — cinq sous-actions à documenter. La plupart des PME industrielles ont déjà l'essentiel (procédures, registres de collecteurs, certificats) ; le travail consiste à relier chaque document à la bonne sous-action, à combler le trou récurrent de la formation, et à purger les contradictions entre documents avant de charger.
 
-## Les cinq sous-actions et leurs preuves
+## Quelles sont les cinq sous-actions et leurs preuves ?
 
 **1. Réduction des déchets internes (réutilisation, récupération, recyclage).** Documents à joindre : instructions de gestion des déchets, contrat avec un tiers, registres des matériaux réutilisés, extrait du site web sur les déchets évités. Le document doit démontrer des méthodes qui réduisent la production de déchets en interne : réutilisation de composants, réhabilitation de matériaux usagés.
 
@@ -62,7 +62,7 @@ ENV3549 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre p
 
 **5. Autres actions** non couvertes ailleurs dans la question.
 
-## Exemple concret (client ESGIM : imprimeur flexographique wallon, taille S)
+## À quoi ressemble un dossier réel chez un imprimeur wallon de taille S ?
 
 | Sous-action | Preuve principale | Preuves d'appui |
 |---|---|---|
@@ -72,7 +72,7 @@ ENV3549 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre p
 | 4. Inventaire / cartographie | Le fichier de déclaration environnementale régionale 2025 : flux → code déchet → destinataire agréé → région → code de traitement final (R1-R12) → méthode de mesure → N et N-1 — une vraie cartographie | Analyse d'évolution 2023-2025 (intensité kg/t produit) + rapports officiels 2023-2025 |
 | 5. Autres actions | La distillation des solvants sur site : 112 t régénérées (R2) sur 144,6 t, soit 77 % traités en interne — l'action la plus forte du dossier | Aucune preuve dédiée n'existe → à produire |
 
-## Les trois choses à corriger avant de charger
+## Que corriger avant de charger les preuves ?
 
 **La formation est le trou béant.** Les plans de formation ne contiennent aucune ligne « déchets » ou « tri » ; les lignes qui couvriraient la procédure sont « à programmer ». Sans preuve, la sous-action 2 est perdue — c'est le point le moins cher à récupérer : une toolbox d'une demi-heure sur le tri, avec liste d'émargement signée, sur le modèle d'une toolbox existante.
 
@@ -80,7 +80,7 @@ ENV3549 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre p
 
 **L'action la plus forte n'est documentée nulle part.** La distillation de solvants n'apparaît que comme ligne de tableur. Une fiche d'une page (schéma du process, compteur, tonnages régénérés sur trois ans, économie de solvant vierge) en fait une preuve autonome — réutilisable aussi sur les questions énergie et achats.
 
-## Deux détails opérationnels
+## Quels détails opérationnels ne pas oublier ?
 
 Retirer les mentions du type « à valider par le client avant diffusion externe » d'un rapport de collecteur avant chargement. Quand les tonnages d'un collecteur ne recoupent pas la déclaration réglementaire (périmètres différents : plusieurs collecteurs), ajouter une note de périmètre — sinon l'écart ressemble à une erreur. Enfin, une hausse des déchets dangereux (+20,7 % en absolu ici) sera lue comme une dégradation : EcoVadis la pardonne si elle est commentée **et** assortie d'un objectif chiffré (« −10 % kg/t d'ici 2028 ») inscrit dans la politique environnementale.
 

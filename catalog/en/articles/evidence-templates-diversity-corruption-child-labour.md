@@ -53,7 +53,7 @@ faq:
 
 "None of that happens in our company!" — the classic reaction of a Belgian SME to the diversity, corruption and child-labour questions. Yet you must answer: EcoVadis assesses the **management system**, not the existence of incidents. The good news: the expected evidence is simple — a recruitment grid, a gifts register, an HR dashboard, a hiring checklist — and even "0 cases" can be reported if the channel exists and is monitored. This article gives the useful evidence per subject and five ready-to-use templates.
 
-## 1) Diversity / non-discrimination (Labour & Human Rights theme)
+## What do you answer on diversity and non-discrimination?
 
 In Belgium, the legal framework targets equal treatment in access to work and working conditions; the Belgian inclusive recruitment guide covers the process from need to integration.
 
@@ -68,7 +68,7 @@ In Belgium, the legal framework targets equal treatment in access to work and wo
 
 **Avoid:** "we are an inclusive company" without evidence, a generic charter never deployed, unnecessary personal data.
 
-## 2) Corruption risk (Ethics theme)
+## What do you answer on corruption risk?
 
 The anti-corruption guide of the Belgian FPS Economy invites companies to internal measures proportionate to their size, sector and areas of activity: prior checks on business partners, honest accounting procedures, control systems, and documented training.
 
@@ -82,11 +82,11 @@ The anti-corruption guide of the Belgian FPS Economy invites companies to intern
 | Simple accounting control | Anonymised example of two-level approval: sensitive payments, expense reports, commissions |
 | Reporting / investigation | Anonymised register of ethics alerts: date, subject, status, corrective action, closure |
 
-## 3) Social and human rights reporting
+## What do you answer on social and human rights reporting?
 
 Here EcoVadis expects a **reporting document**: HR dashboard, social balance sheet, internal management report — attesting active KPI monitoring with units and period, not the mere availability of information. For a Belgian company, the **social balance sheet** is a valuable piece: part of the annual accounts, it contains headcount, staff movements and training; the abridged format for small companies already covers headcount, contracts, gender, categories, movements and training. KPIs to track: headcount and FTEs, aggregated gender split, turnover, training hours and trained employees (safety, ethics, non-discrimination, human rights, anti-corruption), accidents, social dialogue, anonymised reports, young workers, critical suppliers assessed on social risks.
 
-## 4) Prevention of child labour and forced labour
+## What do you answer on child and forced labour?
 
 Belgian law strictly protects minors under 15 or still in full-time compulsory education (limited exceptions); young workers enjoy specific protections. Forced labour is also addressed through human trafficking: long hours, low or no pay, economic dependence, retention of documents.
 
@@ -99,11 +99,11 @@ Belgian law strictly protects minors under 15 or still in full-time compulsory e
 | Suppliers / subcontractors | Social questionnaire, contract clause, assessment of at-risk suppliers, checks on temp agencies |
 | Alert register | Anonymised register — or "0 incidents" if the monitoring is real |
 
-## The five ready-to-copy templates
+## What are the five ready-to-copy templates?
 
 The ESGIM catalogue provides five directly reusable models: **(1) Action evidence factsheet** — header (theme, criterion, date, owner, period), identified risk, action taken, scope, evidence attached as annexes, result KPIs, follow-up decision, validation; **(2) Diversity actions register** — date, process, risk, action, evidence, KPI, next action; **(3) Corruption risk matrix** — process, scenario, gross level, control measure, evidence, owner, frequency, last result; **(4) Labour & Human Rights dashboard** — 10 KPIs with definition, unit, year N-1/N, source, comment, and an internal review block; **(5) Age / young workers / forced labour register** — hiring controls, supplier controls, alert register.
 
-## The recommended minimum file (Belgian size-S company)
+## What is the minimum file for a Belgian size-S company?
 
 | EcoVadis subject | Main document to upload | Useful annexes |
 |---|---|---|

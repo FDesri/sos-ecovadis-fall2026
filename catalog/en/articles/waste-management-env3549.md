@@ -50,7 +50,7 @@ faq:
 
 ENV3549 asks: "What actions has your company implemented to manage waste?" — five sub-actions to document. Most industrial SMEs already have the essentials (procedures, collector registers, certificates); the work consists of linking each document to the right sub-action, filling the recurring training gap, and purging contradictions between documents before uploading.
 
-## The five sub-actions and their evidence
+## What are the five sub-actions and their evidence?
 
 **1. Internal waste reduction (reuse, recovery, recycling).** Documents to attach: waste-management instructions, contract with a third party, registers of reused materials, website extract on avoided waste. The document must demonstrate methods that reduce waste generation internally: reuse of components, refurbishment of used materials.
 
@@ -62,7 +62,7 @@ ENV3549 asks: "What actions has your company implemented to manage waste?" — f
 
 **5. Other actions** not covered elsewhere in the question.
 
-## Concrete example (ESGIM client: Walloon flexographic printer, size S)
+## What does a real file look like at a Walloon printer of size S?
 
 | Sub-action | Main evidence | Supporting evidence |
 |---|---|---|
@@ -72,7 +72,7 @@ ENV3549 asks: "What actions has your company implemented to manage waste?" — f
 | 4. Inventory / mapping | The 2025 regional environmental declaration file: stream → waste code → licensed receiver → region → final treatment code (R1-R12) → measurement method → year N and N-1 — a genuine mapping | 2023-2025 trend analysis (intensity kg/t of product) + official 2023-2025 reports |
 | 5. Other actions | On-site solvent distillation: 112 t regenerated (R2) out of 144.6 t, i.e. 77% treated in-house — the strongest action in the file | No dedicated evidence exists → to be produced |
 
-## The three things to fix before uploading
+## What should you fix before uploading?
 
 **Training is the gaping hole.** The training plans contain no "waste" or "sorting" line; the lines that would cover the procedure are marked "to be scheduled". Without evidence, sub-action 2 is lost — and it is the cheapest point to recover: a half-hour toolbox talk on sorting, with a signed attendance sheet, modelled on an existing toolbox.
 
@@ -80,7 +80,7 @@ ENV3549 asks: "What actions has your company implemented to manage waste?" — f
 
 **The strongest action is documented nowhere.** Solvent distillation appears only as a spreadsheet line. A one-page factsheet (process diagram, meter, tonnages regenerated over three years, virgin-solvent savings) turns it into standalone evidence — reusable on the energy and procurement questions too.
 
-## Two operational details
+## Which operational details should you not forget?
 
 Remove any "to be validated by the client before external distribution" notices from a collector's report before uploading. When a collector's tonnages do not reconcile with the regulatory declaration (different perimeters: several collectors), add a perimeter note — otherwise the gap looks like an error. Finally, a rise in hazardous waste (+20.7% in absolute terms here) will be read as a deterioration: EcoVadis forgives it if it is commented on **and** paired with a quantified target ("−10% kg/t by 2028") written into the environmental policy.
 

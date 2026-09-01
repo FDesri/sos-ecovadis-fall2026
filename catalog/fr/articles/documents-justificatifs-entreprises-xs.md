@@ -50,7 +50,7 @@ faq:
 
 Les questionnaires EcoVadis sont adaptés à chaque entreprise — secteur, localisation, taille — y compris les très petites entreprises comptant **jusqu'à 25 employés**. En moyenne, **une dizaine de questions** sont posées aux XS, et certains indicateurs (adhésions comme le Pacte mondial, couverture) **ne s'appliquent pas**. Surtout : EcoVadis accorde plus de flexibilité aux XS et **accepte des documents justificatifs non formalisés** — à condition qu'ils restent récents, pertinents, complets et liés au périmètre d'évaluation. (Référence : Centre d'aide EcoVadis.)
 
-## Ce que tout document doit respecter
+## Que doit respecter tout document ?
 
 Tout document formalisé qui reflète votre système de gestion RSE et étaye vos réponses peut servir : procédures de gestion RSE, rapports RSE, rapports d'audit social, politiques sociales et environnementales, code d'éthique ou de conduite, guides des collaborateurs, certificats (ISO 14001, ISO 45001…), communication sur les progrès du Pacte mondial, rapports annuels avec section RSE.
 
@@ -64,7 +64,7 @@ Les règles communes :
 
 **EcoVadis ne prendra pas en considération :** les documents créés uniquement pour répondre au questionnaire ; les objectifs, actions ou rapports copiés d'une autre organisation ou de sources en ligne sans preuve raisonnable de mise en œuvre ; les documents informels (sans nom/logo de l'entreprise, sans date d'émission ou de révision) ; les preuves cachées derrière des liens (les analystes ne téléchargent pas de documents supplémentaires) ; les preuves sans lien avec les 21 critères RSE.
 
-## Des exemples validés par indicateur
+## Quels exemples sont validés par indicateur ?
 
 **Politiques** — la preuve de l'**engagement** : une lettre **signée** par le dirigeant sur les principaux enjeux RSE (identifiés dans le profil de risque sectoriel), utilisée en communication interne ou externe ; des plans d'actions ou feuilles de route avec la **liste des actions** prévues (plan santé-sécurité annuel…).
 
@@ -72,7 +72,7 @@ Les règles communes :
 
 **Reporting** — la preuve du **suivi des KPI** : les ressources consommées (déchets, eau, énergie) avec unité et période de référence ; des estimations clairement expliquées quand la donnée réelle est difficile à obtenir (consommation estimée d'un bureau loué…) ; des informations d'émissions vérifiables sur la base de factures et contrats, suivies dans un document officiel. Côté social : les thèmes surveillés (accidents, formations…) avec unités et période. **Attention :** les factures d'énergie ou d'eau ne sont **pas** admissibles comme preuves de reporting — l'indicateur évalue le suivi actif et l'analyse de l'avancement, pas la disponibilité brute d'informations. Le reporting doit dater de moins de deux années calendaires et couvrir au moins une année.
 
-## La liste rapide
+## Quelle est la liste rapide pour une entreprise XS ?
 
 **Documents validés :** preuve de formation des employés ; e-mails internes de sensibilisation ; factures d'achat de produits éco-labellisés (comme mesures) ; politique d'éthique des affaires ; tableaux de bord environnementaux internes ; feuille Excel de KPI RH ; présentation de la gestion interne ; documents d'évaluation des risques.
 
