@@ -1,0 +1,99 @@
+name: Validation du catalogue
+
+# KC-G15 : le build échoue si un lien est cassé, un ID dupliqué, une métadonnée
+# obligatoire absente, le JSON invalide, ou si les index ne se régénèrent pas à
+# l'identique. Un catalogue qui se contredit ne doit pas atteindre main.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # Contrôle hebdomadaire : détecte les fiches dont la révision arrive à
+    # échéance et les liens sortants morts sans attendre un push.
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install pyyaml jsonschema
+
+      - name: Valider le front matter contre le schéma
+        run: |
+          python3 - <<'PY'
+          import json, os, re, sys, yaml
+          from jsonschema import Draft202012Validator
+          schema = json.load(open("schemas/knowledge-object.schema.json"))
+          v = Draft202012Validator(schema)
+          bad = 0
+          for root, _d, files in os.walk("catalog"):
+              for f in sorted(files):
+                  if not f.endswith(".md"):
+                      continue
+                  p = os.path.join(root, f)
+                  m = re.match(r"^---\n(.*?)\n---\n", open(p, encoding="utf-8").read(), re.S)
+                  if not m:
+                      print(f"::error file={p}::pas de front matter"); bad += 1; continue
+                  fm = yaml.safe_load(m.group(1))
+                  for k in ("date_created", "date_updated", "review_due"):
+                      if k in fm and fm[k] is not None:
+                          fm[k] = str(fm[k])
+                  for e in v.iter_errors(fm):
+                      print(f"::error file={p}::{'.'.join(str(x) for x in e.path) or '(racine)'} — {e.message}")
+                      bad += 1
+          print(f"{bad} erreur(s) de schéma")
+          sys.exit(1 if bad else 0)
+          PY
+
+      - name: Construire les index et vérifier la cohérence
+        run: python3 scripts/build_index.py
+
+      - name: Vérifier que les index committés sont à jour
+        run: |
+          if ! git diff --quiet -- index public; then
+            echo "::error::index/ ou public/ ne correspond pas aux fiches."
+            echo "Lancer 'python3 scripts/build_index.py' et committer le résultat."
+            git --no-pager diff --stat -- index public
+            exit 1
+          fi
+
+      - name: Régénérer le panel de questions
+        run: |
+          python3 scripts/build_question_panel.py
+          if ! git diff --quiet -- measurement; then
+            echo "::error::measurement/ n'est pas à jour."
+            exit 1
+          fi
+
+      - name: Vérifier les liens sortants du registre de sources
+        continue-on-error: true   # une source momentanément indisponible ne bloque pas la fusion
+        run: |
+          python3 - <<'PY'
+          import urllib.request, yaml, sys
+          reg = yaml.safe_load(open("taxonomy/sources-registry.yaml"))["sources"]
+          dead = []
+          for sid, s in reg.items():
+              url = s.get("url")
+              if not url:
+                  continue
+              try:
+                  req = urllib.request.Request(url, method="HEAD",
+                                               headers={"User-Agent": "sos-ecovadis-linkcheck"})
+                  code = urllib.request.urlopen(req, timeout=20).status
+                  if code >= 400:
+                      dead.append((sid, url, code))
+              except Exception as e:
+                  dead.append((sid, url, type(e).__name__))
+          for sid, url, why in dead:
+              print(f"::warning::source '{sid}' injoignable — {url} ({why})")
+          print(f"{len(dead)} source(s) à revérifier sur {len(reg)}")
+          PY
