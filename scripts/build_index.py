@@ -180,6 +180,16 @@ def main():
         for t in mine:
             hub_members[t].append(oid)
 
+    # Déterminisme : l'ordre d'insertion des langues suit l'ordre de parcours du
+    # disque, qui n'est pas le même d'une machine à l'autre. Sans ce tri, le
+    # catalog.json régénéré en CI diffère de celui du poste et le build échoue
+    # pour une raison qui n'a rien à voir avec le contenu.
+    LANG_ORDER = {l: i for i, l in enumerate(LANGS + ["mul"])}
+    for obj in objects.values():
+        obj["languages"] = dict(sorted(obj["languages"].items(),
+                                       key=lambda kv: LANG_ORDER.get(kv[0], 99)))
+        obj["hubs"] = sorted(obj["hubs"])
+
     published_ids = {oid for oid, o in objects.items() if o["status"] == "published"}
 
     if errors:
@@ -218,7 +228,6 @@ def main():
         },
         "canonical_site": base,
         "languages": LANGS,
-        "generated": datetime.date.today().isoformat(),
         "object_count": len(objects),
         "published_count": len(published_ids),
         "sources": {sid: {k: v for k, v in s.items() if k in
@@ -333,8 +342,10 @@ Sitemap: {base}/sitemap.xml
     for h in sorted(hub_defs):
         if any(oid in published_ids for oid in hub_members[h]):
             for l in LANGS:
-                urls.append((hub_url(urlplan, l, hub_defs[h]["slug"][l]),
-                             datetime.date.today().isoformat()))
+                last = max((str(objects[o]["date_updated"])
+                            for o in hub_members[h] if o in published_ids),
+                           default=str(datetime.date.today()))
+                urls.append((hub_url(urlplan, l, hub_defs[h]["slug"][l]), last))
     for oid in sorted(published_ids):
         for lang, v in objects[oid]["languages"].items():
             if v["canonical_url"]:
@@ -397,7 +408,7 @@ Sitemap: {base}/sitemap.xml
 
     # --- llms-full.txt (KC-L05) -------------------------------------------
     F = [f"# SOS-EcoVadis Knowledge Catalog — texte intégral",
-         f"# Généré le {datetime.date.today().isoformat()} — ne pas éditer à la main.",
+         f"# Généré par scripts/build_index.py — ne pas éditer à la main.",
          f"# Licence : CC BY-NC 4.0 — citation avec attribution à ESG Interim Management.",
          ""]
     for oid in sorted(published_ids):

@@ -14,7 +14,6 @@
   "fr",
   "nl"
  ],
- "generated": "2026-09-01",
  "object_count": 106,
  "published_count": 0,
  "sources": {
@@ -1070,9 +1069,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
+    "methodologie",
     "tarifs",
-    "timing",
-    "methodologie"
+    "timing"
    ],
    "languages": {
     "en": {
@@ -1223,8 +1222,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "tarifs",
-    "methodologie"
+    "methodologie",
+    "tarifs"
    ],
    "languages": {
     "en": {
@@ -1556,10 +1555,10 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
+    "ethique",
     "medailles-percentiles",
-    "rising-bar",
     "methodologie",
-    "ethique"
+    "rising-bar"
    ],
    "languages": {
     "en": {
@@ -1718,10 +1717,10 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
+    "achats-responsables",
     "medailles-percentiles",
-    "rising-bar",
     "methodologie",
-    "achats-responsables"
+    "rising-bar"
    ],
    "languages": {
     "en": {
@@ -1886,8 +1885,8 @@
    "review_due": "2026-11-27",
    "hubs": [
     "medailles-percentiles",
-    "rising-bar",
-    "methodologie"
+    "methodologie",
+    "rising-bar"
    ],
    "languages": {
     "en": {
@@ -2044,8 +2043,8 @@
    "review_due": "2026-11-27",
    "hubs": [
     "methodologie",
-    "questionnaire",
-    "plateforme"
+    "plateforme",
+    "questionnaire"
    ],
    "languages": {
     "en": {
@@ -2205,9 +2204,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
+    "medailles-percentiles",
     "methodologie",
     "plateforme",
-    "medailles-percentiles",
     "timing"
    ],
    "languages": {
@@ -2390,9 +2389,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
+    "medailles-percentiles",
     "methodologie",
-    "questionnaire",
-    "medailles-percentiles"
+    "questionnaire"
    ],
    "languages": {
     "en": {
@@ -2596,11 +2595,11 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "rising-bar",
+    "360-watch",
     "medailles-percentiles",
     "methodologie",
-    "vsme-csrd",
-    "360-watch"
+    "rising-bar",
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -2772,11 +2771,11 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
+    "360-watch",
     "methodologie",
-    "rising-bar",
-    "vsme-csrd",
     "questionnaire",
-    "360-watch"
+    "rising-bar",
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -2940,8 +2939,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "methodologie",
     "carbone-ghg",
+    "methodologie",
     "plateforme"
    ],
    "languages": {
@@ -3101,10 +3100,10 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "rising-bar",
+    "360-watch",
     "medailles-percentiles",
     "methodologie",
-    "360-watch",
+    "rising-bar",
     "vsme-csrd"
    ],
    "languages": {
@@ -3268,11 +3267,11 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
+    "360-watch",
     "medailles-percentiles",
-    "rising-bar",
     "methodologie",
-    "vsme-csrd",
-    "360-watch"
+    "rising-bar",
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -3452,8 +3451,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "methodologie",
-    "medailles-percentiles"
+    "medailles-percentiles",
+    "methodologie"
    ],
    "languages": {
     "en": {
@@ -3638,9 +3637,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "questionnaire",
-    "preuves",
     "methodologie",
+    "preuves",
+    "questionnaire",
     "timing"
    ],
    "languages": {
@@ -3807,10 +3806,10 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "methodologie",
-    "timing",
     "achats-responsables",
-    "carbone-ghg"
+    "carbone-ghg",
+    "methodologie",
+    "timing"
    ],
    "languages": {
     "en": {
@@ -3977,9 +3976,9 @@
    "review_due": "2026-11-27",
    "hubs": [
     "methodologie",
-    "timing",
     "questionnaire",
-    "rising-bar"
+    "rising-bar",
+    "timing"
    ],
    "languages": {
     "en": {
@@ -4134,8 +4133,8 @@
    "review_due": "2026-11-27",
    "hubs": [
     "methodologie",
-    "timing",
-    "tarifs"
+    "tarifs",
+    "timing"
    ],
    "languages": {
     "en": {
@@ -4481,10 +4480,10 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "methodologie",
     "achats-responsables",
+    "carbone-ghg",
     "donneur-d-ordres",
-    "carbone-ghg"
+    "methodologie"
    ],
    "languages": {
     "en": {
@@ -4644,11 +4643,11 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "questionnaire",
-    "preuves",
-    "timing",
+    "360-watch",
     "methodologie",
-    "360-watch"
+    "preuves",
+    "questionnaire",
+    "timing"
    ],
    "languages": {
     "en": {
@@ -4803,9 +4802,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
+    "methodologie",
     "preuves",
-    "questionnaire",
-    "methodologie"
+    "questionnaire"
    ],
    "languages": {
     "en": {
@@ -5303,9 +5302,9 @@
    "review_due": "2026-11-27",
    "hubs": [
     "environnement",
+    "methodologie",
     "preuves",
-    "questionnaire",
-    "methodologie"
+    "questionnaire"
    ],
    "languages": {
     "en": {
@@ -5452,9 +5451,9 @@
    "review_due": "2026-11-27",
    "hubs": [
     "environnement",
+    "methodologie",
     "preuves",
-    "questionnaire",
-    "methodologie"
+    "questionnaire"
    ],
    "languages": {
     "en": {
@@ -5597,10 +5596,10 @@
    "date_updated": "2026-08-27",
    "review_due": "2027-02-27",
    "hubs": [
+    "achats-responsables",
     "environnement",
     "preuves",
-    "questionnaire",
-    "achats-responsables"
+    "questionnaire"
    ],
    "languages": {
     "en": {
@@ -5927,9 +5926,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2027-02-27",
    "hubs": [
-    "social-droits-humains",
     "preuves",
-    "questionnaire"
+    "questionnaire",
+    "social-droits-humains"
    ],
    "languages": {
     "en": {
@@ -6094,10 +6093,10 @@
    "date_updated": "2026-08-27",
    "review_due": "2027-02-27",
    "hubs": [
-    "social-droits-humains",
     "ethique",
     "preuves",
-    "questionnaire"
+    "questionnaire",
+    "social-droits-humains"
    ],
    "languages": {
     "en": {
@@ -6272,9 +6271,9 @@
    "review_due": "2027-02-27",
    "hubs": [
     "ethique",
-    "social-droits-humains",
     "preuves",
-    "questionnaire"
+    "questionnaire",
+    "social-droits-humains"
    ],
    "languages": {
     "en": {
@@ -6615,9 +6614,9 @@
    "review_due": "2026-11-27",
    "hubs": [
     "achats-responsables",
+    "carbone-ghg",
     "methodologie",
-    "vsme-csrd",
-    "carbone-ghg"
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -6786,10 +6785,10 @@
    "review_due": "2026-11-27",
    "hubs": [
     "achats-responsables",
-    "methodologie",
+    "carbone-ghg",
     "donneur-d-ordres",
-    "vsme-csrd",
-    "carbone-ghg"
+    "methodologie",
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -6959,9 +6958,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "questionnaire",
+    "plateforme",
     "preuves",
-    "plateforme"
+    "questionnaire"
    ],
    "languages": {
     "en": {
@@ -7070,8 +7069,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "methodologie",
-    "medailles-percentiles"
+    "medailles-percentiles",
+    "methodologie"
    ],
    "languages": {
     "en": {
@@ -7286,8 +7285,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2027-02-27",
    "hubs": [
-    "plateforme",
-    "donneur-d-ordres"
+    "donneur-d-ordres",
+    "plateforme"
    ],
    "languages": {
     "en": {
@@ -7393,8 +7392,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "vsme-csrd",
-    "methodologie"
+    "methodologie",
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -7505,8 +7504,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "vsme-csrd",
-    "methodologie"
+    "methodologie",
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -7611,8 +7610,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "vsme-csrd",
-    "methodologie"
+    "methodologie",
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -7718,8 +7717,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "methodologie",
-    "medailles-percentiles"
+    "medailles-percentiles",
+    "methodologie"
    ],
    "languages": {
     "en": {
@@ -7931,8 +7930,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "carbone-ghg",
-    "achats-responsables"
+    "achats-responsables",
+    "carbone-ghg"
    ],
    "languages": {
     "en": {
@@ -8144,8 +8143,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "environnement",
-    "carbone-ghg"
+    "carbone-ghg",
+    "environnement"
    ],
    "languages": {
     "en": {
@@ -8458,8 +8457,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2027-02-27",
    "hubs": [
-    "questionnaire",
     "plateforme",
+    "questionnaire",
     "timing"
    ],
    "languages": {
@@ -8566,8 +8565,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "questionnaire",
-    "methodologie"
+    "methodologie",
+    "questionnaire"
    ],
    "languages": {
     "en": {
@@ -8672,8 +8671,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2027-02-27",
    "hubs": [
-    "timing",
-    "plateforme"
+    "plateforme",
+    "timing"
    ],
    "languages": {
     "en": {
@@ -8781,8 +8780,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "questionnaire",
-    "methodologie"
+    "methodologie",
+    "questionnaire"
    ],
    "languages": {
     "en": {
@@ -8887,8 +8886,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2027-02-27",
    "hubs": [
-    "plateforme",
-    "donneur-d-ordres"
+    "donneur-d-ordres",
+    "plateforme"
    ],
    "languages": {
     "en": {
@@ -9102,8 +9101,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "rising-bar",
     "methodologie",
+    "rising-bar",
     "vsme-csrd"
    ],
    "languages": {
@@ -9215,8 +9214,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "vsme-csrd",
-    "methodologie"
+    "methodologie",
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -9331,9 +9330,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
+    "methodologie",
     "preuves",
-    "questionnaire",
-    "methodologie"
+    "questionnaire"
    ],
    "languages": {
     "en": {
@@ -9553,8 +9552,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2027-02-27",
    "hubs": [
-    "preuves",
-    "plateforme"
+    "plateforme",
+    "preuves"
    ],
    "languages": {
     "en": {
@@ -9655,8 +9654,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "preuves",
-    "methodologie"
+    "methodologie",
+    "preuves"
    ],
    "languages": {
     "en": {
@@ -9764,8 +9763,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "preuves",
-    "methodologie"
+    "methodologie",
+    "preuves"
    ],
    "languages": {
     "en": {
@@ -9984,8 +9983,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2027-02-27",
    "hubs": [
-    "questionnaire",
-    "preuves"
+    "preuves",
+    "questionnaire"
    ],
    "languages": {
     "en": {
@@ -10091,9 +10090,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "rising-bar",
+    "methodologie",
     "preuves",
-    "methodologie"
+    "rising-bar"
    ],
    "languages": {
     "en": {
@@ -10202,9 +10201,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
+    "360-watch",
     "methodologie",
-    "preuves",
-    "360-watch"
+    "preuves"
    ],
    "languages": {
     "en": {
@@ -10545,8 +10544,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "methodologie",
-    "medailles-percentiles"
+    "medailles-percentiles",
+    "methodologie"
    ],
    "languages": {
     "en": {
@@ -11192,9 +11191,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
+    "methodologie",
     "rising-bar",
-    "vsme-csrd",
-    "methodologie"
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -12179,9 +12178,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "social-droits-humains",
     "ethique",
-    "preuves"
+    "preuves",
+    "social-droits-humains"
    ],
    "languages": {
     "en": {
@@ -12291,9 +12290,9 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "vsme-csrd",
+    "methodologie",
     "rising-bar",
-    "methodologie"
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -12405,8 +12404,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "vsme-csrd",
-    "methodologie"
+    "methodologie",
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
@@ -13606,8 +13605,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2027-02-27",
    "hubs": [
-    "timing",
-    "plateforme"
+    "plateforme",
+    "timing"
    ],
    "languages": {
     "en": {
@@ -14041,8 +14040,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "preuves",
-    "methodologie"
+    "methodologie",
+    "preuves"
    ],
    "languages": {
     "en": {
@@ -14147,8 +14146,8 @@
    "date_updated": "2026-08-27",
    "review_due": "2026-11-27",
    "hubs": [
-    "vsme-csrd",
-    "methodologie"
+    "methodologie",
+    "vsme-csrd"
    ],
    "languages": {
     "en": {
