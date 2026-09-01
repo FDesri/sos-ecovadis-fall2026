@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Achats Responsables - SUP307 (Evernote, updated 2026-08-24; client example anonymised)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -71,7 +72,7 @@ SUP307 asks: "What actions has your company implemented to integrate social and 
 
 **8. Supplier capacity building and incentives.** Support and encouragement programmes: training, sharing of good practice, supplier events, awards, access to tenders.
 
-**9. Other actions.** To tick **only if options 1 to 8 do not apply** — EcoVadis states this explicitly.
+**9. Other actions.** To tick **only if options 1 to 8 do not apply** — [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) states this explicitly.
 
 ## What does a real file look like at a Walloon printer of size S?
 

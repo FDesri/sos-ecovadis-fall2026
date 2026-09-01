@@ -31,6 +31,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Évolution et dynamique de labellisation EcoVadis (Evernote, mei 2026, bijgewerkt 2026-08-24; puntequivalenten zijn gedateerde ramingen — kruis ze met de Rising Bar-fiche)"
+sources: [ecovadis-360-watch, ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -74,7 +75,7 @@ De wereldwijde gemiddelde score stijgt: ~40 punten in 2011, 44 in 2016, boven 50
 | Zilver | ~66 | ~72 |
 | Brons | ~58 | ~65 |
 
-De indicatieve Zilverdrempel schoof tussen juli 2025 en januari 2026 op van ongeveer 68 naar 72 punten — een brutale versnelling. Historisch volstonden 65 punten vaak voor Zilver; vandaag plaatsen ze een onderneming rond het 65e percentiel, amper Brons. De punten-"prijs" van excellentie stijgt elk jaar, gedreven door de professionalisering van MVO-functies, gespecialiseerde software en de CSRD-druk. *(Deze puntequivalenten variëren per publicatievenster — zie de Rising Bar-fiche voor de recentst waargenomen waarden.)*
+De indicatieve Zilverdrempel schoof tussen juli 2025 en januari 2026 op van ongeveer 68 naar 72 punten — een brutale versnelling. Historisch volstonden 65 punten vaak voor Zilver; vandaag plaatsen ze een onderneming rond het 65e percentiel, amper Brons. De punten-"prijs" van excellentie stijgt elk jaar, gedreven door de professionalisering van MVO-functies, gespecialiseerde software en de [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)-druk. *(Deze puntequivalenten variëren per publicatievenster — zie de Rising Bar-fiche voor de recentst waargenomen waarden.)*
 
 ## Waarvoor dienen de badges Committed en Fast Mover?
 
@@ -82,9 +83,9 @@ De indicatieve Zilverdrempel schoof tussen juli 2025 en januari 2026 op van onge
 
 ## Hoe passen het P-A-R-model en de 360° Watch samen?
 
-De themascore is een gewogen gemiddelde: **Beleid 25%** (formele engagementen, charters, becijferde doelen), **Acties 40%** (uitvoering, opleidingen, audits, certificeringen), **Resultaten 35%** (KPI-rapportering, 360° Watch). Om 70 punten te overschrijden zijn meerjarige kwantitatieve resultaten nodig die de reële impact van de acties bewijzen.
+De themascore is een gewogen gemiddelde: **Beleid 25%** (formele engagementen, charters, becijferde doelen), **Acties 40%** (uitvoering, opleidingen, audits, certificeringen), **Resultaten 35%** (KPI-rapportering, [360° Watch](https://ecovadis.com/)). Om 70 punten te overschrijden zijn meerjarige kwantitatieve resultaten nodig die de reële impact van de acties bewijzen.
 
-De **360° Watch** is de scheidsrechter: zelfs met 90 punten maakt een Watch-score van 0 op één thema — of 25 op twee thema's — een onderneming onverkiesbaar voor medailles. EcoVadis doorzoekt meer dan 100.000 bronnen (media, ngo's, overheidssites) met AI en menselijke experten. Schaal: 0 = onmiddellijke onverkiesbaarheid; 25 = risico; 50 = neutraal; 75-100 = positief.
+De **[360° Watch](https://ecovadis.com/)** is de scheidsrechter: zelfs met 90 punten maakt een Watch-score van 0 op één thema — of 25 op twee thema's — een onderneming onverkiesbaar voor medailles. EcoVadis doorzoekt meer dan 100.000 bronnen (media, ngo's, overheidssites) met AI en menselijke experten. Schaal: 0 = onmiddellijke onverkiesbaarheid; 25 = risico; 50 = neutraal; 75-100 = positief.
 
 ## Welke uitdagingen schept de grootte voor Belgische kmo's?
 
@@ -96,11 +97,11 @@ Een streng bekeken sector (plasticvervuiling, grondstoffen), boven het sectorove
 
 ## Waar staan machines en uitrusting voor de farma?
 
-België is een grote biofarmapool (Pfizer, GSK, Janssen): machinebouwers staan onder sterke indirecte druk. Via EcoVadis lanceerde de sector de **Responsible Health Initiative (RHI)** — GSK, Teva en Takeda harmoniseren er de duurzaamheidsnormen van hun leveranciers: een goede score is geen voordeel meer maar een **voorwaarde om in het erkende leverancierspanel te blijven**. Benchmarks: **Hosokawa Micron** (Benelux) — Zilver met 68/100 in 2024, top 15% van zijn sector (een 68 die vroeger dicht bij Goud lag); **Aguettant** — Zilver, boven het sectorgemiddelde op de vier thema's; **Omnia Group** — "circularity by design" 2024-2025. Specifieke beoordelingspunten: **ethiek en conformiteit** (anticorruptie, octrooien), **gezondheid-veiligheid** (montageateliers en installatie bij de klant, ISO 45001), **gevaarlijke stoffen** (REACH, RoHS — elke contaminatie van farmaceutische eindproducten vermijden).
+België is een grote biofarmapool (Pfizer, GSK, Janssen): machinebouwers staan onder sterke indirecte druk. Via EcoVadis lanceerde de sector de **Responsible Health Initiative (RHI)** — GSK, Teva en Takeda harmoniseren er de duurzaamheidsnormen van hun leveranciers: een goede score is geen voordeel meer maar een **voorwaarde om in het erkende leverancierspanel te blijven**. Benchmarks: **Hosokawa Micron** (Benelux) — Zilver met 68/100 in 2024, top 15% van zijn sector (een 68 die vroeger dicht bij Goud lag); **Aguettant** — Zilver, boven het sectorgemiddelde op de vier thema's; **Omnia Group** — "circularity by design" 2024-2025. Specifieke beoordelingspunten: **ethiek en conformiteit** (anticorruptie, octrooien), **gezondheid-veiligheid** (montageateliers en installatie bij de klant, [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html)), **gevaarlijke stoffen** (REACH, RoHS — elke contaminatie van farmaceutische eindproducten vermijden).
 
 ## Wat mag u verwachten in 2025-2026?
 
-Sinds 1 januari 2025 valoriseren **niet-afgeronde scores** fijne vooruitgang (60 → 62,3). Vanaf 2026: de **GRI**-afstemming wordt strenger (een loutere "verwijzing naar GRI" volstaat niet meer — substantieel gebruik van de indicatoren is vereist), en EcoVadis hecht meer waarde aan **publieke KPI-publicatie** (website, jaarverslag) dan aan interne documenten. Voor kmo's buiten de CSRD-scope is de **VSME**-norm geïntegreerd: **Basic-module → maximumscore 75/100**, **Comprehensive-module → tot 100/100**.
+Sinds 1 januari 2025 valoriseren **niet-afgeronde scores** fijne vooruitgang (60 → 62,3). Vanaf 2026: de **[GRI](https://www.globalreporting.org/standards/)**-afstemming wordt strenger (een loutere "verwijzing naar [GRI](https://www.globalreporting.org/standards/)" volstaat niet meer — substantieel gebruik van de indicatoren is vereist), en EcoVadis hecht meer waarde aan **publieke KPI-publicatie** (website, jaarverslag) dan aan interne documenten. Voor kmo's buiten de [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)-scope is de **[VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)**-norm geïntegreerd: **Basic-module → maximumscore 75/100**, **Comprehensive-module → tot 100/100**.
 
 ## Wat zijn de drie strategische assen?
 
@@ -113,5 +114,5 @@ Sinds 1 januari 2025 valoriseren **niet-afgeronde scores** fijne vooruitgang (60
 - Sinds 2024 is een medaille een percentiel, geen score: bij ongewijzigde praktijken zakt ze.
 - De puntequivalenten schuiven op: Brons richting ~65, Zilver richting ~72 (ramingen begin 2026, te kruisen).
 - Committed (45+) en Fast Mover (34-44, +6 ptn/18 maanden) erkennen het fundament en de dynamiek.
-- De 360° Watch kan de verkiesbaarheid tenietdoen ongeacht de score; VSME plafonneert op 75 (Basic) of opent de 100 (Comprehensive).
+- De [360° Watch](https://ecovadis.com/) kan de verkiesbaarheid tenietdoen ongeacht de score; [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) plafonneert op 75 (Basic) of opent de 100 (Comprehensive).
 - Belgische verpakking en farma-uitrusting: historisch excellente sectoren, dus een nog hogere lat — en de RHI maakt van de score een toegangsvoorwaarde tot het farmapanel.

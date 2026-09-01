@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [ecovadis-et-bilan-ges-de-base]
 
 # Comment aborder la fixation d'objectifs carbone, notamment les engagements SBTi ?
 
-Fixer des objectifs science-based **signale l'ambition, l'intégrité et le leadership** aux investisseurs et aux clients. Certaines entreprises hésitent sur l'atteignabilité, mais les objectifs SBTi aident à clarifier les trajectoires de réduction et à gagner la confiance des parties prenantes. L'accent doit porter sur **une base de référence crédible et des engagements progressivement ambitieux** — un inventaire de départ défendable compte plus qu'un chiffre spectaculaire. En termes EcoVadis, un objectif science-based validé est une preuve de haute qualité d'engagement GES quantitatif.
+Fixer des objectifs science-based **signale l'ambition, l'intégrité et le leadership** aux investisseurs et aux clients. Certaines entreprises hésitent sur l'atteignabilité, mais les objectifs [SBTi](https://sciencebasedtargets.org/) aident à clarifier les trajectoires de réduction et à gagner la confiance des parties prenantes. L'accent doit porter sur **une base de référence crédible et des engagements progressivement ambitieux** — un inventaire de départ défendable compte plus qu'un chiffre spectaculaire. En termes EcoVadis, un objectif science-based validé est une preuve de haute qualité d'engagement GES quantitatif.

@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -40,4 +41,4 @@ related: [de-ecovadis-scorecard-begrijpen, sterke-ecovadis-indieningen-opbouwen]
 
 EcoVadis past het **P-A-R-model (Beleid, Acties, Resultaten)** toe en een sterke score vereist de drie lagen. Een beleid alleen toont intentie; om te tonen dat het wordt toegepast, moet het bewijs een activiteit weerspiegelen die werkelijk in de organisatie plaatsvindt.
 
-Het meest overtuigende uitvoeringsbewijs: **opleidingsregisters, interne audit- of inspectierapporten, proces- en proceduredocumenten, personeelshandboeken, gedragscodes**. Voor hogere scores wegen onafhankelijke externe certificaten (zoals **ISO 14001 of een SMETA-audit**) zwaar door, omdat ze externe verificatie inhouden in plaats van zelfrapportering. Resultaatbewijs gaat een stap verder door uitkomsten te tonen: **KPI's opgevolgd in de tijd, vooruitgang tegenover doelen, meetbare prestatiedata**.
+Het meest overtuigende uitvoeringsbewijs: **opleidingsregisters, interne audit- of inspectierapporten, proces- en proceduredocumenten, personeelshandboeken, gedragscodes**. Voor hogere scores wegen onafhankelijke externe certificaten (zoals **[ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) of een SMETA-audit**) zwaar door, omdat ze externe verificatie inhouden in plaats van zelfrapportering. Resultaatbewijs gaat een stap verder door uitkomsten te tonen: **KPI's opgevolgd in de tijd, vooruitgang tegenover doelen, meetbare prestatiedata**.

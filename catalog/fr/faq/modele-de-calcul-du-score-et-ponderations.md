@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,7 +39,7 @@ related: [comprendre-la-fiche-devaluation-ecovadis, criteres-actives-ecovadis-pa
 
 # Quel est le modèle de calcul du score, pondérations des indicateurs et Coverage compris ?
 
-EcoVadis ne publie pas sa formule exacte, mais la structure est bien comprise. Le système détermine d'abord votre périmètre via les **critères activés** — les sujets matériels pour votre entreprise, définis par le secteur, la taille et le risque géographique. Les analystes évaluent les preuves selon le P-A-R ; les scores thématiques sont calculés à partir des indicateurs, pondérés par matérialité, et le **score global est une moyenne pondérée des quatre thèmes** — un chimiste et une société de services n'ont pas les mêmes pondérations. Le résultat est recalibré face à la base mondiale pour produire percentile et médaille.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) ne publie pas sa formule exacte, mais la structure est bien comprise. Le système détermine d'abord votre périmètre via les **critères activés** — les sujets matériels pour votre entreprise, définis par le secteur, la taille et le risque géographique. Les analystes évaluent les preuves selon le P-A-R ; les scores thématiques sont calculés à partir des indicateurs, pondérés par matérialité, et le **score global est une moyenne pondérée des quatre thèmes** — un chimiste et une société de services n'ont pas les mêmes pondérations. Le résultat est recalibré face à la base mondiale pour produire percentile et médaille.
 
 Les poids confirmés des indicateurs en part du score global : **Politiques 20 %, Adhésions 5 %, Mesures 24 %, Certifications 16 %, Reporting 14 %, veille 360° 21 %** — au sein de trois catégories : **Politiques 25 %, Actions 40 %, Résultats 35 %**.
 

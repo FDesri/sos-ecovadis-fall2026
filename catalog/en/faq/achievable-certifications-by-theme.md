@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [improve-your-ecovadis-score-fast, from-bronze-to-silver]
 
 # Which certifications are realistically achievable per theme — do we need all ISO standards?
 
-The most commonly recognised certifications by theme: **Labour & Human Rights** — ISO 45001 (occupational health and safety), SA8000 (social accountability), SMETA audit by Sedex. **Ethics** — ISO 37001 (anti-bribery management), ISO 27001 (information security, scored under the Ethics data-protection criterion), SMETA. **Sustainable Procurement** — amfori BSCI, Rainforest Alliance, FSC/PEFC where relevant to the product category. **Environment** — ISO 14001 (environmental management), ISO 50001 (energy management), EU Ecolabel, EMAS, SMETA.
+The most commonly recognised certifications by theme: **Labour & Human Rights** — [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html) (occupational health and safety), SA8000 (social accountability), SMETA audit by Sedex. **Ethics** — ISO 37001 (anti-bribery management), ISO 27001 (information security, scored under the Ethics data-protection criterion), SMETA. **Sustainable Procurement** — amfori BSCI, Rainforest Alliance, FSC/PEFC where relevant to the product category. **Environment** — [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) (environmental management), [ISO 50001](https://www.iso.org/iso-50001-energy-management.html) (energy management), EU Ecolabel, EMAS, SMETA.
 
-You do **not** need all ISO standards. Each contributes to its theme, but the value depends on what is material for your sector. For most companies, **ISO 14001 is the highest-impact environmental certification and ISO 45001 the highest-impact Labour & Human Rights certification**; ISO 50001 is most valuable for energy-intensive industries. SMEs should prioritise the certification most aligned with their **highest-weighted theme** before pursuing secondary standards.
+You do **not** need all ISO standards. Each contributes to its theme, but the value depends on what is material for your sector. For most companies, **[ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) is the highest-impact environmental certification and [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html) the highest-impact Labour & Human Rights certification**; [ISO 50001](https://www.iso.org/iso-50001-energy-management.html) is most valuable for energy-intensive industries. SMEs should prioritise the certification most aligned with their **highest-weighted theme** before pursuing secondary standards.

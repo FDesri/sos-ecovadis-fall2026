@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Actions face aux perturbations environnementales externes - ENV7012 (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -43,7 +44,7 @@ faq:
 
 ## In brief
 
-ENV7012 extends the climate risk assessment (ENV7003) into the territory of **actions**: what does the company concretely do to withstand environmental disruptions? Two families of evidence are expected — adaptive practices integrated into operations, and emergency reserves or safety nets. No impact on the score, but visible on the scorecard.
+[ENV7012](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) extends the climate risk assessment (ENV7003) into the territory of **actions**: what does the company concretely do to withstand environmental disruptions? Two families of evidence are expected — adaptive practices integrated into operations, and emergency reserves or safety nets. No impact on the score, but visible on the scorecard.
 
 ## How do you integrate adaptive practices into operations?
 

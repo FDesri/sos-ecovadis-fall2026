@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Bronze to Silver (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -51,7 +52,7 @@ faq:
 
 ## Hoe worden EcoVadis-medailles in 2026 toegekend?
 
-Sinds januari 2024 kent EcoVadis medailles uitsluitend toe op basis van **percentielrang**, niet op vaste scoredrempels. Uw totaalscore wordt vergeleken met die van elke onderneming die de voorbije 12 maanden op het platform werd beoordeeld: Brons gaat naar de top 35%, Zilver naar de top 15%, Goud naar de top 5%, Platinum naar de top 1%. Omdat de databank blijft groeien en ondernemingen blijven verbeteren, stijgt de benodigde score voor elke medaille mettertijd.
+Sinds januari 2024 kent [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) medailles uitsluitend toe op basis van **percentielrang**, niet op vaste scoredrempels. Uw totaalscore wordt vergeleken met die van elke onderneming die de voorbije 12 maanden op het platform werd beoordeeld: Brons gaat naar de top 35%, Zilver naar de top 15%, Goud naar de top 5%, Platinum naar de top 1%. Omdat de databank blijft groeien en ondernemingen blijven verbeteren, stijgt de benodigde score voor elke medaille mettertijd.
 
 De scorereferenties in dit artikel komen uit de interne portfoliodata van ESG Interim Management, laatst bijgewerkt in mei 2026. Het zijn richtinggevende indicatoren, geen vaste doelen die EcoVadis publiceert.
 

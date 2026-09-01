@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "How to build strong EcoVadis submissions consistently (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -48,7 +49,7 @@ faq:
 
 ## In het kort
 
-**Expertinzicht — François Dequenne:** een sterke EcoVadis-indiening opbouwen is geen eenmalige taak maar een doorlopend traject dat met uw organisatie meegroeit. De scores worden elk jaar competitiever, omdat de medailles voorbehouden zijn aan de toppercentielen — wat gisteren goede praktijk was, is morgen gemiddeld.
+**Expertinzicht — François Dequenne:** een sterke [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral)-indiening opbouwen is geen eenmalige taak maar een doorlopend traject dat met uw organisatie meegroeit. De scores worden elk jaar competitiever, omdat de medailles voorbehouden zijn aan de toppercentielen — wat gisteren goede praktijk was, is morgen gemiddeld.
 
 > "EcoVadis is geen vakje om aan te vinken, maar een traject van continue verbetering."
 

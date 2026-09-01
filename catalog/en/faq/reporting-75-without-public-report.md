@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,4 +39,4 @@ related: [whats-changing-in-2026, ecovadis-rising-standards-2026]
 
 # We scored 75 in Reporting without a public report — will it drop to 50 next time?
 
-This depends on **why the 75 was achieved**. From 2026, EcoVadis requires a public sustainability report aligned with a recognised framework to unlock the full Reporting score **above 50/100**. If a previous cycle awarded 75/100 under a less stringent methodology and the same documents are resubmitted, they may not achieve the same result in a new cycle. The safest course: check whether your Reporting score was based on a public report or internal evidence, and initiate publishing a structured sustainability report ahead of your next assessment.
+This depends on **why the 75 was achieved**. From 2026, [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) requires a public sustainability report aligned with a recognised framework to unlock the full Reporting score **above 50/100**. If a previous cycle awarded 75/100 under a less stringent methodology and the same documents are resubmitted, they may not achieve the same result in a new cycle. The safest course: check whether your Reporting score was based on a public report or internal evidence, and initiate publishing a structured sustainability report ahead of your next assessment.

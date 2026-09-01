@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Self-assessment vs. expert guidance - Which is right for you? (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -55,7 +56,7 @@ faq:
 
 ## En bref
 
-**Regard d'expert — François Dequenne :** mieux vaut de loin se concentrer sur une sélection d'actions qui comptent (des mesures) que de passer son temps à décoder le labyrinthe EcoVadis et à rédiger des documents que personne ne lira de toute façon.
+**Regard d'expert — François Dequenne :** mieux vaut de loin se concentrer sur une sélection d'actions qui comptent (des mesures) que de passer son temps à décoder le labyrinthe [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) et à rédiger des documents que personne ne lira de toute façon.
 
 L'évaluation couvre les quatre thèmes à travers politiques, actions et résultats. La vraie question n'est pas de savoir si vous *pouvez* le faire seul, mais si le temps passé à apprendre une méthodologie complexe et mouvante est votre meilleur investissement.
 

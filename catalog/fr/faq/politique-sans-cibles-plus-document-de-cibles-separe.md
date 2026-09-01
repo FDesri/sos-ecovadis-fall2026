@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [soumissions-ecovadis-solides-et-regulieres]
 
 # Une politique générale sans cibles peut-elle être associée à un document de cibles séparé ?
 
-Oui — c'est une approche légitime et courante, à condition que les deux documents fonctionnent ensemble de façon cohérente. EcoVadis distingue les **objectifs qualitatifs** (déclarations d'engagement ou de direction, sans échéance chiffrée) des **cibles** (buts quantitatifs avec valeur absolue ou en pourcentage et échéance future définie) ; les deux alimentent l'indicateur Politiques, et les cibles n'ont pas besoin de figurer dans la politique elle-même — elles peuvent vivre dans un rapport de durabilité, un plan d'action climat autonome ou un autre document dédié.
+Oui — c'est une approche légitime et courante, à condition que les deux documents fonctionnent ensemble de façon cohérente. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) distingue les **objectifs qualitatifs** (déclarations d'engagement ou de direction, sans échéance chiffrée) des **cibles** (buts quantitatifs avec valeur absolue ou en pourcentage et échéance future définie) ; les deux alimentent l'indicateur Politiques, et les cibles n'ont pas besoin de figurer dans la politique elle-même — elles peuvent vivre dans un rapport de durabilité, un plan d'action climat autonome ou un autre document dédié.
 
 Ce qui compte : que la **combinaison fournisse tous les éléments requis** — l'engagement (politique), la gouvernance (qui est responsable, quel processus existe) et les cibles (spécifiques, datées, mesurables). Chargez chaque document au bon endroit — ne supposez pas que l'analyste lira à travers les documents spontanément ; le champ commentaire peut signaler qu'ils se lisent ensemble. Condition importante : **les cibles doivent couvrir au moins 80 % des opérations de l'entreprise pour être créditées** — un rapport avec des cibles pour le seul siège, dans une entreprise multisite, ne satisfera pas ce seuil.

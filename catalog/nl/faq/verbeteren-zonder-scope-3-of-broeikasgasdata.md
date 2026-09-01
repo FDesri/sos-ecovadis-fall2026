@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,7 +39,7 @@ related: [ecovadis-en-co2-nulmeting, milieu-indicatoren-verzamelen]
 
 # Hoe verbetert u zonder Scope 3-doelen — of zonder enige broeikasgasdata?
 
-Scope 3-doelen zijn **geen voorwaarde** voor een sterke Milieuscore, en hun afwezigheid beperkt niet wat de onderneming op het thema kan bereiken — EcoVadis bestraft het niet-rapporteren van Scope 3-data niet.
+Scope 3-doelen zijn **geen voorwaarde** voor een sterke Milieuscore, en hun afwezigheid beperkt niet wat de onderneming op het thema kan bereiken — [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) bestraft het niet-rapporteren van Scope 3-data niet.
 
 De primaire verwachting, waar broeikasgassen een actief criterium zijn, is het **opvolgen en rapporteren van de Scope 1- en Scope 2-emissies**. Een gestructureerde inventaris over die twee scopes, gecombineerd met een **SMART-reductiedoel en referentiejaar**, draagt betekenisvol bij aan zowel de indicator Maatregelen als Rapportering — het realistische minimum voor wie zijn broeikasgastraject begint.
 

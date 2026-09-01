@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [ecovadis-et-bilan-ges-de-base]
 
 # Comment EcoVadis évalue-t-il les objectifs climatiques science-based non validés par le SBTi ?
 
-EcoVadis pose des questions détaillées sur le carbone et les objectifs science-based — y compris l'engagement et le statut de validation SBTi — dans la **section Carbone** du questionnaire. Ces questions génèrent une **fiche d'évaluation Carbone séparée** qui note votre gestion climatique d'Insufficient à Leader. Mais les questions de la section Carbone **ne contribuent actuellement ni au score global EcoVadis ni à l'éligibilité aux médailles**. Un objectif science-based non validé peut néanmoins servir de preuve Mesures/Politiques solide dans le questionnaire principal s'il est documenté comme engagement formel et chiffré.
+EcoVadis pose des questions détaillées sur le carbone et les objectifs science-based — y compris l'engagement et le statut de validation [SBTi](https://sciencebasedtargets.org/) — dans la **section Carbone** du questionnaire. Ces questions génèrent une **fiche d'évaluation Carbone séparée** qui note votre gestion climatique d'Insufficient à Leader. Mais les questions de la section Carbone **ne contribuent actuellement ni au score global EcoVadis ni à l'éligibilité aux médailles**. Un objectif science-based non validé peut néanmoins servir de preuve Mesures/Politiques solide dans le questionnaire principal s'il est documenté comme engagement formel et chiffré.

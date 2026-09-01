@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis ESGIM Princing (Evernote, mise à jour 2026-08-27)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27

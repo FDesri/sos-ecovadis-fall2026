@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis Sustain 2026 (light) (Evernote, mise à jour 2026-08-24 ; notes de prospection internes et commentaires de marché personnels omis de la fiche publique)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -58,7 +59,7 @@ Suivie en direct par ESGIM (mars 2026), la conférence Sustain a confirmé un ba
 
 **John Morrisson (droits humains) :** le travail des enfants recule ; l'IA aide à comprendre quelles législations fonctionneront ; attention au coût social des data centres — travailleurs, communautés, consensus social. L'économie circulaire (seconde main, cycles longs) ne peut pas porter une étiquette négative en droits humains.
 
-**Paul Polman (ex-CEO Unilever) :** tout va très vite — désapprendre et réapprendre. **L'économie verte pèse 5 000 milliards de dollars, attendue à 7 000 milliards — le deuxième secteur de croissance** ; les entreprises à plus de 50 % de revenus verts obtiennent des valorisations supérieures de 12 à 15 %. Quatre forces redéfinissent les modèles opérationnels : la **géopolitique** (produire là où c'est le plus sûr — sujet clé, seulement 2 % de mise en œuvre), les **risques climat et nature** (agir coûte moins cher que ne pas agir), l'**IA**, et la **réglementation** — le courant à trois directions (USA, Chine, UE), où **l'Omnibus pousse les obligations vers le secteur privé** : si un grand groupe s'est engagé sur la réduction du Scope 3, ses fournisseurs devront suivre. **92 % des entreprises n'ont pas abandonné leurs objectifs net zero.** Seuls 5 % des CEO savent mesurer le retour sur investissement de la durabilité ; ce qui manque, c'est le leadership.
+**Paul Polman (ex-CEO Unilever) :** tout va très vite — désapprendre et réapprendre. **L'économie verte pèse 5 000 milliards de dollars, attendue à 7 000 milliards — le deuxième secteur de croissance** ; les entreprises à plus de 50 % de revenus verts obtiennent des valorisations supérieures de 12 à 15 %. Quatre forces redéfinissent les modèles opérationnels : la **géopolitique** (produire là où c'est le plus sûr — sujet clé, seulement 2 % de mise en œuvre), les **risques climat et nature** (agir coûte moins cher que ne pas agir), l'**IA**, et la **réglementation** — le courant à trois directions (USA, Chine, UE), où **l'[Omnibus](https://finance.ec.europa.eu/) pousse les obligations vers le secteur privé** : si un grand groupe s'est engagé sur la réduction du Scope 3, ses fournisseurs devront suivre. **92 % des entreprises n'ont pas abandonné leurs objectifs net zero.** Seuls 5 % des CEO savent mesurer le retour sur investissement de la durabilité ; ce qui manque, c'est le leadership.
 
 ## Quelle est la stratégie d'EcoVadis : la confiance à l'échelle, l'IA d'abord ?
 
@@ -74,7 +75,7 @@ Les capacités progressent mais ne rattrapent pas l'ambition (EcoVadis & Accentu
 
 ## Que prouve le cas Siemens Gamesa ?
 
-Siemens Gamesa a testé l'hypothèse d'une relation négative entre performance EcoVadis et coûts qualité fournisseurs. Résultat : **de meilleurs scores EcoVadis corrèlent avec des coûts qualité plus bas** — la durabilité crée de la valeur financière. L'effet est le plus fort sur l'Environnement et les Achats Responsables, plus faible mais visible sur le Social et l'Éthique. EcoVadis devient un signal précoce et actionnable pour la sélection et l'amélioration des fournisseurs. Signaux connexes : l'engagement SBTi est un critère de fournisseur privilégié chez AstraZeneca ; Amazon Business affiche désormais un score vert sur des sélections de produits ; l'acier est déjà tarifé carbone via l'ETS en Europe ou le CBAM à la frontière.
+Siemens Gamesa a testé l'hypothèse d'une relation négative entre performance EcoVadis et coûts qualité fournisseurs. Résultat : **de meilleurs scores EcoVadis corrèlent avec des coûts qualité plus bas** — la durabilité crée de la valeur financière. L'effet est le plus fort sur l'Environnement et les Achats Responsables, plus faible mais visible sur le Social et l'Éthique. EcoVadis devient un signal précoce et actionnable pour la sélection et l'amélioration des fournisseurs. Signaux connexes : l'engagement [SBTi](https://sciencebasedtargets.org/) est un critère de fournisseur privilégié chez AstraZeneca ; Amazon Business affiche désormais un score vert sur des sélections de produits ; l'acier est déjà tarifé carbone via l'ETS en Europe ou le CBAM à la frontière.
 
 ## À retenir
 

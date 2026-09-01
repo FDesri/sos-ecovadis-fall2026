@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Matières premières et produits chimiques - ENV3522 (Evernote, updated 2026-08-24; client example anonymised)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -93,7 +94,7 @@ Of the ~70 documents in the file, **9 are directly usable** and 6 more are explo
 
 **Action 3 (bio-based)** and **action 6 (training evidence)**. Number 6 is the most profitable: a half-day on the solvent safety sheets with a signed attendance list, and it turns green. Number 3 requires a real fact — a plant-based lubricant, a low-VOC cleaner, a bio-based washing solvent — to verify with procurement before attempting anything.
 
-The trap: do not recycle supplier documents (VACCP, code of conduct) in ENV3522. EcoVadis expects them under **Sustainable Procurement**; counting them twice adds nothing.
+The trap: do not recycle supplier documents (VACCP, code of conduct) in ENV3522. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) expects them under **Sustainable Procurement**; counting them twice adds nothing.
 
 ## Key takeaways
 

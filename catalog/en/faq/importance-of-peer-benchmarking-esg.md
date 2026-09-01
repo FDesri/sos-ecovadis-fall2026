@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [ecovadis-rising-standards-2026, ecovadis-thresholds-belgian-packaging-
 
 # How important is peer benchmarking when developing an ESG strategy?
 
-Benchmarking against peers and understanding customer expectations are **crucial to staying competitive**. While companies rightly tailor initiatives to their own business model and maturity, knowing the ESG landscape of competitors enables better strategic alignment and addresses stakeholder demands more effectively. In the EcoVadis context this is doubly true: since medals are percentile-based, your position is literally defined relative to your peers.
+Benchmarking against peers and understanding customer expectations are **crucial to staying competitive**. While companies rightly tailor initiatives to their own business model and maturity, knowing the ESG landscape of competitors enables better strategic alignment and addresses stakeholder demands more effectively. In the [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) context this is doubly true: since medals are percentile-based, your position is literally defined relative to your peers.

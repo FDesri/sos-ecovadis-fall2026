@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "What's changing in 2026 + FAQ February (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, efrag-vsme, eu-csrd, gri-standards]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -48,7 +49,7 @@ faq:
 
 ## In het kort
 
-**Expertinzicht — François Dequenne:** hier zijn de belangrijkste vragen van de deelnemers aan de recentste ESG Interim Management-webinar, per onderwerp gebundeld. De methodologie van 2026 brengt drie kernupdates: (1) meer materialiteitsflexibiliteit om niet-materiële milieuonderwerpen uit te schakelen (momenteel in pilot in bepaalde sectoren), (2) een ernstbeoordeling van 360° Watch die stakeholderconsensus meeneemt, en (3) formele erkenning van de VSME-standaard met gedifferentieerde scoring Basic / Comprehensive. Ondertussen blijven de drempels stijgen: Zilver ging van 68 naar 72 punten tussen juli 2025 en januari 2026 alleen al.
+**Expertinzicht — François Dequenne:** hier zijn de belangrijkste vragen van de deelnemers aan de recentste ESG Interim Management-webinar, per onderwerp gebundeld. De methodologie van 2026 brengt drie kernupdates: (1) meer materialiteitsflexibiliteit om niet-materiële milieuonderwerpen uit te schakelen (momenteel in pilot in bepaalde sectoren), (2) een ernstbeoordeling van [360° Watch](https://ecovadis.com/) die stakeholderconsensus meeneemt, en (3) formele erkenning van de [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)-standaard met gedifferentieerde scoring Basic / Comprehensive. Ondertussen blijven de drempels stijgen: Zilver ging van 68 naar 72 punten tussen juli 2025 en januari 2026 alleen al.
 
 ## Hoe veranderen scope en structuur van de beoordeling?
 
@@ -60,7 +61,7 @@ faq:
 
 **Hoeveel punten verliest u door groepsdata op entiteitsniveau te rapporteren?** Dat varieert: zijn de groepsdata uitgesplitst met de KPI's van de rapporterende entiteit duidelijk aangeduid, dan blijft het verlies beperkt; bestaan alleen geconsolideerde groeps-KPI's, dan daalt de rapporteringsscore — van enkele punten tot 10-15 of meer. Lever groepsdata samen met entiteitsspecifieke uitsplitsingen en benoem duidelijk wat wat is. De methodologie van 2026 legt meer nadruk op datagranulariteit.
 
-**Hoe weet ik zeker dat alle dochters in onze groepsbeoordeling zitten?** Definieer de organisatiescope in de bedrijfsinformatiesectie van de vragenlijst, lijst alle geconsolideerde entiteiten op en voeg een organigram toe met locaties, personeelsbestand en activiteiten. De eerste pagina van de scorecard vermeldt de beoordelingsscope; 360° Watch kan nieuws over dochters signaleren, wat bevestigt dat ze gevolgd worden.
+**Hoe weet ik zeker dat alle dochters in onze groepsbeoordeling zitten?** Definieer de organisatiescope in de bedrijfsinformatiesectie van de vragenlijst, lijst alle geconsolideerde entiteiten op en voeg een organigram toe met locaties, personeelsbestand en activiteiten. De eerste pagina van de scorecard vermeldt de beoordelingsscope; [360° Watch](https://ecovadis.com/) kan nieuws over dochters signaleren, wat bevestigt dat ze gevolgd worden.
 
 **Kan alleen de best presterende sites selecteren greenwashing zijn?** Potentieel wel, als het de globale prestaties verkeerd voorstelt. De scope wordt gedeclareerd en is zichtbaar op de scorecard, maar de medaille zelf toont die beperking niet — precies daarom bevatten groepsbeoordelingen Dekkingsvragen, waarvan de percentages de score omhoog of omlaag duwen. Beste praktijk: een scope die representatief is voor de activiteiten en materiële impact, met uitsluitingen transparant gecommuniceerd aan de klanten. Vanaf 2026 benadrukt EcoVadis scopetransparantie en materialiteitsafstemming; de reputatie- en regelgevingsrisico's van selectieve rapportering wegen zwaarder dan kortetermijnwinst in de score.
 
@@ -74,13 +75,13 @@ faq:
 
 **Wij dienen een KPI-spreadsheet over alle locaties in. Is het maximum 50/100 zolang de KPI's niet publiek zijn?** Ja: vanaf 2026 verkiest EcoVadis publieke bekendmaking boven private documentatie. De spreadsheet behoudt waarde, maar de hoogste rapporteringsscores vereisen publiek beschikbare KPI's (duurzaamheidsrapport, website). Denk ook aan de andere vereisten voor 75 of 100/100: een dubbele materialiteitsanalyse, geverifieerde data en naleving van een rapporteringsstandaard.
 
-**Beste praktijk bij een wissel van rapporteringskader, met andere KPI-definities?** Continuïteit en transparantie: rapporteer tijdens de overgang de KPI's volgens beide definities waar haalbaar, leg de methodologische wijzigingen uit, voeg reconciliatietabellen toe. Eén jaar overlappende data helpt. Overgangen naar erkende kaders (GRI, ESRS, ISSB) worden positief onthaald wanneer ze transparant gedocumenteerd zijn.
+**Beste praktijk bij een wissel van rapporteringskader, met andere KPI-definities?** Continuïteit en transparantie: rapporteer tijdens de overgang de KPI's volgens beide definities waar haalbaar, leg de methodologische wijzigingen uit, voeg reconciliatietabellen toe. Eén jaar overlappende data helpt. Overgangen naar erkende kaders ([GRI](https://www.globalreporting.org/standards/), [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj), ISSB) worden positief onthaald wanneer ze transparant gedocumenteerd zijn.
 
 **Als ons materialiteitsgebaseerde rapport de 67% dekking van de EcoVadis-criteria niet haalt, hoe wordt dat gescoord?** Vanaf 2026 is er meer flexibiliteit om niet-materiële milieuonderwerpen uit te sluiten, maar voor actieve onderwerpen blijft dekking verwacht. Er niet over rapporteren verlaagt allicht de Dekking. Een degelijke materialiteitsdocumentatie en duidelijk uitgelegde scopekeuzes helpen — analisten kunnen die context meenemen, en transparantie over de aanpak wordt gewaardeerd.
 
 ## Hoe stemt u af op de rapporteringsstandaarden?
 
-**Erkent EcoVadis CSRD-rapportering zoals GRI?** Ja: de ESRS (de CSRD-standaarden) zijn erkend als formeel kader. Vanaf 2026 telt formele naleving meer dan "ernaar verwijzen" — rapporteren in overeenstemming met de ESRS levert alle punten op, net als GRI "in accordance with".
+**Erkent EcoVadis [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)-rapportering zoals [GRI](https://www.globalreporting.org/standards/)?** Ja: de [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) (de CSRD-standaarden) zijn erkend als formeel kader. Vanaf 2026 telt formele naleving meer dan "ernaar verwijzen" — rapporteren in overeenstemming met de ESRS levert alle punten op, net als [GRI](https://www.globalreporting.org/standards/) "in accordance with".
 
 **Volstaat "with reference to GRI" niet meer?** Klopt — een belangrijke wijziging in 2026. Vroeger leverde "prepared with reference to GRI" punten op zonder volledige naleving; nu vraagt EcoVadis "in accordance with" GRI (of substantieel aangetoond gebruik van de indicatoren en principes), en hetzelfde voor CSRD/ESRS. Gedeeltelijke toepassing krijgt nog wat krediet; de hoogste scores vragen formele naleving. Dat weerspiegelt de verscherpte aandacht voor greenwashing.
 
@@ -88,13 +89,13 @@ faq:
 
 **Is GRI beter dan IFRS of ESRS?** Ze dienen andere doelen: GRI is impactgericht en multi-stakeholder; IFRS is investeerdersgericht (financiële materialiteit); de ESRS combineren beide via dubbele materialiteit en zijn verplicht onder de CSRD. Alle drie zijn erkend — wat vanaf 2026 telt, is formele naleving. Let op: "in accordance with GRI" scoort maximaal; "in reference to GRI" niet meer.
 
-**Kan een Amerikaans bedrijf met VSME rapporteren?** Ja. VSME is door EFRAG voor Europese kmo's ontwikkeld, maar de principes gelden overal, en EcoVadis erkent het als legitieme gestructureerde rapportering — volledig en minder zwaar dan een integraal GRI of ESRS. Ga wel na of VSME ook aan de verwachtingen van uw stakeholders voldoet tegenover Amerikaanse kaders (SASB/IFRS).
+**Kan een Amerikaans bedrijf met [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) rapporteren?** Ja. [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) is door EFRAG voor Europese kmo's ontwikkeld, maar de principes gelden overal, en EcoVadis erkent het als legitieme gestructureerde rapportering — volledig en minder zwaar dan een integraal GRI of ESRS. Ga wel na of VSME ook aan de verwachtingen van uw stakeholders voldoet tegenover Amerikaanse kaders (SASB/IFRS).
 
 **Aanvaardt EcoVadis VSME voor mid-caps (bijvoorbeeld 750 VTE)?** Er is geen strikt verbod, maar met 750 VTE nadert u het verplichte CSRD-toepassingsgebied en kunnen analisten een vereenvoudigde standaard in vraag stellen; op die schaal sluit GRI "in accordance with" wellicht beter aan bij de verwachtingen.
 
 **Wordt de UK SRS aanvaard?** Naar verwachting wel, zodra formeel ingevoerd — hij spoort met ISSB, dat al erkend is. Er kan vertraging zitten op de expliciete vermelding in de methodologie; verwijs intussen naar UK SRS met vermelding van de ISSB-afstemming.
 
-**Telt een UNGC Communication on Progress als extern duurzaamheidsrapport?** Een COP levert punten op onder **Aansluitingen**, en kan wat rapporteringskrediet opleveren als hij relevante KPI's met meerjarige trends bevat — maar hij weegt niet zo zwaar als een formeel rapporteringskader. Is de COP uw voornaamste rapportering, maak ze dan volledig en datarijk, en overweeg aanvulling.
+**Telt een [UNGC](https://unglobalcompact.org/participation/report/cop) Communication on Progress als extern duurzaamheidsrapport?** Een COP levert punten op onder **Aansluitingen**, en kan wat rapporteringskrediet opleveren als hij relevante KPI's met meerjarige trends bevat — maar hij weegt niet zo zwaar als een formeel rapporteringskader. Is de COP uw voornaamste rapportering, maak ze dan volledig en datarijk, en overweeg aanvulling.
 
 **Vraagt EcoVadis naar EUDR-naleving?** Ja — in de secties Milieu en Duurzame Inkoop, vooral voor bedrijven die met de gedekte grondstoffen werken (runderen, cacao, koffie, palmolie, rubber, soja, hout en afgeleiden): ontbossingsbeleid, due-diligenceprocessen, traceerbaarheidssystemen, risicobeheer. Naarmate de handhaving start, weegt de paraatheid zwaarder.
 

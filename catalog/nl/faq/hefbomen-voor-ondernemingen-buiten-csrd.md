@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [wat-verandert-in-2026, rising-bar-strengere-normen-2026]
 
 # Wij vallen niet onder de CSRD — welke hefbomen zorgen dat EcoVadis ons duurzaamheidswerk erkent?
 
-CSRD-naleving is **geen voorwaarde** voor een sterke EcoVadis-score. Buiten de CSRD-scope bestaan meerdere doeltreffende routes. De **VSME** (vrijwillige kmo-standaard van EFRAG) is nu formeel erkend door EcoVadis als rapporteringskader: de Basic-module haalt tot **75/100** op de indicator Rapportering, en de volledige VSME (Basic en Comprehensive) kan **100/100** bereiken. **GRI**-rapportering blijft zeer doeltreffend en toegankelijk. Zonder enig publiek rapport is de maximale Rapporteringsscore **50/100**. Aansluitingen zoals het **UN Global Compact** en **Science-Based Targets**-engagementen voegen score toe, los van de regelgevende status.
+[CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)-naleving is **geen voorwaarde** voor een sterke EcoVadis-score. Buiten de [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)-scope bestaan meerdere doeltreffende routes. De **[VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)** (vrijwillige kmo-standaard van EFRAG) is nu formeel erkend door EcoVadis als rapporteringskader: de Basic-module haalt tot **75/100** op de indicator Rapportering, en de volledige [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) (Basic en Comprehensive) kan **100/100** bereiken. **[GRI](https://www.globalreporting.org/standards/)**-rapportering blijft zeer doeltreffend en toegankelijk. Zonder enig publiek rapport is de maximale Rapporteringsscore **50/100**. Aansluitingen zoals het **[UN Global Compact](https://unglobalcompact.org/participation/report/cop)** en **Science-Based Targets**-engagementen voegen score toe, los van de regelgevende status.

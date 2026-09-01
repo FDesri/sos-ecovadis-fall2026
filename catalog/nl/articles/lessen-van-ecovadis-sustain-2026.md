@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis Sustain 2026 (light) (Evernote, bijgewerkt 2026-08-24; interne prospectienotities en persoonlijke marktcommentaren weggelaten uit de publieke fiche)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -59,7 +60,7 @@ ESGIM volgde de Sustain-conferentie live (maart 2026); ze bevestigde een omslag:
 
 **John Morrisson (mensenrechten):** kinderarbeid neemt af; AI helpt begrijpen welke wetgeving zal werken; let op de sociale kost van datacenters — werknemers, gemeenschappen, sociaal draagvlak. De circulaire economie (tweedehands, lange cycli) kan geen negatief mensenrechtenlabel dragen.
 
-**Paul Polman (ex-CEO Unilever):** het gaat heel snel — afleren en opnieuw leren. **De groene economie is 5.000 miljard dollar waard, met verwachte groei naar 7.000 miljard — de tweede groeisector**; ondernemingen met meer dan 50% groene omzet halen waarderingen die 12 à 15% hoger liggen. Vier krachten hertekenen de bedrijfsmodellen: **geopolitiek** (produceren waar het het veiligst is — sleutelthema, amper 2% uitgevoerd), **klimaat- en natuurrisico's** (handelen kost minder dan niet handelen), **AI**, en **regelgeving** — de drierichtingsstroom (VS, China, EU), waarbij **Omnibus de verplichtingen naar de privésector duwt**: als een groot bedrijf zich tot Scope 3-reductie verbond, zullen de leveranciers moeten volgen. **92% van de bedrijven heeft zijn netto-nuldoelen niet opgegeven.** Slechts 5% van de CEO's kan het rendement van duurzaamheid meten; wat ontbreekt is leiderschap.
+**Paul Polman (ex-CEO Unilever):** het gaat heel snel — afleren en opnieuw leren. **De groene economie is 5.000 miljard dollar waard, met verwachte groei naar 7.000 miljard — de tweede groeisector**; ondernemingen met meer dan 50% groene omzet halen waarderingen die 12 à 15% hoger liggen. Vier krachten hertekenen de bedrijfsmodellen: **geopolitiek** (produceren waar het het veiligst is — sleutelthema, amper 2% uitgevoerd), **klimaat- en natuurrisico's** (handelen kost minder dan niet handelen), **AI**, en **regelgeving** — de drierichtingsstroom (VS, China, EU), waarbij **[Omnibus](https://finance.ec.europa.eu/) de verplichtingen naar de privésector duwt**: als een groot bedrijf zich tot Scope 3-reductie verbond, zullen de leveranciers moeten volgen. **92% van de bedrijven heeft zijn netto-nuldoelen niet opgegeven.** Slechts 5% van de CEO's kan het rendement van duurzaamheid meten; wat ontbreekt is leiderschap.
 
 ## Wat is de strategie van EcoVadis: vertrouwen op schaal, AI-first?
 
@@ -75,7 +76,7 @@ De capaciteiten groeien maar halen de ambitie niet in (EcoVadis & Accenture): 48
 
 ## Wat bewijst de case Siemens Gamesa?
 
-Siemens Gamesa testte de hypothese van een negatief verband tussen EcoVadis-prestaties en kwaliteitskosten van leveranciers. Bevinding: **hogere EcoVadis-scores correleren met lagere kwaliteitskosten** — duurzaamheid creëert financiële waarde. Het effect is het sterkst voor Milieu en Duurzame Inkoop, zwakker maar zichtbaar voor Arbeids- en Mensenrechten en Ethiek. EcoVadis wordt zo een vroeg, bruikbaar signaal voor leveranciersselectie en -verbetering. Verwante signalen: een SBTi-engagement is een criterium voor voorkeursleveranciers bij AstraZeneca; Amazon Business toont voortaan een groene score bij productselecties; staal wordt al koolstofbeprijsd via ETS in Europa of CBAM aan de grens.
+Siemens Gamesa testte de hypothese van een negatief verband tussen EcoVadis-prestaties en kwaliteitskosten van leveranciers. Bevinding: **hogere EcoVadis-scores correleren met lagere kwaliteitskosten** — duurzaamheid creëert financiële waarde. Het effect is het sterkst voor Milieu en Duurzame Inkoop, zwakker maar zichtbaar voor Arbeids- en Mensenrechten en Ethiek. EcoVadis wordt zo een vroeg, bruikbaar signaal voor leveranciersselectie en -verbetering. Verwante signalen: een [SBTi](https://sciencebasedtargets.org/)-engagement is een criterium voor voorkeursleveranciers bij AstraZeneca; Amazon Business toont voortaan een groene score bij productselecties; staal wordt al koolstofbeprijsd via ETS in Europa of CBAM aan de grens.
 
 ## Om te onthouden
 

@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis & GHG baseline: Foundations & FAQ (Evernote, updated 2026-08-24; '600+' corrected to '100+' per governance decision of 2026-08-27)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio, eu-csrd, ghg-protocol, sbti]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -75,27 +76,27 @@ For EcoVadis, a reliable Scope 1 + 2 baseline is the minimum for credible GHG ma
 
 No large team required. **Scope 1:** natural gas or heating oil consumption (invoices or meter readings, full calendar year); company vehicle fuel (fuel cards, fleet records); sector-relevant process emissions. **Scope 2:** electricity by site, full year (utility invoices); renewable certificates for the market-based calculation. **Scope 3 starters:** business travel; an employee commuting survey (acceptable as a starting point); freight and logistics data; purchased-goods spend for a Category 1 screening estimate.
 
-Emissions = activity data × emission factors. The **GHG Protocol Corporate Standard** (WRI/WBCSD, ghgprotocol.org) is the globally accepted methodology, recognised directly by EcoVadis assessors.
+Emissions = activity data × emission factors. The **[GHG Protocol](https://ghgprotocol.org/corporate-standard) Corporate Standard** (WRI/WBCSD, ghgprotocol.org) is the globally accepted methodology, recognised directly by EcoVadis assessors.
 
 ## How does the baseline feed your score?
 
-- **Policy level:** reference the baseline methodology in your environmental policy — "we measure and manage emissions in line with GHG Protocol methodology" beats a generic commitment.
+- **Policy level:** reference the baseline methodology in your environmental policy — "we measure and manage emissions in line with [GHG Protocol](https://ghgprotocol.org/corporate-standard) methodology" beats a generic commitment.
 - **Actions level:** upload the inventory results and document specific initiatives — efficiency upgrades, renewable procurement, fleet electrification. Each documented action adds.
 - **Results level:** reported emissions data earns Results credit; one reporting year is enough to be scored, and three or more years in the same document earns a bonus. Remember: EcoVadis assesses the management system, not environmental performance — the size of the reduction does not add points; quantified, documented reporting does.
-- **Third-party recognition:** CDP submissions, SBTi commitments or ISO 14001 certification lift the Results score across multiple criteria at once.
+- **Third-party recognition:** CDP submissions, [SBTi](https://sciencebasedtargets.org/) commitments or [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) certification lift the Results score across multiple criteria at once.
 
 ## What is this work worth beyond EcoVadis?
 
-The same baseline is the foundation of the wider programme: **CSRD** (ESRS E1 requires Scope 1, 2, 3 disclosures — same data structure), **SBTi** (validation starts from a clean multi-year inventory), **CDP** (the climate questionnaire centres on inventory, targets and initiatives). One investment, four compliance and disclosure pathways — the efficiency that matters most to a resource-constrained sustainability manager.
+The same baseline is the foundation of the wider programme: **[CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)** ([ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) E1 requires Scope 1, 2, 3 disclosures — same data structure), **[SBTi](https://sciencebasedtargets.org/)** (validation starts from a clean multi-year inventory), **CDP** (the climate questionnaire centres on inventory, targets and initiatives). One investment, four compliance and disclosure pathways — the efficiency that matters most to a resource-constrained sustainability manager.
 
 > "The Environment theme gap between average and Silver performers is rarely about what companies are doing. It's about what they can prove. A GHG baseline is how you bridge that gap."
 
-ESGIM's EcoVadis and GHG support typically covers: a gap analysis of current GHG data against assessor expectations, guided data collection across Scope 1, 2 and material Scope 3, inventory preparation using GHG Protocol methodology, drafting of GHG policy and management documentation, and a pre-submission review. Across more than 100 projects, 87% of ESGIM's EcoVadis clients improved their score, with an average improvement of 13.8 points.
+ESGIM's EcoVadis and GHG support typically covers: a gap analysis of current GHG data against assessor expectations, guided data collection across Scope 1, 2 and material Scope 3, inventory preparation using [GHG Protocol](https://ghgprotocol.org/corporate-standard) methodology, drafting of GHG policy and management documentation, and a pre-submission review. Across more than 100 projects, 87% of ESGIM's EcoVadis clients improved their score, with an average improvement of 13.8 points.
 
 ## Key takeaways
 
 - GHG is the Environment criterion buyers scrutinise most; for industrial sectors, the theme usually weighs heaviest overall.
 - Policy without measurement scores at Policy level only — the baseline unlocks Actions and Results.
 - Scope 1 + 2 is the minimum (with both location- and market-based Scope 2 since 2026); material Scope 3 strengthens the file.
-- One year of reported data is scoreable; three years in one document earns a bonus; third-party recognition (CDP, SBTi, ISO 14001) multiplies.
-- The same baseline serves CSRD, SBTi and CDP — build it once, use it four times.
+- One year of reported data is scoreable; three years in one document earns a bonus; third-party recognition (CDP, [SBTi](https://sciencebasedtargets.org/), [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)) multiplies.
+- The same baseline serves [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj), SBTi and CDP — build it once, use it four times.

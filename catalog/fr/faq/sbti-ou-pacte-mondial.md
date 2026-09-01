@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [ecovadis-et-bilan-ges-de-base]
 
 # Lequel vaut le plus : le SBTi ou l'adhésion au Pacte mondial ?
 
-Les deux alimentent l'indicateur Adhésions et peuvent soutenir d'autres indicateurs selon la documentation. **Le SBTi est généralement le signal le plus fort, spécifiquement pour le thème Environnement** : un objectif science-based validé compte comme preuve de haute qualité d'un engagement GES quantitatif et peut renforcer l'indicateur Mesures en plus des Adhésions.
+Les deux alimentent l'indicateur Adhésions et peuvent soutenir d'autres indicateurs selon la documentation. **Le [SBTi](https://sciencebasedtargets.org/) est généralement le signal le plus fort, spécifiquement pour le thème Environnement** : un objectif science-based validé compte comme preuve de haute qualité d'un engagement GES quantitatif et peut renforcer l'indicateur Mesures en plus des Adhésions.
 
-**L'adhésion UNGC avec une COP substantielle contribue sur plusieurs thèmes**, dont le Social et Droits Humains et l'Éthique. Pour une entreprise à forte pondération Environnement avec un programme GES actif, le SBTi pèse plus ; pour des bénéfices multi-thèmes plus larges, l'UNGC est l'investissement le plus polyvalent. Les deux ne s'excluent pas et sont fréquemment détenus ensemble par les entreprises Or et Platine.
+**L'adhésion [UNGC](https://unglobalcompact.org/participation/report/cop) avec une COP substantielle contribue sur plusieurs thèmes**, dont le Social et Droits Humains et l'Éthique. Pour une entreprise à forte pondération Environnement avec un programme GES actif, le [SBTi](https://sciencebasedtargets.org/) pèse plus ; pour des bénéfices multi-thèmes plus larges, l'[UNGC](https://unglobalcompact.org/participation/report/cop) est l'investissement le plus polyvalent. Les deux ne s'excluent pas et sont fréquemment détenus ensemble par les entreprises Or et Platine.

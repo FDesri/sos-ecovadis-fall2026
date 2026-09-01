@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "B Corp or EcoVadis, what's the best choice for your company? (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -47,7 +48,7 @@ faq:
 
 ## In brief
 
-**Expert insight — François Dequenne:** the rule of thumb is that if you are EcoVadis Silver, your company has the maturity to start a B Corp certification journey.
+**Expert insight — François Dequenne:** the rule of thumb is that if you are [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) Silver, your company has the maturity to start a B Corp certification journey.
 
 > "When deciding which sustainability rating or certification standard is right for your company, the most important factor is how it will contribute to your strategic goals."
 

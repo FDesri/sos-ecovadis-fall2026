@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Understanding the EcoVadis scorecard (Evernote, updated 2026-08-24)"
+sources: [ecovadis-360-watch, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -60,7 +61,7 @@ The backbone of the assessment is a matrix linking the four sustainability pilla
 - Business Ethics
 - Sustainable Procurement
 
-Each pillar is assessed using **seven criteria**: policies, endorsements, measures, certifications, coverage, reporting, and 360° Watch. A company must therefore show, for example, robust environmental policies, environmental measures and environmental reporting — and do the same for the other three pillars. The structure gives equal consideration to policy existence, practical deployment, and the effectiveness of reporting and oversight.
+Each pillar is assessed using **seven criteria**: policies, endorsements, measures, certifications, coverage, reporting, and [360° Watch](https://ecovadis.com/). A company must therefore show, for example, robust environmental policies, environmental measures and environmental reporting — and do the same for the other three pillars. The structure gives equal consideration to policy existence, practical deployment, and the effectiveness of reporting and oversight.
 
 ## What does each assessment criterion measure?
 
@@ -70,13 +71,13 @@ Each pillar is assessed using **seven criteria**: policies, endorsements, measur
 - **Certifications:** external validations of robustness (e.g. ISO certifications).
 - **Coverage:** the breadth of policy and measure implementation across the business.
 - **Reporting:** key sustainability performance indicators.
-- **360° Watch:** AI-driven monitoring of external reputation and risks.
+- **[360° Watch](https://ecovadis.com/):** AI-driven monitoring of external reputation and risks.
 
 ## How do scoring and weighting work?
 
 EcoVadis aggregates results for each criterion across the four pillars. Each pillar has its own weight, adjusted for industry and size, prioritising the most impactful areas. Only relevant, **"activated" criteria** are considered, based on each organisation's risk profile.
 
-Individual scores fall into five bands — **0, 25, 50, 75 or 100** — with the scorecard displaying pillar-by-pillar strengths and improvement areas. The overall assessment benchmarks the company against peers and highlights where targeted action delivers the most value. Negative 360° Watch findings can affect medal eligibility.
+Individual scores fall into five bands — **0, 25, 50, 75 or 100** — with the scorecard displaying pillar-by-pillar strengths and improvement areas. The overall assessment benchmarks the company against peers and highlights where targeted action delivers the most value. Negative [360° Watch](https://ecovadis.com/) findings can affect medal eligibility.
 
 ## Why is your questionnaire not the same as your neighbour's?
 

@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis essentials: A guide for beginners and reassessed companies (Evernote, bijgewerkt 2026-08-24; '600+' gecorrigeerd naar '100+' conform governancebeslissing 27/08/2026)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -54,7 +55,7 @@ ESG Interim Management begeleidt ondernemingen van de eerste kennismaking tot de
 
 ## Waar begint u bij een eerste beoordeling?
 
-**Het vertrekpunt.** EcoVadis is het meest gebruikte platform voor duurzaamheidsratings en beoordeelt de vier thema's — Milieu, Arbeids- en Mensenrechten, Ethiek, Duurzame Inkoop — via drie praktijklagen (**Beleid, Acties, Resultaten**): formele engagementen, aantoonbare maatregelen, kwantitatieve KPI's met trends. Succes komt uit het evenwicht tussen de drie, niet uit goede bedoelingen alleen. De **360° Watch** voegt externe bronnen toe — ngo-rapporten, media, regelgevende beslissingen — vandaar het belang van consistentie tussen interne praktijk en publiek beeld.
+**Het vertrekpunt.** EcoVadis is het meest gebruikte platform voor duurzaamheidsratings en beoordeelt de vier thema's — Milieu, Arbeids- en Mensenrechten, Ethiek, Duurzame Inkoop — via drie praktijklagen (**Beleid, Acties, Resultaten**): formele engagementen, aantoonbare maatregelen, kwantitatieve KPI's met trends. Succes komt uit het evenwicht tussen de drie, niet uit goede bedoelingen alleen. De **[360° Watch](https://ecovadis.com/)** voegt externe bronnen toe — ngo-rapporten, media, regelgevende beslissingen — vandaar het belang van consistentie tussen interne praktijk en publiek beeld.
 
 **De negen stappen van een eerste beoordeling:**
 

@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [ecovadis-en-co2-nulmeting]
 
 # Hoe beoordeelt EcoVadis science-based klimaatdoelen die niet formeel door SBTi zijn gevalideerd?
 
-EcoVadis stelt gedetailleerde vragen over koolstof en science-based doelen — inclusief SBTi-engagement en validatiestatus — in de **Koolstofsectie** van de vragenlijst. Die vragen genereren een **aparte Carbon-scorecard** die uw klimaatbeheer beoordeelt van Insufficient tot Leader. Maar de vragen van de Koolstofsectie **dragen momenteel niet bij aan de globale EcoVadis-score of de medailleverkiesbaarheid**. Een niet-gevalideerd science-based doel kan wel sterk Maatregelen-/Beleidsbewijs zijn in de hoofdvragenlijst als het is gedocumenteerd als formeel, becijferd engagement.
+EcoVadis stelt gedetailleerde vragen over koolstof en science-based doelen — inclusief [SBTi](https://sciencebasedtargets.org/)-engagement en validatiestatus — in de **Koolstofsectie** van de vragenlijst. Die vragen genereren een **aparte Carbon-scorecard** die uw klimaatbeheer beoordeelt van Insufficient tot Leader. Maar de vragen van de Koolstofsectie **dragen momenteel niet bij aan de globale EcoVadis-score of de medailleverkiesbaarheid**. Een niet-gevalideerd science-based doel kan wel sterk Maatregelen-/Beleidsbewijs zijn in de hoofdvragenlijst als het is gedocumenteerd als formeel, becijferd engagement.

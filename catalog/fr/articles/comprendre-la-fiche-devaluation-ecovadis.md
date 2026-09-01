@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Understanding the EcoVadis scorecard (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -47,7 +48,7 @@ faq:
 
 ## En bref
 
-> « EcoVadis note des systèmes de gestion de la durabilité, pas seulement des résultats, et permet aux organisations de démontrer un engagement ESG réel. »
+> « [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) note des systèmes de gestion de la durabilité, pas seulement des résultats, et permet aux organisations de démontrer un engagement ESG réel. »
 
 EcoVadis est la première plateforme mondiale de notation RSE, utilisée par plus de 150 000 organisations dans 185 pays et 250 secteurs. Contrairement aux notations purement axées sur la performance, la notation EcoVadis évalue la **qualité du système de gestion de la durabilité** — politiques, actions, résultats — ce qui favorise l'amélioration continue et permet de valoriser ses acquis via la fiche d'évaluation (scorecard) et les médailles.
 

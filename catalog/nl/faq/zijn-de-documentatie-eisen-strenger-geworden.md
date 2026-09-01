@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [rising-bar-strengere-normen-2026, wat-verandert-in-2026]
 
 # Zijn de kwaliteitseisen voor documentatie strenger geworden dan in vorige cycli?
 
-Ja. De reviewnormen van EcoVadis evolueren voortdurend naar **strengere bewijseisen**. Analisten zoeken steeds meer documenten die echte uitvoering aantonen in plaats van louter intentie, en data die voldoet aan de criteria van erkende kaders — **GRI-indicatoren, ESRS-datapunten**. De verschuiving van **"with reference to"** naar **"in accordance with"** rapporteringsstandaarden is het duidelijkste recente signaal van die richting — zie de fiches Rising Bar en "wat verandert in 2026" voor het volledige beeld.
+Ja. De reviewnormen van EcoVadis evolueren voortdurend naar **strengere bewijseisen**. Analisten zoeken steeds meer documenten die echte uitvoering aantonen in plaats van louter intentie, en data die voldoet aan de criteria van erkende kaders — **[GRI](https://www.globalreporting.org/standards/)-indicatoren, [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)-datapunten**. De verschuiving van **"with reference to"** naar **"in accordance with"** rapporteringsstandaarden is het duidelijkste recente signaal van die richting — zie de fiches Rising Bar en "wat verandert in 2026" voor het volledige beeld.

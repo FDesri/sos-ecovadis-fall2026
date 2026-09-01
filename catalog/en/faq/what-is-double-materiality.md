@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [whats-changing-in-2026]
 
 # What is double materiality and why is it central to CSRD-aligned reporting?
 
-Double materiality assesses **both how sustainability impacts the company financially and how the company impacts the environment and society**. This holistic lens shapes prioritisation and disclosures under the CSRD, ensuring companies report on all material ESG risks and opportunities affecting financial and non-financial stakeholders. It is also the most credible foundation for the EcoVadis materiality customisation pilot and for justifying which topics are — and are not — material to your operations.
+Double materiality assesses **both how sustainability impacts the company financially and how the company impacts the environment and society**. This holistic lens shapes prioritisation and disclosures under the [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj), ensuring companies report on all material ESG risks and opportunities affecting financial and non-financial stakeholders. It is also the most credible foundation for the EcoVadis materiality customisation pilot and for justifying which topics are — and are not — material to your operations.

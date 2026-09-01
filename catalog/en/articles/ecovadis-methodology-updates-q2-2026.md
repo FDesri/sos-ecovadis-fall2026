@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Methodology Updates Q2 2026 (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -53,7 +54,7 @@ Four updates landed in Q2 2026: Scope 2 targets must state their calculation met
 
 **Affects:** Policies; Energy Consumption & GHGs; sizes S and up. **Applies to:** Sustainability Rating and Carbon Rating.
 
-EcoVadis moves from a single, undifferentiated Scope 2 target option to a **mandatory selection of the calculation methodology**: market-based or location-based. After five years of Carbon Ratings and more than 100,000 Carbon Scorecards, the maturity of rated companies supports this granularity. The update follows the 7 May 2026 Scope 2 reporting change and aligns the questionnaire with the GHG Protocol Corporate Standard.
+EcoVadis moves from a single, undifferentiated Scope 2 target option to a **mandatory selection of the calculation methodology**: market-based or location-based. After five years of Carbon Ratings and more than 100,000 Carbon Scorecards, the maturity of rated companies supports this granularity. The update follows the 7 May 2026 Scope 2 reporting change and aligns the questionnaire with the [GHG Protocol](https://ghgprotocol.org/corporate-standard) Corporate Standard.
 
 Why: **standardised interoperability** (one internationally recognised set of climate targets across platforms) and **actionable insights** (location-based targets reflect the physical grid mix; market-based targets reflect contractual energy procurement, i.e. active decarbonisation choices such as renewable procurement).
 
@@ -94,7 +95,7 @@ Conflict adjustments affect theme-level data for Iran, Libya and Papua New Guine
 
 ## Key takeaways
 
-- Scope 2 targets now require the market-based / location-based methodology selection — align with the GHG Protocol before your next submission.
+- Scope 2 targets now require the market-based / location-based methodology selection — align with the [GHG Protocol](https://ghgprotocol.org/corporate-standard) before your next submission.
 - Select safety nets are gone: use the two-business-day factual error check, and control document quality before submitting.
 - Environment Improvement Areas (Water, Biodiversity, Air pollution) become diagnostic — read them as a to-do list of sector best practices.
 - Ten countries change risk level in August 2026; check whether your operating locations are affected.

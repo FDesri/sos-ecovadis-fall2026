@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,6 +38,6 @@ related: [build-strong-ecovadis-submissions-consistently, supporting-documents-f
 
 # How does the 55-document limit work — and should we combine documents into one?
 
-While the EcoVadis methodology now permits some document consolidation, the best practice remains to upload **separate documents**. EcoVadis allows up to 55 documents per assessment, so keeping them distinct enhances clarity and reviewer accessibility. Retaining older valid documents alongside new versions to demonstrate year-on-year progress is encouraged.
+While the [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) methodology now permits some document consolidation, the best practice remains to upload **separate documents**. EcoVadis allows up to 55 documents per assessment, so keeping them distinct enhances clarity and reviewer accessibility. Retaining older valid documents alongside new versions to demonstrate year-on-year progress is encouraged.
 
 The limit applies **per assessment cycle, not cumulatively**. Each time a new questionnaire is opened, you receive a fresh 55-document allowance for newly uploaded files. All documents submitted in previous assessments remain accessible in the Document Library and can be **reattached to questions in the new cycle without consuming any of the quota** — only fresh uploads count. The practical implication: where strong evidence already exists from the previous assessment, reattaching it is almost always the right approach; reserve new uploads for evidence that has changed, improved, or is being submitted for the first time.

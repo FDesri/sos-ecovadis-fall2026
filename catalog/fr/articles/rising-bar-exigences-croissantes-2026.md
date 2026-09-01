@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis' rising standards in 2026 (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, efrag-vsme, eu-csrd]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -78,7 +79,7 @@ L'erreur la plus fréquente et la plus coûteuse de 2025 : **le décalage de pé
 - **Évaluation entité :** une seule entité juridique sans filiales.
 - **Évaluation site :** un lieu géographique précis sans entité juridique propre.
 
-Le périmètre pèse directement sur la notation. Une évaluation groupe nourrie de politiques couvrant une seule filiale voit ces documents rejetés — notation Politiques basse. Si deux filiales sur dix détiennent ISO 45001, la Couverture score bas : 20 % des opérations. Clarifiez le niveau d'évaluation avant de commencer ; signalez immédiatement fusions et acquisitions à EcoVadis ; alignez chaque document sur le périmètre choisi.
+Le périmètre pèse directement sur la notation. Une évaluation groupe nourrie de politiques couvrant une seule filiale voit ces documents rejetés — notation Politiques basse. Si deux filiales sur dix détiennent [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html), la Couverture score bas : 20 % des opérations. Clarifiez le niveau d'évaluation avant de commencer ; signalez immédiatement fusions et acquisitions à EcoVadis ; alignez chaque document sur le périmètre choisi.
 
 ### Leçon n° 2 — Des exigences nettement relevées sur le score Rapports
 
@@ -87,7 +88,7 @@ Le reporting pèse **14 % du score global**, et EcoVadis a relevé la barre en 2
 - **Une couverture KPI supérieure à 85 %** des critères matériels — des métriques quantitatives pour chaque critère activé des quatre thèmes, pas seulement les KPI demandés explicitement
 - **Trois années consécutives de données** dans le même document, la dernière période datant de moins de 2 ans
 - **Un rapport de durabilité ou rapport annuel public** — sans lui, le score Rapports est plafonné à 50/100, quelle que soit la donnée interne
-- **L'alignement sur des standards reconnus** : GRI (« in accordance »), SASB, IFRS S1 & S2, ESRS ou VSME
+- **L'alignement sur des standards reconnus** : [GRI](https://www.globalreporting.org/standards/) (« in accordance »), SASB, IFRS S1 & S2, [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) ou [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)
 - **Une analyse de matérialité** — l'étape fondatrice qui détermine les sujets ESG à couvrir
 - **Une vérification externe** par un tiers indépendant accrédité
 
@@ -95,7 +96,7 @@ Un rapport solide demande trois à quatre mois, plus le délai d'assurance : com
 
 ### Leçon n° 3 — Les audits peuvent scorer à la place des certifications
 
-Pour les petites entreprises, les certifications ISO peuvent être coûteuses. Bonne nouvelle : **des audits liés à la durabilité peuvent scorer à leur place**, sous conditions — audit autonome (ne contribuant pas à une certification), couvrant plus de 30 % des opérations totales, sur des sujets matériels pour vous, avec le rapport complet d'un auditeur externe qualifié ou accrédité. Exemples valables : Sedex SMETA (très aligné sur la méthodologie EcoVadis), amfori BSCI, TfS pour la chimie ; même les audits de seconde partie menés par un auditeur externe qualifié. Cela rapporte moins qu'une certification (ISO 14001 contribue jusqu'à 100 points sur les systèmes de gestion environnementale) — et attention : des non-conformités majeures ou mineures dans le rapport peuvent coûter des points ou alimenter votre Veille 360°.
+Pour les petites entreprises, les certifications ISO peuvent être coûteuses. Bonne nouvelle : **des audits liés à la durabilité peuvent scorer à leur place**, sous conditions — audit autonome (ne contribuant pas à une certification), couvrant plus de 30 % des opérations totales, sur des sujets matériels pour vous, avec le rapport complet d'un auditeur externe qualifié ou accrédité. Exemples valables : Sedex SMETA (très aligné sur la méthodologie EcoVadis), amfori BSCI, TfS pour la chimie ; même les audits de seconde partie menés par un auditeur externe qualifié. Cela rapporte moins qu'une certification ([ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) contribue jusqu'à 100 points sur les systèmes de gestion environnementale) — et attention : des non-conformités majeures ou mineures dans le rapport peuvent coûter des points ou alimenter votre Veille 360°.
 
 ## Qu'est-ce qui change dans la méthodologie 2026 ?
 
@@ -103,12 +104,12 @@ Pour les petites entreprises, les certifications ISO peuvent être coûteuses. B
 
 **Évolution n° 2 — Une Veille 360° affinée.** Un nouveau facteur atténuant/aggravant : le **consensus des parties prenantes** — le degré de certitude exprimé par des parties prenantes crédibles quant au caractère défavorable d'une observation. Un consensus élevé augmente la sévérité ; un consensus faible ou contesté évite la sur-pénalisation. Anticipez les observations via la fonction Live News et vérifiez qu'elles reflètent bien le périmètre et les responsabilités réels de votre organisation.
 
-**Évolution n° 3 — La reconnaissance du référentiel VSME.** EcoVadis reconnaît désormais formellement le standard EFRAG **VSME** — le cadre européen simplifié pour les PME hors du champ CSRD. Un reporting aligné sur le **module Basic** peut atteindre 75/100 en Rapports (autres critères remplis) ; **Basic + Comprehensive** peut atteindre 100. Une voie simplifiée vers des soumissions solides et les attentes européennes émergentes.
+**Évolution n° 3 — La reconnaissance du référentiel [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded).** EcoVadis reconnaît désormais formellement le standard EFRAG **[VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)** — le cadre européen simplifié pour les PME hors du champ [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj). Un reporting aligné sur le **module Basic** peut atteindre 75/100 en Rapports (autres critères remplis) ; **Basic + Comprehensive** peut atteindre 100. Une voie simplifiée vers des soumissions solides et les attentes européennes émergentes.
 
 ## Quel plan d'action pour 2026 ?
 
 - **Vérifiez votre périmètre d'évaluation** au début de chaque cycle — la documentation doit s'aligner parfaitement sur le niveau groupe, entité ou site.
-- **Élevez la maturité de votre reporting** : visez un rapport public aligné GRI, ESRS ou VSME, avec des KPI couvrant tous les sujets pertinents.
+- **Élevez la maturité de votre reporting** : visez un rapport public aligné [GRI](https://www.globalreporting.org/standards/), [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) ou VSME, avec des KPI couvrant tous les sujets pertinents.
 - **Restez informé** : suivez les mises à jour méthodologiques d'EcoVadis et surveillez proactivement la Veille 360° via Live News.
 - **Préparez une analyse de (double) matérialité robuste** — le socle de l'évaluation EcoVadis et des autres pratiques ESG.
 

@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis activated criteria by sector + FAQ (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, iso-14001]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -66,9 +67,9 @@ The overall score is a weighted average of the four theme scores — and the the
 
 For manufacturers — machinery, components, plastics, industrial equipment — **Environment and Labour** typically carry the highest combined weight.
 
-Within Environment, **Energy Consumption & GHGs** is activated at high importance for most manufacturing sectors: EcoVadis expects policies, actions, KPI data and, where possible, certifications. **ISO 50001 and ISO 14001** are particularly valuable, especially covering more than 75% of operational scope. Reporting Scope 1 and 2 emissions (ideally Scope 3) strengthens the Reporting indicator.
+Within Environment, **Energy Consumption & GHGs** is activated at high importance for most manufacturing sectors: EcoVadis expects policies, actions, KPI data and, where possible, certifications. **[ISO 50001](https://www.iso.org/iso-50001-energy-management.html) and [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)** are particularly valuable, especially covering more than 75% of operational scope. Reporting Scope 1 and 2 emissions (ideally Scope 3) strengthens the Reporting indicator.
 
-**Employee Health & Safety** sits at high importance within Labour: a policy alone won't score well — analysts look for documented risk assessments, training records, accident frequency data, and ISO 45001 where feasible.
+**Employee Health & Safety** sits at high importance within Labour: a policy alone won't score well — analysts look for documented risk assessments, training records, accident frequency data, and [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html) where feasible.
 
 **Materials, Chemicals & Waste** is frequently high-importance for manufacturers handling hazardous substances, complex waste streams or REACH obligations. Product Use, Product End-of-Life and Customer Health & Safety are typically medium importance: lifecycle analyses, recall procedures and customer safety communication contribute here. Air Pollution and Water vary with operational profile and location; Biodiversity is often non-activated for standard manufacturing.
 
@@ -88,7 +89,7 @@ Chemicals companies face the **broadest environmental activation**: Materials/Ch
 
 On Materials, Chemicals & Waste, the assessment probes GHS-aligned substance labelling, hazardous waste treatment procedures and REACH compliance documentation. The **Together for Sustainability (TfS)** audit framework is a recognised third-party standard specific to the sector. Air Pollution activates questions on SOx, NOx, VOCs, particulates and odour management — monitoring data, abatement equipment records, emergency procedures for accidental releases. Water is assessed in depth: effluent treatment, wastewater quality assessments, quantitative consumption reporting; closed-loop systems and formal water audits position you substantially better than a high-level policy.
 
-For Environment overall, treat **ISO 14001 as the foundational certification** — but coverage decides its value: a certificate covering 30% of sites contributes far less than one covering 80%.
+For Environment overall, treat **[ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) as the foundational certification** — but coverage decides its value: a certificate covering 30% of sites contributes far less than one covering 80%.
 
 ## Can an activated criterion ever be ignored?
 
@@ -99,7 +100,7 @@ The practical implication: **start every cycle by confirming which criteria are 
 ## Key takeaways
 
 - Your ISIC code, size and locations determine which of the 21 criteria are activated and how the four themes are weighted.
-- Manufacturing: Energy & GHGs and Employee H&S at high importance; ISO 14001/45001/50001 are the impactful certifications.
+- Manufacturing: Energy & GHGs and Employee H&S at high importance; [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)/45001/50001 are the impactful certifications.
 - FMCG: Sustainable Procurement and supply-chain labour risks under intense scrutiny — the lowest-scoring theme globally (43.1/100) is also the biggest opportunity.
 - Chemicals: the broadest environmental activation — Materials/Chemicals & Waste, Air Pollution, Water — demanding detailed operational evidence.
 - Sequence preparation by importance level; a generic submission is the most common reason scores stall.

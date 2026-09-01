@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis scorecard: How to read, share & maximise your rating (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -80,7 +81,7 @@ Les médailles sont attribuées par percentile (et en l'absence de controverse m
 
 ## Combien de temps votre fiche est-elle valable ?
 
-**12 mois à compter de la publication.** Passé ce délai, vos clients peuvent être notifiés que le score n'est plus à jour, vous recevez des rappels pour relancer, et certains donneurs d'ordres traitent une fiche périmée comme une non-conformité. Dans certains cas (scores élevés, profils à faible risque), des clients acceptent un cycle de 24 mois — mais EcoVadis considère la fiche valable 12 mois : ce sont les exigences clients qui tranchent. Réévaluez au moins chaque année si la durabilité fait partie de votre proposition commerciale, si vous poursuivez des objectifs précis (zéro émission nette, devoir de vigilance) ou si des clients clés suivent activement votre score.
+**12 mois à compter de la publication.** Passé ce délai, vos clients peuvent être notifiés que le score n'est plus à jour, vous recevez des rappels pour relancer, et certains donneurs d'ordres traitent une fiche périmée comme une non-conformité. Dans certains cas (scores élevés, profils à faible risque), des clients acceptent un cycle de 24 mois — mais EcoVadis considère la fiche valable 12 mois : ce sont les exigences clients qui tranchent. Réévaluez au moins chaque année si la durabilité fait partie de votre proposition commerciale, si vous poursuivez des objectifs précis (zéro émission nette, [devoir de vigilance](https://eur-lex.europa.eu/eli/dir/2024/1760/oj)) ou si des clients clés suivent activement votre score.
 
 ## Comment partager votre fiche d'évaluation ?
 

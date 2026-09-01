@@ -31,6 +31,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Sustainable procurement for mid-market companies: Where to start (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-methodology, eu-csddd]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -60,11 +61,11 @@ La pression sur la durabilité des fournisseurs ne se limite plus aux grandes mu
 
 Trois forces convergent, quel que soit le secteur.
 
-**Les exigences clients.** Les grands acheteurs intègrent les critères ESG dans leurs achats à un rythme soutenu. Le Baromètre Achats Responsables EcoVadis 2026 montre que 48 % des acheteurs ont désormais une visibilité sur les pratiques ESG de la plupart de leurs fournisseurs de rang 1 — une progression majeure depuis 2024. Cette visibilité passe par EcoVadis, les questionnaires fournisseurs et les contrôles de conformité aux codes de conduite. Les fournisseurs incapables de démontrer leur gestion de la durabilité risquent de perdre des appels d'offres et leur statut de fournisseur privilégié.
+**Les exigences clients.** Les grands acheteurs intègrent les critères ESG dans leurs achats à un rythme soutenu. Le [Baromètre Achats Responsables EcoVadis 2026](https://ecovadis.com/insights/barometer/) montre que 48 % des acheteurs ont désormais une visibilité sur les pratiques ESG de la plupart de leurs fournisseurs de rang 1 — une progression majeure depuis 2024. Cette visibilité passe par EcoVadis, les questionnaires fournisseurs et les contrôles de conformité aux codes de conduite. Les fournisseurs incapables de démontrer leur gestion de la durabilité risquent de perdre des appels d'offres et leur statut de fournisseur privilégié.
 
-**Le ruissellement réglementaire.** La directive européenne sur le devoir de vigilance (CSDDD, directive 2024/1760) est entrée en vigueur le 25 juillet 2024 et s'applique formellement aux grandes entreprises de plus de 1 000 salariés et 450 M€ de chiffre d'affaires mondial. Les entreprises de taille intermédiaire sont sous ce seuil — mais la directive impose à ces grandes entreprises d'exercer leur vigilance sur toute leur chaîne de valeur : leurs obligations de conformité ruissellent directement vers vous en tant que fournisseur. Avec le paquet de simplification Omnibus (sous réserve d'adoption formelle), la transposition est proposée pour le 26 juillet 2027, la première application au 26 juillet 2028.
+**Le ruissellement réglementaire.** La directive européenne sur le [devoir de vigilance](https://eur-lex.europa.eu/eli/dir/2024/1760/oj) ([CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj), [directive 2024/1760](https://eur-lex.europa.eu/eli/dir/2024/1760/oj)) est entrée en vigueur le 25 juillet 2024 et s'applique formellement aux grandes entreprises de plus de 1 000 salariés et 450 M€ de chiffre d'affaires mondial. Les entreprises de taille intermédiaire sont sous ce seuil — mais la directive impose à ces grandes entreprises d'exercer leur vigilance sur toute leur chaîne de valeur : leurs obligations de conformité ruissellent directement vers vous en tant que fournisseur. Avec le paquet de simplification [Omnibus](https://finance.ec.europa.eu/) (sous réserve d'adoption formelle), la transposition est proposée pour le 26 juillet 2027, la première application au 26 juillet 2028.
 
-**Les demandes de données Scope 3.** Les clients qui poursuivent des objectifs science-based ou la conformité CSRD ont besoin des données d'émissions de leur chaîne d'approvisionnement. Aujourd'hui, 30 % des fournisseurs ne transmettent aucune donnée carbone à leurs acheteurs. Les entreprises capables de fournir des données Scopes 1, 2 et 3 fiables détiennent un avantage commercial mesurable.
+**Les demandes de données Scope 3.** Les clients qui poursuivent des objectifs science-based ou la conformité [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) ont besoin des données d'émissions de leur chaîne d'approvisionnement. Aujourd'hui, 30 % des fournisseurs ne transmettent aucune donnée carbone à leurs acheteurs. Les entreprises capables de fournir des données Scopes 1, 2 et 3 fiables détiennent un avantage commercial mesurable.
 
 ## Que faut-il comprendre avant de construire quoi que ce soit ?
 
@@ -90,7 +91,7 @@ Trois documents forment le socle minimum viable :
 - **Une politique d'achats responsables** — comment l'organisation aborde la sélection, l'évaluation et la gestion des fournisseurs avec des critères de durabilité.
 - **Un processus d'évaluation des risques fournisseurs** — comment les risques sont identifiés, priorisés et gérés ; la cartographie de matérialité formalisée en processus annuel répétable.
 
-Ensemble, ils satisfont les exigences du thème Achats Responsables d'EcoVadis, démontrent le devoir de vigilance aux clients et créent la traçabilité que les divulgations CSDDD et CSRD finiront par exiger.
+Ensemble, ils satisfont les exigences du thème Achats Responsables d'EcoVadis, démontrent le devoir de vigilance aux clients et créent la traçabilité que les divulgations CSDDD et [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) finiront par exiger.
 
 ## Étape 4 : comment engager, mesurer et améliorer ?
 

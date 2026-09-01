@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Matières premières et produits chimiques - ENV3522 (Evernote, mise à jour 2026-08-24 ; exemple client anonymisé)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -93,7 +94,7 @@ Sur les ~70 pièces du dossier, **9 documents sont directement utilisables** et 
 
 **Action 3 (biosourcé)** et **action 6 (preuve de formation)**. La 6 est la plus rentable : une demi-journée FIS solvants avec liste d'émargement signée, et elle passe au vert. La 3 demande un fait réel — un lubrifiant végétal, un nettoyant faible COV, un solvant de lavage biosourcé — à vérifier auprès des achats avant de tenter quoi que ce soit.
 
-Le piège : ne pas recycler les documents fournisseurs (VACCP, code de conduite) dans ENV3522. EcoVadis les attend en **Achats Responsables** ; les compter deux fois n'ajoute rien.
+Le piège : ne pas recycler les documents fournisseurs (VACCP, code de conduite) dans ENV3522. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) les attend en **Achats Responsables** ; les compter deux fois n'ajoute rien.
 
 ## À retenir
 

@@ -31,6 +31,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Achats Responsables - SUP307 (Evernote, bijgewerkt 2026-08-24; klantvoorbeeld geanonimiseerd)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -72,7 +73,7 @@ SUP307 vraagt: "Welke acties heeft uw onderneming ingevoerd om sociale en milieu
 
 **8. Capaciteitsopbouw en stimulering van leveranciers.** Ondersteunings- en aanmoedigingsprogramma's: opleiding, delen van goede praktijken, leveranciersevenementen, beloningen, toegang tot aanbestedingen.
 
-**9. Andere acties.** Alleen aanvinken **als opties 1 tot 8 niet van toepassing zijn** — EcoVadis zegt dat expliciet.
+**9. Andere acties.** Alleen aanvinken **als opties 1 tot 8 niet van toepassing zijn** — [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) zegt dat expliciet.
 
 ## Hoe ziet een echt dossier eruit bij een Waalse drukkerij van grootte S?
 

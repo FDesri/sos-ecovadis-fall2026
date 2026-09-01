@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,6 +40,6 @@ related: [wat-verandert-in-2026, van-zilver-naar-goud]
 
 # Wat houdt externe assurance werkelijk in, en wie kan ze leveren?
 
-Externe assurance is een **onafhankelijk verificatieproces**: een gekwalificeerde derde beoordeelt uw duurzaamheidsdata, toetst ze aan de bronregistraties, interviewt sleutelpersonen en geeft een assuranceverklaring af die de betrouwbaarheid van de gerapporteerde informatie bevestigt. Het verloopt doorgaans in drie fasen — planning (scope en assuranceniveau), veldwerk (documentreview, datasampling, interviews) en rapportering (de verklaring). Voor een **limited assurance**-opdracht — het standaardniveau voor EcoVadis — duurt het volledige proces doorgaans **drie tot zes maanden**, naargelang grootte, complexiteit en het aantal gedekte indicatoren.
+Externe assurance is een **onafhankelijk verificatieproces**: een gekwalificeerde derde beoordeelt uw duurzaamheidsdata, toetst ze aan de bronregistraties, interviewt sleutelpersonen en geeft een assuranceverklaring af die de betrouwbaarheid van de gerapporteerde informatie bevestigt. Het verloopt doorgaans in drie fasen — planning (scope en assuranceniveau), veldwerk (documentreview, datasampling, interviews) en rapportering (de verklaring). Voor een **limited assurance**-opdracht — het standaardniveau voor [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) — duurt het volledige proces doorgaans **drie tot zes maanden**, naargelang grootte, complexiteit en het aantal gedekte indicatoren.
 
 **Elke onafhankelijke, gekwalificeerde derde** met relevante expertise in duurzaamheidsassurance kan ze leveren: gespecialiseerde aanbieders, geaccrediteerde verificatie-instanties en middelgrote auditkantoren met een erkende duurzaamheidspraktijk — een Big Four is niet vereist. De kritieke vereiste is **onafhankelijkheid**: een interne audit voldoet niet, evenmin als een managementconsultingopdracht. Voor verificatie op KPI-niveau (bijvoorbeeld bevestigen dat 85% van de medewerkers de ethiekopleiding voltooide) kan een gerichte, afgebakende verificatie door een gekwalificeerde onafhankelijke partij de betrokken criteria voldoen. Voor de Rapporteringsvragen vereist **de topscore assurance over de vier thema's** — een verklaring die alleen broeikasgassen dekt, geldt alleen voor de pijler Milieu.

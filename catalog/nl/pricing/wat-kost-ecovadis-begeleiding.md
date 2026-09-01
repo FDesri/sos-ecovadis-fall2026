@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis ESGIM Princing (Evernote, bijgewerkt 2026-08-27; tarieven en modaliteiten gevalideerd door François op 01/09/2026: schijven 20/60/20, S1 XS op 8.000 € — de tabel van de bronnota geldt)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27

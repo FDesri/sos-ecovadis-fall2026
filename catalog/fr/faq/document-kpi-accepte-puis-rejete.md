@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,4 +40,4 @@ related: [evolutions-methodologiques-t2-2026, soumissions-ecovadis-solides-et-re
 
 La raison la plus fréquente est **l'expiration** : les documents KPI et reporting sont valides **deux ans maximum à partir de la période de reporting**. Un document dans la fenêtre de validité au cycle précédent peut être périmé à la réévaluation.
 
-Autre raison : une **mise à jour méthodologique**. EcoVadis révise périodiquement ses exigences de granularité des données, de seuils de couverture ou d'alignement sur les référentiels pour certains indicateurs. Ces changements sont publiés dans le centre d'aide, généralement avant le cycle concerné, et peuvent rendre insuffisant un document accepté auparavant. La raison du rejet dans les détails du score identifie généralement l'écart précis ; si elle reste floue, une revue structurée face aux exigences actuelles — ou un débrief formel avec EcoVadis — clarifie ce qu'il faut actualiser.
+Autre raison : une **mise à jour méthodologique**. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) révise périodiquement ses exigences de granularité des données, de seuils de couverture ou d'alignement sur les référentiels pour certains indicateurs. Ces changements sont publiés dans le centre d'aide, généralement avant le cycle concerné, et peuvent rendre insuffisant un document accepté auparavant. La raison du rejet dans les détails du score identifie généralement l'écart précis ; si elle reste floue, une revue structurée face aux exigences actuelles — ou un débrief formel avec EcoVadis — clarifie ce qu'il faut actualiser.

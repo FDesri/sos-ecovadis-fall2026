@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Committed Badge to Bronze (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -63,7 +64,7 @@ Bronze means your sustainability management system outperforms at least 65% of a
 - Evidence of some initial measures introduced to reduce negative impact across some key criteria
 - Reported metrics covering some key criteria, over multiple reporting cycles
 - Clear internal ownership of the EcoVadis assessment process
-- No outstanding 360° Watch findings
+- No outstanding [360° Watch](https://ecovadis.com/) findings
 
 What a Bronze company might **not** yet have: structured management systems covering the majority of activated criteria, KPI reporting across all key criteria over multiple cycles, risk assessments, or third-party certifications — these are more frequently seen at Silver and above.
 

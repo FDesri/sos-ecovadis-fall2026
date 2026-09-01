@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,7 +40,7 @@ related: [bewijsstukken-voor-xs-ondernemingen, sterke-ecovadis-indieningen-opbou
 
 # Wat zijn de kwaliteits- en geldigheidseisen voor documenten, en wat maakt een beleid sterk?
 
-EcoVadis beoordeelt documenten op drie dimensies: **relevantie, volledigheid en recentheid**. Generieke sjablonen die minimaal zijn aangepast, worden niet aanvaard; documenten moeten **bestaande, operationele systemen** weerspiegelen en **meer dan één maand vóór de indieningsdatum** zijn uitgegeven — een document dat speciaal voor de beoordeling is gemaakt, werkt niet. Elk document moet de **naam of het logo van de onderneming** en een **datum** dragen; ontbreekt een van beide, dan kan het worden verworpen ongeacht de inhoud. De leeftijd en resterende geldigheid van elk document controleert u in de documentbibliotheek van het platform.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) beoordeelt documenten op drie dimensies: **relevantie, volledigheid en recentheid**. Generieke sjablonen die minimaal zijn aangepast, worden niet aanvaard; documenten moeten **bestaande, operationele systemen** weerspiegelen en **meer dan één maand vóór de indieningsdatum** zijn uitgegeven — een document dat speciaal voor de beoordeling is gemaakt, werkt niet. Elk document moet de **naam of het logo van de onderneming** en een **datum** dragen; ontbreekt een van beide, dan kan het worden verworpen ongeacht de inhoud. De leeftijd en resterende geldigheid van elk document controleert u in de documentbibliotheek van het platform.
 
 Geldigheid per type: **beleids- en actiedocumenten — 8 jaar**; **KPI- en rapporteringsdocumenten — 2 jaar**; **certificaten — tot hun vervaldatum**.
 

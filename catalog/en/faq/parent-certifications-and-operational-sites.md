@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -41,4 +42,4 @@ related: [understanding-the-ecovadis-scorecard]
 
 Certifications held at parent or HQ level **contribute to the Certifications indicator** in a group assessment, but the **Coverage indicator assesses how widely those certifications extend** across the group's sites and operations.
 
-The definition of "operational site" matters: EcoVadis includes **all sites that conduct the company's core business activity plus sites conducting other risky support activities, such as R&D centres and warehouses**. Offices and sales representatives can be excluded from the operational-site count, unless that is the company's primary activity. Companies should review their certification scope documents to confirm which sites are included, and where feasible extend the scope to cover significant operational sites such as warehouses.
+The definition of "operational site" matters: [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) includes **all sites that conduct the company's core business activity plus sites conducting other risky support activities, such as R&D centres and warehouses**. Offices and sales representatives can be excluded from the operational-site count, unless that is the company's primary activity. Companies should review their certification scope documents to confirm which sites are included, and where feasible extend the scope to cover significant operational sites such as warehouses.

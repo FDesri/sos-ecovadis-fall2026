@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Reporting indicateurs: Social et droits humains (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -48,7 +49,7 @@ faq:
 
 ## In het kort
 
-Het EcoVadis-thema **Arbeids- en Mensenrechten** groepeert zeven precieze criteria, beoordeeld via een managementsysteem op basis van beleid, acties (maatregelen en certificeringen) en resultaten (rapportering). Aan de resultatenkant komen voor een kmo vijf HR-indicatoren systematisch terug. Ze bestaan al in standaard Belgische documenten — jaarverslag van de preventiedienst, opleidingsplan, personeelsregister — maar de perimeters moeten worden vastgelegd en de trends verklaard.
+Het [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral)-thema **Arbeids- en Mensenrechten** groepeert zeven precieze criteria, beoordeeld via een managementsysteem op basis van beleid, acties (maatregelen en certificeringen) en resultaten (rapportering). Aan de resultatenkant komen voor een kmo vijf HR-indicatoren systematisch terug. Ze bestaan al in standaard Belgische documenten — jaarverslag van de preventiedienst, opleidingsplan, personeelsregister — maar de perimeters moeten worden vastgelegd en de trends verklaard.
 
 ## Wat zijn de zeven criteria van het thema?
 

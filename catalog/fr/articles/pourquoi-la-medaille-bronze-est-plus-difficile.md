@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Évolution 2024/2025/2026 - Pourquoi est-ce plus difficile d'obtenir et de conserver une médaille de bronze? (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-360-watch, ecovadis-medals, ecovadis-methodology, efrag-vsme, esgim-portfolio, eu-csrd]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -57,18 +58,18 @@ En trois ans, EcoVadis a changé de nature : d'un score fixe à une compétition
 
 - **Introduction des badges** : apparition des badges « Committed » (score minimal de 45) et « Fast Mover » (score de 34 à 44 avec une amélioration d'au moins 6 points sur 18 mois) pour valoriser les progrès.
 - **Attribution des médailles par percentiles** : les médailles ne dépendent plus de scores fixes mais d'un classement percentile, comparant la performance de l'entreprise à l'ensemble de la base EcoVadis des 12 mois précédents.
-- **Intégration de l'IA dans le 360° Watch** : un algorithme d'intelligence artificielle identifie l'actualité publique (positive ou négative) des entreprises, avec un impact direct sur le score et l'éligibilité aux médailles.
+- **Intégration de l'IA dans le [360° Watch](https://ecovadis.com/)** : un algorithme d'intelligence artificielle identifie l'actualité publique (positive ou négative) des entreprises, avec un impact direct sur le score et l'éligibilité aux médailles.
 
 **En 2025 :**
 
 - **Création de la catégorie « Extra Large » (XL)** : les entreprises de plus de 50 000 salariés ont désormais des règles de notation spécifiques, avec des cibles obligatoires (objectifs Scopes 1 & 2 pour la note maximale en Environnement).
-- **Mise à jour des critères et du questionnaire** : ajout de thématiques sur l'économie circulaire (fin de vie des produits, emballages), le salaire décent et le temps de travail. À l'inverse, les pratiques anticoncurrentielles ne font plus l'objet de questions directes : elles sont suivies uniquement via le 360° Watch.
+- **Mise à jour des critères et du questionnaire** : ajout de thématiques sur l'économie circulaire (fin de vie des produits, emballages), le salaire décent et le temps de travail. À l'inverse, les pratiques anticoncurrentielles ne font plus l'objet de questions directes : elles sont suivies uniquement via le [360° Watch](https://ecovadis.com/).
 
 **En 2026 :**
 
 - **Projet pilote de matérialité environnementale** : dans certains secteurs, les entreprises peuvent choisir si des sujets comme l'eau, la pollution de l'air ou la fin de vie des produits sont matériels pour elles — une évaluation plus proportionnée et sur mesure.
-- **Évaluation renforcée du 360° Watch** : introduction du « consensus des parties prenantes » pour mieux évaluer la gravité des controverses et éviter les pénalités disproportionnées en cas d'impacts incertains ou contestés.
-- **Valorisation des normes VSME et ESRS** : de nouveaux points forts pour les rapports conformes au standard VSME de l'EFRAG (PME européennes) et à la CSRD/ESRS.
+- **Évaluation renforcée du [360° Watch](https://ecovadis.com/)** : introduction du « consensus des parties prenantes » pour mieux évaluer la gravité des controverses et éviter les pénalités disproportionnées en cas d'impacts incertains ou contestés.
+- **Valorisation des normes [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) et [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)** : de nouveaux points forts pour les rapports conformes au standard [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) de l'EFRAG (PME européennes) et à la [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)/[ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj).
 - **Intégration des risques environnementaux externes** ([ENV7003](risques-environnementaux-externes-env7003.md)) et des **actions face aux perturbations environnementales externes** ([ENV7012](perturbations-environnementales-env7012.md)).
 
 ## Pourquoi obtenir et conserver une médaille est-il devenu plus difficile ?
@@ -82,5 +83,5 @@ En trois ans, EcoVadis a changé de nature : d'un score fixe à une compétition
 
 - 2024 a fait basculer EcoVadis dans la compétition par percentiles : la barre monte mécaniquement chaque année.
 - 2025 a durci le questionnaire (économie circulaire, salaire décent) et créé la catégorie XL.
-- 2026 personnalise la matérialité, affine le 360° Watch et valorise VSME/ESRS.
+- 2026 personnalise la matérialité, affine le 360° Watch et valorise [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)/ESRS.
 - Les quatre effets combinés : seuils croissants, reporting public exigé, preuves à ventilation stricte, et un 360° Watch capable de bloquer les médailles 3 à 5 ans.

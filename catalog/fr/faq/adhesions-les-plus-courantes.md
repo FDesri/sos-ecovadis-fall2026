@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology, ungc-cop]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [comprendre-la-fiche-devaluation-ecovadis, seuils-ecovadis-emballage-ph
 
 # Quelles sont les adhésions les plus courantes dans les évaluations EcoVadis ?
 
-Les adhésions les plus fréquentes : **le Pacte mondial des Nations unies (UNGC) avec une Communication on Progress (COP)** ; **les engagements ou objectifs validés SBTi** ; et les initiatives sectorielles comme **Together for Sustainability** (TfS, chimie), **Responsible Business Alliance** (électronique) et la **Pharmaceutical Supply Chain Initiative** (PSCI).
+Les adhésions les plus fréquentes : **le [Pacte mondial des Nations unies](https://unglobalcompact.org/participation/report/cop) ([UNGC](https://unglobalcompact.org/participation/report/cop)) avec une Communication on Progress (COP)** ; **les engagements ou objectifs validés [SBTi](https://sciencebasedtargets.org/)** ; et les initiatives sectorielles comme **Together for Sustainability** (TfS, chimie), **Responsible Business Alliance** (électronique) et la **Pharmaceutical Supply Chain Initiative** (PSCI).
 
-Chacune alimente l'indicateur Adhésions, qui pèse environ **5 % du score global**. Les adhésions valent le plus combinées à des preuves de performance solides : une COP UNGC avec des données KPI pluriannuelles détaillées score mieux qu'une simple liste d'adhésions.
+Chacune alimente l'indicateur Adhésions, qui pèse environ **5 % du score global**. Les adhésions valent le plus combinées à des preuves de performance solides : une COP [UNGC](https://unglobalcompact.org/participation/report/cop) avec des données KPI pluriannuelles détaillées score mieux qu'une simple liste d'adhésions.

@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [read-share-maximise-your-ecovadis-scorecard]
 
 # If our score is poor, is it publicly shared or visible to others?
 
-No. EcoVadis scorecards are **not publicly shared by default**. Your score is only visible to buyers you actively choose to share it with, and a company that receives a poor score can decline to share it. Some buyers who initiated or co-funded the assessment may be able to see that it was completed without a scorecard being shared — which can itself be a signal — but **no third party can access your score without your consent**. Sharing settings are entirely within your control on the platform.
+No. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) scorecards are **not publicly shared by default**. Your score is only visible to buyers you actively choose to share it with, and a company that receives a poor score can decline to share it. Some buyers who initiated or co-funded the assessment may be able to see that it was completed without a scorecard being shared — which can itself be a signal — but **no third party can access your score without your consent**. Sharing settings are entirely within your control on the platform.

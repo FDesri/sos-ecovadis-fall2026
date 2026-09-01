@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,7 +40,7 @@ related: [ecovadis-activated-criteria-by-sector, supporting-documents-for-xs-com
 
 # What happens when EcoVadis reclassifies our company size — and can we prevent it?
 
-There is no straightforward way to prevent it: EcoVadis determines company size **automatically** from the total number of full-time employees, using both publicly available information and the data you provide during account setup. If you cross a threshold — for example from XS to S — the platform places you in the new bracket.
+There is no straightforward way to prevent it: [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) determines company size **automatically** from the total number of full-time employees, using both publicly available information and the data you provide during account setup. If you cross a threshold — for example from XS to S — the platform places you in the new bracket.
 
 The impact is significant. When the questionnaire changes, **more (or different) criteria can be activated and the standard applied to each indicator may shift**: XS companies enjoy a streamlined questionnaire (fewer questions, different weighting, some topics absent), and the move to S is a genuine shift in scope. A company that previously scored 71/100 as an SME may find itself **below Silver after reclassification** because the scoring standard is now higher. Previous scores are not retroactively adjusted — historical scorecards remain as issued — and the reclassification takes effect at the next assessment cycle.
 

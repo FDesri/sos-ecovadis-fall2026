@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [lire-partager-optimiser-sa-fiche-devaluation]
 
 # Comment gérer les questionnaires de durabilité variés de nos clients quand nous sommes déjà notés EcoVadis ?
 
-Invitez vos clients à **consulter votre fiche d'évaluation (scorecard) EcoVadis** pour éviter les demandes en double. La fatigue d'enquête est réelle, et un meilleur alignement interne chez vos clients réduit les questionnaires répétitifs. Faire de la plateforme EcoVadis la **source unique des données de durabilité fournisseurs** fluidifie la communication et allège votre charge : une fiche d'évaluation structurée et vérifiée remplace une pile de questionnaires Excel divergents.
+Invitez vos clients à **consulter votre fiche d'évaluation (scorecard) [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral)** pour éviter les demandes en double. La fatigue d'enquête est réelle, et un meilleur alignement interne chez vos clients réduit les questionnaires répétitifs. Faire de la plateforme EcoVadis la **source unique des données de durabilité fournisseurs** fluidifie la communication et allège votre charge : une fiche d'évaluation structurée et vérifiée remplace une pile de questionnaires Excel divergents.

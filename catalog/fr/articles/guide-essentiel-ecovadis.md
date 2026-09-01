@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis essentials: A guide for beginners and reassessed companies (Evernote, mise à jour 2026-08-24 ; « 600+ » corrigé en « 100+ » par décision de gouvernance du 27/08/2026)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -49,7 +50,7 @@ faq:
 
 ## En bref
 
-**Regard d'expert — François Dequenne :** EcoVadis n'est pas une check-list à passer une fois, c'est un cycle continu d'apprentissage et d'amélioration. Traitez-le comme un outil de gestion vivant, pas comme un examen ponctuel. Ancrez la gestion documentaire (nommage, datation, précision du périmètre) dans les routines de l'entreprise : les soumissions suivantes en seront simplifiées. La revue de direction annuelle est votre meilleure occasion de formaliser les mises à jour et de documenter les progrès. Et servez-vous des meilleures pratiques anonymisées de votre secteur comme repères et sources d'inspiration.
+**Regard d'expert — François Dequenne :** [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) n'est pas une check-list à passer une fois, c'est un cycle continu d'apprentissage et d'amélioration. Traitez-le comme un outil de gestion vivant, pas comme un examen ponctuel. Ancrez la gestion documentaire (nommage, datation, précision du périmètre) dans les routines de l'entreprise : les soumissions suivantes en seront simplifiées. La revue de direction annuelle est votre meilleure occasion de formaliser les mises à jour et de documenter les progrès. Et servez-vous des meilleures pratiques anonymisées de votre secteur comme repères et sources d'inspiration.
 
 ESG Interim Management accompagne les entreprises de l'initiation à l'accélération vers l'Or ou le Platine — combler les lacunes de preuves, améliorer la qualité documentaire et les processus, livrer des plans d'amélioration actionnables, avec plus de 100 projets menés. Cet aide-mémoire suit les deux mêmes parcours : la **fondation** pour la première évaluation, l'**accélération** pour la réévaluation.
 

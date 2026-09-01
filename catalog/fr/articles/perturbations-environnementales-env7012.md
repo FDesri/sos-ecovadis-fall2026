@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Actions face aux perturbations environnementales externes - ENV7012 (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -45,7 +46,7 @@ faq:
 
 ## En bref
 
-ENV7012 prolonge l'évaluation des risques climatiques (ENV7003) sur le terrain des **actions** : que fait concrètement l'entreprise pour résister aux perturbations environnementales ? Deux familles de preuves sont attendues — les pratiques adaptatives intégrées aux opérations, et les réserves d'urgence ou filets de sécurité. Sans impact sur le score, mais visible sur la fiche d'évaluation.
+[ENV7012](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) prolonge l'évaluation des risques climatiques (ENV7003) sur le terrain des **actions** : que fait concrètement l'entreprise pour résister aux perturbations environnementales ? Deux familles de preuves sont attendues — les pratiques adaptatives intégrées aux opérations, et les réserves d'urgence ou filets de sécurité. Sans impact sur le score, mais visible sur la fiche d'évaluation.
 
 ## Comment intégrer des pratiques adaptatives dans les opérations ?
 

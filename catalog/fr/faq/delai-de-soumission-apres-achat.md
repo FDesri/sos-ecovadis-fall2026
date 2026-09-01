@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [guide-essentiel-ecovadis, principaux-conseils-pratiques-ecovadis]
 
 # Une fois l'évaluation achetée, y a-t-il un délai pour soumettre le questionnaire ?
 
-Oui. Après l'achat, l'entreprise reçoit généralement un délai initial de soumission d'environ **6 semaines** à partir de la création du questionnaire. Si besoin, vous pouvez l'étendre vous-même jusqu'à **60 jours ouvrables au total**. Si le questionnaire n'est pas soumis dans cette fenêtre, la période d'évaluation peut expirer et exiger un rachat — mais vous pouvez demander à EcoVadis une **réouverture dans les 6 mois** de la date de création. Vérifiez les termes de votre contrat. Commencer tôt la collecte des preuves vaut toujours mieux que tout compresser dans les dernières semaines.
+Oui. Après l'achat, l'entreprise reçoit généralement un délai initial de soumission d'environ **6 semaines** à partir de la création du questionnaire. Si besoin, vous pouvez l'étendre vous-même jusqu'à **60 jours ouvrables au total**. Si le questionnaire n'est pas soumis dans cette fenêtre, la période d'évaluation peut expirer et exiger un rachat — mais vous pouvez demander à [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) une **réouverture dans les 6 mois** de la date de création. Vérifiez les termes de votre contrat. Commencer tôt la collecte des preuves vaut toujours mieux que tout compresser dans les dernières semaines.

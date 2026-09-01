@@ -32,6 +32,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis - Pack corruption - harcèlement - discrimination (Evernote, mise à jour 2026-08-24 ; client anonymisé : installateur en techniques spéciales du bâtiment wallon, taille XS)"
+sources: [ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -89,7 +90,7 @@ Références utiles : le guide belge anticorruption (prévention, sensibilisatio
 | Toolbox « respect au travail » (15 min) | Exemples concrets de comportements acceptables / non acceptables | Feuille de présence + fiche toolbox |
 | Registre anonymisé des incidents | Type de signalement, traitement, mesure, clôture | Tableau anonymisé + synthèse annuelle |
 
-Cadre belge : le SPF Emploi impose à l'employeur de prévenir les risques psychosociaux (violence, harcèlement moral et sexuel) ; la **personne de confiance est obligatoire à partir de 50 travailleurs**, facultative en dessous sauf demande collective ; le travailleur peut s'adresser à la personne de confiance ou au conseiller en prévention aspects psychosociaux. Unia insiste : la prévention ne se limite pas à sanctionner après coup — l'égalité de traitement s'intègre dans le recrutement, la promotion, la formation, la rémunération et les relations de travail.
+Cadre belge : le [SPF Emploi](https://emploi.belgique.be/) impose à l'employeur de prévenir les risques psychosociaux (violence, harcèlement moral et sexuel) ; la **personne de confiance est obligatoire à partir de 50 travailleurs**, facultative en dessous sauf demande collective ; le travailleur peut s'adresser à la personne de confiance ou au conseiller en prévention aspects psychosociaux. [Unia](https://www.unia.be/) insiste : la prévention ne se limite pas à sanctionner après coup — l'égalité de traitement s'intègre dans le recrutement, la promotion, la formation, la rémunération et les relations de travail.
 
 **Les 5 plus rentables :** communication annuelle signée par la direction, procédure de signalement affichée, personne de contact clairement identifiée, mini-formation ou toolbox, check-list recrutement.
 

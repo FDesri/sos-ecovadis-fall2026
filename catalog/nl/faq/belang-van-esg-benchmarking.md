@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [rising-bar-strengere-normen-2026, ecovadis-drempels-verpakking-farma-b
 
 # Hoe belangrijk is benchmarking met sectorgenoten bij het ontwikkelen van een ESG-strategie?
 
-Vergelijken met sectorgenoten en de klantverwachtingen begrijpen is **cruciaal om competitief te blijven**. Elke onderneming stemt haar initiatieven terecht af op haar eigen model en maturiteit, maar het ESG-landschap van de concurrenten kennen zorgt voor een betere strategische afstemming en een doeltreffender antwoord op de stakeholderverwachtingen. In de EcoVadis-context geldt dat dubbel: medailles zijn percentielgebaseerd, dus uw positie wordt letterlijk bepaald tegenover uw sectorgenoten.
+Vergelijken met sectorgenoten en de klantverwachtingen begrijpen is **cruciaal om competitief te blijven**. Elke onderneming stemt haar initiatieven terecht af op haar eigen model en maturiteit, maar het ESG-landschap van de concurrenten kennen zorgt voor een betere strategische afstemming en een doeltreffender antwoord op de stakeholderverwachtingen. In de [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral)-context geldt dat dubbel: medailles zijn percentielgebaseerd, dus uw positie wordt letterlijk bepaald tegenover uw sectorgenoten.

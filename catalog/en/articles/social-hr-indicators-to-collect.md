@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Reporting indicateurs: Social et droits humains (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -48,7 +49,7 @@ faq:
 
 ## In brief
 
-The EcoVadis **Labor & Human Rights** theme groups seven precise criteria, assessed through a management system built on policies, actions (measures and certifications) and results (reporting). On the results side, five HR indicators come up systematically for an SME. They already exist in standard Belgian documents — the prevention service's annual report, the training plan, the staff register — but scopes must be settled and trends explained.
+The [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) **Labor & Human Rights** theme groups seven precise criteria, assessed through a management system built on policies, actions (measures and certifications) and results (reporting). On the results side, five HR indicators come up systematically for an SME. They already exist in standard Belgian documents — the prevention service's annual report, the training plan, the staff register — but scopes must be settled and trends explained.
 
 ## What are the theme's seven criteria?
 

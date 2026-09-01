@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [ecovadis-rising-standards-2026, ecovadis-thresholds-belgian-packaging-
 
 # What score is needed for each medal, and can medals be predicted before submission?
 
-Since January 2024, EcoVadis awards medals based on **percentile ranking, not fixed thresholds**: Bronze goes to the top 35% of rated companies, Silver to the top 15%, Gold to the top 5%, Platinum to the top 1%. Because the database grows over time, the approximate score corresponding to each tier rises continuously.
+Since January 2024, [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) awards medals based on **percentile ranking, not fixed thresholds**: Bronze goes to the top 35% of rated companies, Silver to the top 15%, Gold to the top 5%, Platinum to the top 1%. Because the database grows over time, the approximate score corresponding to each tier rises continuously.
 
 Based on ESGIM's internal benchmarking data as of **July 2026**, indicative thresholds are approximately **64/100 for Bronze, 73/100 for Silver, 81/100 for Gold and 84/100 for Platinum**. These are directional estimates from ESGIM's client portfolio data, not targets published by EcoVadis. Medals can be predicted with reasonable confidence before submission through a **structured gap analysis** against the EcoVadis scoring indicators.

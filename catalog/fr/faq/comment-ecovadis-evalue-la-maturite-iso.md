@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [soumissions-ecovadis-solides-et-regulieres]
 
 # Comment EcoVadis évalue-t-il la maturité d'un système de management basé sur l'ISO ?
 
-EcoVadis **ne mène pas son propre audit** — il évalue les documents fournis comme preuve de l'existence et du fonctionnement du système. Un certificat ISO valide, dans le périmètre, émis par un organisme accrédité, est la preuve primaire de maturité. Au-delà du certificat, les analystes cherchent la preuve d'un système **activement entretenu** : rapports d'audit interne récents, comptes rendus de revue de direction, journaux d'actions correctives, données de performance.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) **ne mène pas son propre audit** — il évalue les documents fournis comme preuve de l'existence et du fonctionnement du système. Un certificat ISO valide, dans le périmètre, émis par un organisme accrédité, est la preuve primaire de maturité. Au-delà du certificat, les analystes cherchent la preuve d'un système **activement entretenu** : rapports d'audit interne récents, comptes rendus de revue de direction, journaux d'actions correctives, données de performance.
 
 Un certificat ISO seul, sans preuve de fonctionnement actif, **score au niveau certification mais ne contribue ni aux Mesures ni au Reporting**. Plus vous prouvez le fonctionnement réel du système, plus les indicateurs en bénéficient.

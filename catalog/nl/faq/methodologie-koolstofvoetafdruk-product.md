@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [ecovadis-en-co2-nulmeting]
 
 # Welke methodologie gebruikt u voor een Product Carbon Footprint (PCF)-indiening?
 
-EcoVadis aanvaardt PCF-data berekend volgens **ISO 14067** (de internationale referentiestandaard voor de broeikasgaskwantificering van producten) of de **GHG Protocol Product Standard**. Sectorspecifieke PCF-methodologieën — zoals het **PACT (Partnership for Carbon Transparency) Pathfinder-kader**, breed gebruikt in industriële ketens — worden ook aanvaard als geloofwaardig bewijs.
+EcoVadis aanvaardt PCF-data berekend volgens **ISO 14067** (de internationale referentiestandaard voor de broeikasgaskwantificering van producten) of de **[GHG Protocol](https://ghgprotocol.org/corporate-standard) Product Standard**. Sectorspecifieke PCF-methodologieën — zoals het **PACT (Partnership for Carbon Transparency) Pathfinder-kader**, breed gebruikt in industriële ketens — worden ook aanvaard als geloofwaardig bewijs.
 
 Voor de indiening moet de PCF gedocumenteerd zijn binnen een **milieubeheersaanpak op productniveau**, gekoppeld aan uw bredere broeikasgasdata, met de **methodologie en berekeningsscope duidelijk vermeld**.

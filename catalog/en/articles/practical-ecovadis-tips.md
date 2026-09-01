@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Principaux conseils pratiques et tips (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -48,7 +49,7 @@ faq:
 
 ## In brief
 
-Five families of tips concentrate most of the field experience: team organisation, assessment scoping, documentary discipline, the Reporting score, and anticipating what's new (materiality, 360° Watch). None requires a big budget — all require starting early.
+Five families of tips concentrate most of the field experience: team organisation, assessment scoping, documentary discipline, the Reporting score, and anticipating what's new (materiality, [360° Watch](https://ecovadis.com/)). None requires a big budget — all require starting early.
 
 ## How do you organise the team and run the project?
 
@@ -88,13 +89,13 @@ Five families of tips concentrate most of the field experience: team organisatio
 
 **Disaggregate subsidiary data:** for an entity-level assessment, a consolidated group CSR report is only accepted if KPIs and data are **explicitly broken down per entity**.
 
-**Use audits as an alternative to certifications:** if formal certifications (ISO 14001…) are too costly for your size, submit external audit reports (SMETA, BSCI, TfS). Conditions: a standalone audit (not tied to a certification), performed within the **last 2 years** by a verified external auditor, covering **more than 30% of your global operations**.
+**Use audits as an alternative to certifications:** if formal certifications ([ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)…) are too costly for your size, submit external audit reports (SMETA, BSCI, TfS). Conditions: a standalone audit (not tied to a certification), performed within the **last 2 years** by a verified external auditor, covering **more than 30% of your global operations**.
 
 ## How do you anticipate materiality and the 360° Watch?
 
 **Rigorously justify non-materiality (2026 pilot):** if you can exclude certain environmental topics (water, air pollution…), submit a **formal materiality (or double materiality) analysis** defining the topics and justifying the exclusion with impact data or stakeholder feedback. Failing that, detail your reasons in the EcoVadis comments to avoid the criterion being reactivated.
 
-**Monitor 360° Watch risks:** use "Live News" on your platform to anticipate negative news, and check that publications actually concern your legal entity so you can dispute errors with EcoVadis support.
+**Monitor [360° Watch](https://ecovadis.com/) risks:** use "Live News" on your platform to anticipate negative news, and check that publications actually concern your legal entity so you can dispute errors with EcoVadis support.
 
 ## Key takeaways
 

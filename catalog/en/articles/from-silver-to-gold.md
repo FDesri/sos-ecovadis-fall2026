@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Silver to Gold (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -51,7 +52,7 @@ faq:
 
 ## What does Gold represent?
 
-The Gold Medal is reserved for the **top 5%** of all companies assessed by EcoVadis in the last 12 months. In 2024 that meant a score around 73/100; as of May 2026 it means approximately 81. Reaching it requires meeting and exceeding the criteria for Bronze and Silver and taking a much more detailed approach to sustainability management. It demands time and investment — and it represents a major step in stakeholder engagement and in driving your sustainability strategy forward.
+The Gold Medal is reserved for the **top 5%** of all companies assessed by [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) in the last 12 months. In 2024 that meant a score around 73/100; as of May 2026 it means approximately 81. Reaching it requires meeting and exceeding the criteria for Bronze and Silver and taking a much more detailed approach to sustainability management. It demands time and investment — and it represents a major step in stakeholder engagement and in driving your sustainability strategy forward.
 
 ## What does consistent and comprehensive actually mean?
 

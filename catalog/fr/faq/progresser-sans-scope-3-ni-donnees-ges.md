@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,7 +39,7 @@ related: [ecovadis-et-bilan-ges-de-base, indicateurs-environnementaux-a-collecte
 
 # Comment progresser sans objectifs Scope 3 — ou sans aucune donnée GES ?
 
-Les objectifs Scope 3 ne sont **pas un prérequis** pour un bon score Environnement, et leur absence ne limite pas ce que l'entreprise peut atteindre sur le thème — EcoVadis ne pénalise pas l'absence de reporting Scope 3.
+Les objectifs Scope 3 ne sont **pas un prérequis** pour un bon score Environnement, et leur absence ne limite pas ce que l'entreprise peut atteindre sur le thème — [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) ne pénalise pas l'absence de reporting Scope 3.
 
 L'attente primaire, quand les GES sont un critère actif, est de **suivre et rapporter les émissions Scopes 1 et 2**. Un inventaire structuré sur ces deux scopes, combiné à un **objectif de réduction SMART avec année de référence**, contribue significativement aux indicateurs Mesures et Reporting — le minimum réaliste pour une entreprise qui débute son parcours GES.
 

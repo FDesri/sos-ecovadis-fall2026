@@ -31,6 +31,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Évolution et dynamique de labellisation EcoVadis (Evernote, May 2026, updated 2026-08-24; point equivalents are dated estimates — cross-check with the Rising Bar article)"
+sources: [ecovadis-360-watch, ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -74,7 +75,7 @@ The global average keeps rising: ~40 points in 2011, 44 in 2016, past 50 in 2022
 | Silver | ~66 | ~72 |
 | Bronze | ~58 | ~65 |
 
-The indicative Silver threshold moved from about 68 to 72 points between July 2025 and January 2026 — a brutal acceleration. Historically 65 points were often enough for Silver; today they place a company around the 65th percentile, barely Bronze. The point "price" of excellence rises every year, driven by the professionalisation of CSR functions, specialised software and CSRD regulatory pressure. *(These point equivalents vary by publication window — see the Rising Bar article for the most recently observed values.)*
+The indicative Silver threshold moved from about 68 to 72 points between July 2025 and January 2026 — a brutal acceleration. Historically 65 points were often enough for Silver; today they place a company around the 65th percentile, barely Bronze. The point "price" of excellence rises every year, driven by the professionalisation of CSR functions, specialised software and [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) regulatory pressure. *(These point equivalents vary by publication window — see the Rising Bar article for the most recently observed values.)*
 
 ## What are the Committed and Fast Mover badges for?
 
@@ -82,9 +83,9 @@ The indicative Silver threshold moved from about 68 to 72 points between July 20
 
 ## How do the P-A-R model and the 360° Watch fit together?
 
-The theme score is a weighted average: **Policies 25%** (formal commitments, charters, quantified targets), **Actions 40%** (implementation, training, audits, certifications), **Results 35%** (KPI reporting, 360° Watch). To cross 70 points, you need multi-year quantitative results proving the actions had real impact.
+The theme score is a weighted average: **Policies 25%** (formal commitments, charters, quantified targets), **Actions 40%** (implementation, training, audits, certifications), **Results 35%** (KPI reporting, [360° Watch](https://ecovadis.com/)). To cross 70 points, you need multi-year quantitative results proving the actions had real impact.
 
-The **360° Watch** is the final arbiter: even at 90 points, a Watch score of 0 on one theme — or 25 on two themes — makes a company ineligible for medals. EcoVadis scans more than 100,000 sources (media, NGOs, government sites) with AI and human experts. Grid: 0 = immediate ineligibility; 25 = ineligibility risk; 50 = neutral; 75-100 = positive.
+The **[360° Watch](https://ecovadis.com/)** is the final arbiter: even at 90 points, a Watch score of 0 on one theme — or 25 on two themes — makes a company ineligible for medals. EcoVadis scans more than 100,000 sources (media, NGOs, government sites) with AI and human experts. Grid: 0 = immediate ineligibility; 25 = ineligibility risk; 50 = neutral; 75-100 = positive.
 
 ## What challenges does size create for Belgian SMEs?
 
@@ -96,11 +97,11 @@ A heavily scrutinised sector (plastic pollution, resources), above the cross-sec
 
 ## Where does machinery and equipment for pharma stand?
 
-Belgium is a major biopharma hub (Pfizer, GSK, Janssen): equipment makers face strong indirect pressure. Through EcoVadis, the industry launched the **Responsible Health Initiative (RHI)** — GSK, Teva and Takeda use it to harmonise supplier sustainability standards: a good score is no longer an advantage but a **condition for staying on the approved-supplier panel**. Benchmarks: **Hosokawa Micron** (Benelux) — Silver at 68/100 in 2024, top 15% of its industry (a 68 once close to Gold); **Aguettant** — Silver, above the sector average on all four themes; **Omnia Group** — "circularity by design" 2024-2025. Assessment specifics: **ethics and compliance** (anti-corruption, patents), **health & safety** (assembly shops and on-site installation, ISO 45001), **hazardous substances** (REACH, RoHS — avoiding any contamination of final pharmaceutical products).
+Belgium is a major biopharma hub (Pfizer, GSK, Janssen): equipment makers face strong indirect pressure. Through EcoVadis, the industry launched the **Responsible Health Initiative (RHI)** — GSK, Teva and Takeda use it to harmonise supplier sustainability standards: a good score is no longer an advantage but a **condition for staying on the approved-supplier panel**. Benchmarks: **Hosokawa Micron** (Benelux) — Silver at 68/100 in 2024, top 15% of its industry (a 68 once close to Gold); **Aguettant** — Silver, above the sector average on all four themes; **Omnia Group** — "circularity by design" 2024-2025. Assessment specifics: **ethics and compliance** (anti-corruption, patents), **health & safety** (assembly shops and on-site installation, [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html)), **hazardous substances** (REACH, RoHS — avoiding any contamination of final pharmaceutical products).
 
 ## What should you expect in 2025-2026?
 
-Since 1 January 2025, **unrounded scores** reward fine-grained progress (60 → 62.3). From 2026: **GRI** alignment becomes stricter (a mere "reference to GRI" is no longer enough — substantial use of the indicators is required), and EcoVadis puts more value on **public KPI disclosure** (website, annual report) than on internal documents. For SMEs outside CSRD scope, the **VSME** standard is integrated: **Basic module → maximum score 75/100**, **Comprehensive module → up to 100/100**.
+Since 1 January 2025, **unrounded scores** reward fine-grained progress (60 → 62.3). From 2026: **[GRI](https://www.globalreporting.org/standards/)** alignment becomes stricter (a mere "reference to [GRI](https://www.globalreporting.org/standards/)" is no longer enough — substantial use of the indicators is required), and EcoVadis puts more value on **public KPI disclosure** (website, annual report) than on internal documents. For SMEs outside [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) scope, the **[VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)** standard is integrated: **Basic module → maximum score 75/100**, **Comprehensive module → up to 100/100**.
 
 ## What are the three strategic axes?
 
@@ -113,5 +114,5 @@ Since 1 January 2025, **unrounded scores** reward fine-grained progress (60 → 
 - Since 2024, a medal is a percentile, not a score: with unchanged practices, it slips.
 - Point equivalents are drifting: Bronze towards ~65, Silver towards ~72 (early-2026 estimates, to cross-check).
 - Committed (45+) and Fast Mover (34-44, +6 pts/18 months) recognise the foundation and the momentum.
-- The 360° Watch can cancel eligibility regardless of score; VSME caps at 75 (Basic) or opens 100 (Comprehensive).
+- The [360° Watch](https://ecovadis.com/) can cancel eligibility regardless of score; [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) caps at 75 (Basic) or opens 100 (Comprehensive).
 - Belgian packaging and pharma equipment: historically excellent sectors, so the bar sits even higher — and the RHI makes the score a condition of pharma panel access.

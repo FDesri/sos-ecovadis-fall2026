@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis drives stronger sustainability management (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -72,7 +73,7 @@ La méthodologie s'adapte au contexte : les industriels doivent typiquement trai
 
 - **Politiques :** 20 % pour les documents fondateurs ; 5 % pour les adhésions vérifiables.
 - **Actions/Mesures :** 24 % — plus de points pour des mesures multiples et documentées par critère activé.
-- **Certifications :** 16 % — les acquis accrédités comme ISO 14001.
+- **Certifications :** 16 % — les acquis accrédités comme [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html).
 - **Multiplicateur de couverture :** l'étendue du déploiement des actions et certifications dans l'entreprise.
 - **Rapports :** 14 % pour les KPI internes et le reporting externe ; **Veille 360° : 21 %** — l'actualité externe qui touche la réputation.
 
@@ -82,7 +83,7 @@ Les pondérations varient par secteur et sont optimisées dynamiquement : les do
 
 **Débutant — les fondations d'abord.** Définir les sujets matériels à partir du modèle d'affaires, des pairs et des critères activés ; rédiger des politiques qualitatives concises (en consolidant les sujets proches) ; déployer des actions simples et peu gourmandes (formations, procédures de réclamation) ; démarrer un suivi interne de KPI reliés aux politiques. Un grossiste en articles ménagers, nouveau sur EcoVadis, a introduit des politiques fondatrices et un tableau de bord KPI sous Excel — médaille Bronze et fondation solide.
 
-**Intermédiaire — structure et crédibilité.** Analyses de matérialité plus complètes (d'impact ou financière, alignées GRI, IFRS ou SASB) ; trois ans de données KPI ; lancement du reporting de durabilité et certifications type ISO ; objectifs quantitatifs, y compris Science Based Targets ; mesures étendues à chaque site. Une entreprise chimique est passée de l'Argent à l'Or en formalisant des objectifs SBTi, en lançant des formations ESG, en publiant un premier rapport de durabilité et en adhérant au Pacte mondial des Nations unies.
+**Intermédiaire — structure et crédibilité.** Analyses de matérialité plus complètes (d'impact ou financière, alignées [GRI](https://www.globalreporting.org/standards/), IFRS ou SASB) ; trois ans de données KPI ; lancement du reporting de durabilité et certifications type ISO ; objectifs quantitatifs, y compris Science Based Targets ; mesures étendues à chaque site. Une entreprise chimique est passée de l'Argent à l'Or en formalisant des objectifs [SBTi](https://sciencebasedtargets.org/), en lançant des formations ESG, en publiant un premier rapport de durabilité et en adhérant au [Pacte mondial des Nations unies](https://unglobalcompact.org/participation/report/cop).
 
 **Avancé — meilleures pratiques et vérification.** Analyses de double matérialité et revues régulières des politiques ; actions et certifications à l'échelle de l'entreprise ; audits externes des contrôles et pratiques ESG ; KPI ESG intégrés à l'ERP et au reporting financier, vérifiés en externe. Un logisticien a conservé son Platine grâce à une stratégie durabilité de chaîne d'approvisionnement : double matérialité, couverture accrue des actions achats, vérification externe des KPI.
 

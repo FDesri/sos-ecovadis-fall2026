@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [rising-bar-exigences-croissantes-2026, seuils-ecovadis-emballage-pharm
 
 # Quelle importance donner au benchmark des pairs dans une stratégie ESG ?
 
-Se comparer aux pairs et comprendre les attentes des clients est **crucial pour rester compétitif**. Chaque entreprise adapte à juste titre ses initiatives à son modèle d'affaires et à sa maturité, mais connaître le paysage ESG de ses concurrents permet un meilleur alignement stratégique et une réponse plus efficace aux attentes des parties prenantes. Dans le contexte EcoVadis, c'est doublement vrai : les médailles étant basées sur le percentile, votre position est littéralement définie par rapport à vos pairs.
+Se comparer aux pairs et comprendre les attentes des clients est **crucial pour rester compétitif**. Chaque entreprise adapte à juste titre ses initiatives à son modèle d'affaires et à sa maturité, mais connaître le paysage ESG de ses concurrents permet un meilleur alignement stratégique et une réponse plus efficace aux attentes des parties prenantes. Dans le contexte [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral), c'est doublement vrai : les médailles étant basées sur le percentile, votre position est littéralement définie par rapport à vos pairs.

@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [documents-justificatifs-entreprises-xs, soumissions-ecovadis-solides-e
 
 # Des documents externes ont été rejetés faute de nom ou de logo — que faire ?
 
-EcoVadis exige que chaque document porte une **affiliation à l'entité évaluée** : un nom d'entreprise ou un logo doit y figurer. Sans l'un des deux, le document est rejeté — sans exception, et l'expérience d'ESGIM le confirme : chaque document sans nom ni logo a été rejeté.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) exige que chaque document porte une **affiliation à l'entité évaluée** : un nom d'entreprise ou un logo doit y figurer. Sans l'un des deux, le document est rejeté — sans exception, et l'expérience d'ESGIM le confirme : chaque document sans nom ni logo a été rejeté.
 
 Les documents internes du quotidien, registres de formation et supports de procédure n'ont souvent pas le logo par défaut. La solution la plus simple : produire tous les documents internes sur des **modèles à la charte de l'entreprise**. Quand un prestataire externe émet un certificat ou un registre de formation, demandez-lui d'inclure le nom de l'entreprise. Quand c'est impossible, une brève **page de garde sur papier à en-tête** nommant le salarié, l'entreprise, la formation suivie et la date suffit à établir le lien requis entre document et entité.

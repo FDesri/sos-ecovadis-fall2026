@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,6 +38,6 @@ related: [build-strong-ecovadis-submissions-consistently, improve-your-ecovadis-
 
 # How do we proceed with a reassessment?
 
-When your scorecard approaches expiry, EcoVadis notifies you to initiate a new cycle. The process follows the same sequence: complete the questionnaire, upload updated evidence, submit. Importantly, **reassessments can be easier than first assessments**: some answers are pre-filled from your previous responses, and all previously submitted documents remain accessible in the Document Library **without counting against your new 55-document quota**.
+When your scorecard approaches expiry, [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) notifies you to initiate a new cycle. The process follows the same sequence: complete the questionnaire, upload updated evidence, submit. Importantly, **reassessments can be easier than first assessments**: some answers are pre-filled from your previous responses, and all previously submitted documents remain accessible in the Document Library **without counting against your new 55-document quota**.
 
 The practical focus: review the pre-filled answers, update any expired or outdated policies and KPIs, add fresh evidence, and address open corrective action plan items. A structured gap analysis before submission is strongly recommended over simply relying on what was pre-filled.

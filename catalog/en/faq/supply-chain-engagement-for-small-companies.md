@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,6 +40,6 @@ related: [sustainable-procurement-measures-sup307, sustainable-procurement-where
 
 # How does EcoVadis assess supply-chain engagement for small companies?
 
-Small companies are assessed on the **same Sustainable Procurement indicators** as large ones, but expectations are **calibrated to scale**: EcoVadis does not expect an SME to run a complex supplier audit programme. The minimum evidence for the theme is a **procurement policy referencing sustainability criteria for suppliers**. Beyond that, evidence of supplier questionnaires, self-assessment requests or contractual sustainability clauses contributes to the Measures indicator.
+Small companies are assessed on the **same Sustainable Procurement indicators** as large ones, but expectations are **calibrated to scale**: [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) does not expect an SME to run a complex supplier audit programme. The minimum evidence for the theme is a **procurement policy referencing sustainability criteria for suppliers**. Beyond that, evidence of supplier questionnaires, self-assessment requests or contractual sustainability clauses contributes to the Measures indicator.
 
 For SMEs with a limited supplier base, demonstrating that you apply sustainability criteria to your **top suppliers by spend** — even informally, with documented outcomes — can be sufficient to achieve Bronze or Silver in this theme.

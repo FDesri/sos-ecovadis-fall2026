@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [ecovadis-and-ghg-baseline]
 
 # What methodology should be used for a Product Carbon Footprint (PCF) submission?
 
-EcoVadis accepts PCF data calculated in accordance with **ISO 14067** (the primary international standard for greenhouse-gas quantification of products) or the **GHG Protocol Product Standard**. Sector-specific PCF methodologies — such as the **PACT (Partnership for Carbon Transparency) Pathfinder framework**, widely used in manufacturing supply chains — are also accepted as credible evidence.
+EcoVadis accepts PCF data calculated in accordance with **ISO 14067** (the primary international standard for greenhouse-gas quantification of products) or the **[GHG Protocol](https://ghgprotocol.org/corporate-standard) Product Standard**. Sector-specific PCF methodologies — such as the **PACT (Partnership for Carbon Transparency) Pathfinder framework**, widely used in manufacturing supply chains — are also accepted as credible evidence.
 
 For the submission, the PCF should be documented as part of a **product-level environmental management approach**, linked to your broader GHG data, with the **methodology and calculation scope clearly stated**.

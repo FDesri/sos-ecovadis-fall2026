@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Actions face aux perturbations environnementales externes - ENV7012 (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -44,7 +45,7 @@ faq:
 
 ## In het kort
 
-ENV7012 trekt de klimaatrisicobeoordeling (ENV7003) door naar het terrein van de **acties**: wat doet de onderneming concreet om milieuverstoringen te weerstaan? Twee families van bewijs worden verwacht — adaptieve praktijken die in de operaties geïntegreerd zijn, en noodreserves of vangnetten. Geen impact op de score, maar zichtbaar op de scorecard.
+[ENV7012](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) trekt de klimaatrisicobeoordeling (ENV7003) door naar het terrein van de **acties**: wat doet de onderneming concreet om milieuverstoringen te weerstaan? Twee families van bewijs worden verwacht — adaptieve praktijken die in de operaties geïntegreerd zijn, en noodreserves of vangnetten. Geen impact op de score, maar zichtbaar op de scorecard.
 
 ## Hoe integreert u adaptieve praktijken in de operaties?
 

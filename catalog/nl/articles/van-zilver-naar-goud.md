@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Silver to Gold (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -51,7 +52,7 @@ faq:
 
 ## Wat betekent Goud?
 
-De Gouden medaille is voorbehouden aan de **top 5%** van alle ondernemingen die EcoVadis de voorbije 12 maanden beoordeelde. In 2024 betekende dat een score rond 73/100; in mei 2026 ongeveer 81. Ze halen veronderstelt dat u de criteria voor Brons en Zilver overtreft en duurzaamheidsbeheer veel gedetailleerder aanpakt. Dat vraagt tijd en investering — en het is een grote stap vooruit in stakeholderengagement en in de uitvoering van uw duurzaamheidsstrategie.
+De Gouden medaille is voorbehouden aan de **top 5%** van alle ondernemingen die [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) de voorbije 12 maanden beoordeelde. In 2024 betekende dat een score rond 73/100; in mei 2026 ongeveer 81. Ze halen veronderstelt dat u de criteria voor Brons en Zilver overtreft en duurzaamheidsbeheer veel gedetailleerder aanpakt. Dat vraagt tijd en investering — en het is een grote stap vooruit in stakeholderengagement en in de uitvoering van uw duurzaamheidsstrategie.
 
 ## Wat betekent consistent en volledig precies?
 

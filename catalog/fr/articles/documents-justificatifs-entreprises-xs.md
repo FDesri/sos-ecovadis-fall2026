@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Quel type de documents justificatifs - EcoVadis - Entreprises XS (Evernote, mise à jour 2026-08-24 ; d'après l'article du Centre d'aide EcoVadis)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -48,11 +49,11 @@ faq:
 
 ## En bref
 
-Les questionnaires EcoVadis sont adaptés à chaque entreprise — secteur, localisation, taille — y compris les très petites entreprises comptant **jusqu'à 25 employés**. En moyenne, **une dizaine de questions** sont posées aux XS, et certains indicateurs (adhésions comme le Pacte mondial, couverture) **ne s'appliquent pas**. Surtout : EcoVadis accorde plus de flexibilité aux XS et **accepte des documents justificatifs non formalisés** — à condition qu'ils restent récents, pertinents, complets et liés au périmètre d'évaluation. (Référence : Centre d'aide EcoVadis.)
+Les questionnaires EcoVadis sont adaptés à chaque entreprise — secteur, localisation, taille — y compris les très petites entreprises comptant **jusqu'à 25 employés**. En moyenne, **une dizaine de questions** sont posées aux XS, et certains indicateurs (adhésions comme le [Pacte mondial](https://unglobalcompact.org/participation/report/cop), couverture) **ne s'appliquent pas**. Surtout : EcoVadis accorde plus de flexibilité aux XS et **accepte des documents justificatifs non formalisés** — à condition qu'ils restent récents, pertinents, complets et liés au périmètre d'évaluation. (Référence : Centre d'aide EcoVadis.)
 
 ## Que doit respecter tout document ?
 
-Tout document formalisé qui reflète votre système de gestion RSE et étaye vos réponses peut servir : procédures de gestion RSE, rapports RSE, rapports d'audit social, politiques sociales et environnementales, code d'éthique ou de conduite, guides des collaborateurs, certificats (ISO 14001, ISO 45001…), communication sur les progrès du Pacte mondial, rapports annuels avec section RSE.
+Tout document formalisé qui reflète votre système de gestion RSE et étaye vos réponses peut servir : procédures de gestion RSE, rapports RSE, rapports d'audit social, politiques sociales et environnementales, code d'éthique ou de conduite, guides des collaborateurs, certificats ([ISO 14001](https://www.iso.org/iso-14001-environmental-management.html), [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html)…), communication sur les progrès du [Pacte mondial](https://unglobalcompact.org/participation/report/cop), rapports annuels avec section RSE.
 
 Les règles communes :
 

@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Silver to Gold (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -51,7 +52,7 @@ faq:
 
 ## Que représente l'Or ?
 
-La médaille Or est réservée au **top 5 %** des entreprises évaluées par EcoVadis sur les 12 derniers mois. En 2024, cela signifiait un score d'environ 73/100 ; en mai 2026, environ 81. L'atteindre suppose de dépasser les critères du Bronze et de l'Argent et d'adopter une gestion de la durabilité beaucoup plus détaillée. Cela demande du temps et de l'investissement — et cela représente un pas majeur pour l'engagement des parties prenantes et l'avancement de votre stratégie de durabilité.
+La médaille Or est réservée au **top 5 %** des entreprises évaluées par [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) sur les 12 derniers mois. En 2024, cela signifiait un score d'environ 73/100 ; en mai 2026, environ 81. L'atteindre suppose de dépasser les critères du Bronze et de l'Argent et d'adopter une gestion de la durabilité beaucoup plus détaillée. Cela demande du temps et de l'investissement — et cela représente un pas majeur pour l'engagement des parties prenantes et l'avancement de votre stratégie de durabilité.
 
 ## Que veut dire « cohérent et complet » ?
 

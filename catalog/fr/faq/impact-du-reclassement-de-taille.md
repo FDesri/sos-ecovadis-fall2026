@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,7 +40,7 @@ related: [criteres-actives-ecovadis-par-secteur, documents-justificatifs-entrepr
 
 # Que se passe-t-il quand EcoVadis reclasse la taille de notre entreprise — et peut-on l'empêcher ?
 
-Il n'y a pas de moyen simple de l'empêcher : EcoVadis détermine la taille **automatiquement** à partir du nombre total d'équivalents temps plein, en croisant informations publiques et données fournies à la création du compte. Si vous franchissez un seuil — de XS à S par exemple — la plateforme vous place dans la nouvelle catégorie.
+Il n'y a pas de moyen simple de l'empêcher : [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) détermine la taille **automatiquement** à partir du nombre total d'équivalents temps plein, en croisant informations publiques et données fournies à la création du compte. Si vous franchissez un seuil — de XS à S par exemple — la plateforme vous place dans la nouvelle catégorie.
 
 L'impact est significatif. Le questionnaire change : **plus de critères (ou des critères différents) peuvent s'activer et le standard appliqué à chaque indicateur peut monter** — les XS bénéficient d'un questionnaire allégé (moins de questions, pondération différente, certains sujets absents), et le passage en S est un vrai changement de périmètre. Une entreprise qui scorait 71/100 en PME peut se retrouver **sous l'Argent après reclassement**, car le standard de notation est plus élevé. Les scores passés ne sont pas ajustés rétroactivement — les fiches historiques restent telles quelles — et le reclassement prend effet au cycle suivant.
 

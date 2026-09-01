@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Matières premières et produits chimiques - ENV3522 (Evernote, bijgewerkt 2026-08-24; klantvoorbeeld geanonimiseerd)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -93,7 +94,7 @@ Van de ~70 stukken in het dossier zijn **9 documenten rechtstreeks bruikbaar** e
 
 **Actie 3 (biogebaseerd)** en **actie 6 (opleidingsbewijs)**. Nummer 6 is het rendabelst: een halve dag over de veiligheidsfiches van de solventen met een ondertekende aanwezigheidslijst, en ze staat op groen. Nummer 3 vraagt een echt feit — een plantaardig smeermiddel, een reiniger met weinig VOS, een biogebaseerd spoelsolvent — te verifiëren bij de aankoopdienst vóór u iets probeert.
 
-De valkuil: recycleer geen leveranciersdocumenten (VACCP, gedragscode) in ENV3522. EcoVadis verwacht ze onder **Duurzame Inkoop**; ze twee keer meetellen voegt niets toe.
+De valkuil: recycleer geen leveranciersdocumenten (VACCP, gedragscode) in ENV3522. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) verwacht ze onder **Duurzame Inkoop**; ze twee keer meetellen voegt niets toe.
 
 ## Om te onthouden
 

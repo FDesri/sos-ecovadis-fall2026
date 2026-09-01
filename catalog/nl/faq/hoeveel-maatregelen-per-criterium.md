@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -40,7 +41,7 @@ related: [de-ecovadis-scorecard-begrijpen, ecovadis-score-snel-verbeteren]
 
 # Hebt u vier of meer maatregelen per criterium nodig? Hoe worden "strengths" berekend?
 
-De Maatregelen-score van EcoVadis steunt op het aantal **"strengths"** per geactiveerd criterium — een strength verdient u door een specifieke deelvraag te voldoen.
+De Maatregelen-score van [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) steunt op het aantal **"strengths"** per geactiveerd criterium — een strength verdient u door een specifieke deelvraag te voldoen.
 
 Voor **Milieu en Arbeids- en Mensenrechten** combineert de score twee factoren: het aantal strengths per geactiveerd criterium en het percentage geactiveerde criteria met minstens één maatregel. Voor 100/100: **4 of meer strengths per criterium, een dekking boven 65% van de geactiveerde criteria, en minstens één maatregel voor elk geactiveerd criterium**. **Ethiek** wordt anders gescoord — naargelang de maatregelen Corruptie, Informatiebeveiliging of beide dekken, met bijkomende voorwaarden rond gedocumenteerde risicoanalyses. **Duurzame Inkoop** wordt gescoord op het **totale** aantal strengths over alle criteria: zes of meer voor 100/100.
 

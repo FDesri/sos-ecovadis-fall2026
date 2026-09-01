@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [ecovadis-activated-criteria-by-sector]
 
 # Why do non-activated criteria still appear in the questionnaire, and why are answers to them rejected?
 
-This is a platform design feature. EcoVadis uses a **universal questionnaire template** and activates or deactivates specific criteria based on your company profile — sector, size and geography. Questions relating to non-activated criteria may still be visible in the interface, but evidence uploaded against them will be **assessed as irrelevant and will not contribute to your score**. Focus your effort on the criteria that are active for your profile; your scorecard and corrective action plan identify which those are.
+This is a platform design feature. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) uses a **universal questionnaire template** and activates or deactivates specific criteria based on your company profile — sector, size and geography. Questions relating to non-activated criteria may still be visible in the interface, but evidence uploaded against them will be **assessed as irrelevant and will not contribute to your score**. Focus your effort on the criteria that are active for your profile; your scorecard and corrective action plan identify which those are.

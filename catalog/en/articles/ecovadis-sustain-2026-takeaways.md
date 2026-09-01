@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis Sustain 2026 (light) (Evernote, updated 2026-08-24; internal prospecting notes and personal market commentary omitted from the public sheet)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -57,7 +58,7 @@ Attended live by ESGIM (March 2026), the Sustain conference confirmed a shift: s
 
 **John Morrisson (human rights):** child labour has come down; AI now helps understand which legislation will work; watch the social cost of data centres — workers, communities, social consensus. The circular economy (second-hand, long cycles) cannot carry a negative human rights tag.
 
-**Paul Polman (ex-CEO Unilever):** it goes very fast — unlearn and learn again. The **green economy is worth $5T, expected to grow to $7T — the second growth sector**; companies with over 50% green revenues attracted valuations 12-15% higher. Four forces are redefining operating models: **geopolitics** (produce where it is safest — key topic, only 2% implemented), **climate & nature risks** (the cost of acting is lower than the cost of not acting), **AI**, and **regulation** — the three-directional current (USA, China, EU), where **Omnibus pushes obligations to the private sector**: if a large company committed to Scope 3 reduction, suppliers will have to come along. **92% of companies have not stopped their net zero goals.** Only 5% of CEOs can measure the ROI of sustainability; what we miss is leadership.
+**Paul Polman (ex-CEO Unilever):** it goes very fast — unlearn and learn again. The **green economy is worth $5T, expected to grow to $7T — the second growth sector**; companies with over 50% green revenues attracted valuations 12-15% higher. Four forces are redefining operating models: **geopolitics** (produce where it is safest — key topic, only 2% implemented), **climate & nature risks** (the cost of acting is lower than the cost of not acting), **AI**, and **regulation** — the three-directional current (USA, China, EU), where **[Omnibus](https://finance.ec.europa.eu/) pushes obligations to the private sector**: if a large company committed to Scope 3 reduction, suppliers will have to come along. **92% of companies have not stopped their net zero goals.** Only 5% of CEOs can measure the ROI of sustainability; what we miss is leadership.
 
 ## What is EcoVadis' strategy: trust at scale, AI-first?
 
@@ -73,7 +74,7 @@ Capability is growing but hasn't caught up with ambition (EcoVadis & Accenture):
 
 ## What does the Siemens Gamesa case prove?
 
-Siemens Gamesa tested the hypothesis of a negative relationship between EcoVadis performance and supplier quality costs. Finding: **higher EcoVadis scores correlate with lower quality costs** — sustainability creates financial value. The effect is strongest for Environment and Sustainable Procurement, weaker but visible for Labor & Human Rights and Ethics. EcoVadis becomes an early, actionable signal for supplier selection and improvement. Related signals: an SBTi commitment is a preferred-supplier criterion at AstraZeneca; Amazon Business now shows a green score on product selections; steel is already carbon-priced via ETS in Europe or CBAM at the border.
+Siemens Gamesa tested the hypothesis of a negative relationship between EcoVadis performance and supplier quality costs. Finding: **higher EcoVadis scores correlate with lower quality costs** — sustainability creates financial value. The effect is strongest for Environment and Sustainable Procurement, weaker but visible for Labor & Human Rights and Ethics. EcoVadis becomes an early, actionable signal for supplier selection and improvement. Related signals: an [SBTi](https://sciencebasedtargets.org/) commitment is a preferred-supplier criterion at AstraZeneca; Amazon Business now shows a green score on product selections; steel is already carbon-priced via ETS in Europe or CBAM at the border.
 
 ## Key takeaways
 

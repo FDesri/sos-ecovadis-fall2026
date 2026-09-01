@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [ecovadis-and-ghg-baseline]
 
 # How does EcoVadis evaluate science-based climate targets not formally validated by SBTi?
 
-EcoVadis includes detailed questions about carbon and science-based targets — including SBTi commitment and validation status — in the **Carbon section** of the questionnaire. These questions generate a **separate Carbon scorecard** rating your climate management from Insufficient to Leader. However, the Carbon-section questions **do not currently contribute to the overall EcoVadis score or medal eligibility**. A non-validated science-based target can still serve as strong Measures/Policies evidence in the main questionnaire when documented as a formal, quantified commitment.
+EcoVadis includes detailed questions about carbon and science-based targets — including [SBTi](https://sciencebasedtargets.org/) commitment and validation status — in the **Carbon section** of the questionnaire. These questions generate a **separate Carbon scorecard** rating your climate management from Insufficient to Leader. However, the Carbon-section questions **do not currently contribute to the overall EcoVadis score or medal eligibility**. A non-validated science-based target can still serve as strong Measures/Policies evidence in the main questionnaire when documented as a formal, quantified commitment.

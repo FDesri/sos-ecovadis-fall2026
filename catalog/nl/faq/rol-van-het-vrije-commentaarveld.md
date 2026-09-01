@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,6 +38,6 @@ related: [sterke-ecovadis-indieningen-opbouwen]
 
 # Hoe belangrijk is het vrije commentaarveld, en wat zet u erin?
 
-De EcoVadis-analisten lezen de commentaarvelden, maar **punten worden nooit op basis van commentaar alleen toegekend** — het veld vult de documentatie aan, het vervangt ze niet. Een goed geschreven commentaar naast een zwak of ontbrekend document verbetert de score voor die vraag niet. Het veld valt **buiten de limiet van 55 documenten** en heeft een praktisch onbeperkte capaciteit.
+De [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral)-analisten lezen de commentaarvelden, maar **punten worden nooit op basis van commentaar alleen toegekend** — het veld vult de documentatie aan, het vervangt ze niet. Een goed geschreven commentaar naast een zwak of ontbrekend document verbetert de score voor die vraag niet. Het veld valt **buiten de limiet van 55 documenten** en heeft een praktisch onbeperkte capaciteit.
 
 Het beste gebruik is smal maar waardevol: **de analist naar de precieze secties van een document leiden** — de exacte pagina of clausule met het becijferde doel, of de plaats waar een vertrouwelijkheidsclausule is gedocumenteerd. Al het materiële moet in de opgeladen documenten staan; het commentaar geeft context bij wat er al is, nooit nieuwe op zichzelf staande beweringen. Houd commentaren zo kort mogelijk: een precieze verwijzing verslaat een lange uitleg.

@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Sustainable procurement for mid-market companies: Where to start (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-methodology, eu-csddd]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -59,11 +60,11 @@ De druk rond de duurzaamheid van leveranciers is niet langer voorbehouden aan gr
 
 Drie krachten komen samen, ongeacht de sector.
 
-**Klanteneisen.** Grote kopers integreren ESG-criteria in hoog tempo in hun inkoop. De EcoVadis Sustainable Procurement Barometer 2026 stelde vast dat 48% van de kopers nu zicht heeft op de ESG-praktijken van de meeste van hun Tier 1-leveranciers — een forse stijging sinds 2024. Dat zicht wordt gebouwd met EcoVadis, leveranciersvragenlijsten en conformiteitscontroles op gedragscodes. Leveranciers die hun duurzaamheidsbeheer niet kunnen aantonen, riskeren aanbestedingen en hun status van voorkeursleverancier te verliezen.
+**Klanteneisen.** Grote kopers integreren ESG-criteria in hoog tempo in hun inkoop. De EcoVadis [Sustainable Procurement Barometer 2026](https://ecovadis.com/insights/barometer/) stelde vast dat 48% van de kopers nu zicht heeft op de ESG-praktijken van de meeste van hun Tier 1-leveranciers — een forse stijging sinds 2024. Dat zicht wordt gebouwd met EcoVadis, leveranciersvragenlijsten en conformiteitscontroles op gedragscodes. Leveranciers die hun duurzaamheidsbeheer niet kunnen aantonen, riskeren aanbestedingen en hun status van voorkeursleverancier te verliezen.
 
-**Regelgevende doorsijpeling.** De Europese richtlijn inzake zorgplicht (CSDDD, richtlijn 2024/1760) trad in werking op 25 juli 2024 en geldt formeel voor grote ondernemingen met meer dan 1.000 werknemers en meer dan 450 miljoen euro wereldwijde omzet. Middelgrote ondernemingen zitten onder die drempel — maar de richtlijn verplicht die grote ondernemingen tot zorgvuldigheid over hun hele waardeketen: hun nalevingsverplichtingen sijpelen rechtstreeks door naar u als leverancier. Met het Omnibus-vereenvoudigingspakket (onder voorbehoud van formele goedkeuring) is de omzetting voorgesteld tegen 26 juli 2027, met eerste toepassing vanaf 26 juli 2028.
+**Regelgevende doorsijpeling.** De Europese richtlijn inzake zorgplicht ([CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj), [richtlijn 2024/1760](https://eur-lex.europa.eu/eli/dir/2024/1760/oj)) trad in werking op 25 juli 2024 en geldt formeel voor grote ondernemingen met meer dan 1.000 werknemers en meer dan 450 miljoen euro wereldwijde omzet. Middelgrote ondernemingen zitten onder die drempel — maar de richtlijn verplicht die grote ondernemingen tot zorgvuldigheid over hun hele waardeketen: hun nalevingsverplichtingen sijpelen rechtstreeks door naar u als leverancier. Met het [Omnibus](https://finance.ec.europa.eu/)-vereenvoudigingspakket (onder voorbehoud van formele goedkeuring) is de omzetting voorgesteld tegen 26 juli 2027, met eerste toepassing vanaf 26 juli 2028.
 
-**Vragen naar Scope 3-data.** Klanten die science-based doelen of CSRD-naleving nastreven, hebben emissiedata uit hun toeleveringsketen nodig. Vandaag levert 30% van de leveranciers geen enkele koolstofdata aan hun kopers. Ondernemingen die betrouwbare Scope 1-, 2- en 3-data kunnen leveren, hebben een meetbaar commercieel voordeel.
+**Vragen naar Scope 3-data.** Klanten die science-based doelen of [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)-naleving nastreven, hebben emissiedata uit hun toeleveringsketen nodig. Vandaag levert 30% van de leveranciers geen enkele koolstofdata aan hun kopers. Ondernemingen die betrouwbare Scope 1-, 2- en 3-data kunnen leveren, hebben een meetbaar commercieel voordeel.
 
 ## Wat moet u begrijpen vóór u iets bouwt?
 
@@ -89,7 +90,7 @@ Drie beleidsdocumenten vormen het minimale levensvatbare fundament:
 - **Een duurzaam-inkoopbeleid** — hoe de organisatie leveranciersselectie, -beoordeling en -beheer aanpakt met duurzaamheidscriteria.
 - **Een risicobeoordelingsproces voor leveranciers** — hoe duurzaamheidsrisico's worden geïdentificeerd, geprioriteerd en beheerd; de materialiteitsmapping geformaliseerd tot een herhaalbaar jaarlijks proces.
 
-Samen voldoen ze aan de vereisten van het EcoVadis-thema Duurzame Inkoop, tonen ze zorgplicht aan tegenover klanten en creëren ze het papieren spoor dat CSDDD- en CSRD-rapportering uiteindelijk zullen vereisen.
+Samen voldoen ze aan de vereisten van het EcoVadis-thema Duurzame Inkoop, tonen ze zorgplicht aan tegenover klanten en creëren ze het papieren spoor dat [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj)- en [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)-rapportering uiteindelijk zullen vereisen.
 
 ## Stap 4: hoe engageert, meet en verbetert u?
 

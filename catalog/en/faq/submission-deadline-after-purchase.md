@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [ecovadis-essentials-guide, practical-ecovadis-tips]
 
 # Once the assessment is purchased, is there a deadline to submit the questionnaire?
 
-Yes. Once an EcoVadis assessment is purchased, companies typically receive an initial submission deadline of about **6 weeks** from the date the questionnaire is created. If more time is needed, you can extend this deadline yourself by up to **60 business days in total**. If the questionnaire is not submitted within this window, the assessment period may expire and require repurchase — though you can contact EcoVadis to request a **reopening within 6 months** of the original creation date. Check your specific contract terms. Starting the evidence-gathering early is always preferable to compressing everything into the final weeks.
+Yes. Once an [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) assessment is purchased, companies typically receive an initial submission deadline of about **6 weeks** from the date the questionnaire is created. If more time is needed, you can extend this deadline yourself by up to **60 business days in total**. If the questionnaire is not submitted within this window, the assessment period may expire and require repurchase — though you can contact EcoVadis to request a **reopening within 6 months** of the original creation date. Check your specific contract terms. Starting the evidence-gathering early is always preferable to compressing everything into the final weeks.

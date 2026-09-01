@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -40,4 +41,4 @@ related: [understanding-the-ecovadis-scorecard, build-strong-ecovadis-submission
 
 EcoVadis applies the **PAR framework (Policies, Actions, Results)** and strong scores require all three layers. A policy alone demonstrates intent; to show it is being put into practice, the evidence needs to reflect activity actually happening in the organisation.
 
-The most convincing implementation evidence includes: **training records, internal audit or inspection reports, process and procedure documents, employee handbooks, and codes of conduct**. For higher scores, independent third-party certifications (such as **ISO 14001 or SMETA audits**) carry significant weight because they involve external verification rather than self-reporting. Results evidence goes one step further by showing outcomes: **KPIs tracked over time, progress against targets, and measurable performance data**.
+The most convincing implementation evidence includes: **training records, internal audit or inspection reports, process and procedure documents, employee handbooks, and codes of conduct**. For higher scores, independent third-party certifications (such as **[ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) or SMETA audits**) carry significant weight because they involve external verification rather than self-reporting. Results evidence goes one step further by showing outcomes: **KPIs tracked over time, progress against targets, and measurable performance data**.

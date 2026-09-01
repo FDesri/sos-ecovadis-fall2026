@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology, efrag-vsme]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,6 +38,6 @@ related: [whats-changing-in-2026, ecovadis-rising-standards-2026]
 
 # Is VSME reporting necessary for a company already rated by EcoVadis — and what score can it unlock?
 
-They complement rather than replace each other. **EcoVadis rates sustainability management**, while **VSME offers a structured ESG reporting framework** (the Voluntary SME Standard developed by EFRAG, based on ESRS). Companies can use VSME to satisfy external reporting demands from customers and regulators, while EcoVadis validates internal governance practices — a comprehensive ESG approach tuned to stakeholder demands.
+They complement rather than replace each other. **EcoVadis rates sustainability management**, while **[VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) offers a structured ESG reporting framework** (the Voluntary SME Standard developed by EFRAG, based on [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)). Companies can use [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) to satisfy external reporting demands from customers and regulators, while EcoVadis validates internal governance practices — a comprehensive ESG approach tuned to stakeholder demands.
 
-On scoring: VSME is **fully recognised by EcoVadis as a valid reporting framework for any company size**. The maximum achievable depends on the module: **VSME Basic Module only → up to 75/100** on the Reporting indicator; **Basic + Comprehensive Module → up to 100/100, subject to third-party assurance**. Note that EcoVadis does not audit whether your VSME report meets VSME's own standards — it assesses whether the report contains the specific disclosures and KPIs its scoring levels require: a sustainability or annual report, a declared alignment with a recognised standard, a (double) materiality analysis, and third-party verification for the top score.
+On scoring: [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) is **fully recognised by EcoVadis as a valid reporting framework for any company size**. The maximum achievable depends on the module: **VSME Basic Module only → up to 75/100** on the Reporting indicator; **Basic + Comprehensive Module → up to 100/100, subject to third-party assurance**. Note that EcoVadis does not audit whether your VSME report meets VSME's own standards — it assesses whether the report contains the specific disclosures and KPIs its scoring levels require: a sustainability or annual report, a declared alignment with a recognised standard, a (double) materiality analysis, and third-party verification for the top score.

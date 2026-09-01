@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [rising-bar-exigences-croissantes-2026, ce-qui-change-en-2026]
 
 # Les exigences de qualité documentaire se sont-elles durcies par rapport aux cycles précédents ?
 
-Oui. Les standards de revue d'EcoVadis évoluent constamment vers **des exigences de preuve plus rigoureuses**. Les analystes cherchent de plus en plus des documents démontrant une mise en œuvre réelle plutôt qu'une intention, et des données conformes aux critères des référentiels reconnus — **indicateurs GRI, points de données ESRS**. Le passage d'un alignement **« with reference to »** à **« in accordance with »** est le signal récent le plus net de cette direction — voir les fiches Rising Bar et « ce qui change en 2026 » pour le tableau complet.
+Oui. Les standards de revue d'EcoVadis évoluent constamment vers **des exigences de preuve plus rigoureuses**. Les analystes cherchent de plus en plus des documents démontrant une mise en œuvre réelle plutôt qu'une intention, et des données conformes aux critères des référentiels reconnus — **indicateurs [GRI](https://www.globalreporting.org/standards/), points de données [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)**. Le passage d'un alignement **« with reference to »** à **« in accordance with »** est le signal récent le plus net de cette direction — voir les fiches Rising Bar et « ce qui change en 2026 » pour le tableau complet.

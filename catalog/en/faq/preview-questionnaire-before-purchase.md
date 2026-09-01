@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [ecovadis-essentials-guide, ecovadis-activated-criteria-by-sector]
 
 # Can you preview the EcoVadis questionnaire before purchasing an assessment?
 
-A full preview of the tailored questionnaire is **not available before initiating and paying** for the assessment. EcoVadis provides an overview of the four sustainability themes on its website, and its Document Guide outlines the types of evidence accepted. Because the actual scope depends on your sector, size and geography, an experienced adviser can map the likely activated criteria for your profile before you commit — this is typically part of an ESGIM discovery call.
+A full preview of the tailored questionnaire is **not available before initiating and paying** for the assessment. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) provides an overview of the four sustainability themes on its website, and its Document Guide outlines the types of evidence accepted. Because the actual scope depends on your sector, size and geography, an experienced adviser can map the likely activated criteria for your profile before you commit — this is typically part of an ESGIM discovery call.

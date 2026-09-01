@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [ecovadis-en-co2-nulmeting]
 
 # Hoe gaat u het best om met het geïntegreerde formaat en het nieuwe scoresysteem van CDP?
 
-CDP moedigt nu **wendbare, flexibele rapportering** aan, afgestemd op een geïntegreerde vragenlijst en een nieuw softwareplatform. Bereid u voor door de scorelogica te begrijpen, de beschikbare gidsen te benutten en uw duurzaamheidsverhalen te documenteren. Externe verificatie is optioneel maar verbetert de scores en de geloofwaardigheid — en dezelfde geverifieerde data versterkt uw EcoVadis-indicator Rapportering.
+CDP moedigt nu **wendbare, flexibele rapportering** aan, afgestemd op een geïntegreerde vragenlijst en een nieuw softwareplatform. Bereid u voor door de scorelogica te begrijpen, de beschikbare gidsen te benutten en uw duurzaamheidsverhalen te documenteren. Externe verificatie is optioneel maar verbetert de scores en de geloofwaardigheid — en dezelfde geverifieerde data versterkt uw [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral)-indicator Rapportering.

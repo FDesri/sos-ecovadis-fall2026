@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Bronze to Silver (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -51,7 +52,7 @@ faq:
 
 ## Comment les médailles EcoVadis sont-elles attribuées en 2026 ?
 
-Depuis janvier 2024, EcoVadis attribue les médailles uniquement au **rang percentile**, plus sur des seuils de score fixes. Votre score global est comparé à celui de toutes les entreprises évaluées sur la plateforme au cours des 12 derniers mois : le Bronze revient au top 35 %, l'Argent au top 15 %, l'Or au top 5 %, le Platine au top 1 %. Comme la base grandit et que les entreprises s'améliorent, le score approximatif requis pour chaque médaille monte avec le temps.
+Depuis janvier 2024, [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) attribue les médailles uniquement au **rang percentile**, plus sur des seuils de score fixes. Votre score global est comparé à celui de toutes les entreprises évaluées sur la plateforme au cours des 12 derniers mois : le Bronze revient au top 35 %, l'Argent au top 15 %, l'Or au top 5 %, le Platine au top 1 %. Comme la base grandit et que les entreprises s'améliorent, le score approximatif requis pour chaque médaille monte avec le temps.
 
 Les repères de score cités ici proviennent des données internes du portefeuille clients d'ESG Interim Management, mises à jour en mai 2026. Ce sont des indicateurs directionnels, pas des objectifs officiels publiés par EcoVadis.
 

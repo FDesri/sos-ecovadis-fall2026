@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "What's changing in 2026 + FAQ February (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology, efrag-vsme, eu-csrd, gri-standards]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -47,7 +48,7 @@ faq:
 
 ## In brief
 
-**Expert insight — François Dequenne:** here are the top questions answered, categorised by topic, from the latest ESG Interim Management webinar. The 2026 methodology brings three key updates: (1) enhanced materiality flexibility allowing companies to opt out of non-material environmental topics (currently piloted in specific industries), (2) improved 360° Watch severity assessment incorporating stakeholder consensus, and (3) formal recognition of VSME reporting standards with differentiated scoring for Basic versus Comprehensive modules. Meanwhile, medal thresholds keep rising: the Silver threshold increased from 68 to 72 points between July 2025 and January 2026 alone.
+**Expert insight — François Dequenne:** here are the top questions answered, categorised by topic, from the latest ESG Interim Management webinar. The 2026 methodology brings three key updates: (1) enhanced materiality flexibility allowing companies to opt out of non-material environmental topics (currently piloted in specific industries), (2) improved [360° Watch](https://ecovadis.com/) severity assessment incorporating stakeholder consensus, and (3) formal recognition of [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) reporting standards with differentiated scoring for Basic versus Comprehensive modules. Meanwhile, medal thresholds keep rising: the Silver threshold increased from 68 to 72 points between July 2025 and January 2026 alone.
 
 ## How do assessment scope and structure change?
 
@@ -59,7 +60,7 @@ faq:
 
 **How many points are lost reporting group data at entity level?** It varies: if group data is disaggregated with the reporting entity's KPIs clearly highlighted, the loss is limited; if only consolidated group KPIs are available, Reporting scores drop — from a few points to 10-15+. Provide group data alongside entity-specific breakdowns and label which is which. The 2026 methodology increases the emphasis on data granularity.
 
-**How can I be sure all subsidiaries are considered in our group assessment?** Define the organisational scope in the questionnaire's company information section, list all consolidated entities, and provide an organisational chart with locations, employees and activities. The scorecard's first page states the assessment scope; 360° Watch may flag subsidiary-related news, confirming they are tracked.
+**How can I be sure all subsidiaries are considered in our group assessment?** Define the organisational scope in the questionnaire's company information section, list all consolidated entities, and provide an organisational chart with locations, employees and activities. The scorecard's first page states the assessment scope; [360° Watch](https://ecovadis.com/) may flag subsidiary-related news, confirming they are tracked.
 
 **Could selecting only the best-performing locations be greenwashing?** Potentially yes, if it misrepresents overall performance. The scope is declared and visible on the scorecard, but the medal itself doesn't show the limitation — which is why group assessments include Coverage questions whose percentages push the score up or down. Best practice: a scope representative of operations and material impacts, exclusions communicated transparently to customers. From 2026 EcoVadis emphasises scope transparency and materiality alignment; the reputational and regulatory risks of selective disclosure outweigh short-term scoring benefits.
 
@@ -73,13 +74,13 @@ faq:
 
 **We submit a KPI spreadsheet covering all locations. Is the max 50/100 unless KPIs are public?** Yes: from 2026, EcoVadis emphasises public disclosure over private documentation. The spreadsheet still has value, but the highest Reporting scores require KPIs publicly available (sustainability report, website). Also consider the other requirements for 75 or 100/100: a double materiality analysis, verified sustainability data, and compliance with a reporting standard.
 
-**Best practice when switching reporting frameworks with different KPI definitions?** Continuity and transparency: during the transition, report KPIs under both definitions where feasible, explain the methodological changes, include reconciliation tables. One year of overlap data helps. Transitions towards recognised frameworks (GRI, ESRS, ISSB) are viewed positively when transparently documented.
+**Best practice when switching reporting frameworks with different KPI definitions?** Continuity and transparency: during the transition, report KPIs under both definitions where feasible, explain the methodological changes, include reconciliation tables. One year of overlap data helps. Transitions towards recognised frameworks ([GRI](https://www.globalreporting.org/standards/), [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj), ISSB) are viewed positively when transparently documented.
 
 **If our materiality-based report doesn't reach EcoVadis' 67% criteria coverage, how is it scored?** From 2026 there is more flexibility to exclude non-material environmental topics, but coverage is still expected for active topics. Not reporting on them likely lowers Coverage. Robust materiality documentation and clearly explained scope decisions help — analysts may consider the context, and transparency about a materiality-based approach is valued.
 
 ## How do you align with the reporting standards?
 
-**Will EcoVadis consider CSRD reporting like GRI?** Yes: ESRS (the CSRD standards) is recognised as a formal framework. From 2026, formal compliance matters more than "referencing" — reporting in accordance with ESRS earns full points, like GRI "in accordance with".
+**Will EcoVadis consider [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) reporting like [GRI](https://www.globalreporting.org/standards/)?** Yes: [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) (the CSRD standards) is recognised as a formal framework. From 2026, formal compliance matters more than "referencing" — reporting in accordance with ESRS earns full points, like [GRI](https://www.globalreporting.org/standards/) "in accordance with".
 
 **Is "with reference to GRI" no longer sufficient?** Correct — a significant 2026 change. Previously "prepared with reference to GRI" earned points without full compliance; now EcoVadis requires "in accordance with" GRI (or substantial demonstrated use of indicators and principles), and the same for CSRD/ESRS. Partial adoption still receives some credit; the highest scores require formal compliance. This reflects increased greenwashing scrutiny.
 
@@ -87,13 +88,13 @@ faq:
 
 **Is GRI better than IFRS or ESRS?** They serve different purposes: GRI is impact-focused and multi-stakeholder; IFRS is investor-focused (financial materiality); ESRS incorporates both through double materiality and is mandatory under CSRD. All three are recognised — what counts from 2026 is formal compliance. Note: "in accordance with GRI" scores maximum; "with reference to GRI" no longer does.
 
-**Can US companies report with VSME?** Yes. VSME was developed by EFRAG for European SMEs but its principles apply regardless of geography, and EcoVadis recognises it as legitimate structured disclosure — comprehensive yet less burdensome than full GRI or ESRS. Consider whether VSME meets your stakeholders' expectations versus US-specific frameworks (SASB/IFRS).
+**Can US companies report with [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)?** Yes. [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) was developed by EFRAG for European SMEs but its principles apply regardless of geography, and EcoVadis recognises it as legitimate structured disclosure — comprehensive yet less burdensome than full GRI or ESRS. Consider whether VSME meets your stakeholders' expectations versus US-specific frameworks (SASB/IFRS).
 
 **Does EcoVadis accept VSME for mid-cap companies (e.g. 750 FTE)?** There is no strict prohibition, but at 750 FTE you approach mandatory CSRD territory and analysts might question a simplified standard; GRI "in accordance with" may better match stakeholder expectations at that size.
 
 **Will the UK SRS be accepted?** Expected yes, once formally implemented — it aligns with ISSB, which EcoVadis already recognises. There may be a lag before methodology guidance lists it explicitly; in the interim, reference UK SRS and note the ISSB alignment.
 
-**Does a UNGC Communication on Progress count as an external sustainability report?** A COP earns points under **Endorsements**, and may earn some Reporting credit if it includes relevant KPIs with multi-year trends — but it does not carry the weight of a formal reporting framework. If it is your primary disclosure, make it comprehensive and data-rich, and consider supplementing it.
+**Does a [UNGC](https://unglobalcompact.org/participation/report/cop) Communication on Progress count as an external sustainability report?** A COP earns points under **Endorsements**, and may earn some Reporting credit if it includes relevant KPIs with multi-year trends — but it does not carry the weight of a formal reporting framework. If it is your primary disclosure, make it comprehensive and data-rich, and consider supplementing it.
 
 **Does EcoVadis ask about EUDR compliance?** Yes — in the Environment and Sustainable Procurement sections, especially for companies dealing in covered commodities (cattle, cocoa, coffee, palm oil, rubber, soy, wood and derivatives): deforestation policies, due diligence processes, traceability systems, risk management. As enforcement begins, compliance readiness will weigh more.
 

@@ -31,6 +31,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis - Pack corruption - harcèlement - discrimination (Evernote, bijgewerkt 2026-08-24; klant geanonimiseerd: Waalse installateur bouwtechniek, grootte XS)"
+sources: [ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -88,7 +89,7 @@ Nuttige referenties: de Belgische anticorruptiegids (preventie, sensibilisering,
 | Toolbox "respect op het werk" (15 min) | Concrete voorbeelden van aanvaardbaar / onaanvaardbaar gedrag | Aanwezigheidslijst + toolboxfiche |
 | Geanonimiseerd incidentenregister | Type melding, behandeling, maatregel, afsluiting | Geanonimiseerde tabel + jaarsynthese |
 
-Belgisch kader: de FOD Werkgelegenheid verplicht de werkgever psychosociale risico's te voorkomen (geweld, moreel en seksueel grensoverschrijdend gedrag); de **vertrouwenspersoon is verplicht vanaf 50 werknemers**, facultatief eronder behalve bij collectieve vraag; de werknemer kan terecht bij de vertrouwenspersoon of de preventieadviseur psychosociale aspecten. Unia benadrukt: preventie is meer dan achteraf bestraffen — gelijke behandeling hoort in rekrutering, promotie, opleiding, verloning en arbeidsrelaties.
+Belgisch kader: de [FOD Werkgelegenheid](https://emploi.belgique.be/) verplicht de werkgever psychosociale risico's te voorkomen (geweld, moreel en seksueel grensoverschrijdend gedrag); de **vertrouwenspersoon is verplicht vanaf 50 werknemers**, facultatief eronder behalve bij collectieve vraag; de werknemer kan terecht bij de vertrouwenspersoon of de preventieadviseur psychosociale aspecten. [Unia](https://www.unia.be/) benadrukt: preventie is meer dan achteraf bestraffen — gelijke behandeling hoort in rekrutering, promotie, opleiding, verloning en arbeidsrelaties.
 
 **De 5 rendabelste:** jaarlijkse communicatie ondertekend door de directie, geafficheerde meldingsprocedure, duidelijk geïdentificeerde contactpersoon, mini-opleiding of toolbox, rekruteringschecklist.
 

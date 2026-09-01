@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,6 +38,6 @@ related: [sterke-ecovadis-indieningen-opbouwen, bewijsstukken-voor-xs-ondernemin
 
 # Hoe werkt de limiet van 55 documenten — en moet u documenten bundelen in één bestand?
 
-De EcoVadis-methodologie laat nu enige consolidatie toe, maar de beste praktijk blijft **aparte documenten** opladen. EcoVadis aanvaardt tot 55 documenten per beoordeling: ze apart houden verhoogt de duidelijkheid en de toegankelijkheid voor de analist. Oudere geldige documenten naast de nieuwe versies bewaren wordt aangemoedigd — het toont de vooruitgang van jaar tot jaar.
+De [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral)-methodologie laat nu enige consolidatie toe, maar de beste praktijk blijft **aparte documenten** opladen. EcoVadis aanvaardt tot 55 documenten per beoordeling: ze apart houden verhoogt de duidelijkheid en de toegankelijkheid voor de analist. Oudere geldige documenten naast de nieuwe versies bewaren wordt aangemoedigd — het toont de vooruitgang van jaar tot jaar.
 
 De limiet geldt **per beoordelingscyclus, niet cumulatief**. Bij elke nieuwe vragenlijst krijgt u een vers quotum van 55 documenten voor nieuw opgeladen bestanden. Alle documenten uit vorige beoordelingen blijven toegankelijk in de documentbibliotheek en kunnen **aan de vragen van de nieuwe cyclus worden gekoppeld zonder het quotum te verbruiken** — alleen nieuwe uploads tellen. Praktisch gevolg: waar sterk bewijs uit de vorige beoordeling al bestaat, is opnieuw koppelen bijna altijd de juiste keuze; reserveer nieuwe uploads voor bewijs dat veranderd of verbeterd is, of voor het eerst wordt ingediend.

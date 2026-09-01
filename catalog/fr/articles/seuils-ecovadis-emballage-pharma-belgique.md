@@ -31,6 +31,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Évolution et dynamique de labellisation EcoVadis (Evernote, mai 2026, mise à jour 2026-08-24 ; les équivalents en points sont des estimations datées, à recouper avec la fiche Rising Bar)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -74,7 +75,7 @@ Le score moyen mondial monte : ~40 points en 2011, 44 en 2016, 50 franchis en 20
 | Argent | ~66 | ~72 |
 | Bronze | ~58 | ~65 |
 
-Le seuil indicatif de l'Argent est passé d'environ 68 à 72 points entre juillet 2025 et janvier 2026 — une accélération brutale. Historiquement, 65 points suffisaient souvent pour l'Argent ; aujourd'hui ils placent l'entreprise vers le 65e percentile, tout juste le Bronze. Le « prix » de l'excellence en points augmente chaque année, poussé par la professionnalisation des services RSE, les logiciels spécialisés et la pression CSRD. *(Ces équivalents en points varient selon les fenêtres de publication — voir la fiche Rising Bar pour les valeurs observées les plus récentes.)*
+Le seuil indicatif de l'Argent est passé d'environ 68 à 72 points entre juillet 2025 et janvier 2026 — une accélération brutale. Historiquement, 65 points suffisaient souvent pour l'Argent ; aujourd'hui ils placent l'entreprise vers le 65e percentile, tout juste le Bronze. Le « prix » de l'excellence en points augmente chaque année, poussé par la professionnalisation des services RSE, les logiciels spécialisés et la pression [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj). *(Ces équivalents en points varient selon les fenêtres de publication — voir la fiche Rising Bar pour les valeurs observées les plus récentes.)*
 
 ## À quoi servent les badges Committed et Fast Mover ?
 
@@ -96,11 +97,11 @@ Secteur très scruté (pollution plastique, ressources), au-dessus de la moyenne
 
 ## Où en sont les machines et équipements pour la pharma ?
 
-La Belgique est un pôle biopharma majeur (Pfizer, GSK, Janssen) : les équipementiers subissent une forte pression indirecte. Via EcoVadis, l'industrie a lancé la **Responsible Health Initiative (RHI)** — GSK, Teva, Takeda harmonisent les standards durabilité de leurs fournisseurs : un bon score n'est plus un avantage mais une **condition de maintien dans le panel agréé**. Benchmarks : **Hosokawa Micron** (Benelux) — Argent à 68/100 en 2024, top 15 % de son industrie (un 68 autrefois proche de l'Or) ; **Aguettant** — Argent, au-dessus de la moyenne sur les quatre thèmes ; **Omnia Group** — « circularité par conception » 2024-2025. Spécificités d'évaluation : **éthique et conformité** (anticorruption, brevets), **santé-sécurité** (ateliers et installation chez le client, ISO 45001), **substances dangereuses** (REACH, RoHS — éviter toute contamination des produits pharmaceutiques).
+La Belgique est un pôle biopharma majeur (Pfizer, GSK, Janssen) : les équipementiers subissent une forte pression indirecte. Via EcoVadis, l'industrie a lancé la **Responsible Health Initiative (RHI)** — GSK, Teva, Takeda harmonisent les standards durabilité de leurs fournisseurs : un bon score n'est plus un avantage mais une **condition de maintien dans le panel agréé**. Benchmarks : **Hosokawa Micron** (Benelux) — Argent à 68/100 en 2024, top 15 % de son industrie (un 68 autrefois proche de l'Or) ; **Aguettant** — Argent, au-dessus de la moyenne sur les quatre thèmes ; **Omnia Group** — « circularité par conception » 2024-2025. Spécificités d'évaluation : **éthique et conformité** (anticorruption, brevets), **santé-sécurité** (ateliers et installation chez le client, [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html)), **substances dangereuses** (REACH, RoHS — éviter toute contamination des produits pharmaceutiques).
 
 ## À quoi s'attendre en 2025-2026 ?
 
-Depuis le 1er janvier 2025, les **scores non arrondis** valorisent les progrès fins (60 → 62,3). À partir de 2026 : l'alignement **GRI** devient plus rigoureux (une « référence à la GRI » ne suffit plus — il faut une utilisation substantielle des indicateurs), et EcoVadis valorise davantage la **divulgation publique des KPI** (site web, rapport annuel) plutôt que les documents internes. Pour les PME non soumises à la CSRD, la norme **VSME** est intégrée : module **Basic → score maximum 75/100**, module **Comprehensive → jusqu'à 100/100**.
+Depuis le 1er janvier 2025, les **scores non arrondis** valorisent les progrès fins (60 → 62,3). À partir de 2026 : l'alignement **[GRI](https://www.globalreporting.org/standards/)** devient plus rigoureux (une « référence à la [GRI](https://www.globalreporting.org/standards/) » ne suffit plus — il faut une utilisation substantielle des indicateurs), et EcoVadis valorise davantage la **divulgation publique des KPI** (site web, rapport annuel) plutôt que les documents internes. Pour les PME non soumises à la [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj), la norme **[VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)** est intégrée : module **Basic → score maximum 75/100**, module **Comprehensive → jusqu'à 100/100**.
 
 ## Quels sont les trois axes stratégiques ?
 
@@ -113,5 +114,5 @@ Depuis le 1er janvier 2025, les **scores non arrondis** valorisent les progrès 
 - Depuis 2024, la médaille est un percentile, pas un score : à pratiques constantes, elle recule.
 - Les équivalents en points glissent : Bronze vers ~65, Argent vers ~72 (estimations début 2026, à recouper).
 - Committed (45+) et Fast Mover (34-44, +6 pts/18 mois) reconnaissent le socle et la dynamique.
-- La veille 360° peut annuler l'éligibilité indépendamment du score ; la VSME plafonne à 75 (Basic) ou ouvre le 100 (Comprehensive).
+- La veille 360° peut annuler l'éligibilité indépendamment du score ; la [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) plafonne à 75 (Basic) ou ouvre le 100 (Comprehensive).
 - Emballage et équipement pharma belges : filières historiquement excellentes, donc barre encore plus haute — la RHI fait du score une condition d'accès au panel pharma.

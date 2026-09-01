@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [lire-partager-optimiser-sa-fiche-devaluation]
 
 # Si notre score est mauvais, est-il partagé publiquement ou visible par d'autres ?
 
-Non. Les fiches d'évaluation (scorecards) EcoVadis ne sont **pas partagées publiquement par défaut**. Votre score n'est visible que des acheteurs avec qui vous choisissez activement de le partager, et une entreprise mal notée peut refuser de le partager. Certains acheteurs qui ont initié ou cofinancé l'évaluation peuvent voir qu'elle a été complétée sans qu'une fiche soit partagée — ce qui peut être un signal en soi — mais **aucun tiers ne peut accéder à votre score sans votre consentement**. Les paramètres de partage sont entièrement sous votre contrôle.
+Non. Les fiches d'évaluation (scorecards) [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) ne sont **pas partagées publiquement par défaut**. Votre score n'est visible que des acheteurs avec qui vous choisissez activement de le partager, et une entreprise mal notée peut refuser de le partager. Certains acheteurs qui ont initié ou cofinancé l'évaluation peuvent voir qu'elle a été complétée sans qu'une fiche soit partagée — ce qui peut être un signal en soi — mais **aucun tiers ne peut accéder à votre score sans votre consentement**. Les paramètres de partage sont entièrement sous votre contrôle.

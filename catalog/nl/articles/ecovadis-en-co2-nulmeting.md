@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis & GHG baseline: Foundations & FAQ (Evernote, bijgewerkt 2026-08-24; '600+' gecorrigeerd naar '100+' conform governancebeslissing 27/08/2026)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio, eu-csrd, ghg-protocol, sbti]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -75,27 +76,27 @@ Voor EcoVadis is een betrouwbare Scope 1 + 2-nulmeting het minimum voor geloofwa
 
 Geen groot team vereist. **Scope 1:** verbruik van aardgas of stookolie (facturen of meterstanden, volledig kalenderjaar); brandstof van de bedrijfsvoertuigen (tankkaarten, vlootbeheer); sectorrelevante procesemissies. **Scope 2:** elektriciteit per site, volledig jaar (facturen); hernieuwbare certificaten voor de market-based berekening. **Scope 3-starters:** zakenreizen; een korte enquête woon-werkverkeer (aanvaardbaar als vertrekpunt); vracht- en logistiekdata; aankoopuitgaven voor een screeningraming van categorie 1.
 
-Emissies = activiteitsdata × emissiefactoren. De **GHG Protocol Corporate Standard** (WRI/WBCSD, ghgprotocol.org) is de wereldwijd aanvaarde methodologie, rechtstreeks erkend door de EcoVadis-analisten.
+Emissies = activiteitsdata × emissiefactoren. De **[GHG Protocol](https://ghgprotocol.org/corporate-standard) Corporate Standard** (WRI/WBCSD, ghgprotocol.org) is de wereldwijd aanvaarde methodologie, rechtstreeks erkend door de EcoVadis-analisten.
 
 ## Hoe voedt de nulmeting uw score?
 
-- **Beleidsniveau:** verwijs naar de methodologie van de nulmeting in uw milieubeleid — "wij meten en beheren onze emissies volgens de GHG Protocol-methodologie" klinkt geloofwaardiger dan een generiek engagement.
+- **Beleidsniveau:** verwijs naar de methodologie van de nulmeting in uw milieubeleid — "wij meten en beheren onze emissies volgens de [GHG Protocol](https://ghgprotocol.org/corporate-standard)-methodologie" klinkt geloofwaardiger dan een generiek engagement.
 - **Actieniveau:** laad de inventarisresultaten op en documenteer concrete initiatieven — energie-efficiëntie, aankoop van hernieuwbare elektriciteit, elektrificatie van de vloot. Elke gedocumenteerde actie telt.
 - **Resultaatniveau:** gerapporteerde emissiedata leveren Resultatenkrediet op; één rapporteringsjaar volstaat om gescoord te worden, en drie of meer jaren in hetzelfde document leveren een bonus op. Onthoud: EcoVadis beoordeelt het managementsysteem, niet de milieuprestatie — de omvang van de reductie levert op zich geen punten op; gekwantificeerde, gedocumenteerde rapportering wel.
-- **Erkenning door derden:** een CDP-indiening, een SBTi-engagement of een ISO 14001-certificering tillen de Resultatenscore over meerdere criteria tegelijk omhoog.
+- **Erkenning door derden:** een CDP-indiening, een [SBTi](https://sciencebasedtargets.org/)-engagement of een [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)-certificering tillen de Resultatenscore over meerdere criteria tegelijk omhoog.
 
 ## Wat is dit werk waard voorbij EcoVadis?
 
-Dezelfde nulmeting is het fundament van het bredere programma: **CSRD** (ESRS E1 vereist Scope 1, 2 en 3 — dezelfde datastructuur), **SBTi** (validatie vertrekt van een propere meerjareninventaris), **CDP** (de klimaatvragenlijst draait om inventaris, doelen en initiatieven). Eén investering, vier nalevings- en rapporteringstrajecten — de efficiëntie die het zwaarst weegt voor een duurzaamheidsverantwoordelijke met beperkte middelen.
+Dezelfde nulmeting is het fundament van het bredere programma: **[CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)** ([ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) E1 vereist Scope 1, 2 en 3 — dezelfde datastructuur), **[SBTi](https://sciencebasedtargets.org/)** (validatie vertrekt van een propere meerjareninventaris), **CDP** (de klimaatvragenlijst draait om inventaris, doelen en initiatieven). Eén investering, vier nalevings- en rapporteringstrajecten — de efficiëntie die het zwaarst weegt voor een duurzaamheidsverantwoordelijke met beperkte middelen.
 
 > "De kloof op het thema Milieu tussen gemiddelde performers en Zilver zit zelden in wat ondernemingen doen. Ze zit in wat ze kunnen bewijzen. De CO₂-nulmeting is de brug over die kloof."
 
-De EcoVadis- en broeikasgassteun van ESGIM dekt doorgaans: een gap-analyse van de huidige data tegenover de verwachtingen van de analisten, begeleide dataverzameling over Scope 1, 2 en het materiële Scope 3, de voorbereiding van de inventaris volgens de GHG Protocol-methodologie, de redactie van het broeikasgasbeleid en de beheersdocumentatie, en een review vóór de indiening. Over meer dan 100 projecten verbeterde 87% van de EcoVadis-klanten van ESGIM zijn score, met een gemiddelde vooruitgang van 13,8 punten.
+De EcoVadis- en broeikasgassteun van ESGIM dekt doorgaans: een gap-analyse van de huidige data tegenover de verwachtingen van de analisten, begeleide dataverzameling over Scope 1, 2 en het materiële Scope 3, de voorbereiding van de inventaris volgens de [GHG Protocol](https://ghgprotocol.org/corporate-standard)-methodologie, de redactie van het broeikasgasbeleid en de beheersdocumentatie, en een review vóór de indiening. Over meer dan 100 projecten verbeterde 87% van de EcoVadis-klanten van ESGIM zijn score, met een gemiddelde vooruitgang van 13,8 punten.
 
 ## Om te onthouden
 
 - Broeikasgassen zijn het Milieucriterium dat kopers het strengst bekijken; in de industrie weegt dit thema doorgaans het zwaarst.
 - Beleid zonder meting scoort alleen op Beleidsniveau — de nulmeting ontgrendelt Acties en Resultaten.
 - Scope 1 + 2 is het minimum (met Scope 2 location- én market-based sinds 2026); materieel Scope 3 versterkt het dossier.
-- Eén jaar gerapporteerde data is scoorbaar; drie jaren in één document leveren een bonus op; erkenning door derden (CDP, SBTi, ISO 14001) werkt als hefboom.
-- Dezelfde nulmeting dient CSRD, SBTi en CDP — bouw ze één keer, gebruik ze vier keer.
+- Eén jaar gerapporteerde data is scoorbaar; drie jaren in één document leveren een bonus op; erkenning door derden (CDP, [SBTi](https://sciencebasedtargets.org/), [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)) werkt als hefboom.
+- Dezelfde nulmeting dient [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj), SBTi en CDP — bouw ze één keer, gebruik ze vier keer.

@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis essentials: A guide for beginners and reassessed companies (Evernote, updated 2026-08-24; '600+' corrected to '100+' per governance decision of 2026-08-27)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -54,7 +55,7 @@ ESG Interim Management supports companies from foundational onboarding to accele
 
 ## Where do you start for a first assessment?
 
-**Your starting point.** EcoVadis is the most widely used business sustainability rating platform, assessing the four themes — Environment, Labor & Human Rights, Ethics, Sustainable Procurement — through three layers of practice (**Policies, Actions, Results**): formal commitments, demonstrable measures, and quantitative KPIs with trend data. Success comes from balancing all three, not from good intentions alone. The **360° Watch** adds external sources — NGO reports, media coverage, regulatory findings — so consistency between internal practice and public image strengthens the rating.
+**Your starting point.** EcoVadis is the most widely used business sustainability rating platform, assessing the four themes — Environment, Labor & Human Rights, Ethics, Sustainable Procurement — through three layers of practice (**Policies, Actions, Results**): formal commitments, demonstrable measures, and quantitative KPIs with trend data. Success comes from balancing all three, not from good intentions alone. The **[360° Watch](https://ecovadis.com/)** adds external sources — NGO reports, media coverage, regulatory findings — so consistency between internal practice and public image strengthens the rating.
 
 **The nine steps of a first assessment:**
 

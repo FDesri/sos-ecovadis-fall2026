@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Principaux conseils pratiques et tips (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -88,7 +89,7 @@ Cinq familles de conseils concentrent l'essentiel de l'expérience de terrain : 
 
 **Désagréger les données des filiales** : pour une évaluation au niveau d'une entité, un rapport RSE consolidé groupe n'est accepté que si KPI et données sont **explicitement ventilés par entité**.
 
-**Utiliser les audits comme alternative aux certifications** : si les certifications formelles (ISO 14001…) sont trop coûteuses pour votre taille, soumettez des rapports d'audits externes (SMETA, BSCI, TfS). Conditions : audit autonome (non lié à une certification), réalisé au cours des **2 dernières années** par un auditeur externe vérifié, couvrant **plus de 30 % de vos opérations globales**.
+**Utiliser les audits comme alternative aux certifications** : si les certifications formelles ([ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)…) sont trop coûteuses pour votre taille, soumettez des rapports d'audits externes (SMETA, BSCI, TfS). Conditions : audit autonome (non lié à une certification), réalisé au cours des **2 dernières années** par un auditeur externe vérifié, couvrant **plus de 30 % de vos opérations globales**.
 
 ## Comment anticiper la matérialité et la Veille 360° ?
 

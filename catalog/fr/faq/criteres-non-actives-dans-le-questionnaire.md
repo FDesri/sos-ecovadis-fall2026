@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [criteres-actives-ecovadis-par-secteur]
 
 # Pourquoi des critères non activés apparaissent-ils dans le questionnaire, et pourquoi leurs réponses sont-elles rejetées ?
 
-C'est une caractéristique de conception de la plateforme. EcoVadis utilise un **modèle de questionnaire universel** et active ou désactive des critères selon votre profil — secteur, taille, géographie. Les questions des critères non activés peuvent rester visibles dans l'interface, mais les preuves chargées dessus seront **jugées non pertinentes et ne contribueront pas à votre score**. Concentrez l'effort sur les critères actifs pour votre profil ; votre fiche d'évaluation et votre plan d'action correctif les identifient.
+C'est une caractéristique de conception de la plateforme. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) utilise un **modèle de questionnaire universel** et active ou désactive des critères selon votre profil — secteur, taille, géographie. Les questions des critères non activés peuvent rester visibles dans l'interface, mais les preuves chargées dessus seront **jugées non pertinentes et ne contribueront pas à votre score**. Concentrez l'effort sur les critères actifs pour votre profil ; votre fiche d'évaluation et votre plan d'action correctif les identifient.

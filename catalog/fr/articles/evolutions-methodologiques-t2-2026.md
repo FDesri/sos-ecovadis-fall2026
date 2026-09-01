@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Methodology Updates Q2 2026 (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -54,7 +55,7 @@ Quatre mises à jour sont tombées au T2 2026 : les objectifs Scope 2 doivent pr
 
 **Concerne :** Politiques ; Consommation d'énergie et GES ; tailles S et plus. **S'applique à :** Sustainability Rating et Carbon Rating.
 
-EcoVadis passe d'une option d'objectif Scope 2 unique et indifférenciée à une **sélection obligatoire de la méthodologie de calcul** : market-based ou location-based. Après cinq ans de Carbon Ratings et plus de 100 000 fiches d'évaluation carbone émises, la maturité des entreprises évaluées permet cette granularité. La mise à jour prolonge celle du reporting Scope 2 du 7 mai 2026 et aligne le questionnaire sur le GHG Protocol Corporate Standard.
+EcoVadis passe d'une option d'objectif Scope 2 unique et indifférenciée à une **sélection obligatoire de la méthodologie de calcul** : market-based ou location-based. Après cinq ans de Carbon Ratings et plus de 100 000 fiches d'évaluation carbone émises, la maturité des entreprises évaluées permet cette granularité. La mise à jour prolonge celle du reporting Scope 2 du 7 mai 2026 et aligne le questionnaire sur le [GHG Protocol](https://ghgprotocol.org/corporate-standard) Corporate Standard.
 
 Pourquoi : **l'interopérabilité standardisée** (un seul jeu d'objectifs climatiques internationalement reconnu sur toutes les plateformes) et **des enseignements actionnables** (les objectifs location-based reflètent le mix physique du réseau ; les objectifs market-based reflètent les choix contractuels d'approvisionnement en énergie, donc les efforts actifs de décarbonation comme l'achat d'énergie renouvelable).
 
@@ -95,7 +96,7 @@ Les ajustements liés aux conflits touchent des données thématiques pour l'Ira
 
 ## À retenir
 
-- Les objectifs Scope 2 exigent désormais la sélection market-based / location-based — alignez-vous sur le GHG Protocol avant la prochaine soumission.
+- Les objectifs Scope 2 exigent désormais la sélection market-based / location-based — alignez-vous sur le [GHG Protocol](https://ghgprotocol.org/corporate-standard) avant la prochaine soumission.
 - Les filets de sécurité Select disparaissent : utilisez les deux jours ouvrables de contrôle d'erreurs factuelles, et contrôlez la qualité documentaire avant de soumettre.
 - Les points d'amélioration Environnement (Eau, Biodiversité, Pollution de l'air) deviennent diagnostiques — lisez-les comme une liste de meilleures pratiques sectorielles à mettre en place.
 - Dix pays changent de niveau de risque en août 2026 ; vérifiez si vos implantations sont concernées.

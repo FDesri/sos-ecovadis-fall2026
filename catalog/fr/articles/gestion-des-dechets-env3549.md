@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Gestion des déchets - ENV3549 (Evernote, mise à jour 2026-08-24 ; exemple client anonymisé)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -82,7 +83,7 @@ ENV3549 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre p
 
 ## Quels détails opérationnels ne pas oublier ?
 
-Retirer les mentions du type « à valider par le client avant diffusion externe » d'un rapport de collecteur avant chargement. Quand les tonnages d'un collecteur ne recoupent pas la déclaration réglementaire (périmètres différents : plusieurs collecteurs), ajouter une note de périmètre — sinon l'écart ressemble à une erreur. Enfin, une hausse des déchets dangereux (+20,7 % en absolu ici) sera lue comme une dégradation : EcoVadis la pardonne si elle est commentée **et** assortie d'un objectif chiffré (« −10 % kg/t d'ici 2028 ») inscrit dans la politique environnementale.
+Retirer les mentions du type « à valider par le client avant diffusion externe » d'un rapport de collecteur avant chargement. Quand les tonnages d'un collecteur ne recoupent pas la déclaration réglementaire (périmètres différents : plusieurs collecteurs), ajouter une note de périmètre — sinon l'écart ressemble à une erreur. Enfin, une hausse des déchets dangereux (+20,7 % en absolu ici) sera lue comme une dégradation : [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) la pardonne si elle est commentée **et** assortie d'un objectif chiffré (« −10 % kg/t d'ici 2028 ») inscrit dans la politique environnementale.
 
 ## À retenir
 

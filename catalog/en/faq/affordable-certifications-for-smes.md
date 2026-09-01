@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -40,4 +41,4 @@ related: [improve-your-ecovadis-score-fast, from-bronze-to-silver]
 
 Third-party sustainability audits offer the most accessible route to a Certifications-score improvement without the full cost of ISO certification. A **SMETA (Sedex Members Ethical Trade Audit)** covers Labour & Human Rights topics, can be conducted at one site, and is widely accepted by EcoVadis; being **BSCI audited** covers similar ground. Both are typically less expensive than ISO certification and achievable more quickly.
 
-For the Environment theme, EcoVadis also recognises **standalone sustainability audits covering more than 30% of operations**, conducted by a qualified external auditor, as a **partial substitute for ISO 14001** — the key conditions being that the audit is standalone and produces a complete written report.
+For the Environment theme, EcoVadis also recognises **standalone sustainability audits covering more than 30% of operations**, conducted by a qualified external auditor, as a **partial substitute for [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)** — the key conditions being that the audit is standalone and produces a complete written report.

@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,7 +40,7 @@ related: [documents-justificatifs-entreprises-xs, soumissions-ecovadis-solides-e
 
 # Quelles sont les exigences de qualité et de validité des documents, et qu'est-ce qu'une politique solide ?
 
-EcoVadis évalue les documents sur trois dimensions : **pertinence, complétude et récence**. Les modèles génériques à peine adaptés ne sont pas acceptés ; les documents doivent refléter des **systèmes opérationnels préexistants** et être émis **plus d'un mois avant la date de soumission** — un document créé spécifiquement pour l'évaluation ne fonctionne pas. Chaque document doit porter le **nom ou le logo de l'entreprise** et une **date** ; l'absence de l'un des deux peut entraîner le rejet, quel que soit le contenu. L'âge et la validité restante de chaque document se vérifient dans la bibliothèque de documents de la plateforme.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) évalue les documents sur trois dimensions : **pertinence, complétude et récence**. Les modèles génériques à peine adaptés ne sont pas acceptés ; les documents doivent refléter des **systèmes opérationnels préexistants** et être émis **plus d'un mois avant la date de soumission** — un document créé spécifiquement pour l'évaluation ne fonctionne pas. Chaque document doit porter le **nom ou le logo de l'entreprise** et une **date** ; l'absence de l'un des deux peut entraîner le rejet, quel que soit le contenu. L'âge et la validité restante de chaque document se vérifient dans la bibliothèque de documents de la plateforme.
 
 Validité par type : **politiques et actions — 8 ans** ; **KPI et reporting — 2 ans** ; **certifications — jusqu'à leur date d'échéance**.
 

@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology, ungc-cop]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [understanding-the-ecovadis-scorecard, ecovadis-thresholds-belgian-pack
 
 # Which are the most common endorsements in EcoVadis assessments?
 
-The endorsements most frequently seen: **UN Global Compact (UNGC) membership with a Communication on Progress (COP)**; **Science-Based Targets initiative (SBTi) commitments or validated targets**; and industry-specific initiatives such as **Together for Sustainability** (TfS, chemicals), **Responsible Business Alliance** (electronics) and the **Pharmaceutical Supply Chain Initiative** (PSCI).
+The endorsements most frequently seen: **[UN Global Compact](https://unglobalcompact.org/participation/report/cop) ([UNGC](https://unglobalcompact.org/participation/report/cop)) membership with a Communication on Progress (COP)**; **Science-Based Targets initiative ([SBTi](https://sciencebasedtargets.org/)) commitments or validated targets**; and industry-specific initiatives such as **Together for Sustainability** (TfS, chemicals), **Responsible Business Alliance** (electronics) and the **Pharmaceutical Supply Chain Initiative** (PSCI).
 
-Each contributes to the Endorsements indicator, which carries approximately **5% weight in the overall score**. Endorsements are most valuable when combined with strong performance evidence: a UNGC COP that includes detailed multi-year KPI data scores better than one that simply lists memberships.
+Each contributes to the Endorsements indicator, which carries approximately **5% weight in the overall score**. Endorsements are most valuable when combined with strong performance evidence: a [UNGC](https://unglobalcompact.org/participation/report/cop) COP that includes detailed multi-year KPI data scores better than one that simply lists memberships.

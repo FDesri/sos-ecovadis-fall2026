@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Improve your EcoVadis score fast - Practical steps that work (Evernote, mise à jour 2026-08-24 ; noms clients rétablis et résultats corrigés par François le 01/09/2026 — les niveaux de médaille de Bridgestone et Les Tartes de Françoise restent à confirmer)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -61,7 +62,7 @@ Comprenez la grille que vous optimisez — le barème derrière chaque thème :
 | Couche | Composante (poids dans la couche) | Ce qui est évalué | Paliers |
 |---|---|---|---|
 | Politiques (25 %) | Politiques (80 %) | Politiques, objectifs, cibles, gouvernance | 0 / 25 / 50 / 75 / 100 |
-| | Adhésions (20 %) | Initiatives RSE externes endossées (ex. Pacte mondial ONU) | 0 / 25 / 50 / 75 / 100 |
+| | Adhésions (20 %) | Initiatives RSE externes endossées (ex. [Pacte mondial](https://unglobalcompact.org/participation/report/cop) ONU) | 0 / 25 / 50 / 75 / 100 |
 | Actions (40 %) | Mesures (65 %) | Actions soutenant objectifs et cibles | 0 / 25 / 50 / 75 / 100 |
 | | Certifications (35 %) | Certifications, labels, audits tiers | 0 / 25 / 50 / 75 / 100 |
 | | Couverture | Niveau de déploiement des certificats et actions | 0 / 25 / 50 / 75 / 100 |
@@ -74,11 +75,11 @@ EcoVadis récompense fortement la mesure de la performance. Suivre la consommati
 
 ## Gain rapide n° 3 : comment engager ses fournisseurs vite ?
 
-Les pratiques de chaîne d'approvisionnement différencient fortement. Étapes immédiates : **cartographier les fournisseurs critiques** et évaluer leurs risques par géographie, secteur et système de gestion ; **introduire un code de conduite fournisseur** ; **créer une procédure de vigilance** alignée sur la réglementation (CSDDD, par exemple). Même un progrès modeste ajoute des points précieux.
+Les pratiques de chaîne d'approvisionnement différencient fortement. Étapes immédiates : **cartographier les fournisseurs critiques** et évaluer leurs risques par géographie, secteur et système de gestion ; **introduire un code de conduite fournisseur** ; **créer une procédure de vigilance** alignée sur la réglementation ([CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj), par exemple). Même un progrès modeste ajoute des points précieux.
 
 ## Gain rapide n° 4 : quelles certifications et quels audits viser ?
 
-Les certifications sont très valorisées : **ISO 14001** (management environnemental), **ISO 45001** (santé-sécurité) et **ISO 37001** (anticorruption) sont des gains rapides si l'organisation applique déjà les bonnes pratiques. Si la certification ISO coûte trop cher, les preuves d'audits internes, de vérification externe ou de certifications sectorielles rapportent encore des points.
+Les certifications sont très valorisées : **[ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)** (management environnemental), **[ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html)** (santé-sécurité) et **ISO 37001** (anticorruption) sont des gains rapides si l'organisation applique déjà les bonnes pratiques. Si la certification ISO coûte trop cher, les preuves d'audits internes, de vérification externe ou de certifications sectorielles rapportent encore des points.
 
 ## Gain rapide n° 5 : comment muscler la gestion carbone ?
 
@@ -105,5 +106,5 @@ Améliorer vite, c'est transformer les bonnes intentions existantes en **preuves
 - Formalisez ce que vous faites déjà : des politiques signées et communiquées sont les points les plus rapides.
 - Commencez à mesurer maintenant — un tableur suffit ; la constance bat l'outillage.
 - Fournisseurs : cartographie, code de conduite, vigilance — un différenciateur fort.
-- Certifiez quand c'est faisable (ISO 14001/45001/37001) ; les audits sont le plan B.
+- Certifiez quand c'est faisable ([ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)/45001/37001) ; les audits sont le plan B.
 - La gestion carbone (objectifs, inventaire, reporting) rapporte sur les deux fiches d'évaluation.

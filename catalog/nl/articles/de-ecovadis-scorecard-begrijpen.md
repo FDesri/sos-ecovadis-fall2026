@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Understanding the EcoVadis scorecard (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-360-watch, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -60,7 +61,7 @@ De ruggengraat van de beoordeling is een matrix die de vier duurzaamheidsthema's
 - Ethiek
 - Duurzame Inkoop
 
-Elk thema wordt beoordeeld op **zeven criteria**: beleid, aansluitingen (endorsements), maatregelen, certificeringen, dekking, rapportering en 360° Watch. Een onderneming moet dus bijvoorbeeld degelijk milieubeleid, milieumaatregelen én milieurapportering tonen — en hetzelfde doen voor de drie andere thema's. De structuur geeft gelijk gewicht aan het bestaan van beleid, de praktische uitrol en de doeltreffendheid van rapportering en toezicht.
+Elk thema wordt beoordeeld op **zeven criteria**: beleid, aansluitingen (endorsements), maatregelen, certificeringen, dekking, rapportering en [360° Watch](https://ecovadis.com/). Een onderneming moet dus bijvoorbeeld degelijk milieubeleid, milieumaatregelen én milieurapportering tonen — en hetzelfde doen voor de drie andere thema's. De structuur geeft gelijk gewicht aan het bestaan van beleid, de praktische uitrol en de doeltreffendheid van rapportering en toezicht.
 
 ## Wat meet elk beoordelingscriterium?
 
@@ -70,13 +71,13 @@ Elk thema wordt beoordeeld op **zeven criteria**: beleid, aansluitingen (endorse
 - **Certificeringen:** externe validaties van degelijkheid (bijvoorbeeld ISO-certificeringen).
 - **Dekking:** de reikwijdte van de uitrol van beleid en maatregelen in de onderneming.
 - **Rapportering:** de belangrijkste duurzaamheids-KPI's.
-- **360° Watch:** AI-gestuurde monitoring van externe reputatie en risico's.
+- **[360° Watch](https://ecovadis.com/):** AI-gestuurde monitoring van externe reputatie en risico's.
 
 ## Hoe werken scoring en weging?
 
 EcoVadis aggregeert de resultaten van elk criterium over de vier thema's. Elk thema heeft zijn eigen gewicht, aangepast aan sector en grootte, zodat de meest impactvolle domeinen prioriteit krijgen. Alleen relevante, **"geactiveerde" criteria** tellen mee, op basis van het risicoprofiel van de organisatie.
 
-Individuele scores vallen in vijf schijven — **0, 25, 50, 75 of 100** — en de scorecard toont per thema de sterktes en verbeterpunten. De totaalbeoordeling benchmarkt de onderneming tegen haar peers en toont waar gerichte actie de meeste waarde oplevert. Negatieve 360° Watch-bevindingen kunnen de medaille-eligibiliteit beïnvloeden.
+Individuele scores vallen in vijf schijven — **0, 25, 50, 75 of 100** — en de scorecard toont per thema de sterktes en verbeterpunten. De totaalbeoordeling benchmarkt de onderneming tegen haar peers en toont waar gerichte actie de meeste waarde oplevert. Negatieve [360° Watch](https://ecovadis.com/)-bevindingen kunnen de medaille-eligibiliteit beïnvloeden.
 
 ## Waarom is uw vragenlijst niet dezelfde als die van uw buur?
 

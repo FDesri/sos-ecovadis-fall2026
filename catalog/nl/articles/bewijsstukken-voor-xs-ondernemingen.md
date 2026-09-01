@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Quel type de documents justificatifs - EcoVadis - Entreprises XS (Evernote, bijgewerkt 2026-08-24; op basis van het EcoVadis Help Center-artikel)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -49,11 +50,11 @@ faq:
 
 ## In het kort
 
-De EcoVadis-vragenlijsten zijn op maat van elke onderneming — sector, locatie, grootte — ook voor zeer kleine ondernemingen met **maximaal 25 medewerkers**. Gemiddeld krijgen XS-ondernemingen **een tiental vragen**, en bepaalde indicatoren (aansluitingen zoals het UN Global Compact, dekking) **zijn niet van toepassing**. Vooral: EcoVadis geeft XS-ondernemingen meer flexibiliteit en **aanvaardt niet-geformaliseerde bewijsstukken** — op voorwaarde dat ze recent, relevant, volledig en binnen de beoordelingsscope blijven. (Referentie: EcoVadis Help Center.)
+De EcoVadis-vragenlijsten zijn op maat van elke onderneming — sector, locatie, grootte — ook voor zeer kleine ondernemingen met **maximaal 25 medewerkers**. Gemiddeld krijgen XS-ondernemingen **een tiental vragen**, en bepaalde indicatoren (aansluitingen zoals het [UN Global Compact](https://unglobalcompact.org/participation/report/cop), dekking) **zijn niet van toepassing**. Vooral: EcoVadis geeft XS-ondernemingen meer flexibiliteit en **aanvaardt niet-geformaliseerde bewijsstukken** — op voorwaarde dat ze recent, relevant, volledig en binnen de beoordelingsscope blijven. (Referentie: EcoVadis Help Center.)
 
 ## Wat moet elk document respecteren?
 
-Elk geformaliseerd document dat uw MVO-managementsysteem weerspiegelt en uw antwoorden staaft, kan dienen: MVO-beheersprocedures, MVO-rapporten, sociale auditrapporten, sociaal en milieubeleid, een ethische of gedragscode, personeelsgidsen, certificaten (ISO 14001, ISO 45001…), een Communication on Progress van het UN Global Compact, jaarverslagen met een geïntegreerde MVO-sectie.
+Elk geformaliseerd document dat uw MVO-managementsysteem weerspiegelt en uw antwoorden staaft, kan dienen: MVO-beheersprocedures, MVO-rapporten, sociale auditrapporten, sociaal en milieubeleid, een ethische of gedragscode, personeelsgidsen, certificaten ([ISO 14001](https://www.iso.org/iso-14001-environmental-management.html), [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html)…), een Communication on Progress van het [UN Global Compact](https://unglobalcompact.org/participation/report/cop), jaarverslagen met een geïntegreerde MVO-sectie.
 
 De gemeenschappelijke regels:
 

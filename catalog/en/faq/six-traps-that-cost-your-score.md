@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -45,4 +46,4 @@ Six traps consistently cost companies score:
 3. **Over-investing in areas already well-covered while ignoring weak themes.** A minimum score of **30/100 in each of the four themes individually** is required to qualify for any medal — a very low score in one theme eliminates eligibility entirely, regardless of the overall average.
 4. **Presenting planned actions as though they are already implemented** — analysts are trained to distinguish commitment language from implementation evidence.
 5. **Missing Coverage requirements in group assessments** by assuming that certifications held at one site count for all.
-6. **Ignoring 360° Watch findings** — a single severe finding, or major findings across multiple themes, triggers medal ineligibility regardless of the questionnaire quality.
+6. **Ignoring [360° Watch](https://ecovadis.com/) findings** — a single severe finding, or major findings across multiple themes, triggers medal ineligibility regardless of the questionnaire quality.

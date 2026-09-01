@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [build-strong-ecovadis-submissions-consistently]
 
 # Can a general policy without specific targets be paired with a separate targets document?
 
-Yes — this is a legitimate and commonly used approach, provided the two documents work together coherently. EcoVadis distinguishes **qualitative objectives** (statements of commitment or direction, without a numerical deadline) from **targets** (quantitative goals with an absolute or percentage value and a defined future deadline); both contribute to the Policies indicator, and the targets do not need to appear in the policy document itself — they can sit in a sustainability report, a standalone climate action plan or another dedicated document.
+Yes — this is a legitimate and commonly used approach, provided the two documents work together coherently. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) distinguishes **qualitative objectives** (statements of commitment or direction, without a numerical deadline) from **targets** (quantitative goals with an absolute or percentage value and a defined future deadline); both contribute to the Policies indicator, and the targets do not need to appear in the policy document itself — they can sit in a sustainability report, a standalone climate action plan or another dedicated document.
 
 What matters is that the **combination provides all required elements**: the commitment (policy), the governance (who is responsible, what process exists) and the targets (specific, time-bound, measurable). Upload each document where relevant — do not assume the analyst will read across documents unprompted; the comment field can signal that the two are meant to be read together. One important condition: **targets must cover at least 80% of the company's operations to be credited** — a report with targets for headquarters only, in a multi-site company, will not satisfy this threshold.

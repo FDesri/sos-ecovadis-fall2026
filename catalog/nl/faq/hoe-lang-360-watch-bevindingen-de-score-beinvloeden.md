@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,7 +40,7 @@ related: [de-ecovadis-scorecard-begrijpen, praktische-ecovadis-tips]
 
 # Hoe lang beïnvloedt een 360° Watch-bevinding de score en de medailleverkiesbaarheid?
 
-De 360° Watch-score **start op 75/100 per thema**: positieve bevindingen tillen ze naar 100; negatieve verlagen ze — kleine met 25 punten (naar 50), grote met 50 (naar 25), ernstige met 75 (naar 0).
+De [360° Watch](https://ecovadis.com/)-score **start op 75/100 per thema**: positieve bevindingen tillen ze naar 100; negatieve verlagen ze — kleine met 25 punten (naar 50), grote met 50 (naar 25), ernstige met 75 (naar 0).
 
 Twee aparte klokken gelden voor negatieve bevindingen. **Score-impact**: bevindingen beïnvloeden de indicator gedurende **5 jaar** voor Milieu, Arbeids- en Mensenrechten en Duurzame Inkoop; gedurende **5 tot 10 jaar voor Ethiek** naargelang het type — 5 jaar voor informatiebeveiliging, 7 voor corruptie en omkoping, 10 voor concurrentiebeperkende praktijken. De klok loopt **vanaf de datum van de gebeurtenis**, niet vanaf de identificatie door EcoVadis: een corruptiegebeurtenis uit 2022 verdwijnt in 2029 onder de 7-jaarregel. **Medailleonverkiesbaarheid**: grote en ernstige bevindingen kunnen de verkiesbaarheid blokkeren gedurende **3 jaar** (Milieu, Arbeids- en Mensenrechten, Duurzame Inkoop) en **5 jaar voor Ethiek**.
 

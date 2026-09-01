@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,4 +39,4 @@ related: [ce-qui-change-en-2026, rising-bar-exigences-croissantes-2026]
 
 # Nous avons eu 75 en Reporting sans rapport public — retomberons-nous à 50 la prochaine fois ?
 
-Cela dépend de **l'origine du 75**. À partir de 2026, EcoVadis exige un rapport de durabilité public aligné sur un référentiel reconnu pour débloquer un score Reporting **au-delà de 50/100**. Si un cycle précédent a accordé 75/100 sous une méthodologie moins stricte et que les mêmes documents sont resoumis, ils peuvent ne pas produire le même résultat. La voie la plus sûre : vérifier si votre score Reporting reposait sur un rapport public ou sur des preuves internes, et lancer la publication d'un rapport structuré avant votre prochaine évaluation.
+Cela dépend de **l'origine du 75**. À partir de 2026, [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) exige un rapport de durabilité public aligné sur un référentiel reconnu pour débloquer un score Reporting **au-delà de 50/100**. Si un cycle précédent a accordé 75/100 sous une méthodologie moins stricte et que les mêmes documents sont resoumis, ils peuvent ne pas produire le même résultat. La voie la plus sûre : vérifier si votre score Reporting reposait sur un rapport public ou sur des preuves internes, et lancer la publication d'un rapport structuré avant votre prochaine évaluation.

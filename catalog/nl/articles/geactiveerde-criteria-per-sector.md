@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis activated criteria by sector + FAQ (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, iso-14001]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -66,9 +67,9 @@ De totaalscore is een gewogen gemiddelde van de vier themascores — en ook de t
 
 Voor producenten — machines, componenten, kunststoffen, industriële uitrusting — dragen **Milieu en Arbeid** doorgaans het hoogste gecombineerde gewicht.
 
-Binnen Milieu is **Energieverbruik & broeikasgassen** voor de meeste productiesectoren op hoog belang geactiveerd: EcoVadis verwacht beleid, acties, KPI-data en waar mogelijk certificeringen. **ISO 50001 en ISO 14001** zijn bijzonder waardevol, zeker met een dekking boven 75% van de operationele scope. Rapportering van Scope 1- en 2-emissies (idealiter ook Scope 3) versterkt de indicator Rapportering.
+Binnen Milieu is **Energieverbruik & broeikasgassen** voor de meeste productiesectoren op hoog belang geactiveerd: EcoVadis verwacht beleid, acties, KPI-data en waar mogelijk certificeringen. **[ISO 50001](https://www.iso.org/iso-50001-energy-management.html) en [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)** zijn bijzonder waardevol, zeker met een dekking boven 75% van de operationele scope. Rapportering van Scope 1- en 2-emissies (idealiter ook Scope 3) versterkt de indicator Rapportering.
 
-**Gezondheid en veiligheid van de medewerkers** staat op hoog belang binnen Arbeid: een beleidstekst alleen scoort niet — analisten zoeken gedocumenteerde risicoanalyses, opleidingsregisters, ongevallenfrequentiedata en waar haalbaar ISO 45001.
+**Gezondheid en veiligheid van de medewerkers** staat op hoog belang binnen Arbeid: een beleidstekst alleen scoort niet — analisten zoeken gedocumenteerde risicoanalyses, opleidingsregisters, ongevallenfrequentiedata en waar haalbaar [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html).
 
 **Materialen, chemicaliën & afval** is vaak hoog belang voor producenten die gevaarlijke stoffen hanteren, complexe afvalstromen genereren of onder REACH vallen. Productgebruik, Einde levensduur en Gezondheid & veiligheid van klanten zijn doorgaans gemiddeld belang: levenscyclusanalyses, terugroepprocedures en veiligheidscommunicatie tellen daar mee. Luchtverontreiniging en Water variëren met profiel en locatie; Biodiversiteit is voor standaardproductie vaak niet geactiveerd.
 
@@ -88,7 +89,7 @@ Chemiebedrijven krijgen de **breedste milieuactivering**: Materialen & afval, Lu
 
 Bij Materialen & afval peilt de beoordeling naar GHS-conforme etikettering, procedures voor de verwerking van gevaarlijk afval en REACH-documentatie. Het auditkader **Together for Sustainability (TfS)** is een erkende sectorstandaard. Luchtverontreiniging activeert vragen over SOx, NOx, VOS, fijnstof en geurbeheer — monitoringdata, registers van zuiveringsinstallaties, noodprocedures bij accidentele lozingen. Water wordt diepgaand beoordeeld: effluentbehandeling, afvalwaterkwaliteit, kwantitatieve verbruiksrapportering; gesloten watercircuits en formele wateraudits positioneren u aanzienlijk beter dan een beleid op hoofdlijnen.
 
-Voor Milieu in het algemeen: behandel **ISO 14001 als de basiscertificering** — maar de dekking bepaalt de waarde: een certificaat voor 30% van de sites draagt veel minder bij dan een voor 80%.
+Voor Milieu in het algemeen: behandel **[ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) als de basiscertificering** — maar de dekking bepaalt de waarde: een certificaat voor 30% van de sites draagt veel minder bij dan een voor 80%.
 
 ## Mag u een geactiveerd criterium ooit negeren?
 
@@ -99,7 +100,7 @@ De praktische conclusie: **begin elke cyclus met te bevestigen welke criteria op
 ## Om te onthouden
 
 - Uw ISIC-code, grootte en vestigingen bepalen welke van de 21 criteria geactiveerd worden en hoe de vier thema's gewogen worden.
-- Productie: Energie & broeikasgassen en Gezondheid & veiligheid op hoog belang; ISO 14001/45001/50001 zijn de certificeringen die tellen.
+- Productie: Energie & broeikasgassen en Gezondheid & veiligheid op hoog belang; [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)/45001/50001 zijn de certificeringen die tellen.
 - FMCG: Duurzame Inkoop en sociale ketenrisico's onder strenge controle — het wereldwijd laagst scorende thema (43,1/100) is ook de grootste kans.
 - Chemie: de breedste milieuactivering — Materialen & afval, Luchtverontreiniging, Water — met gedetailleerd operationeel bewijs.
 - Sequenceer de voorbereiding per belangniveau; de generieke indiening is de meest voorkomende reden waarom scores blijven steken.

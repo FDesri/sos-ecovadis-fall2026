@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -40,4 +41,4 @@ related: [de-ecovadis-scorecard-begrijpen]
 
 Certificaten op groeps- of hoofdkantoorniveau **dragen bij aan de indicator Certificaten** in een groepsbeoordeling, maar de **Coverage-indicator beoordeelt hoe breed die certificaten zich uitstrekken** over de sites en activiteiten van de groep.
 
-De definitie van "operationele site" telt: EcoVadis omvat **alle sites die de kernactiviteit van de onderneming uitvoeren, plus sites met risicovolle ondersteunende activiteiten, zoals R&D-centra en magazijnen**. Kantoren en verkoopvertegenwoordigers kunnen uit de telling worden uitgesloten, tenzij dat de hoofdactiviteit is. Controleer de scopedocumenten van uw certificaten om te bevestigen welke sites gedekt zijn en breid, waar haalbaar, de scope uit naar significante operationele sites zoals magazijnen.
+De definitie van "operationele site" telt: [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) omvat **alle sites die de kernactiviteit van de onderneming uitvoeren, plus sites met risicovolle ondersteunende activiteiten, zoals R&D-centra en magazijnen**. Kantoren en verkoopvertegenwoordigers kunnen uit de telling worden uitgesloten, tenzij dat de hoofdactiviteit is. Controleer de scopedocumenten van uw certificaten om te bevestigen welke sites gedekt zijn en breid, waar haalbaar, de scope uit naar significante operationele sites zoals magazijnen.

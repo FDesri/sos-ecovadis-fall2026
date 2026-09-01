@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [scorecard-lezen-delen-optimaliseren]
 
 # Hoe beheert u uiteenlopende duurzaamheidsvragenlijsten van klanten als u al een EcoVadis-score hebt?
 
-Vraag uw klanten uw **EcoVadis-scorecard te raadplegen** om dubbele verzoeken te vermijden. Enquêtemoeheid is reëel, en een betere interne afstemming bij uw klanten vermindert de repetitieve vragenlijsten. Het EcoVadis-platform inzetten als **unieke bron van duurzaamheidsdata over leveranciers** stroomlijnt de communicatie en verlicht uw last: één gestructureerde, geverifieerde scorecard vervangt een stapel uiteenlopende Excel-vragenlijsten.
+Vraag uw klanten uw **[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral)-scorecard te raadplegen** om dubbele verzoeken te vermijden. Enquêtemoeheid is reëel, en een betere interne afstemming bij uw klanten vermindert de repetitieve vragenlijsten. Het EcoVadis-platform inzetten als **unieke bron van duurzaamheidsdata over leveranciers** stroomlijnt de communicatie en verlicht uw last: één gestructureerde, geverifieerde scorecard vervangt een stapel uiteenlopende Excel-vragenlijsten.

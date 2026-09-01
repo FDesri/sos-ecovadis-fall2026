@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis & GHG baseline: Foundations & FAQ (Evernote, mise à jour 2026-08-24 ; « 600+ » corrigé en « 100+ » par décision de gouvernance du 27/08/2026)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio, eu-csrd, ghg-protocol, sbti]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -76,27 +77,27 @@ Pour EcoVadis, un bilan Scopes 1 + 2 fiable est le minimum d'une gestion GES cr�
 
 Pas besoin d'une grande équipe. **Scope 1 :** consommation de gaz naturel ou de mazout (factures ou relevés, année civile complète) ; carburant des véhicules (cartes carburant, gestion de flotte) ; émissions de procédés propres au secteur. **Scope 2 :** électricité par site, année complète (factures) ; certificats renouvelables pour le calcul market-based. **Démarrage Scope 3 :** voyages d'affaires ; une enquête trajets domicile-travail (acceptable comme point de départ) ; données de fret et logistique ; dépenses d'achats pour une estimation de screening de la catégorie 1.
 
-Émissions = données d'activité × facteurs d'émission. Le **GHG Protocol Corporate Standard** (WRI/WBCSD, ghgprotocol.org) est la méthodologie mondialement acceptée, reconnue directement par les analystes EcoVadis.
+Émissions = données d'activité × facteurs d'émission. Le **[GHG Protocol](https://ghgprotocol.org/corporate-standard) Corporate Standard** (WRI/WBCSD, ghgprotocol.org) est la méthodologie mondialement acceptée, reconnue directement par les analystes EcoVadis.
 
 ## Comment le bilan nourrit-il votre score ?
 
-- **Niveau Politiques :** référencez la méthodologie du bilan dans votre politique environnementale — « nous mesurons et gérons nos émissions selon la méthodologie GHG Protocol » vaut mieux qu'un engagement générique.
+- **Niveau Politiques :** référencez la méthodologie du bilan dans votre politique environnementale — « nous mesurons et gérons nos émissions selon la méthodologie [GHG Protocol](https://ghgprotocol.org/corporate-standard) » vaut mieux qu'un engagement générique.
 - **Niveau Actions :** chargez les résultats de l'inventaire et documentez les initiatives concrètes — efficacité énergétique, achat d'électricité renouvelable, électrification de la flotte. Chaque action documentée ajoute.
 - **Niveau Résultats :** les données d'émissions rapportées créditent les Résultats ; une seule année de reporting suffit pour être noté, et trois années ou plus dans le même document rapportent un bonus. Rappel : EcoVadis évalue le système de gestion, pas la performance environnementale — l'ampleur de la réduction n'ajoute pas de points en soi ; le reporting quantifié et documenté, oui.
-- **Reconnaissance tierce :** une soumission CDP, un engagement SBTi ou une certification ISO 14001 élèvent le score Résultats sur plusieurs critères à la fois.
+- **Reconnaissance tierce :** une soumission CDP, un engagement [SBTi](https://sciencebasedtargets.org/) ou une certification [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) élèvent le score Résultats sur plusieurs critères à la fois.
 
 ## Que vaut ce travail au-delà d'EcoVadis ?
 
-Le même bilan fonde tout le reste du programme : la **CSRD** (l'ESRS E1 exige les Scopes 1, 2, 3 — même structure de données), le **SBTi** (la validation part d'un inventaire propre et pluriannuel), le **CDP** (le questionnaire climat tourne autour de l'inventaire, des objectifs et des initiatives). Un investissement, quatre chemins de conformité et de divulgation — l'efficacité qui compte le plus pour un responsable durabilité aux ressources limitées.
+Le même bilan fonde tout le reste du programme : la **[CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)** (l'[ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) E1 exige les Scopes 1, 2, 3 — même structure de données), le **[SBTi](https://sciencebasedtargets.org/)** (la validation part d'un inventaire propre et pluriannuel), le **CDP** (le questionnaire climat tourne autour de l'inventaire, des objectifs et des initiatives). Un investissement, quatre chemins de conformité et de divulgation — l'efficacité qui compte le plus pour un responsable durabilité aux ressources limitées.
 
 > « L'écart du thème Environnement entre les performeurs moyens et l'Argent tient rarement à ce que les entreprises font. Il tient à ce qu'elles peuvent prouver. Le bilan GES est le pont qui comble cet écart. »
 
-L'appui EcoVadis et GES d'ESGIM couvre typiquement : une gap analysis des données GES actuelles face aux attentes des analystes, la collecte guidée sur les Scopes 1, 2 et le Scope 3 matériel, la préparation de l'inventaire selon la méthodologie GHG Protocol, la rédaction de la politique GES et de la documentation de gestion, et une revue avant soumission. Sur plus de 100 projets, 87 % des clients EcoVadis d'ESGIM ont amélioré leur score, avec une progression moyenne de 13,8 points.
+L'appui EcoVadis et GES d'ESGIM couvre typiquement : une gap analysis des données GES actuelles face aux attentes des analystes, la collecte guidée sur les Scopes 1, 2 et le Scope 3 matériel, la préparation de l'inventaire selon la méthodologie [GHG Protocol](https://ghgprotocol.org/corporate-standard), la rédaction de la politique GES et de la documentation de gestion, et une revue avant soumission. Sur plus de 100 projets, 87 % des clients EcoVadis d'ESGIM ont amélioré leur score, avec une progression moyenne de 13,8 points.
 
 ## À retenir
 
 - Les GES sont le critère Environnement le plus scruté par les donneurs d'ordres ; dans l'industrie, ce thème pèse généralement le plus lourd.
 - Une politique sans mesure ne score qu'au niveau Politiques — le bilan débloque Actions et Résultats.
 - Scopes 1 + 2 sont le minimum (avec le Scope 2 en location-based et market-based depuis 2026) ; le Scope 3 matériel muscle le dossier.
-- Une année de données rapportées est notable ; trois années dans un document rapportent un bonus ; la reconnaissance tierce (CDP, SBTi, ISO 14001) démultiplie.
-- Le même bilan sert la CSRD, le SBTi et le CDP — construisez-le une fois, servez-vous-en quatre fois.
+- Une année de données rapportées est notable ; trois années dans un document rapportent un bonus ; la reconnaissance tierce (CDP, [SBTi](https://sciencebasedtargets.org/), [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)) démultiplie.
+- Le même bilan sert la [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj), le SBTi et le CDP — construisez-le une fois, servez-vous-en quatre fois.

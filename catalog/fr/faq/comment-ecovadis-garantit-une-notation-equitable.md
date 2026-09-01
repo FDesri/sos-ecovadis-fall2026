@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [criteres-actives-ecovadis-par-secteur, comprendre-la-fiche-devaluation
 
 # Comment EcoVadis garantit-il une notation équitable entre entreprises et secteurs différents ?
 
-EcoVadis conçoit des questionnaires adaptés à la taille, au secteur et à la géographie de l'entreprise, en **n'activant que les indicateurs pertinents**. Les moyennes et petites entreprises ne sont donc pas pénalisées par des critères pensés pour les grands groupes. Les scores reflètent le **rang percentile parmi tous les participants** : une médaille d'Or signifie une performance dans le top 5 % de toutes les entreprises évaluées dans le monde — ce qui pousse à l'amélioration continue, car le groupe de comparaison progresse en permanence.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) conçoit des questionnaires adaptés à la taille, au secteur et à la géographie de l'entreprise, en **n'activant que les indicateurs pertinents**. Les moyennes et petites entreprises ne sont donc pas pénalisées par des critères pensés pour les grands groupes. Les scores reflètent le **rang percentile parmi tous les participants** : une médaille d'Or signifie une performance dans le top 5 % de toutes les entreprises évaluées dans le monde — ce qui pousse à l'amélioration continue, car le groupe de comparaison progresse en permanence.

@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [ecovadis-en-co2-nulmeting]
 
 # Hoe pakt u het stellen van koolstofdoelen aan, in het bijzonder SBTi-engagementen?
 
-Science-based doelen stellen **signaleert ambitie, integriteit en leiderschap** aan investeerders en klanten. Sommige ondernemingen twijfelen over de haalbaarheid, maar SBTi-doelen helpen reductiepaden te verduidelijken en het vertrouwen van stakeholders te winnen. De nadruk moet liggen op **een geloofwaardige nulmeting en progressief ambitieuze engagementen** — een verdedigbare startinventaris telt meer dan een spectaculair cijfer. In EcoVadis-termen is een gevalideerd science-based doel bewijs van hoge kwaliteit voor een kwantitatief broeikasgasengagement.
+Science-based doelen stellen **signaleert ambitie, integriteit en leiderschap** aan investeerders en klanten. Sommige ondernemingen twijfelen over de haalbaarheid, maar [SBTi](https://sciencebasedtargets.org/)-doelen helpen reductiepaden te verduidelijken en het vertrouwen van stakeholders te winnen. De nadruk moet liggen op **een geloofwaardige nulmeting en progressief ambitieuze engagementen** — een verdedigbare startinventaris telt meer dan een spectaculair cijfer. In EcoVadis-termen is een gevalideerd science-based doel bewijs van hoge kwaliteit voor een kwantitatief broeikasgasengagement.

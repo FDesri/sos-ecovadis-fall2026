@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Quel type de documents justificatifs - EcoVadis - Entreprises XS (Evernote, updated 2026-08-24; based on the EcoVadis Help Center article)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -48,11 +49,11 @@ faq:
 
 ## In brief
 
-EcoVadis questionnaires are tailored to each company — sector, location, size — including very small companies with **up to 25 employees**. On average, **about ten questions** are asked of XS companies, and certain indicators (endorsements such as the UN Global Compact, coverage) **do not apply**. Most importantly: EcoVadis grants XS companies more flexibility and **accepts non-formalised supporting documents** — provided they remain recent, relevant, complete and tied to the assessment scope. (Reference: EcoVadis Help Center.)
+EcoVadis questionnaires are tailored to each company — sector, location, size — including very small companies with **up to 25 employees**. On average, **about ten questions** are asked of XS companies, and certain indicators (endorsements such as the [UN Global Compact](https://unglobalcompact.org/participation/report/cop), coverage) **do not apply**. Most importantly: EcoVadis grants XS companies more flexibility and **accepts non-formalised supporting documents** — provided they remain recent, relevant, complete and tied to the assessment scope. (Reference: EcoVadis Help Center.)
 
 ## What must every document respect?
 
-Any formalised document reflecting your CSR management system and supporting your answers can serve: CSR management procedures, CSR reports, social audit reports, social and environmental policies, a code of ethics or conduct, employee handbooks, certificates (ISO 14001, ISO 45001…), a UN Global Compact Communication on Progress, annual reports with an integrated CSR section.
+Any formalised document reflecting your CSR management system and supporting your answers can serve: CSR management procedures, CSR reports, social audit reports, social and environmental policies, a code of ethics or conduct, employee handbooks, certificates ([ISO 14001](https://www.iso.org/iso-14001-environmental-management.html), [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html)…), a [UN Global Compact](https://unglobalcompact.org/participation/report/cop) Communication on Progress, annual reports with an integrated CSR section.
 
 The common rules:
 

@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,7 +40,7 @@ related: [ameliorer-son-score-ecovadis-rapidement, comprendre-la-fiche-devaluati
 
 # Une fois la fiche d'évaluation reçue, où concentrer l'effort — et le plan d'action correctif suffit-il ?
 
-Le **plan d'action correctif (CAP)** de votre fiche d'évaluation est le point de départ : EcoVadis classe les priorités par poids dans chaque thème. Mais le CAP reflète ce qu'EcoVadis voit, pas ce qui est le plus rapide ou faisable pour votre organisation — et il n'est **pas une feuille de route exhaustive** : il montre les améliorations les plus impactantes sans détail par constat, et s'y fier seul fait souvent manquer un ensemble d'actions moins prioritaires qui, ensemble, font bouger le score.
+Le **plan d'action correctif (CAP)** de votre fiche d'évaluation est le point de départ : [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) classe les priorités par poids dans chaque thème. Mais le CAP reflète ce qu'EcoVadis voit, pas ce qui est le plus rapide ou faisable pour votre organisation — et il n'est **pas une feuille de route exhaustive** : il montre les améliorations les plus impactantes sans détail par constat, et s'y fier seul fait souvent manquer un ensemble d'actions moins prioritaires qui, ensemble, font bouger le score.
 
 Une feuille de route réaliste combine **trois filtres** : les priorités du CAP, l'effort par écart, et l'impact score de sa fermeture. Dans l'ordre : vérifiez d'abord les quatre **scores thématiques** — sous 30, traitez la cause racine immédiatement, car un thème sous 30 élimine l'éligibilité aux médailles quelle que soit la moyenne. Puis examinez les **thèmes les plus pondérés** pour votre profil, en qualifiant chaque écart : Politiques (rapide), Mesures (moyen terme), Reporting (investissement systématique) ou Certifications (long terme). Les **quick wins** — mise à jour de politiques, formalisation de pratiques existantes, documentation KPI, une politique expirée, une synthèse KPI manquante, un code de conduite sans registre de prise de connaissance — peuvent regagner **cinq à dix points en un seul cycle** s'ils sont bien ciblés. Les programmes pluriannuels (certification ISO, reporting public) se planifient sur un à deux cycles.
 

@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,7 +40,7 @@ related: [ecovadis-score-snel-verbeteren, de-ecovadis-scorecard-begrijpen]
 
 # Waar focust u eerst zodra u uw scorecard hebt — en volstaat het corrigerend actieplan?
 
-Het **corrigerend actieplan (CAP)** van uw scorecard is het vertrekpunt: EcoVadis rangschikt de verbeterprioriteiten naar gewicht per thema. Maar het CAP weerspiegelt wat EcoVadis ziet, niet wat het snelst of haalbaarst is voor uw organisatie — en het is **geen volledige routekaart**: het toont de meest impactvolle verbeteringen zonder detail per bevinding, en wie er alleen op steunt, mist vaak een cluster minder prioritaire acties die samen de score betekenisvol bewegen.
+Het **corrigerend actieplan (CAP)** van uw scorecard is het vertrekpunt: [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) rangschikt de verbeterprioriteiten naar gewicht per thema. Maar het CAP weerspiegelt wat EcoVadis ziet, niet wat het snelst of haalbaarst is voor uw organisatie — en het is **geen volledige routekaart**: het toont de meest impactvolle verbeteringen zonder detail per bevinding, en wie er alleen op steunt, mist vaak een cluster minder prioritaire acties die samen de score betekenisvol bewegen.
 
 Een realistisch plan combineert **drie filters**: de CAP-prioriteiten, de inspanning per kloof, en de score-impact van het dichten ervan. In volgorde: controleer eerst de vier **themascores** — onder 30 pakt u de grondoorzaak onmiddellijk aan, want een thema onder 30 schakelt de medailleverkiesbaarheid uit ongeacht het gemiddelde. Bekijk dan de **zwaarst gewogen thema's** voor uw profiel en kwalificeer elke kloof: Beleid (snel), Maatregelen (middellange termijn), Rapportering (systematische investering) of Certificaten (lange termijn). **Quick wins** — beleidsupdates, formalisering van bestaande praktijken, KPI-documentatie, een vervallen beleid, een ontbrekende KPI-synthese, een gedragscode zonder ontvangstregister — kunnen **vijf tot tien punten in één cyclus** opleveren als ze juist gericht zijn. Meerjarige programma's (ISO-certificering, publieke rapportering) plant u over één à twee cycli.
 

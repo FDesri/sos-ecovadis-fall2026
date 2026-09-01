@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -44,4 +45,4 @@ Zes valkuilen kosten ondernemingen stelselmatig punten:
 3. **Overinvesteren in al goed gedekte domeinen en zwakke thema's negeren.** Een minimum van **30/100 op elk van de vier thema's afzonderlijk** is vereist voor elke medaille — een zeer lage score op één thema schakelt de verkiesbaarheid uit, ongeacht het globale gemiddelde.
 4. **Geplande acties voorstellen alsof ze al zijn uitgevoerd** — analisten zijn getraind om engagementstaal van uitvoeringsbewijs te onderscheiden.
 5. **Coverage-eisen missen in groepsbeoordelingen** door aan te nemen dat een certificaat van één site voor alle geldt.
-6. **360° Watch-bevindingen negeren** — één ernstige bevinding, of grote bevindingen over meerdere thema's, maakt onverkiesbaar voor medailles ongeacht de kwaliteit van de vragenlijst.
+6. **[360° Watch](https://ecovadis.com/)-bevindingen negeren** — één ernstige bevinding, of grote bevindingen over meerdere thema's, maakt onverkiesbaar voor medailles ongeacht de kwaliteit van de vragenlijst.

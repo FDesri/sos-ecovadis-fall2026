@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Methodology Updates Q2 2026 (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -53,7 +54,7 @@ Vier updates in Q2 2026: Scope 2-doelen moeten hun berekeningsmethodologie verme
 
 **Betreft:** Beleid; Energieverbruik & broeikasgassen; groottes S en meer. **Van toepassing op:** Sustainability Rating en Carbon Rating.
 
-EcoVadis stapt af van één ongedifferentieerde Scope 2-dooloptie naar een **verplichte keuze van de berekeningsmethodologie**: market-based of location-based. Na vijf jaar Carbon Ratings en meer dan 100.000 uitgegeven CO₂-scorecards laat de maturiteit van de beoordeelde ondernemingen deze granulariteit toe. De update volgt op de Scope 2-rapporteringswijziging van 7 mei 2026 en stemt de vragenlijst af op de GHG Protocol Corporate Standard.
+EcoVadis stapt af van één ongedifferentieerde Scope 2-dooloptie naar een **verplichte keuze van de berekeningsmethodologie**: market-based of location-based. Na vijf jaar Carbon Ratings en meer dan 100.000 uitgegeven CO₂-scorecards laat de maturiteit van de beoordeelde ondernemingen deze granulariteit toe. De update volgt op de Scope 2-rapporteringswijziging van 7 mei 2026 en stemt de vragenlijst af op de [GHG Protocol](https://ghgprotocol.org/corporate-standard) Corporate Standard.
 
 Waarom: **gestandaardiseerde interoperabiliteit** (één internationaal erkend geheel van klimaatdoelen over alle platformen) en **bruikbare inzichten** (location-based doelen weerspiegelen de fysieke netmix; market-based doelen weerspiegelen contractuele energiekeuzes, dus actieve decarbonisatie-inspanningen zoals de aankoop van hernieuwbare energie).
 
@@ -94,7 +95,7 @@ De conflictaanpassingen raken themadata voor Iran, Libië en Papoea-Nieuw-Guinea
 
 ## Om te onthouden
 
-- Scope 2-doelen vereisen voortaan de keuze market-based / location-based — stem u af op het GHG Protocol vóór uw volgende indiening.
+- Scope 2-doelen vereisen voortaan de keuze market-based / location-based — stem u af op het [GHG Protocol](https://ghgprotocol.org/corporate-standard) vóór uw volgende indiening.
 - De Select-vangnetten verdwijnen: gebruik de twee werkdagen van de foutencontrole, en bewaak de documentkwaliteit vóór de indiening.
 - De milieuverbeterpunten (Water, Biodiversiteit, Luchtverontreiniging) worden diagnostisch — lees ze als een takenlijst van sectorale beste praktijken.
 - Tien landen veranderen in augustus 2026 van risiconiveau; ga na of uw vestigingen betrokken zijn.

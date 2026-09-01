@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,6 +38,6 @@ related: [bewijsstukken-voor-xs-ondernemingen, sterke-ecovadis-indieningen-opbou
 
 # Externe documenten werden verworpen wegens ontbrekende naam of logo — wat te doen?
 
-EcoVadis vereist dat elk document een **band met de beoordeelde onderneming** draagt: een bedrijfsnaam of logo moet erop staan. Zonder een van beide wordt het document verworpen — zonder uitzondering, en de ervaring van ESGIM bevestigt het: elk document zonder naam of logo werd verworpen.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) vereist dat elk document een **band met de beoordeelde onderneming** draagt: een bedrijfsnaam of logo moet erop staan. Zonder een van beide wordt het document verworpen — zonder uitzondering, en de ervaring van ESGIM bevestigt het: elk document zonder naam of logo werd verworpen.
 
 Interne dagelijkse documenten, opleidingsregisters en proceduremateriaal missen het logo vaak standaard. De eenvoudigste oplossing: alle intern gegenereerde documenten produceren op **huisstijlsjablonen**. Geeft een externe aanbieder een certificaat of opleidingsregister uit, vraag dan de bedrijfsnaam op te nemen. Waar dat niet kan, volstaat een kort **voorblad op briefpapier** met de werknemer, de onderneming, de gevolgde opleiding en de datum om de vereiste band tussen document en entiteit te leggen.

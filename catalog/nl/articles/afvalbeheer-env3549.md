@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Gestion des déchets - ENV3549 (Evernote, bijgewerkt 2026-08-24; klantvoorbeeld geanonimiseerd)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -83,7 +84,7 @@ ENV3549 vraagt: "Welke acties heeft uw onderneming ingevoerd om afval te beheren
 
 ## Welke operationele details vergeet u best niet?
 
-Verwijder vermeldingen als "door de klant te valideren vóór externe verspreiding" uit een ophalersrapport vóór het opladen. Wanneer de tonnages van een ophaler niet sporen met de reglementaire aangifte (verschillende perimeters: meerdere ophalers), voeg dan een perimeternota toe — anders lijkt het verschil op een fout. Ten slotte: een stijging van het gevaarlijk afval (+20,7% in absolute cijfers hier) wordt gelezen als een verslechtering. EcoVadis vergeeft ze als ze wordt toegelicht **én** gekoppeld aan een becijferd doel ("−10% kg/t tegen 2028") in het milieubeleid.
+Verwijder vermeldingen als "door de klant te valideren vóór externe verspreiding" uit een ophalersrapport vóór het opladen. Wanneer de tonnages van een ophaler niet sporen met de reglementaire aangifte (verschillende perimeters: meerdere ophalers), voeg dan een perimeternota toe — anders lijkt het verschil op een fout. Ten slotte: een stijging van het gevaarlijk afval (+20,7% in absolute cijfers hier) wordt gelezen als een verslechtering. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) vergeeft ze als ze wordt toegelicht **én** gekoppeld aan een becijferd doel ("−10% kg/t tegen 2028") in het milieubeleid.
 
 ## Om te onthouden
 

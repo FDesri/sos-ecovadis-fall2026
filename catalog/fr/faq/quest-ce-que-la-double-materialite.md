@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [ce-qui-change-en-2026]
 
 # Qu'est-ce que la double matérialité et pourquoi est-elle centrale dans le reporting aligné CSRD ?
 
-La double matérialité évalue **à la fois l'impact financier des enjeux de durabilité sur l'entreprise et l'impact de l'entreprise sur l'environnement et la société**. Cette lecture globale structure la priorisation et les divulgations sous la CSRD : l'entreprise rapporte tous les risques et opportunités ESG matériels pour ses parties prenantes financières et non financières. C'est aussi la base la plus crédible pour le pilote de personnalisation de la matérialité d'EcoVadis et pour justifier quels sujets sont — ou ne sont pas — matériels pour vos opérations.
+La double matérialité évalue **à la fois l'impact financier des enjeux de durabilité sur l'entreprise et l'impact de l'entreprise sur l'environnement et la société**. Cette lecture globale structure la priorisation et les divulgations sous la [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) : l'entreprise rapporte tous les risques et opportunités ESG matériels pour ses parties prenantes financières et non financières. C'est aussi la base la plus crédible pour le pilote de personnalisation de la matérialité d'EcoVadis et pour justifier quels sujets sont — ou ne sont pas — matériels pour vos opérations.

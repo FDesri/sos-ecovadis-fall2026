@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,7 +40,7 @@ related: [supporting-documents-for-xs-companies, build-strong-ecovadis-submissio
 
 # What are the quality and validity requirements for documents, and what makes a strong policy?
 
-EcoVadis assesses documents on three dimensions: **relevance, completeness and recency**. Generic templates minimally adapted for EcoVadis are not accepted; documents must reflect **pre-existing, operational systems** and must be issued **more than one month before the questionnaire submission date** — a document created specifically for the assessment will not work. Every document must carry the **company name or logo** and a **date**; missing either can cause rejection regardless of content. You can check each document's age and remaining validity in the platform's Document Library.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) assesses documents on three dimensions: **relevance, completeness and recency**. Generic templates minimally adapted for EcoVadis are not accepted; documents must reflect **pre-existing, operational systems** and must be issued **more than one month before the questionnaire submission date** — a document created specifically for the assessment will not work. Every document must carry the **company name or logo** and a **date**; missing either can cause rejection regardless of content. You can check each document's age and remaining validity in the platform's Document Library.
 
 Validity periods by type: **policies and actions documents — 8 years**; **KPI and reporting documents — 2 years**; **certifications — until their stated expiry date**.
 

@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Improve your EcoVadis score fast - Practical steps that work (Evernote, bijgewerkt 2026-08-24; klantnamen hersteld en resultaten gecorrigeerd door François op 01/09/2026 — de medailleniveaus van Bridgestone en Les Tartes de Françoise moeten nog worden bevestigd)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -62,12 +63,12 @@ Begrijp de tabel die u optimaliseert — het scoreraster achter elk thema:
 | Laag | Component (gewicht binnen de laag) | Wat wordt beoordeeld | Schijven |
 |---|---|---|---|
 | Beleid (25%) | Beleid (80%) | Beleid, doelstellingen, targets, governance | 0 / 25 / 50 / 75 / 100 |
-| | Aansluitingen (20%) | Onderschreven externe MVO-initiatieven (bv. UN Global Compact) | 0 / 25 / 50 / 75 / 100 |
+| | Aansluitingen (20%) | Onderschreven externe MVO-initiatieven (bv. [UN Global Compact](https://unglobalcompact.org/participation/report/cop)) | 0 / 25 / 50 / 75 / 100 |
 | Acties (40%) | Maatregelen (65%) | Acties die doelstellingen en targets ondersteunen | 0 / 25 / 50 / 75 / 100 |
 | | Certificeringen (35%) | Certificeringen, labels, audits door derden | 0 / 25 / 50 / 75 / 100 |
 | | Dekking | Uitrolniveau van certificaten en acties | 0 / 25 / 50 / 75 / 100 |
 | Resultaten (35%) | Rapportering (40%) | Kwaliteit van de rapportering die stakeholders ter beschikking staat | 0 / 25 / 50 / 75 / 100 |
-| | 360° Watch (60%) | Standpunten van stakeholdervertegenwoordigers (overheden, vakbonden, ngo's) | 0 Ernstig / 25 Groot / 50 Klein / 75 Geen / 100 Positief |
+| | [360° Watch](https://ecovadis.com/) (60%) | Standpunten van stakeholdervertegenwoordigers (overheden, vakbonden, ngo's) | 0 Ernstig / 25 Groot / 50 Klein / 75 Geen / 100 Positief |
 
 ## Quick win 2: welke data- en rapporteringsprocessen zet u op?
 
@@ -75,11 +76,11 @@ EcoVadis beloont prestatiemeting sterk. Energieverbruik, afvalvolumes of persone
 
 ## Quick win 3: hoe engageert u uw leveranciers snel?
 
-Ketenpraktijken zijn een sterke differentiator. Onmiddellijke stappen: **breng uw kritieke leveranciers in kaart** en beoordeel hun risico's per geografie, sector en managementsysteem; **voer een leveranciersgedragscode in**; **creëer een due-diligenceprocedure** in lijn met de regelgeving (bv. CSDDD). Zelfs bescheiden vooruitgang levert waardevolle punten op.
+Ketenpraktijken zijn een sterke differentiator. Onmiddellijke stappen: **breng uw kritieke leveranciers in kaart** en beoordeel hun risico's per geografie, sector en managementsysteem; **voer een leveranciersgedragscode in**; **creëer een due-diligenceprocedure** in lijn met de regelgeving (bv. [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj)). Zelfs bescheiden vooruitgang levert waardevolle punten op.
 
 ## Quick win 4: welke certificaten en audits viseert u?
 
-Certificeringen worden hoog gewaardeerd: **ISO 14001** (milieumanagement), **ISO 45001** (welzijn op het werk) en **ISO 37001** (anticorruptie) zijn quick wins als de organisatie de goede praktijken al toepast. Is ISO-certificering te duur, dan leveren bewijzen van interne audits, externe verificatie of sectorcertificeringen nog steeds punten op.
+Certificeringen worden hoog gewaardeerd: **[ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)** (milieumanagement), **[ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html)** (welzijn op het werk) en **ISO 37001** (anticorruptie) zijn quick wins als de organisatie de goede praktijken al toepast. Is ISO-certificering te duur, dan leveren bewijzen van interne audits, externe verificatie of sectorcertificeringen nog steeds punten op.
 
 ## Quick win 5: hoe versterkt u uw koolstofbeheer?
 
@@ -106,5 +107,5 @@ Snel verbeteren betekent bestaande goede bedoelingen omzetten in **gestructureer
 - Formaliseer wat u al doet: ondertekend en gecommuniceerd beleid levert de snelste punten op.
 - Begin nu te meten — een spreadsheet volstaat; consistentie klopt tooling.
 - Leveranciers: mapping, gedragscode, due diligence — een sterke differentiator.
-- Certificeer waar haalbaar (ISO 14001/45001/37001); audits zijn het vangnet.
+- Certificeer waar haalbaar ([ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)/45001/37001); audits zijn het vangnet.
 - Koolstofbeheer (doelen, inventaris, rapportering) rendeert op beide scorecards.

@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,4 +39,4 @@ related: [whats-changing-in-2026, ecovadis-rising-standards-2026]
 
 # We are not subject to CSRD — what levers ensure our sustainability work is recognised by EcoVadis?
 
-CSRD compliance is **not a prerequisite** for a strong EcoVadis score. Companies outside CSRD scope have several effective routes. The **VSME** (Voluntary SME Standard, developed by EFRAG) is now formally recognised by EcoVadis as a reporting framework: the Basic Module achieves up to **75/100** in the Reporting indicator, and the full VSME (Basic and Comprehensive) can reach **100/100**. **GRI** reporting remains highly effective and accessible. Without any public report, the maximum achievable Reporting score is **50/100**. Endorsements such as **UN Global Compact** and **Science-Based Targets** commitments add score independently of regulatory status.
+[CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) compliance is **not a prerequisite** for a strong EcoVadis score. Companies outside [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) scope have several effective routes. The **[VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)** (Voluntary SME Standard, developed by EFRAG) is now formally recognised by EcoVadis as a reporting framework: the Basic Module achieves up to **75/100** in the Reporting indicator, and the full [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) (Basic and Comprehensive) can reach **100/100**. **[GRI](https://www.globalreporting.org/standards/)** reporting remains highly effective and accessible. Without any public report, the maximum achievable Reporting score is **50/100**. Endorsements such as **[UN Global Compact](https://unglobalcompact.org/participation/report/cop)** and **Science-Based Targets** commitments add score independently of regulatory status.

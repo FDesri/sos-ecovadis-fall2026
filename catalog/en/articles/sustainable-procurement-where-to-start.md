@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Sustainable procurement for mid-market companies: Where to start (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology, eu-csddd]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -58,11 +59,11 @@ The pressure to address supplier sustainability is no longer confined to large m
 
 Three forces are converging, regardless of sector.
 
-**Customer requirements.** Large buyers are integrating ESG criteria into procurement at pace. The EcoVadis Sustainable Procurement Barometer 2026 found that 48% of buyers now have visibility of ESG practices for most of their Tier 1 suppliers — a major increase since 2024. That visibility is built through EcoVadis, supplier questionnaires and code-of-conduct compliance checks. Suppliers who cannot demonstrate their sustainability management risk losing tenders and preferred-supplier status.
+**Customer requirements.** Large buyers are integrating ESG criteria into procurement at pace. The EcoVadis [Sustainable Procurement Barometer 2026](https://ecovadis.com/insights/barometer/) found that 48% of buyers now have visibility of ESG practices for most of their Tier 1 suppliers — a major increase since 2024. That visibility is built through EcoVadis, supplier questionnaires and code-of-conduct compliance checks. Suppliers who cannot demonstrate their sustainability management risk losing tenders and preferred-supplier status.
 
-**Regulatory trickle-down.** The EU Corporate Sustainability Due Diligence Directive (CSDDD, Directive 2024/1760) entered into force on 25 July 2024 and formally applies to large companies with more than 1,000 employees and more than €450 million in global turnover. Mid-market companies sit below that threshold — but the Directive requires those large companies to exercise due diligence across their value chains, so their compliance obligations flow directly to you as a supplier. Under the Omnibus simplification package (subject to formal adoption), transposition is proposed by 26 July 2027, with first application from 26 July 2028.
+**Regulatory trickle-down.** The EU Corporate Sustainability Due Diligence Directive ([CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj), [Directive 2024/1760](https://eur-lex.europa.eu/eli/dir/2024/1760/oj)) entered into force on 25 July 2024 and formally applies to large companies with more than 1,000 employees and more than €450 million in global turnover. Mid-market companies sit below that threshold — but the Directive requires those large companies to exercise due diligence across their value chains, so their compliance obligations flow directly to you as a supplier. Under the [Omnibus](https://finance.ec.europa.eu/) simplification package (subject to formal adoption), transposition is proposed by 26 July 2027, with first application from 26 July 2028.
 
-**Scope 3 data demands.** Customers pursuing science-based targets or CSRD compliance need emissions data from their supply chains. Currently, 30% of suppliers provide no carbon data whatsoever to their buyers. Companies that can provide reliable Scope 1, 2 and 3 data hold a measurable commercial advantage.
+**Scope 3 data demands.** Customers pursuing science-based targets or [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) compliance need emissions data from their supply chains. Currently, 30% of suppliers provide no carbon data whatsoever to their buyers. Companies that can provide reliable Scope 1, 2 and 3 data hold a measurable commercial advantage.
 
 ## What do you need to understand before building anything?
 
@@ -88,7 +89,7 @@ Three policy documents form the minimum viable foundation:
 - **A sustainable procurement policy** — how the organisation approaches supplier selection, assessment and management with sustainability criteria included.
 - **A supplier risk assessment process** — how sustainability-related supplier risks are identified, prioritised and managed; the materiality mapping formalised into a repeatable annual process.
 
-Together they satisfy the EcoVadis Sustainable Procurement theme requirements, demonstrate due diligence to customers, and create the paper trail that CSDDD and CSRD disclosures will eventually require.
+Together they satisfy the EcoVadis Sustainable Procurement theme requirements, demonstrate due diligence to customers, and create the paper trail that [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj) and [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) disclosures will eventually require.
 
 ## Step 4: how do you engage, measure and improve?
 

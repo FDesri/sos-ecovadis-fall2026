@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [geactiveerde-criteria-per-sector, de-ecovadis-scorecard-begrijpen]
 
 # Hoe garandeert EcoVadis een eerlijke scoring over verschillende ondernemingen en sectoren?
 
-EcoVadis ontwerpt vragenlijsten op maat van grootte, sector en geografie, en **activeert alleen de relevante indicatoren**. Middelgrote en kleinere ondernemingen worden dus niet bestraft voor criteria die voor grote groepen zijn bedoeld. De scores weerspiegelen het **percentiel tegenover alle deelnemers**: een Gouden medaille betekent een prestatie in de top 5% van alle beoordeelde ondernemingen wereldwijd — wat aanzet tot continue verbetering, want de vergelijkingsgroep gaat voortdurend vooruit.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) ontwerpt vragenlijsten op maat van grootte, sector en geografie, en **activeert alleen de relevante indicatoren**. Middelgrote en kleinere ondernemingen worden dus niet bestraft voor criteria die voor grote groepen zijn bedoeld. De scores weerspiegelen het **percentiel tegenover alle deelnemers**: een Gouden medaille betekent een prestatie in de top 5% van alle beoordeelde ondernemingen wereldwijd — wat aanzet tot continue verbetering, want de vergelijkingsgroep gaat voortdurend vooruit.

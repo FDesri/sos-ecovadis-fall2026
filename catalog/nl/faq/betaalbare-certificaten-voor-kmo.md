@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -41,4 +42,4 @@ related: [ecovadis-score-snel-verbeteren, van-brons-naar-zilver]
 
 Externe duurzaamheidsaudits bieden de toegankelijkste route naar een betere Certificatenscore zonder de volledige kosten van een ISO-certificering. Een **SMETA (Sedex Members Ethical Trade Audit)** dekt de onderwerpen Arbeids- en Mensenrechten, kan op één site worden uitgevoerd en wordt breed aanvaard door EcoVadis; een **BSCI-audit** dekt vergelijkbaar terrein. Beide zijn doorgaans goedkoper dan een ISO-certificering en sneller haalbaar.
 
-Voor het thema Milieu erkent EcoVadis ook **zelfstandige duurzaamheidsaudits die meer dan 30% van de activiteiten dekken**, uitgevoerd door een gekwalificeerde externe auditor, als **gedeeltelijke vervanging van ISO 14001** — met als sleutelvoorwaarden dat de audit zelfstandig is en een volledig schriftelijk rapport oplevert.
+Voor het thema Milieu erkent EcoVadis ook **zelfstandige duurzaamheidsaudits die meer dan 30% van de activiteiten dekken**, uitgevoerd door een gekwalificeerde externe auditor, als **gedeeltelijke vervanging van [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)** — met als sleutelvoorwaarden dat de audit zelfstandig is en een volledig schriftelijk rapport oplevert.

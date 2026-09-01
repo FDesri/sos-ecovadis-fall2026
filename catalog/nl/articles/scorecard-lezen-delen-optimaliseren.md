@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis scorecard: How to read, share & maximise your rating (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -50,7 +51,7 @@ faq:
 
 ## In het kort
 
-**Expertinzicht — François Dequenne:** uw EcoVadis-scorecard is niet zomaar een rating. Het is uw duurzaamheidsstrategie, in kaart gebracht voor klanten, investeerders en continue verbetering. Voor veel leveranciers is de EcoVadis-score vandaag een commerciële vereiste, geen "nice to have" meer — en toch voelt de scorecard de eerste keer ondoorzichtig aan. Dit artikel legt uit hoe u ze leest, deelt, wat ze kost, hoelang ze geldig is en wat een "goede" score werkelijk is.
+**Expertinzicht — François Dequenne:** uw [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral)-scorecard is niet zomaar een rating. Het is uw duurzaamheidsstrategie, in kaart gebracht voor klanten, investeerders en continue verbetering. Voor veel leveranciers is de EcoVadis-score vandaag een commerciële vereiste, geen "nice to have" meer — en toch voelt de scorecard de eerste keer ondoorzichtig aan. Dit artikel legt uit hoe u ze leest, deelt, wat ze kost, hoelang ze geldig is en wat een "goede" score werkelijk is.
 
 ## Hoe leest u uw scorecard?
 

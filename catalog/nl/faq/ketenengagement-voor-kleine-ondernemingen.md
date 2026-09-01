@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [duurzame-inkoop-maatregelen-sup307, duurzame-inkoop-waar-beginnen]
 
 # Hoe beoordeelt EcoVadis het ketenengagement van kleine ondernemingen?
 
-Kleine ondernemingen worden beoordeeld op **dezelfde indicatoren Duurzame Inkoop** als grote, maar met verwachtingen **op schaal**: EcoVadis verwacht van een kmo geen complex leveranciersauditprogramma. Het minimum voor het thema: een **inkoopbeleid dat duurzaamheidscriteria voor leveranciers vermeldt**. Daarnaast voeden leveranciersvragenlijsten, verzoeken tot zelfbeoordeling of contractuele duurzaamheidsclausules de indicator Maatregelen.
+Kleine ondernemingen worden beoordeeld op **dezelfde indicatoren Duurzame Inkoop** als grote, maar met verwachtingen **op schaal**: [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) verwacht van een kmo geen complex leveranciersauditprogramma. Het minimum voor het thema: een **inkoopbeleid dat duurzaamheidscriteria voor leveranciers vermeldt**. Daarnaast voeden leveranciersvragenlijsten, verzoeken tot zelfbeoordeling of contractuele duurzaamheidsclausules de indicator Maatregelen.
 
 Voor een kmo met een beperkte leveranciersbasis kan aantonen dat u duurzaamheidscriteria toepast op uw **topleveranciers naar uitgave** — zelfs informeel, met gedocumenteerde resultaten — volstaan om Brons of Zilver op dit thema te halen.

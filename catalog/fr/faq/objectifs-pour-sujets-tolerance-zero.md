@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [canevas-diversite-corruption-travail-enfants, pack-corruption-harcelem
 
 # Quels objectifs quantitatifs EcoVadis attend-il sur les sujets tolérance zéro comme le travail des enfants et la corruption ?
 
-Pour les sujets tolérance zéro, EcoVadis accepte une **structure de preuve différente, à la place des cibles de réduction** : une politique documentée **d'interdiction** de la pratique ; des mesures de **vigilance** — audits de la chaîne d'approvisionnement, registres de formation, procédure formelle de plainte ; et des **données de performance démontrant l'efficacité de ces contrôles** — nombre d'audits menés, pourcentage de fournisseurs criblés, nombre d'incidents signalés, taux de complétion des formations.
+Pour les sujets tolérance zéro, [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) accepte une **structure de preuve différente, à la place des cibles de réduction** : une politique documentée **d'interdiction** de la pratique ; des mesures de **vigilance** — audits de la chaîne d'approvisionnement, registres de formation, procédure formelle de plainte ; et des **données de performance démontrant l'efficacité de ces contrôles** — nombre d'audits menés, pourcentage de fournisseurs criblés, nombre d'incidents signalés, taux de complétion des formations.
 
 Le cadrage tolérance zéro signifie que l'objectif est **opérationnalisé par des processus de contrôle** : documenter le processus et son application constante d'année en année est l'équivalent fonctionnel d'un KPI de performance sur ces sujets.

@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis activated criteria by sector + FAQ (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, iso-14001]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -67,9 +68,9 @@ Le score global est une moyenne pondérée des quatre scores thématiques — et
 
 Pour les industriels — machines, composants, plastiques, équipements — **Environnement et Social** portent généralement le poids combiné le plus élevé.
 
-Dans l'Environnement, **Énergie & GES** est activé à importance élevée pour la plupart des secteurs manufacturiers : politiques, actions, données KPI et, si possible, certifications. **ISO 50001 et ISO 14001** sont particulièrement précieuses, surtout au-delà de 75 % du périmètre opérationnel. Le reporting des émissions Scope 1 et 2 (idéalement Scope 3) renforce l'indicateur Rapports.
+Dans l'Environnement, **Énergie & GES** est activé à importance élevée pour la plupart des secteurs manufacturiers : politiques, actions, données KPI et, si possible, certifications. **[ISO 50001](https://www.iso.org/iso-50001-energy-management.html) et [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)** sont particulièrement précieuses, surtout au-delà de 75 % du périmètre opérationnel. Le reporting des émissions Scope 1 et 2 (idéalement Scope 3) renforce l'indicateur Rapports.
 
-**Santé et sécurité des employés** est à importance élevée dans le thème Social : une politique seule ne score pas — les analystes attendent des évaluations de risques documentées, des registres de formation, des données de fréquence d'accidents, et ISO 45001 si c'est envisageable.
+**Santé et sécurité des employés** est à importance élevée dans le thème Social : une politique seule ne score pas — les analystes attendent des évaluations de risques documentées, des registres de formation, des données de fréquence d'accidents, et [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html) si c'est envisageable.
 
 **Matières, produits chimiques et déchets** est souvent à importance élevée pour les industriels manipulant des substances dangereuses, générant des flux de déchets complexes ou soumis à REACH. Utilisation du produit, Fin de vie et Santé-sécurité des clients sont typiquement à importance moyenne : analyses de cycle de vie, procédures de rappel et communication sécurité y contribuent. Pollution de l'air et Eau varient selon le profil et la localisation ; la Biodiversité est souvent non activée pour l'industrie standard.
 
@@ -89,7 +90,7 @@ Les entreprises chimiques subissent **l'activation environnementale la plus larg
 
 Sur Matières & déchets, l'évaluation sonde l'étiquetage aligné SGH, les procédures de traitement des déchets dangereux et la documentation de conformité REACH. Le cadre d'audit **Together for Sustainability (TfS)** est un standard tiers reconnu propre au secteur. La Pollution de l'air active des questions sur SOx, NOx, COV, particules et odeurs — données de surveillance, registres d'équipements d'abattement, procédures d'urgence en cas de rejet accidentel. L'Eau est évaluée en profondeur : traitement des effluents, qualité des eaux usées, reporting quantitatif de consommation ; circuits fermés et audits de l'eau positionnent bien mieux qu'une politique de haut niveau.
 
-Pour l'Environnement en général, traitez **ISO 14001 comme la certification socle** — mais la couverture décide de sa valeur : un certificat couvrant 30 % des sites apporte bien moins qu'un certificat à 80 %.
+Pour l'Environnement en général, traitez **[ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) comme la certification socle** — mais la couverture décide de sa valeur : un certificat couvrant 30 % des sites apporte bien moins qu'un certificat à 80 %.
 
 ## Peut-on ignorer un critère activé ?
 
@@ -100,7 +101,7 @@ L'implication pratique : **commencez chaque cycle en confirmant quels critères 
 ## À retenir
 
 - Votre code ISIC, votre taille et vos implantations déterminent quels critères (sur 21) sont activés et comment les quatre thèmes sont pondérés.
-- Industrie : Énergie & GES et Santé-Sécurité à importance élevée ; ISO 14001/45001/50001 sont les certifications qui comptent.
+- Industrie : Énergie & GES et Santé-Sécurité à importance élevée ; [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)/45001/50001 sont les certifications qui comptent.
 - Grande consommation : Achats Responsables et risques sociaux de la chaîne sous forte surveillance — le thème le moins bien noté au monde (43,1/100) est aussi la plus grande opportunité.
 - Chimie : l'activation environnementale la plus large — Matières & déchets, Pollution de l'air, Eau — exigeant des preuves opérationnelles détaillées.
 - Séquencez la préparation par niveau d'importance ; la soumission générique est la première cause de stagnation.

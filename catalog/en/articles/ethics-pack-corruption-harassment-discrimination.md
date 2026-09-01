@@ -31,6 +31,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis - Pack corruption - harcèlement - discrimination (Evernote, updated 2026-08-24; client anonymised: Walloon building-services (HVAC/electrical) installer, size XS)"
+sources: [ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -88,7 +89,7 @@ Useful references: the Belgian anti-corruption guide (prevention, awareness, cle
 | "Respect at work" toolbox (15 min) | Concrete examples of acceptable / unacceptable behaviour | Attendance sheet + toolbox sheet |
 | Anonymised incident register | Report type, handling, measure, closure | Anonymised table + annual summary |
 
-Belgian framework: the FPS Employment requires employers to prevent psychosocial risks (violence, moral and sexual harassment); the **confidential counsellor is mandatory from 50 workers**, optional below except on collective request; workers can turn to the confidential counsellor or the psychosocial prevention advisor. Unia insists: prevention is not just sanctioning after the fact — equal treatment belongs in recruitment, promotion, training, pay and working relations.
+Belgian framework: the FPS Employment requires employers to prevent psychosocial risks (violence, moral and sexual harassment); the **confidential counsellor is mandatory from 50 workers**, optional below except on collective request; workers can turn to the confidential counsellor or the psychosocial prevention advisor. [Unia](https://www.unia.be/) insists: prevention is not just sanctioning after the fact — equal treatment belongs in recruitment, promotion, training, pay and working relations.
 
 **The 5 most profitable:** annual communication signed by management, displayed reporting procedure, clearly identified contact person, mini-training or toolbox, recruitment checklist.
 

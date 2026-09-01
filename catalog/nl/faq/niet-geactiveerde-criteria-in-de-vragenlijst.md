@@ -24,6 +24,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -36,4 +37,4 @@ related: [geactiveerde-criteria-per-sector]
 
 # Waarom verschijnen niet-geactiveerde criteria in de vragenlijst, en waarom worden antwoorden erop verworpen?
 
-Dit is een ontwerpkeuze van het platform. EcoVadis gebruikt een **universeel vragenlijstsjabloon** en activeert of deactiveert criteria op basis van uw profiel — sector, grootte, geografie. Vragen van niet-geactiveerde criteria kunnen zichtbaar blijven in de interface, maar bewijs dat u ertegen oplaadt, wordt **als irrelevant beoordeeld en draagt niet bij aan uw score**. Richt de inspanning op de criteria die actief zijn voor uw profiel; uw scorecard en corrigerend actieplan identificeren welke dat zijn.
+Dit is een ontwerpkeuze van het platform. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) gebruikt een **universeel vragenlijstsjabloon** en activeert of deactiveert criteria op basis van uw profiel — sector, grootte, geografie. Vragen van niet-geactiveerde criteria kunnen zichtbaar blijven in de interface, maar bewijs dat u ertegen oplaadt, wordt **als irrelevant beoordeeld en draagt niet bij aan uw score**. Richt de inspanning op de criteria die actief zijn voor uw profiel; uw scorecard en corrigerend actieplan identificeren welke dat zijn.

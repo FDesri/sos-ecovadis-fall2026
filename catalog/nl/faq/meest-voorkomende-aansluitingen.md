@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology, ungc-cop]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [de-ecovadis-scorecard-begrijpen, ecovadis-drempels-verpakking-farma-be
 
 # Wat zijn de meest voorkomende aansluitingen in EcoVadis-beoordelingen?
 
-De vaakst geziene aansluitingen: **het UN Global Compact (UNGC) met een Communication on Progress (COP)**; **SBTi-engagementen of gevalideerde doelen**; en sectorspecifieke initiatieven zoals **Together for Sustainability** (TfS, chemie), **Responsible Business Alliance** (elektronica) en het **Pharmaceutical Supply Chain Initiative** (PSCI).
+De vaakst geziene aansluitingen: **het [UN Global Compact](https://unglobalcompact.org/participation/report/cop) ([UNGC](https://unglobalcompact.org/participation/report/cop)) met een Communication on Progress (COP)**; **[SBTi](https://sciencebasedtargets.org/)-engagementen of gevalideerde doelen**; en sectorspecifieke initiatieven zoals **Together for Sustainability** (TfS, chemie), **Responsible Business Alliance** (elektronica) en het **Pharmaceutical Supply Chain Initiative** (PSCI).
 
-Elk voedt de indicator Aansluitingen, die ongeveer **5% van de globale score** weegt. Aansluitingen zijn het meest waard gecombineerd met sterk prestatiebewijs: een UNGC-COP met gedetailleerde meerjarige KPI-data scoort beter dan een loutere lijst van lidmaatschappen.
+Elk voedt de indicator Aansluitingen, die ongeveer **5% van de globale score** weegt. Aansluitingen zijn het meest waard gecombineerd met sterk prestatiebewijs: een [UNGC](https://unglobalcompact.org/participation/report/cop)-COP met gedetailleerde meerjarige KPI-data scoort beter dan een loutere lijst van lidmaatschappen.

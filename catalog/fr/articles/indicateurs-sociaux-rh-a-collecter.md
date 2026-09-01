@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Reporting indicateurs: Social et droits humains (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -48,7 +49,7 @@ faq:
 
 ## En bref
 
-Le thème **Social et Droits Humains** d'EcoVadis regroupe sept critères précis, évalués à travers un système de gestion fondé sur les politiques, les actions (mesures et certifications) et les résultats (reporting). Côté résultats, cinq indicateurs RH reviennent systématiquement pour une PME. Ils existent déjà dans les documents belges standards — rapport SIPP, plan de formation, registre du personnel — mais il faut trancher les périmètres et expliquer les tendances.
+Le thème **Social et Droits Humains** d'[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) regroupe sept critères précis, évalués à travers un système de gestion fondé sur les politiques, les actions (mesures et certifications) et les résultats (reporting). Côté résultats, cinq indicateurs RH reviennent systématiquement pour une PME. Ils existent déjà dans les documents belges standards — rapport SIPP, plan de formation, registre du personnel — mais il faut trancher les périmètres et expliquer les tendances.
 
 ## Quels sont les sept critères du thème ?
 

@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,7 +40,7 @@ related: [ecovadis-and-ghg-baseline, environmental-indicators-to-collect]
 
 # How can we improve without Scope 3 targets — or without any GHG data at all?
 
-Scope 3 targets are **not a prerequisite** for a strong Environment score, and their absence does not limit what a company can achieve in the theme — EcoVadis does not penalise companies for not reporting Scope 3 data.
+Scope 3 targets are **not a prerequisite** for a strong Environment score, and their absence does not limit what a company can achieve in the theme — [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) does not penalise companies for not reporting Scope 3 data.
 
 The primary expectation, where GHG emissions are an active criterion, is to **track and report Scope 1 and Scope 2 emissions**. A structured inventory covering these two scopes, combined with a **SMART reduction target and baseline year**, contributes meaningfully to both the Measures and Reporting indicators — the realistic minimum for companies beginning their GHG journey.
 

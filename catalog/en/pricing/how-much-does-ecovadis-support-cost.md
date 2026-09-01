@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis ESGIM Princing (Evernote, updated 2026-08-27; grid and terms validated by François on 2026-09-01: 20/60/20 instalments, S1 XS at €8,000 — the source note table prevails)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27

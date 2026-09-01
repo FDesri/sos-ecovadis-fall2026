@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Diversité / non-discrimination, Risque de corruption, prévention du travail des enfants / travail forcé - Canevas (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -51,7 +52,7 @@ faq:
 
 ## En bref
 
-« Il n'y a rien de tout ça dans notre entreprise ! » — la réaction classique d'une PME belge face aux questions diversité, corruption et travail des enfants. Il faut pourtant répondre : EcoVadis évalue le **système de gestion**, pas l'existence d'incidents. La bonne nouvelle : les preuves attendues sont simples — une grille de recrutement, un registre cadeaux, un tableau de bord RH, une checklist d'embauche — et même « 0 cas » se reporte si le canal existe et est suivi. Cette fiche donne les preuves utiles par sujet et cinq canevas prêts à l'emploi.
+« Il n'y a rien de tout ça dans notre entreprise ! » — la réaction classique d'une PME belge face aux questions diversité, corruption et travail des enfants. Il faut pourtant répondre : [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) évalue le **système de gestion**, pas l'existence d'incidents. La bonne nouvelle : les preuves attendues sont simples — une grille de recrutement, un registre cadeaux, un tableau de bord RH, une checklist d'embauche — et même « 0 cas » se reporte si le canal existe et est suivi. Cette fiche donne les preuves utiles par sujet et cinq canevas prêts à l'emploi.
 
 ## Que répondre sur la diversité et la non-discrimination ?
 

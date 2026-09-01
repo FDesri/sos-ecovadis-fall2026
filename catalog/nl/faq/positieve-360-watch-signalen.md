@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,8 +40,8 @@ related: [de-ecovadis-scorecard-begrijpen]
 
 # Wat telt als positief signaal in de 360° Watch — en kunt u erop plannen?
 
-De 360° Watch werkt in de eerste plaats als **modificator**: de neutrale positie is 75/100 per thema, en bevindingen passen ze naar boven of beneden aan. Scores boven 75 zijn mogelijk maar **zeldzaam**. EcoVadis monitort externe publieke bronnen — media, ngo-rapporten, erkende certificeringen, sectorinitiatieven — en een opwaartse aanpassing vereist doorgaans **meerdere geloofwaardige, onafhankelijke bronnen die positieve ESG-resultaten bevestigen**.
+De [360° Watch](https://ecovadis.com/) werkt in de eerste plaats als **modificator**: de neutrale positie is 75/100 per thema, en bevindingen passen ze naar boven of beneden aan. Scores boven 75 zijn mogelijk maar **zeldzaam**. EcoVadis monitort externe publieke bronnen — media, ngo-rapporten, erkende certificeringen, sectorinitiatieven — en een opwaartse aanpassing vereist doorgaans **meerdere geloofwaardige, onafhankelijke bronnen die positieve ESG-resultaten bevestigen**.
 
 Wat kwalificeert: breed erkende sectorprijzen voor duurzaamheid, bevestigd in onafhankelijke media; onafhankelijk geverifieerde ESG-certificeringen buiten het standaardreferentiekader; aanhoudende positieve berichtgeving over specifieke initiatieven in meerdere onafhankelijke media; geverifieerde impactdata geciteerd in geloofwaardige externe bronnen. Wat niet kwalificeert: marketingcommunicatie over een duurzaam gamma zonder onafhankelijke verificatie, en **persberichten van de onderneming zelf**. Artikels van partners of ngo's kunnen tellen als ze specifieke, verifieerbare resultaten vermelden.
 
-EcoVadis publiceert geen expliciete criteria voor positieve 360° Watch-scoring — daarom raadt ESGIM af om er als primaire hefboom op te plannen of in te investeren. De betrouwbare weg blijft het versterken van Beleid, Maatregelen en Rapportering.
+EcoVadis publiceert geen expliciete criteria voor positieve [360° Watch](https://ecovadis.com/)-scoring — daarom raadt ESGIM af om er als primaire hefboom op te plannen of in te investeren. De betrouwbare weg blijft het versterken van Beleid, Maatregelen en Rapportering.

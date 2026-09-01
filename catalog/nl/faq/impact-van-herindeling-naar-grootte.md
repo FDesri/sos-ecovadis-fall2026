@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,7 +40,7 @@ related: [geactiveerde-criteria-per-sector, bewijsstukken-voor-xs-ondernemingen]
 
 # Wat gebeurt er als EcoVadis onze ondernemingsgrootte herindeelt — en kunt u dat voorkomen?
 
-Er is geen eenvoudige manier om het te voorkomen: EcoVadis bepaalt de grootte **automatisch** op basis van het totale aantal voltijdse equivalenten, met publieke informatie en de data die u bij de accountaanmaak verstrekt. Overschrijdt u een drempel — bijvoorbeeld van XS naar S — dan plaatst het platform u in de nieuwe categorie.
+Er is geen eenvoudige manier om het te voorkomen: [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) bepaalt de grootte **automatisch** op basis van het totale aantal voltijdse equivalenten, met publieke informatie en de data die u bij de accountaanmaak verstrekt. Overschrijdt u een drempel — bijvoorbeeld van XS naar S — dan plaatst het platform u in de nieuwe categorie.
 
 De impact is aanzienlijk. De vragenlijst verandert: **meer (of andere) criteria kunnen activeren en de norm per indicator kan stijgen** — XS-ondernemingen genieten een gestroomlijnde vragenlijst (minder vragen, andere weging, sommige onderwerpen afwezig), en de overgang naar S is een echte verschuiving in scope. Een onderneming die als kmo 71/100 scoorde, kan zich **na herindeling onder Zilver** bevinden, omdat de scoringsnorm nu hoger ligt. Vroegere scores worden niet retroactief aangepast — historische scorecards blijven zoals uitgegeven — en de herindeling geldt vanaf de volgende cyclus.
 

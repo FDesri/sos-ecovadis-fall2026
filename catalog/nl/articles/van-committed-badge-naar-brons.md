@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Committed Badge to Bronze (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -63,7 +64,7 @@ Brons betekent dat uw duurzaamheidsmanagementsysteem minstens 65% van alle werel
 - Bewijs van eerste maatregelen om negatieve impact te beperken op sommige criteria
 - Gerapporteerde indicatoren voor sommige criteria, over meerdere cycli
 - Een duidelijk interne verantwoordelijke voor het EcoVadis-proces
-- Geen openstaande 360° Watch-bevindingen
+- Geen openstaande [360° Watch](https://ecovadis.com/)-bevindingen
 
 Wat een Brons-onderneming vaak **nog niet** heeft: gestructureerde managementsystemen voor de meerderheid van de geactiveerde criteria, KPI-rapportering over alle criteria, risicoanalyses of certificeringen door derden — die horen eerder bij Zilver en hoger.
 

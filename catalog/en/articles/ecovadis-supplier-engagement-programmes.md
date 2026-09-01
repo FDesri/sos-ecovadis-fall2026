@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis supplier engagement programmes: From launch to lasting impact (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology, eu-csrd]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -69,7 +70,7 @@ Segment the supplier base across at least three dimensions: sustainability risk 
 | B | Medium risk, medium spend | Phased EcoVadis rollout, self-assessment in early cycles, score threshold at cycle 2 |
 | C | Low risk, low spend | Code-of-conduct sign-off, self-declaration, reviewed at contract renewal |
 
-This matters for compliance too: the CSDDD requires proportionate due diligence across value chains — under the Omnibus package as currently proposed, transposition is extended to 26 July 2028, with phased application expected from 2029. Segmentation is not just good practice; it is the programme architecture regulators expect to see documented.
+This matters for compliance too: the [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj) requires proportionate due diligence across value chains — under the [Omnibus package](https://finance.ec.europa.eu/) as currently proposed, transposition is extended to 26 July 2028, with phased application expected from 2029. Segmentation is not just good practice; it is the programme architecture regulators expect to see documented.
 
 ## Step 2: how do you make requirements contractually real?
 
@@ -81,7 +82,7 @@ Thresholds must be grounded in baseline reality. Requiring Gold in year one with
 
 The first supplier communication sets the tone for the whole programme. Suppliers invited without prior context are less likely to complete and more likely to treat the assessment as an administrative burden. A well-structured launch communication covers: the reason for the request, the timeline and any score requirements, the support available, and the commercial implications. Where a dedicated supplier briefing or training precedes activation, completion rates and evidence quality are consistently higher.
 
-The 2024 EcoVadis Sustainable Procurement Barometer found 67% of leading buyers require suppliers to participate in sustainability ratings — and 53% provide ESG training and e-learning to support them. The correlation is not coincidental: the programmes seeing the best results build capability alongside the requirement.
+The 2024 EcoVadis [Sustainable Procurement Barometer](https://ecovadis.com/insights/barometer/) found 67% of leading buyers require suppliers to participate in sustainability ratings — and 53% provide ESG training and e-learning to support them. The correlation is not coincidental: the programmes seeing the best results build capability alongside the requirement.
 
 ## Step 4: how do you build capability, not just compliance?
 
@@ -95,13 +96,13 @@ Collective action makes this more efficient: sector-wide initiatives operating t
 
 Collecting scores is not an outcome. The value comes from what the data enables: supplier risk assessment, improvement tracking, procurement decisions grounded in evidence. Build a review cadence into governance: track completion rates by segment, review score distributions across the four themes (Environment, Labour & Human Rights, Ethics, Sustainable Procurement), flag suppliers whose performance declined or who need a corrective action plan. EcoVadis's live monitoring surfaces alerts on significant ESG incidents for rated suppliers — a continuous view of risk rather than a point-in-time snapshot.
 
-Critically, results should feed upward: preferred-supplier designations, contract renewals, pricing discussions, and the supply chain data needed for CSRD reporting and science-based targets. Over 80% of companies improved their EcoVadis score following a reassessment — but only when the programme gives them feedback, support and a clear reason to act.
+Critically, results should feed upward: preferred-supplier designations, contract renewals, pricing discussions, and the supply chain data needed for [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) reporting and science-based targets. Over 80% of companies improved their EcoVadis score following a reassessment — but only when the programme gives them feedback, support and a clear reason to act.
 
 The annual programme cycle: segmentation (risk × spend) → invitation by tier → launch communication → assessment → scorecard review → action planning (CAPs for priority suppliers) → reassessment.
 
 ## How does this connect to the bigger picture?
 
-A well-run programme is a live data source for the most demanding reporting obligations: ESRS E1 and S2 under CSRD require supply chain climate data and due diligence evidence — EcoVadis scorecards and evidence packages are directly relevant to both; supplier engagement is a primary mechanism for reducing Scope 3 Category 1 emissions; and for CSDDD preparation, a documented, evidence-based programme with proportionate due diligence by tier is precisely what the Directive expects. Addressing Scope 3 effectively requires procurement and sustainability teams to work from the same data — EcoVadis is one of the most effective bridges between the two.
+A well-run programme is a live data source for the most demanding reporting obligations: [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) E1 and S2 under [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) require supply chain climate data and due diligence evidence — EcoVadis scorecards and evidence packages are directly relevant to both; supplier engagement is a primary mechanism for reducing Scope 3 Category 1 emissions; and for [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj) preparation, a documented, evidence-based programme with proportionate due diligence by tier is precisely what the Directive expects. Addressing Scope 3 effectively requires procurement and sustainability teams to work from the same data — EcoVadis is one of the most effective bridges between the two.
 
 > "A supplier engagement programme is at its most valuable when the data it generates travels into preferred supplier designations, contract renewals, CSRD disclosures, and science-based target calculations. That is the architecture that justifies the investment."
 

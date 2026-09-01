@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis drives stronger sustainability management (Evernote, updated 2026-08-24)"
+sources: [ecovadis-360-watch, ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -61,7 +62,7 @@ EcoVadis evaluates through its **Policies-Actions-Results (P-A-R)** structure:
 
 - **Policies (25%):** the foundations — qualitative commitments, measurable SMART targets, public endorsements.
 - **Actions (40%):** tangible steps — training, certifications, measures implemented across the company's entities.
-- **Results (35%):** KPI tracking, internal and external reporting, stakeholder feedback (including the 360° Watch).
+- **Results (35%):** KPI tracking, internal and external reporting, stakeholder feedback (including the [360° Watch](https://ecovadis.com/)).
 
 The process is iterative — each category strengthens the others: policies set the tone for what to look for in your KPIs; targets determine how many actions a result requires; reporting reflects whether enough actions are in place; KPIs show whether targets are too timid or too ambitious.
 
@@ -71,9 +72,9 @@ The methodology is tailored to context: manufacturers typically must address wat
 
 - **Policies:** 20% for foundational documents; 5% for verifiable endorsements.
 - **Actions/Measures:** 24% — more points for multiple, documented measures per activated criterion.
-- **Certifications:** 16% — accredited achievements such as ISO 14001.
+- **Certifications:** 16% — accredited achievements such as [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html).
 - **Coverage multiplier:** how broadly actions and certifications are implemented across the business.
-- **Reporting:** 14% for internal KPIs and external reporting; **360° Watch: 21%** — external news affecting reputation.
+- **Reporting:** 14% for internal KPIs and external reporting; **[360° Watch](https://ecovadis.com/): 21%** — external news affecting reputation.
 
 Weights vary by industry and are dynamically optimised: higher-impact areas get more focus. Progressing towards Gold or Platinum means broadening coverage **and** deepening quantitative targets, with externally verified reporting and comprehensive policy updates.
 
@@ -81,7 +82,7 @@ Weights vary by industry and are dynamically optimised: higher-impact areas get 
 
 **Beginner — foundations first.** Define material topics from your business model, peers and activated criteria; write concise qualitative policies (consolidating similar subjects); implement easy, resource-light actions (employee training, grievance procedures); start internal KPI tracking linked to the policies. A household-goods wholesaler new to EcoVadis introduced foundational policies and an Excel KPI dashboard — earning Bronze and a solid SMS foundation.
 
-**Intermediate — structure and credibility.** More comprehensive materiality assessments (impact or financial, aligned to GRI, IFRS or SASB); three years of KPI data; sustainability reporting and ISO-type certifications; quantitative targets including Science Based Targets; measures extended to every site. A chemicals company moved from Silver to Gold by formalising SBTi targets, launching ESG training, publishing an inaugural sustainability report and endorsing the UN Global Compact.
+**Intermediate — structure and credibility.** More comprehensive materiality assessments (impact or financial, aligned to [GRI](https://www.globalreporting.org/standards/), IFRS or SASB); three years of KPI data; sustainability reporting and ISO-type certifications; quantitative targets including Science Based Targets; measures extended to every site. A chemicals company moved from Silver to Gold by formalising [SBTi](https://sciencebasedtargets.org/) targets, launching ESG training, publishing an inaugural sustainability report and endorsing the [UN Global Compact](https://unglobalcompact.org/participation/report/cop).
 
 **Advanced — best practice and verification.** Double materiality assessments and regular policy reviews; business-wide actions and certifications; external audits of controls and ESG practices; ESG KPIs integrated with ERP and financial reporting, externally verified. A logistics company maintained Platinum through a supply chain sustainability strategy with double materiality analysis, broader procurement action coverage and external KPI verification.
 
@@ -92,6 +93,6 @@ Focus on indicators and themes scoring below 100 — especially those weighing m
 ## Key takeaways
 
 - EcoVadis is a management blueprint, not just a rating: P-A-R weighted 25/40/35, tailored to industry, size and location.
-- Know the score anatomy: policies 20% (+5% endorsements), measures 24%, certifications 16%, reporting 14%, 360° Watch 21%, all modulated by coverage.
+- Know the score anatomy: policies 20% (+5% endorsements), measures 24%, certifications 16%, reporting 14%, [360° Watch](https://ecovadis.com/) 21%, all modulated by coverage.
 - Start where you are on the maturity curve — from Excel KPI dashboards at Bronze to double materiality and verified KPIs at Platinum.
 - The corrective action plan, filtered by weight, is your prioritised improvement roadmap.

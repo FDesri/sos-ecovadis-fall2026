@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Gestion des déchets - ENV3549 (Evernote, updated 2026-08-24; client example anonymised)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -82,7 +83,7 @@ ENV3549 asks: "What actions has your company implemented to manage waste?" — f
 
 ## Which operational details should you not forget?
 
-Remove any "to be validated by the client before external distribution" notices from a collector's report before uploading. When a collector's tonnages do not reconcile with the regulatory declaration (different perimeters: several collectors), add a perimeter note — otherwise the gap looks like an error. Finally, a rise in hazardous waste (+20.7% in absolute terms here) will be read as a deterioration: EcoVadis forgives it if it is commented on **and** paired with a quantified target ("−10% kg/t by 2028") written into the environmental policy.
+Remove any "to be validated by the client before external distribution" notices from a collector's report before uploading. When a collector's tonnages do not reconcile with the regulatory declaration (different perimeters: several collectors), add a perimeter note — otherwise the gap looks like an error. Finally, a rise in hazardous waste (+20.7% in absolute terms here) will be read as a deterioration: [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) forgives it if it is commented on **and** paired with a quantified target ("−10% kg/t by 2028") written into the environmental policy.
 
 ## Key takeaways
 

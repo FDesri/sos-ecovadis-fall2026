@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [sterke-ecovadis-indieningen-opbouwen]
 
 # Hoe beoordeelt EcoVadis de maturiteit van een bestaand ISO-gebaseerd managementsysteem?
 
-EcoVadis **voert geen eigen audit uit** — het beoordeelt de documenten die u aanlevert als bewijs van het bestaan en de werking van het systeem. Een geldig ISO-certificaat binnen de scope, van een geaccrediteerde instantie, is het primaire maturiteitsbewijs. Daarnaast zoeken analisten bewijs dat het systeem **actief wordt onderhouden**: recente interne auditrapporten, verslagen van directiebeoordelingen, logboeken van corrigerende acties, prestatiedata.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) **voert geen eigen audit uit** — het beoordeelt de documenten die u aanlevert als bewijs van het bestaan en de werking van het systeem. Een geldig ISO-certificaat binnen de scope, van een geaccrediteerde instantie, is het primaire maturiteitsbewijs. Daarnaast zoeken analisten bewijs dat het systeem **actief wordt onderhouden**: recente interne auditrapporten, verslagen van directiebeoordelingen, logboeken van corrigerende acties, prestatiedata.
 
 Een ISO-certificaat alleen, zonder bewijs van actieve werking, **scoort op certificaatniveau maar draagt niet bij aan Maatregelen of Rapportering**. Hoe meer u de werking van het systeem in de praktijk bewijst, hoe meer indicatoren ervan profiteren.

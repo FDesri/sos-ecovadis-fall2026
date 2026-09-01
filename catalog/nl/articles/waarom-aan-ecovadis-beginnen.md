@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis drives stronger sustainability management (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-360-watch, ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -61,7 +62,7 @@ EcoVadis evalueert via zijn structuur **Beleid-Acties-Resultaten (P-A-R)**:
 
 - **Beleid (25%):** de fundamenten — kwalitatieve engagementen, meetbare SMART-doelen, publieke aansluitingen.
 - **Acties (40%):** de tastbare stappen — opleidingen, certificeringen, maatregelen uitgerold in de entiteiten.
-- **Resultaten (35%):** KPI-opvolging, interne en externe rapportering, stakeholderfeedback (waaronder de 360° Watch).
+- **Resultaten (35%):** KPI-opvolging, interne en externe rapportering, stakeholderfeedback (waaronder de [360° Watch](https://ecovadis.com/)).
 
 Het proces is iteratief — elke categorie versterkt de andere: het beleid zet de toon voor wat uw KPI's moeten zoeken; de doelen bepalen hoeveel acties een resultaat vraagt; de rapportering toont of er genoeg acties zijn; de KPI's tonen of de doelen te voorzichtig of te ambitieus zijn.
 
@@ -71,9 +72,9 @@ De methodologie past zich aan de context aan: producenten moeten doorgaans water
 
 - **Beleid:** 20% voor de basisdocumenten; 5% voor verifieerbare aansluitingen.
 - **Acties/Maatregelen:** 24% — meer punten voor meerdere, gedocumenteerde maatregelen per geactiveerd criterium.
-- **Certificeringen:** 16% — geaccrediteerde realisaties zoals ISO 14001.
+- **Certificeringen:** 16% — geaccrediteerde realisaties zoals [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html).
 - **Dekkingsvermenigvuldiger:** hoe breed acties en certificeringen in de onderneming zijn uitgerold.
-- **Rapportering:** 14% voor interne KPI's en externe rapportering; **360° Watch: 21%** — extern nieuws dat de reputatie raakt.
+- **Rapportering:** 14% voor interne KPI's en externe rapportering; **[360° Watch](https://ecovadis.com/): 21%** — extern nieuws dat de reputatie raakt.
 
 De gewichten verschillen per sector en worden dynamisch geoptimaliseerd: domeinen met meer impact wegen zwaarder. Doorgroeien naar Goud of Platinum betekent de dekking verbreden **én** de kwantitatieve doelen verdiepen, met extern geverifieerde rapportering en geactualiseerd beleid.
 
@@ -81,7 +82,7 @@ De gewichten verschillen per sector en worden dynamisch geoptimaliseerd: domeine
 
 **Beginner — eerst de fundamenten.** Materiële onderwerpen bepalen vanuit uw bedrijfsmodel, uw peers en de geactiveerde criteria; bondige kwalitatieve beleidsdocumenten schrijven (verwante onderwerpen bundelen); eenvoudige, lichte acties uitrollen (opleidingen, klachtenprocedures); interne KPI-opvolging starten, gekoppeld aan het beleid. Een groothandel in huishoudartikelen, nieuw op EcoVadis, voerde basisbeleid en een Excel-KPI-dashboard in — met een Bronzen medaille en een stevige SMS-basis als resultaat.
 
-**Gevorderd — structuur en geloofwaardigheid.** Vollediger materialiteitsanalyses (impact- of financieel, afgestemd op GRI, IFRS of SASB); drie jaar KPI-data; duurzaamheidsrapportering en ISO-achtige certificeringen; kwantitatieve doelen, inclusief Science Based Targets; maatregelen uitgebreid naar elke site. Een chemiebedrijf klom van Zilver naar Goud door SBTi-doelen te formaliseren, ESG-opleidingen te lanceren, een eerste duurzaamheidsrapport te publiceren en het UN Global Compact te onderschrijven.
+**Gevorderd — structuur en geloofwaardigheid.** Vollediger materialiteitsanalyses (impact- of financieel, afgestemd op [GRI](https://www.globalreporting.org/standards/), IFRS of SASB); drie jaar KPI-data; duurzaamheidsrapportering en ISO-achtige certificeringen; kwantitatieve doelen, inclusief Science Based Targets; maatregelen uitgebreid naar elke site. Een chemiebedrijf klom van Zilver naar Goud door [SBTi](https://sciencebasedtargets.org/)-doelen te formaliseren, ESG-opleidingen te lanceren, een eerste duurzaamheidsrapport te publiceren en het [UN Global Compact](https://unglobalcompact.org/participation/report/cop) te onderschrijven.
 
 **Expert — beste praktijken en verificatie.** Dubbele-materialiteitsanalyses en regelmatige beleidsherzieningen; bedrijfsbrede acties en certificeringen; externe audits van controles en ESG-praktijken; ESG-KPI's geïntegreerd met ERP en financiële rapportering, extern geverifieerd. Een logistiek bedrijf behield zijn Platinum via een duurzaamheidsstrategie voor de toeleveringsketen: dubbele materialiteit, ruimere dekking van de inkoopacties, externe KPI-verificatie.
 
@@ -92,6 +93,6 @@ Richt de inspanning op de indicatoren en thema's onder de 100 — vooral die wel
 ## Om te onthouden
 
 - EcoVadis is een beheersblauwdruk, niet louter een rating: P-A-R gewogen 25/40/35, op maat van sector, grootte en locatie.
-- Ken de anatomie van de score: beleid 20% (+5% aansluitingen), maatregelen 24%, certificeringen 16%, rapportering 14%, 360° Watch 21%, alles gemoduleerd door de dekking.
+- Ken de anatomie van de score: beleid 20% (+5% aansluitingen), maatregelen 24%, certificeringen 16%, rapportering 14%, [360° Watch](https://ecovadis.com/) 21%, alles gemoduleerd door de dekking.
 - Vertrek vanaf uw plek op de maturiteitscurve — van het Excel-KPI-dashboard bij Brons tot dubbele materialiteit en geverifieerde KPI's bij Platinum.
 - Het Correctief Actieplan, gefilterd op gewicht, is uw geprioriteerde routekaart.

@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [ecovadis-activated-criteria-by-sector, understanding-the-ecovadis-scor
 
 # How does EcoVadis ensure a fair scoring system across diverse companies and sectors?
 
-EcoVadis designs questionnaires tailored to company size, industry and geography, **activating only the relevant indicators**. This ensures that medium and smaller enterprises are not penalised for criteria meant for larger firms. Scores reflect **percentile ranks across all participants**: a Gold medal signifies top-5% performance against all assessed companies worldwide, which is precisely what motivates continuous improvement — the peer group keeps getting better.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) designs questionnaires tailored to company size, industry and geography, **activating only the relevant indicators**. This ensures that medium and smaller enterprises are not penalised for criteria meant for larger firms. Scores reflect **percentile ranks across all participants**: a Gold medal signifies top-5% performance against all assessed companies worldwide, which is precisely what motivates continuous improvement — the peer group keeps getting better.

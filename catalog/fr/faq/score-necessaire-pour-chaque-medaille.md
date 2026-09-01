@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [rising-bar-exigences-croissantes-2026, seuils-ecovadis-emballage-pharm
 
 # Quel score faut-il pour chaque médaille, et peut-on prédire la médaille avant soumission ?
 
-Depuis janvier 2024, EcoVadis attribue les médailles au **percentile, non à seuils fixes** : Bronze pour le top 35 % des entreprises évaluées, Argent pour le top 15 %, Or pour le top 5 %, Platine pour le top 1 %. La base grandissant, le score approximatif correspondant à chaque niveau monte continuellement.
+Depuis janvier 2024, [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) attribue les médailles au **percentile, non à seuils fixes** : Bronze pour le top 35 % des entreprises évaluées, Argent pour le top 15 %, Or pour le top 5 %, Platine pour le top 1 %. La base grandissant, le score approximatif correspondant à chaque niveau monte continuellement.
 
 Selon les données de benchmark internes d'ESGIM en **juillet 2026**, les seuils indicatifs sont d'environ **64/100 pour le Bronze, 73/100 pour l'Argent, 81/100 pour l'Or et 84/100 pour le Platine**. Ce sont des estimations directionnelles tirées du portefeuille clients d'ESGIM, pas des cibles publiées par EcoVadis. La médaille peut être prédite avec une confiance raisonnable avant soumission via une **gap analysis structurée** face aux indicateurs de notation.

@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Achats Responsables - SUP307 (Evernote, mise à jour 2026-08-24 ; exemple client anonymisé)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -71,7 +72,7 @@ SUP307 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre po
 
 **8. Développement des capacités et incitation des fournisseurs.** Programmes d'aide et d'encouragement : formation, partage de bonnes pratiques, événements fournisseurs, récompenses, accès à des appels d'offres.
 
-**9. Autres actions.** À ne cocher **que si les options 1 à 8 ne s'appliquent pas** — EcoVadis le précise explicitement.
+**9. Autres actions.** À ne cocher **que si les options 1 à 8 ne s'appliquent pas** — [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) le précise explicitement.
 
 ## À quoi ressemble un dossier réel chez un imprimeur wallon de taille S ?
 

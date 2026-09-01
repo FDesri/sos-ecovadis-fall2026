@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -40,4 +41,4 @@ related: [comprendre-la-fiche-devaluation-ecovadis, soumissions-ecovadis-solides
 
 EcoVadis applique le **modèle P-A-R (Politiques, Actions, Résultats)** et un bon score exige les trois couches. Une politique seule démontre l'intention ; pour montrer qu'elle est appliquée, la preuve doit refléter une activité réelle dans l'organisation.
 
-Les preuves de mise en œuvre les plus convaincantes : **registres de formation, rapports d'audit ou d'inspection internes, documents de processus et de procédure, manuels employés, codes de conduite**. Pour les scores supérieurs, les certifications tierces indépendantes (comme **ISO 14001 ou un audit SMETA**) pèsent lourd parce qu'elles impliquent une vérification externe plutôt qu'une auto-déclaration. Les preuves de Résultats vont un cran plus loin en montrant les effets : **KPI suivis dans le temps, progrès vers les objectifs, données de performance mesurables**.
+Les preuves de mise en œuvre les plus convaincantes : **registres de formation, rapports d'audit ou d'inspection internes, documents de processus et de procédure, manuels employés, codes de conduite**. Pour les scores supérieurs, les certifications tierces indépendantes (comme **[ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) ou un audit SMETA**) pèsent lourd parce qu'elles impliquent une vérification externe plutôt qu'une auto-déclaration. Les preuves de Résultats vont un cran plus loin en montrant les effets : **KPI suivis dans le temps, progrès vers les objectifs, données de performance mesurables**.

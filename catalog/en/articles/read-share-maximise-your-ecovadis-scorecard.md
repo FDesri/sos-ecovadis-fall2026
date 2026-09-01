@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis scorecard: How to read, share & maximise your rating (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -50,7 +51,7 @@ faq:
 
 ## In brief
 
-**Expert insight — François Dequenne:** your EcoVadis scorecard isn't just a rating. It's your sustainability strategy mapped for customers, investors, and continuous improvement. For many suppliers the EcoVadis score is now a commercial requirement rather than a "nice to have" — yet the scorecard can feel opaque the first time you see it. This article explains how to read it, how to share it, what it costs, how long it is valid, and what a "good" score actually looks like.
+**Expert insight — François Dequenne:** your [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) scorecard isn't just a rating. It's your sustainability strategy mapped for customers, investors, and continuous improvement. For many suppliers the EcoVadis score is now a commercial requirement rather than a "nice to have" — yet the scorecard can feel opaque the first time you see it. This article explains how to read it, how to share it, what it costs, how long it is valid, and what a "good" score actually looks like.
 
 ## How do you read your scorecard?
 

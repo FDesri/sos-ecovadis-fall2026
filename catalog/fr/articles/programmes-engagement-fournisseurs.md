@@ -31,6 +31,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis supplier engagement programmes: From launch to lasting impact (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-methodology, eu-csrd]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -70,7 +71,7 @@ Segmentez la base fournisseurs sur au moins trois dimensions : risque de durabil
 | B | Risque moyen, dépense moyenne | Déploiement EcoVadis progressif, auto-évaluation aux premiers cycles, seuil de score au cycle 2 |
 | C | Risque faible, dépense faible | Signature du code de conduite, auto-déclaration, revue au renouvellement de contrat |
 
-L'enjeu est aussi réglementaire : la CSDDD exige une vigilance proportionnée sur les chaînes de valeur — avec le paquet Omnibus tel que proposé, la transposition est repoussée au 26 juillet 2028, avec une application échelonnée attendue à partir de 2029. La segmentation n'est pas seulement une bonne pratique : c'est l'architecture de programme que les régulateurs s'attendent à voir documentée.
+L'enjeu est aussi réglementaire : la [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj) exige une vigilance proportionnée sur les chaînes de valeur — avec le [paquet Omnibus](https://finance.ec.europa.eu/) tel que proposé, la transposition est repoussée au 26 juillet 2028, avec une application échelonnée attendue à partir de 2029. La segmentation n'est pas seulement une bonne pratique : c'est l'architecture de programme que les régulateurs s'attendent à voir documentée.
 
 ## Étape 2 : comment rendre les exigences contractuelles ?
 
@@ -82,7 +83,7 @@ Les seuils doivent être ancrés dans la réalité de départ. Exiger l'Or en an
 
 La première communication fournisseur donne le ton de tout le programme. Un fournisseur invité sans contexte préalable complète moins et traite l'évaluation comme une charge administrative. Une communication de lancement structurée couvre : la raison de la demande, le calendrier et les éventuelles exigences de score, le soutien disponible et les implications commerciales. Quand un briefing ou une formation fournisseurs précède l'activation, les taux de complétion et la qualité des preuves sont systématiquement meilleurs.
 
-Le Baromètre Achats Responsables EcoVadis 2024 montre que 67 % des acheteurs leaders exigent la participation de leurs fournisseurs à des bases de notation — et 53 % fournissent formation ESG et e-learning pour les soutenir. La corrélation n'est pas fortuite : les programmes qui réussissent construisent la capacité en même temps que l'exigence.
+Le [Baromètre Achats Responsables EcoVadis](https://ecovadis.com/insights/barometer/) 2024 montre que 67 % des acheteurs leaders exigent la participation de leurs fournisseurs à des bases de notation — et 53 % fournissent formation ESG et e-learning pour les soutenir. La corrélation n'est pas fortuite : les programmes qui réussissent construisent la capacité en même temps que l'exigence.
 
 ## Étape 4 : comment développer la capacité, pas seulement la conformité ?
 
@@ -96,13 +97,13 @@ L'action collective rend cela plus efficace : les initiatives sectorielles opér
 
 Collecter des scores n'est pas un résultat. La valeur vient de ce que les données permettent : évaluation des risques fournisseurs, suivi des progrès, décisions achats fondées sur des preuves. Installez une cadence de revue dans la gouvernance : taux de complétion par segment, distribution des scores sur les quatre thèmes (Environnement, Social et Droits Humains, Éthique, Achats Responsables), signalement des fournisseurs en recul ou nécessitant un plan d'action correctif. Le monitoring en continu d'EcoVadis remonte des alertes sur les incidents ESG significatifs des fournisseurs évalués — une vue continue du risque plutôt qu'un instantané.
 
-Surtout, les résultats doivent remonter : désignations de fournisseurs privilégiés, renouvellements de contrats, discussions tarifaires, et les données chaîne d'approvisionnement nécessaires au reporting CSRD et aux objectifs science-based. Plus de 80 % des entreprises ont amélioré leur score EcoVadis après une réévaluation — mais seulement quand le programme leur donne feedback, soutien et une raison claire d'agir.
+Surtout, les résultats doivent remonter : désignations de fournisseurs privilégiés, renouvellements de contrats, discussions tarifaires, et les données chaîne d'approvisionnement nécessaires au reporting [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) et aux objectifs science-based. Plus de 80 % des entreprises ont amélioré leur score EcoVadis après une réévaluation — mais seulement quand le programme leur donne feedback, soutien et une raison claire d'agir.
 
 Le cycle annuel du programme : segmentation (risque × dépense) → invitation par niveau → communication de lancement → évaluation → revue de la fiche d'évaluation → plans d'action (fournisseurs prioritaires) → réévaluation.
 
 ## Comment cela se raccorde-t-il à la vue d'ensemble ?
 
-Un programme bien mené est une source de données vivante pour les obligations de reporting les plus exigeantes : sous la CSRD, l'ESRS E1 et le S2 exigent respectivement des données climat de la chaîne d'approvisionnement et des preuves de vigilance — fiches d'évaluation et dossiers de preuves EcoVadis sont directement pertinents pour les deux ; l'engagement fournisseurs est un mécanisme primaire de réduction des émissions Scope 3 catégorie 1 ; et pour préparer la CSDDD, un programme documenté, fondé sur des preuves, avec une vigilance proportionnée par niveau, est précisément ce que la directive attend. Traiter efficacement le Scope 3 exige que les équipes achats et durabilité travaillent sur les mêmes données — EcoVadis est l'un des ponts les plus efficaces entre les deux.
+Un programme bien mené est une source de données vivante pour les obligations de reporting les plus exigeantes : sous la [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj), l'[ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) E1 et le S2 exigent respectivement des données climat de la chaîne d'approvisionnement et des preuves de vigilance — fiches d'évaluation et dossiers de preuves EcoVadis sont directement pertinents pour les deux ; l'engagement fournisseurs est un mécanisme primaire de réduction des émissions Scope 3 catégorie 1 ; et pour préparer la [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj), un programme documenté, fondé sur des preuves, avec une vigilance proportionnée par niveau, est précisément ce que la directive attend. Traiter efficacement le Scope 3 exige que les équipes achats et durabilité travaillent sur les mêmes données — EcoVadis est l'un des ponts les plus efficaces entre les deux.
 
 > « Un programme d'engagement fournisseurs atteint sa pleine valeur quand les données qu'il génère voyagent vers les désignations de fournisseurs privilégiés, les renouvellements de contrats, les divulgations CSRD et les calculs d'objectifs science-based. C'est cette architecture qui justifie l'investissement. »
 

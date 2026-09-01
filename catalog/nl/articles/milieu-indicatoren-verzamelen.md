@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Reporting indicateurs: Environnement (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -45,7 +46,7 @@ faq:
 
 ## In het kort
 
-De milieu-indicatoren van EcoVadis meten de impact van de onderneming op de planeet binnen het thema **Milieu**. Voor een kmo is de moeilijkheid niet de cijfers vinden — ze bestaan al in facturen, de CO₂-balans en reglementaire aangiften — maar **de meest verdedigbare bron kiezen** wanneer ze uiteenlopen, en dezelfde methode jaar na jaar aanhouden: EcoVadis kijkt naar de trend.
+De milieu-indicatoren van [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) meten de impact van de onderneming op de planeet binnen het thema **Milieu**. Voor een kmo is de moeilijkheid niet de cijfers vinden — ze bestaan al in facturen, de CO₂-balans en reglementaire aangiften — maar **de meest verdedigbare bron kiezen** wanneer ze uiteenlopen, en dezelfde methode jaar na jaar aanhouden: EcoVadis kijkt naar de trend.
 
 ## Wat dekt het thema Milieu?
 

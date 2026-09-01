@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Bronze to Silver (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -50,7 +51,7 @@ faq:
 
 ## How are EcoVadis medals awarded in 2026?
 
-Since January 2024, EcoVadis awards medals based entirely on **percentile ranking**, not fixed score thresholds. Your overall score is compared against every company rated on the platform over the previous 12 months: Bronze goes to the top 35%, Silver to the top 15%, Gold to the top 5%, Platinum to the top 1%. Because the database keeps growing and companies keep improving, the approximate score required for each medal rises over time.
+Since January 2024, [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) awards medals based entirely on **percentile ranking**, not fixed score thresholds. Your overall score is compared against every company rated on the platform over the previous 12 months: Bronze goes to the top 35%, Silver to the top 15%, Gold to the top 5%, Platinum to the top 1%. Because the database keeps growing and companies keep improving, the approximate score required for each medal rises over time.
 
 The score benchmarks in this article are drawn from ESG Interim Management's internal client portfolio data, last updated May 2026. They are directional indicators, not fixed targets published by EcoVadis.
 

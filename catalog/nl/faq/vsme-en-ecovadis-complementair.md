@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology, efrag-vsme]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,6 +38,6 @@ related: [wat-verandert-in-2026, rising-bar-strengere-normen-2026]
 
 # Is VSME-rapportering nodig voor een onderneming die al een EcoVadis-score heeft — en welke score kan ze ontgrendelen?
 
-Ze vullen elkaar aan in plaats van elkaar te vervangen. **EcoVadis scoort het duurzaamheidsmanagementsysteem**, terwijl **VSME een gestructureerd ESG-rapporteringskader biedt** (de vrijwillige kmo-standaard van EFRAG, gebaseerd op de ESRS). Een onderneming kan VSME gebruiken voor de externe rapporteringsvragen van klanten en regelgevers, terwijl EcoVadis de interne governancepraktijken valideert — een volledige ESG-aanpak, afgestemd op de verwachtingen van de stakeholders.
+Ze vullen elkaar aan in plaats van elkaar te vervangen. **EcoVadis scoort het duurzaamheidsmanagementsysteem**, terwijl **[VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) een gestructureerd ESG-rapporteringskader biedt** (de vrijwillige kmo-standaard van EFRAG, gebaseerd op de [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)). Een onderneming kan [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) gebruiken voor de externe rapporteringsvragen van klanten en regelgevers, terwijl EcoVadis de interne governancepraktijken valideert — een volledige ESG-aanpak, afgestemd op de verwachtingen van de stakeholders.
 
-Qua score: VSME is **volledig erkend door EcoVadis als geldig rapporteringskader, ongeacht de grootte**. Het haalbare maximum hangt af van de module: **alleen Basic-module → tot 75/100** op de indicator Rapportering; **Basic + Comprehensive → tot 100/100, mits externe verificatie**. Let op: EcoVadis auditeert niet of uw rapport aan de VSME-normen zelf voldoet — het controleert of het rapport de vereiste toelichtingen en KPI's bevat: een duurzaamheids- of jaarverslag, een verklaarde afstemming op een erkende standaard, een (dubbele) materialiteitsanalyse, en externe verificatie voor de topscore.
+Qua score: [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) is **volledig erkend door EcoVadis als geldig rapporteringskader, ongeacht de grootte**. Het haalbare maximum hangt af van de module: **alleen Basic-module → tot 75/100** op de indicator Rapportering; **Basic + Comprehensive → tot 100/100, mits externe verificatie**. Let op: EcoVadis auditeert niet of uw rapport aan de VSME-normen zelf voldoet — het controleert of het rapport de vereiste toelichtingen en KPI's bevat: een duurzaamheids- of jaarverslag, een verklaarde afstemming op een erkende standaard, een (dubbele) materialiteitsanalyse, en externe verificatie voor de topscore.

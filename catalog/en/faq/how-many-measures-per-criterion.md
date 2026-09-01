@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -40,7 +41,7 @@ related: [understanding-the-ecovadis-scorecard, improve-your-ecovadis-score-fast
 
 # Do we need four or more measures per criterion? How are "strengths" calculated?
 
-EcoVadis measures scoring is based on the number of **"strengths"** awarded per activated criterion — a strength is earned by satisfying a specific sub-question.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) measures scoring is based on the number of **"strengths"** awarded per activated criterion — a strength is earned by satisfying a specific sub-question.
 
 For **Environment and Labour & Human Rights**, the score combines two factors: the number of strengths per activated criterion and the percentage of activated criteria with at least one measure. To achieve 100/100: **4 or more strengths per criterion, coverage exceeding 65% of activated criteria, and at least one measure for every activated criterion**. **Ethics** is scored differently — on whether measures cover Corruption, Information Security or both, with additional conditions tied to documented risk assessments for either sub-criterion. **Sustainable Procurement** is scored on the **total** number of strengths across all criteria: six or more for 100/100.
 

@@ -31,6 +31,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis supplier engagement programmes: From launch to lasting impact (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-methodology, eu-csrd]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -70,7 +71,7 @@ Segmenteer de leveranciersbasis op minstens drie dimensies: duurzaamheidsrisico 
 | B | Gemiddeld risico, gemiddelde uitgave | Gefaseerde EcoVadis-uitrol, zelfbeoordeling in de eerste cycli, scoredrempel in cyclus 2 |
 | C | Laag risico, lage uitgave | Ondertekening gedragscode, eigen verklaring, review bij contractverlenging |
 
-Dit telt ook voor de naleving: de CSDDD vereist proportionele zorgplicht over de waardeketens — met het Omnibus-pakket zoals voorgesteld is de omzetting verschoven naar 26 juli 2028, met gefaseerde toepassing verwacht vanaf 2029. Segmentatie is niet louter goede praktijk: het is de programma-architectuur die regelgevers gedocumenteerd verwachten te zien.
+Dit telt ook voor de naleving: de [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj) vereist proportionele zorgplicht over de waardeketens — met het [Omnibus-pakket](https://finance.ec.europa.eu/) zoals voorgesteld is de omzetting verschoven naar 26 juli 2028, met gefaseerde toepassing verwacht vanaf 2029. Segmentatie is niet louter goede praktijk: het is de programma-architectuur die regelgevers gedocumenteerd verwachten te zien.
 
 ## Stap 2: hoe maakt u de eisen contractueel hard?
 
@@ -82,7 +83,7 @@ Drempels moeten vertrekken van de reële nulmeting. Goud eisen in jaar één zon
 
 De eerste leverancierscommunicatie zet de toon voor het hele programma. Een leverancier die zonder voorafgaande context wordt uitgenodigd, vult minder vaak in en behandelt de beoordeling als administratieve last. Een goed gestructureerde lanceringscommunicatie dekt: de reden van het verzoek, de tijdlijn en eventuele score-eisen, de beschikbare ondersteuning en de commerciële implicaties. Waar een briefing of opleiding voor leveranciers aan de activering voorafgaat, liggen voltooiingsgraden en bewijskwaliteit systematisch hoger.
 
-De EcoVadis Sustainable Procurement Barometer 2024 stelde vast dat 67% van de toonaangevende kopers deelname aan duurzaamheidsratings eist — en 53% biedt ESG-opleiding en e-learning ter ondersteuning. Die correlatie is geen toeval: de programma's met de beste resultaten bouwen capaciteit op naast de vereiste.
+De EcoVadis [Sustainable Procurement Barometer](https://ecovadis.com/insights/barometer/) 2024 stelde vast dat 67% van de toonaangevende kopers deelname aan duurzaamheidsratings eist — en 53% biedt ESG-opleiding en e-learning ter ondersteuning. Die correlatie is geen toeval: de programma's met de beste resultaten bouwen capaciteit op naast de vereiste.
 
 ## Stap 4: hoe bouwt u capaciteit, niet alleen naleving?
 
@@ -96,13 +97,13 @@ Collectieve actie maakt dit efficiënter: sectorbrede initiatieven via het EcoVa
 
 Scores verzamelen is geen resultaat. De waarde komt van wat de data mogelijk maakt: risicobeoordeling van leveranciers, opvolging van verbetering, inkoopbeslissingen op basis van bewijs. Bouw een reviewritme in de governance: voltooiingsgraden per segment, scoreverdelingen over de vier thema's (Milieu, Arbeids- en Mensenrechten, Ethiek, Duurzame Inkoop), signalering van leveranciers met dalende prestaties of nood aan een corrigerend actieplan. De live monitoring van EcoVadis geeft alerts bij significante ESG-incidenten van beoordeelde leveranciers — een continu risicobeeld in plaats van een momentopname.
 
-Cruciaal: de resultaten moeten opwaarts stromen — aanduidingen van voorkeursleveranciers, contractverlengingen, prijsgesprekken, en de ketendata voor CSRD-rapportering en science-based doelen. Meer dan 80% van de ondernemingen verbeterde zijn EcoVadis-score na een herbeoordeling — maar alleen wanneer het programma hun feedback, ondersteuning en een duidelijke reden om te handelen geeft.
+Cruciaal: de resultaten moeten opwaarts stromen — aanduidingen van voorkeursleveranciers, contractverlengingen, prijsgesprekken, en de ketendata voor [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)-rapportering en science-based doelen. Meer dan 80% van de ondernemingen verbeterde zijn EcoVadis-score na een herbeoordeling — maar alleen wanneer het programma hun feedback, ondersteuning en een duidelijke reden om te handelen geeft.
 
 De jaarlijkse programmacyclus: segmentatie (risico × uitgave) → uitnodiging per tier → lanceringscommunicatie → beoordeling → scorecard-review → actieplanning (prioritaire leveranciers) → herbeoordeling.
 
 ## Hoe sluit dit aan bij het grotere geheel?
 
-Een goed gerund programma is een levende databron voor de meest veeleisende rapporteringsverplichtingen: onder de CSRD vereisen ESRS E1 en S2 respectievelijk klimaatdata uit de keten en zorgplichtbewijs — EcoVadis-scorecards en bewijsdossiers zijn voor beide rechtstreeks relevant; leveranciersengagement is een primair mechanisme om Scope 3-emissies van categorie 1 te verminderen; en voor de CSDDD-voorbereiding is een gedocumenteerd, op bewijs gebaseerd programma met proportionele zorgplicht per tier precies wat de richtlijn verwacht. Scope 3 doeltreffend aanpakken vereist dat inkoop- en duurzaamheidsteams met dezelfde data werken — EcoVadis is een van de doeltreffendste bruggen tussen beide.
+Een goed gerund programma is een levende databron voor de meest veeleisende rapporteringsverplichtingen: onder de [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) vereisen [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) E1 en S2 respectievelijk klimaatdata uit de keten en zorgplichtbewijs — EcoVadis-scorecards en bewijsdossiers zijn voor beide rechtstreeks relevant; leveranciersengagement is een primair mechanisme om Scope 3-emissies van categorie 1 te verminderen; en voor de [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj)-voorbereiding is een gedocumenteerd, op bewijs gebaseerd programma met proportionele zorgplicht per tier precies wat de richtlijn verwacht. Scope 3 doeltreffend aanpakken vereist dat inkoop- en duurzaamheidsteams met dezelfde data werken — EcoVadis is een van de doeltreffendste bruggen tussen beide.
 
 > "Een leveranciersengagementprogramma is het meest waard wanneer de data die het genereert doorstroomt naar aanduidingen van voorkeursleveranciers, contractverlengingen, CSRD-rapportering en science-based targetberekeningen. Dat is de architectuur die de investering rechtvaardigt."
 

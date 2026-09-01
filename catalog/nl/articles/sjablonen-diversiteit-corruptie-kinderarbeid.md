@@ -31,6 +31,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Diversité / non-discrimination, Risque de corruption, prévention du travail des enfants / travail forcé - Canevas (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -52,7 +53,7 @@ faq:
 
 ## In het kort
 
-"Dat speelt allemaal niet in onze onderneming!" — de klassieke reactie van een Belgische kmo op de vragen over diversiteit, corruptie en kinderarbeid. Toch moet u antwoorden: EcoVadis beoordeelt het **managementsysteem**, niet het bestaan van incidenten. Het goede nieuws: het verwachte bewijs is eenvoudig — een selectierooster, een geschenkenregister, een hr-dashboard, een aanwervingschecklist — en zelfs "0 gevallen" is rapporteerbaar als het kanaal bestaat en wordt opgevolgd. Deze fiche geeft het nuttige bewijs per onderwerp en vijf gebruiksklare sjablonen.
+"Dat speelt allemaal niet in onze onderneming!" — de klassieke reactie van een Belgische kmo op de vragen over diversiteit, corruptie en kinderarbeid. Toch moet u antwoorden: [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) beoordeelt het **managementsysteem**, niet het bestaan van incidenten. Het goede nieuws: het verwachte bewijs is eenvoudig — een selectierooster, een geschenkenregister, een hr-dashboard, een aanwervingschecklist — en zelfs "0 gevallen" is rapporteerbaar als het kanaal bestaat en wordt opgevolgd. Deze fiche geeft het nuttige bewijs per onderwerp en vijf gebruiksklare sjablonen.
 
 ## Wat antwoordt u over diversiteit en non-discriminatie?
 

@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "B Corp or EcoVadis, what's the best choice for your company? (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -48,7 +49,7 @@ faq:
 
 ## En bref
 
-**Regard d'expert — François Dequenne :** la règle d'or, c'est que si vous êtes EcoVadis Argent, votre entreprise a la maturité pour entamer un parcours de certification B Corp.
+**Regard d'expert — François Dequenne :** la règle d'or, c'est que si vous êtes [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) Argent, votre entreprise a la maturité pour entamer un parcours de certification B Corp.
 
 > « Pour choisir le standard de notation ou de certification qui convient à votre entreprise, le facteur le plus important est sa contribution à vos objectifs stratégiques. »
 

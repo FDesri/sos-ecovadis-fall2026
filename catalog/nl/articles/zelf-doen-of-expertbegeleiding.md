@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Self-assessment vs. expert guidance - Which is right for you? (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -54,7 +55,7 @@ faq:
 
 ## In het kort
 
-**Expertinzicht — François Dequenne:** het is veel beter te focussen op een selectie acties die tellen (maatregelen) dan uw tijd te steken in het ontcijferen van het EcoVadis-labyrint en in het schrijven van documenten die toch niemand leest.
+**Expertinzicht — François Dequenne:** het is veel beter te focussen op een selectie acties die tellen (maatregelen) dan uw tijd te steken in het ontcijferen van het [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral)-labyrint en in het schrijven van documenten die toch niemand leest.
 
 De beoordeling dekt de vier thema's via beleid, acties en resultaten. De echte vraag is niet of u het alleen *kunt*, maar of de tijd die kruipt in het aanleren van een complexe, voortdurend evoluerende methodologie uw beste investering is.
 

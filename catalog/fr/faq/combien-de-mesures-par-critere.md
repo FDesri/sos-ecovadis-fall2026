@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -40,7 +41,7 @@ related: [comprendre-la-fiche-devaluation-ecovadis, ameliorer-son-score-ecovadis
 
 # Faut-il quatre mesures ou plus par critère ? Comment les « strengths » sont-ils calculés ?
 
-Le score Mesures d'EcoVadis repose sur le nombre de **« strengths »** attribués par critère activé — un strength s'obtient en satisfaisant une sous-question spécifique.
+Le score Mesures d'[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) repose sur le nombre de **« strengths »** attribués par critère activé — un strength s'obtient en satisfaisant une sous-question spécifique.
 
 Pour **l'Environnement et le Social et Droits Humains**, le score combine deux facteurs : le nombre de strengths par critère activé et le pourcentage de critères activés avec au moins une mesure. Pour 100/100 : **4 strengths ou plus par critère, une couverture supérieure à 65 % des critères activés, et au moins une mesure pour chaque critère activé**. **L'Éthique** se note différemment — selon que les mesures couvrent la Corruption, la Sécurité de l'information ou les deux, avec des conditions liées aux analyses de risques documentées. Les **Achats Responsables** se notent sur le **total** des strengths tous critères confondus : six ou plus pour 100/100.
 

@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "B Corp or EcoVadis, what's the best choice for your company? (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -48,7 +49,7 @@ faq:
 
 ## In het kort
 
-**Expertinzicht — François Dequenne:** de vuistregel is dat wie EcoVadis Zilver heeft, de maturiteit bezit om aan een B Corp-certificeringstraject te beginnen.
+**Expertinzicht — François Dequenne:** de vuistregel is dat wie [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) Zilver heeft, de maturiteit bezit om aan een B Corp-certificeringstraject te beginnen.
 
 > "Bij de keuze van de rating- of certificeringsstandaard die bij uw onderneming past, is de belangrijkste factor hoe hij bijdraagt aan uw strategische doelen."
 

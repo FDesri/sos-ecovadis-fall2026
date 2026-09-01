@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Diversité / non-discrimination, Risque de corruption, prévention du travail des enfants / travail forcé - Canevas (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -51,7 +52,7 @@ faq:
 
 ## In brief
 
-"None of that happens in our company!" — the classic reaction of a Belgian SME to the diversity, corruption and child-labour questions. Yet you must answer: EcoVadis assesses the **management system**, not the existence of incidents. The good news: the expected evidence is simple — a recruitment grid, a gifts register, an HR dashboard, a hiring checklist — and even "0 cases" can be reported if the channel exists and is monitored. This article gives the useful evidence per subject and five ready-to-use templates.
+"None of that happens in our company!" — the classic reaction of a Belgian SME to the diversity, corruption and child-labour questions. Yet you must answer: [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) assesses the **management system**, not the existence of incidents. The good news: the expected evidence is simple — a recruitment grid, a gifts register, an HR dashboard, a hiring checklist — and even "0 cases" can be reported if the channel exists and is monitored. This article gives the useful evidence per subject and five ready-to-use templates.
 
 ## What do you answer on diversity and non-discrimination?
 

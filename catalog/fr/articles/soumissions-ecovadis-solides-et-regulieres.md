@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "How to build strong EcoVadis submissions consistently (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -49,7 +50,7 @@ faq:
 
 ## En bref
 
-**Regard d'expert — François Dequenne :** construire une soumission EcoVadis solide n'est pas une tâche ponctuelle mais un chemin continu, qui évolue avec votre organisation. Les scores deviennent chaque année plus compétitifs, les médailles étant réservées aux meilleurs percentiles — ce qui fait de la bonne pratique d'hier la moyenne de demain.
+**Regard d'expert — François Dequenne :** construire une soumission [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) solide n'est pas une tâche ponctuelle mais un chemin continu, qui évolue avec votre organisation. Les scores deviennent chaque année plus compétitifs, les médailles étant réservées aux meilleurs percentiles — ce qui fait de la bonne pratique d'hier la moyenne de demain.
 
 > « EcoVadis n'est pas une case à cocher, c'est un chemin d'amélioration continue. »
 

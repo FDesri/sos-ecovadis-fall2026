@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "glossaire-ecovadis-en-fr-nl.md v2.0 (projet Claude / Drive 00_project, 2026-08-27)"
+sources: [ec-omnibus, ecovadis-360-watch, ecovadis-medals, ecovadis-methodology, efrag-vsme, eu-csddd, eu-csrd]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-24
@@ -63,7 +64,7 @@ Règle pratique : sur un terme ⚠️, écrire le néerlandais **suivi du terme 
 
 1. **La terminologie officielle EcoVadis prime, dans chaque langue.** Si EcoVadis FR dit « fiche d'évaluation », on dit « fiche d'évaluation ». Si EcoVadis NL dit « scorecard », on dit « scorecard ». Les deux langues ne tranchent pas pareil, et c'est normal (voir §8-1).
 2. **Ne jamais traduire une traduction.** Un article NL se traduit depuis l'anglais ou depuis le concept, jamais depuis le français. Le thème 2 en est la preuve : EN *Labor & Human Rights* → FR **Social et Droits Humains** → NL **Arbeids- en Mensenrechten**. Passer par le français donnerait *Sociaal en Mensenrechten*, qui n'existe pas.
-3. **Les noms de produits, de badges et de standards ne se traduisent pas.** Ratings, Vitals, IQ Plus, Carbon Action Manager, Committed, Fast Mover, VSME, CSRD, Scope 1/2/3 restent tels quels en FR comme en NL.
+3. **Les noms de produits, de badges et de standards ne se traduisent pas.** Ratings, Vitals, IQ Plus, Carbon Action Manager, Committed, Fast Mover, [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded), [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj), Scope 1/2/3 restent tels quels en FR comme en NL.
 4. **Quand le terme officiel est lourd et le terme d'usage est répandu, écrire les deux — une fois.** `fiche d'évaluation (scorecard)` à la première occurrence, puis le terme officiel seul.
 5. **Le terme que les gens tapent et posent en question l'emporte dans les titres.** Objectif de découvrabilité : un H1 « Combien coûte une évaluation EcoVadis ? » est trouvable ; « Modalités tarifaires du dispositif de notation » ne l'est pas. Idem en NL : *Wat kost een EcoVadis-beoordeling?* et non *Tariefmodaliteiten van het beoordelingssysteem*.
 
@@ -161,7 +162,7 @@ Règle pratique : sur un terme ⚠️, écrire le néerlandais **suivi du terme 
 | Carbon Action Manager | Carbon Action Manager | Carbon Action Manager ✅ | Expliciter « pilotage carbone fournisseurs » / « CO₂-beheer voor leveranciers » |
 | PCF Calculator | PCF Calculator | PCF Calculator ⚠️ | NL emploie aussi « Carbon Estimator » ✅ pour un outil voisin — vérifier lequel est visé |
 | EcoVadis Academy | EcoVadis Academy | EcoVadis Academy ✅ | — |
-| **360° Watch** | **Veille 360°** | **360° Watch** ⚠️ | Pas de terme NL publié. Recommandation : garder l'anglais + glose « de doorlopende mediascreening van EcoVadis ». Voir §8-3 |
+| **[360° Watch](https://ecovadis.com/)** | **Veille 360°** | **[360° Watch](https://ecovadis.com/)** ⚠️ | Pas de terme NL publié. Recommandation : garder l'anglais + glose « de doorlopende mediascreening van EcoVadis ». Voir §8-3 |
 | Findings (major/minor) | observations (majeures/mineures) | bevindingen ⚠️ | Éviter *constats*, *signalements* en FR ; éviter *vaststellingen* en NL (registre juridique) |
 | Live News | Live News | Live News ⚠️ | Glose : « actualités RSE surveillées entre deux évaluations » / « nieuws tussen twee beoordelingen » |
 | Requesting company | entreprise à l'origine de la demande | aanvragend bedrijf ⚠️ | Voir §7-4 et §8-4 |
@@ -181,11 +182,11 @@ Règle pratique : sur un terme ⚠️, écrire le néerlandais **suivi du terme 
 | Sustainability | durabilité | duurzaamheid ✅ | — |
 | CSR | RSE | **MVO** ⚠️ 🇧🇪 | *maatschappelijk verantwoord ondernemen*. Terme standard en Flandre ; EcoVadis NL préfère *duurzaamheid* ✅. Voir §8-5 |
 | ESG | ESG | ESG ✅ | — |
-| CSRD | CSRD | CSRD ✅ | Glose FR « directive sur le reporting de durabilité » ; NL « richtlijn duurzaamheidsrapportering » 🇧🇪 |
-| CSDDD / CS3D | CSDDD | CS3D ✅ | NL site emploie « CS3D » ; glose « richtlijn inzake passende zorgvuldigheid » |
-| **Due diligence** | **devoir de vigilance** | **due diligence** ✅ | NL garde l'anglais (« Due diligence voor mensenrechten »). Alternatives NL : *passende zorgvuldigheid* (UE officiel), *gepaste zorgvuldigheid* 🇧🇪. En FR, ne pas mélanger avec la *due diligence* M&A |
-| Omnibus package | paquet Omnibus | Omnibus-pakket ⚠️ | — |
-| VSME | VSME | VSME ✅ | Glose : « standard volontaire PME (EFRAG) » / « vrijwillige duurzaamheidsstandaard voor kmo's (EFRAG) » |
+| [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) | [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) | CSRD ✅ | Glose FR « directive sur le reporting de durabilité » ; NL « richtlijn duurzaamheidsrapportering » 🇧🇪 |
+| [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj) / CS3D | [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj) | CS3D ✅ | NL site emploie « CS3D » ; glose « richtlijn inzake passende zorgvuldigheid » |
+| **Due diligence** | **[devoir de vigilance](https://eur-lex.europa.eu/eli/dir/2024/1760/oj)** | **due diligence** ✅ | NL garde l'anglais (« Due diligence voor mensenrechten »). Alternatives NL : *passende zorgvuldigheid* (UE officiel), *gepaste zorgvuldigheid* 🇧🇪. En FR, ne pas mélanger avec la *due diligence* M&A |
+| [Omnibus](https://finance.ec.europa.eu/) package | [paquet Omnibus](https://finance.ec.europa.eu/) | [Omnibus](https://finance.ec.europa.eu/)-pakket ⚠️ | — |
+| [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) | [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) | VSME ✅ | Glose : « standard volontaire PME (EFRAG) » / « vrijwillige duurzaamheidsstandaard voor kmo's (EFRAG) » |
 | Compliance | conformité | naleving ✅ | NL site : « Regelgeving & naleving » |
 | Regulation | réglementation | regelgeving ✅ | — |
 | Materiality / double materiality | matérialité / double matérialité | materialiteit / dubbele materialiteit ⚠️ | En FR, éviter *importance relative* (terme comptable) |
@@ -278,7 +279,7 @@ Recommandation en gras.
 - *Duurzaamheidsbeoordeling* ✅ — le composé officiel, un peu long mais très cherchable.
 → Alterner selon la phrase, exactement comme *notation* / *évaluation* en français.
 
-**3. 360° Watch**
+**3. [360° Watch](https://ecovadis.com/)**
 - **Garder « 360° Watch »** ⚠️ + glose *de doorlopende mediascreening door EcoVadis*. Recommandé : le client NL voit ce terme en anglais sur sa plateforme.
 - *360°-monitoring* — compréhensible, mais invente un terme qui n'existe nulle part.
 - *360°-waakzaamheid* — calque du français « veille ». ❌
@@ -351,7 +352,7 @@ Le site NL d'EcoVadis est rédigé en néerlandais des Pays-Bas. L'audience de s
 
 ## 11. Ne jamais traduire — dans aucune des trois langues
 
-Ratings · Vitals · IQ Plus · Carbon Action Manager · Carbon Estimator · PCF Calculator · EcoVadis Academy · Live News · Committed · Fast Mover · Select / Premium / Corporate · VSME · Basic / Comprehensive · CSRD · CSDDD / CS3D · ESG · Scope 1/2/3 · GHG Protocol · GRI · SASB · ISSB · CBAM · ETS · RHI · TFS · PDCA · P-A-R · ISIC · greenwashing · greenhushing
+Ratings · Vitals · IQ Plus · Carbon Action Manager · Carbon Estimator · PCF Calculator · EcoVadis Academy · Live News · Committed · Fast Mover · Select / Premium / Corporate · VSME · Basic / Comprehensive · CSRD · CSDDD / CS3D · ESG · Scope 1/2/3 · [GHG Protocol](https://ghgprotocol.org/corporate-standard) · [GRI](https://www.globalreporting.org/standards/) · SASB · ISSB · CBAM · ETS · RHI · TFS · PDCA · P-A-R · ISIC · greenwashing · greenhushing
 
 ---
 

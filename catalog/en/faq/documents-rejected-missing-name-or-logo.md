@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,6 +38,6 @@ related: [supporting-documents-for-xs-companies, build-strong-ecovadis-submissio
 
 # External documents were rejected for missing the company name or logo — what should we do?
 
-EcoVadis requires every document to carry an **affiliation with the assessed company**: a company name or a logo must appear on it. Without one of these the document is rejected — there is no exception, and ESGIM's experience confirms it: whenever a document carried neither, it was rejected.
+[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) requires every document to carry an **affiliation with the assessed company**: a company name or a logo must appear on it. Without one of these the document is rejected — there is no exception, and ESGIM's experience confirms it: whenever a document carried neither, it was rejected.
 
 Internal day-to-day documents, training records and procedural materials often lack the logo by default. The simplest fix: produce all internally generated documents on **branded templates**. Where an external provider issues a certificate or training record, ask them to include the company name. Where that is not possible, a brief **cover sheet on company letterhead** naming the employee, the company, the training attended and the date is sufficient to establish the required link between document and entity.

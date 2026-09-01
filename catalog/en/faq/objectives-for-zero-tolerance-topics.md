@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -39,6 +40,6 @@ related: [evidence-templates-diversity-corruption-child-labour, ethics-pack-corr
 
 # What quantitative objectives does EcoVadis expect for zero-tolerance topics like child labour and corruption?
 
-For zero-tolerance topics, EcoVadis accepts a **different evidence structure in place of reduction targets**: a documented policy **prohibiting** the practice; measures implementing **due diligence** — supply-chain audits, training completion records, a formal grievance process; and **performance data showing the effectiveness of those controls** — number of audits conducted, percentage of suppliers screened, number of reported incidents, training completion rates.
+For zero-tolerance topics, [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) accepts a **different evidence structure in place of reduction targets**: a documented policy **prohibiting** the practice; measures implementing **due diligence** — supply-chain audits, training completion records, a formal grievance process; and **performance data showing the effectiveness of those controls** — number of audits conducted, percentage of suppliers screened, number of reported incidents, training completion rates.
 
 The zero-tolerance framing means the objective is **operationalised through control processes**: documenting the process and its consistent application year over year is the functional equivalent of a performance KPI for these topics.

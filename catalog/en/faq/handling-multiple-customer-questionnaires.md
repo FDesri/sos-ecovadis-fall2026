@@ -25,6 +25,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "FAQ 2025 — ESG webinars Q&A (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -37,4 +38,4 @@ related: [read-share-maximise-your-ecovadis-scorecard]
 
 # How can we manage varied sustainability questionnaires from customers when already rated by EcoVadis?
 
-Prompt customers to **consult your EcoVadis scorecard** to avoid duplicate requests. Survey fatigue is common, and better internal alignment within customer organisations can reduce repetitive questionnaires. Leveraging the EcoVadis platform as a **single source of supplier sustainability data** streamlines communication and reduces the burden on you as a supplier — one structured, verified scorecard replaces a stack of divergent Excel questionnaires.
+Prompt customers to **consult your [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) scorecard** to avoid duplicate requests. Survey fatigue is common, and better internal alignment within customer organisations can reduce repetitive questionnaires. Leveraging the EcoVadis platform as a **single source of supplier sustainability data** streamlines communication and reduces the burden on you as a supplier — one structured, verified scorecard replaces a stack of divergent Excel questionnaires.

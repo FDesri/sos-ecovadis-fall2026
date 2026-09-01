@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Principaux conseils pratiques et tips (Evernote, bijgewerkt 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -48,7 +49,7 @@ faq:
 
 ## In het kort
 
-Vijf families van tips bundelen het gros van de terreinervaring: de teamorganisatie, de afbakening van de scope, de documentdiscipline, de rapporteringsscore, en het anticiperen op de nieuwigheden (materialiteit, 360° Watch). Geen enkele vraagt een groot budget — allemaal vragen ze dat u er vroeg aan begint.
+Vijf families van tips bundelen het gros van de terreinervaring: de teamorganisatie, de afbakening van de scope, de documentdiscipline, de rapporteringsscore, en het anticiperen op de nieuwigheden (materialiteit, [360° Watch](https://ecovadis.com/)). Geen enkele vraagt een groot budget — allemaal vragen ze dat u er vroeg aan begint.
 
 ## Hoe organiseert u het team en stuurt u het project?
 
@@ -88,13 +89,13 @@ Vijf families van tips bundelen het gros van de terreinervaring: de teamorganisa
 
 **Splits de gegevens van dochters uit:** bij een beoordeling op entiteitsniveau wordt een geconsolideerd groepsrapport alleen aanvaard als KPI's en data **expliciet per entiteit zijn uitgesplitst**.
 
-**Gebruik audits als alternatief voor certificeringen:** zijn formele certificeringen (ISO 14001…) te duur voor uw omvang, dien dan externe auditrapporten in (SMETA, BSCI, TfS). Voorwaarden: een op zichzelf staande audit (niet gekoppeld aan een certificering), uitgevoerd in de **laatste 2 jaar** door een geverifieerde externe auditor, met dekking van **meer dan 30% van uw wereldwijde activiteiten**.
+**Gebruik audits als alternatief voor certificeringen:** zijn formele certificeringen ([ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)…) te duur voor uw omvang, dien dan externe auditrapporten in (SMETA, BSCI, TfS). Voorwaarden: een op zichzelf staande audit (niet gekoppeld aan een certificering), uitgevoerd in de **laatste 2 jaar** door een geverifieerde externe auditor, met dekking van **meer dan 30% van uw wereldwijde activiteiten**.
 
 ## Hoe anticipeert u op materialiteit en de 360° Watch?
 
 **Motiveer niet-materialiteit grondig (pilot 2026):** kunt u bepaalde milieuonderwerpen uitsluiten (water, luchtverontreiniging…), dien dan een **formele materialiteitsanalyse (of dubbele materialiteit)** in die de thema's afbakent en de uitsluiting staaft met impactdata of stakeholderfeedback. Zo niet, licht uw redenen toe in de commentaarvelden om heractivering van het criterium te vermijden.
 
-**Bewaak de risico's van de 360° Watch:** gebruik "Live News" op uw platform om negatief nieuws te anticiperen, en controleer of de publicaties wel degelijk uw juridische entiteit betreffen, zodat u fouten bij de EcoVadis-support kunt betwisten.
+**Bewaak de risico's van de [360° Watch](https://ecovadis.com/):** gebruik "Live News" op uw platform om negatief nieuws te anticiperen, en controleer of de publicaties wel degelijk uw juridische entiteit betreffen, zodat u fouten bij de EcoVadis-support kunt betwisten.
 
 ## Om te onthouden
 

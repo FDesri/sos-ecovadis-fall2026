@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Évolution 2024/2025/2026 - Pourquoi est-ce plus difficile d'obtenir et de conserver une médaille de bronze? (Evernote, updated 2026-08-24)"
+sources: [ecovadis-360-watch, ecovadis-medals, ecovadis-methodology, efrag-vsme, esgim-portfolio, eu-csrd]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -56,18 +57,18 @@ In three years EcoVadis changed in nature: from a fixed score to continuous perc
 
 - **Introduction of the badges**: the "Committed" badge (minimum score of 45) and "Fast Mover" badge (score of 34-44 with an improvement of at least 6 points over 18 months) to recognise progress.
 - **Percentile-based medals**: medals no longer depend on fixed scores but on a percentile ranking against the entire EcoVadis database of the previous 12 months.
-- **AI in the 360° Watch**: an artificial-intelligence algorithm identifies companies' public news (positive or negative), with a direct impact on score and medal eligibility.
+- **AI in the [360° Watch](https://ecovadis.com/)**: an artificial-intelligence algorithm identifies companies' public news (positive or negative), with a direct impact on score and medal eligibility.
 
 **In 2025:**
 
 - **Creation of the "Extra Large" (XL) category**: companies with more than 50,000 employees now have specific scoring rules, with mandatory targets (Scope 1 & 2 objectives for the maximum Environment score).
-- **Criteria and questionnaire update**: new topics on the circular economy (product end-of-life, packaging), living wage and working time. Conversely, anti-competitive practices are no longer covered by direct questions: they are tracked only through the 360° Watch.
+- **Criteria and questionnaire update**: new topics on the circular economy (product end-of-life, packaging), living wage and working time. Conversely, anti-competitive practices are no longer covered by direct questions: they are tracked only through the [360° Watch](https://ecovadis.com/).
 
 **In 2026:**
 
 - **Environmental materiality pilot**: in certain sectors, companies can choose whether topics such as water, air pollution or product end-of-life are material to them — a more proportionate, tailored assessment.
-- **Reinforced 360° Watch assessment**: introduction of "stakeholder consensus" to better assess the severity of controversies and avoid disproportionate penalties for uncertain or disputed impacts.
-- **Recognition of VSME and ESRS standards**: new strengths for reports compliant with EFRAG's VSME standard (European SMEs) and with CSRD/ESRS.
+- **Reinforced [360° Watch](https://ecovadis.com/) assessment**: introduction of "stakeholder consensus" to better assess the severity of controversies and avoid disproportionate penalties for uncertain or disputed impacts.
+- **Recognition of [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) and [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) standards**: new strengths for reports compliant with EFRAG's [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) standard (European SMEs) and with [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)/[ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj).
 - **Integration of external environmental risks** ([ENV7003](external-climate-risk-assessment-env7003.md)) and **actions against external environmental disruptions** ([ENV7012](adapting-to-environmental-disruptions-env7012.md)).
 
 ## Why has earning and keeping a medal become harder?
@@ -81,5 +82,5 @@ In three years EcoVadis changed in nature: from a fixed score to continuous perc
 
 - 2024 switched EcoVadis to percentile competition: the bar rises mechanically every year.
 - 2025 hardened the questionnaire (circular economy, living wage) and created the XL category.
-- 2026 personalises materiality, refines the 360° Watch and rewards VSME/ESRS.
+- 2026 personalises materiality, refines the 360° Watch and rewards [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)/ESRS.
 - The four combined effects: rising thresholds, mandatory public reporting, strict evidence breakdowns, and a 360° Watch able to block medals for 3 to 5 years.

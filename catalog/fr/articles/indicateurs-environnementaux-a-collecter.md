@@ -27,6 +27,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Reporting indicateurs: Environnement (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -44,7 +45,7 @@ faq:
 
 ## En bref
 
-Les indicateurs environnementaux d'EcoVadis mesurent l'impact de l'entreprise sur la planète dans le cadre du thème **Environnement**. Pour une PME, la difficulté n'est pas de trouver les chiffres — ils existent dans les factures, le bilan carbone et les déclarations réglementaires — mais de **choisir la source la plus défendable** quand elles divergent, et de garder la même méthode d'une année à l'autre : EcoVadis regarde la tendance.
+Les indicateurs environnementaux d'[EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) mesurent l'impact de l'entreprise sur la planète dans le cadre du thème **Environnement**. Pour une PME, la difficulté n'est pas de trouver les chiffres — ils existent dans les factures, le bilan carbone et les déclarations réglementaires — mais de **choisir la source la plus défendable** quand elles divergent, et de garder la même méthode d'une année à l'autre : EcoVadis regarde la tendance.
 
 ## Que couvre le thème Environnement ?
 

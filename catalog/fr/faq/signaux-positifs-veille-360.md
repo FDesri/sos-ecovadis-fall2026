@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24) + EcoVadis FAQ 2026 (2) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,7 +39,7 @@ related: [comprendre-la-fiche-devaluation-ecovadis]
 
 # Qu'est-ce qu'un signal positif dans la veille 360° — et peut-on le planifier ?
 
-La veille 360° fonctionne d'abord comme un **modificateur** : sa position neutre est 75/100 par thème, et les constats l'ajustent vers le haut ou le bas. Des scores au-dessus de 75 sont possibles mais **rares**. EcoVadis surveille les sources publiques externes — médias, rapports d'ONG, certifications reconnues, initiatives sectorielles — et un ajustement à la hausse exige typiquement **plusieurs sources crédibles et indépendantes confirmant des résultats ESG positifs**.
+La veille 360° fonctionne d'abord comme un **modificateur** : sa position neutre est 75/100 par thème, et les constats l'ajustent vers le haut ou le bas. Des scores au-dessus de 75 sont possibles mais **rares**. [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) surveille les sources publiques externes — médias, rapports d'ONG, certifications reconnues, initiatives sectorielles — et un ajustement à la hausse exige typiquement **plusieurs sources crédibles et indépendantes confirmant des résultats ESG positifs**.
 
 Ce qui qualifie : des prix sectoriels de durabilité largement reconnus, confirmés en médias indépendants ; des certifications ESG vérifiées indépendamment hors du référentiel standard ; une couverture positive soutenue d'initiatives précises dans plusieurs médias indépendants ; des données d'impact vérifiées citées dans des sources externes crédibles. Ce qui ne qualifie pas : les communications marketing vantant une gamme durable sans vérification indépendante, et **les communiqués de presse émis par l'entreprise elle-même**. Les articles de partenaires ou d'ONG peuvent compter s'ils citent des résultats précis et vérifiables.
 

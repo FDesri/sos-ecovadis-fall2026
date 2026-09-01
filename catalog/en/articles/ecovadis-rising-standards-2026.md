@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis' rising standards in 2026 (Evernote, updated 2026-08-24)"
+sources: [ecovadis-360-watch, ecovadis-medals, ecovadis-methodology, efrag-vsme, eu-csrd]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -77,7 +78,7 @@ The most frequent and costly 2025 mistake: **scoping misalignment**. Three asses
 - **Entity assessment:** a single legal entity with no subsidiaries.
 - **Site assessment:** a specific geographic location without its own legal entity name.
 
-Scoping affects scoring directly. A group assessment fed with policy documents covering only one subsidiary gets those documents rejected — low Policies scoring. If two subsidiaries out of ten hold ISO 45001, Coverage scores low because only 20% of operations are covered. Fix the assessment level before starting; report any mergers or acquisitions to EcoVadis immediately; align every document with the chosen scope.
+Scoping affects scoring directly. A group assessment fed with policy documents covering only one subsidiary gets those documents rejected — low Policies scoring. If two subsidiaries out of ten hold [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html), Coverage scores low because only 20% of operations are covered. Fix the assessment level before starting; report any mergers or acquisitions to EcoVadis immediately; align every document with the chosen scope.
 
 ### Learning #2 — Much higher requirements for the Reporting score
 
@@ -86,7 +87,7 @@ Reporting accounts for **14% of the overall score**, and EcoVadis raised the bar
 - **KPI coverage above 85%** of your material criteria — quantitative metrics for each activated criterion across all four themes, not just EcoVadis' specific KPI requests
 - **Three consecutive years of data** in the same document, with the latest period no older than 2 years
 - **A public sustainability or annual report** — without one, your Reporting score is capped at 50/100 regardless of internal data
-- **Alignment with recognised standards**: GRI ("in accordance"), SASB, IFRS S1 & S2, ESRS or VSME
+- **Alignment with recognised standards**: [GRI](https://www.globalreporting.org/standards/) ("in accordance"), SASB, IFRS S1 & S2, [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) or [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)
 - **A materiality analysis** — the foundational step that determines which ESG topics belong in your reporting
 - **External verification** by an accredited independent third party
 
@@ -94,20 +95,20 @@ Building a solid report takes three to four months, plus assurance lead time: st
 
 ### Learning #3 — Audits can score in place of certifications
 
-For smaller companies, ISO certifications can be costly. Good news: **sustainability-related audits can score instead**, under conditions — a standalone audit (not contributing to a certification), covering more than 30% of total operations, on topics material for you, with the complete report from a qualified or accredited external auditor. Valid examples: Sedex SMETA (closely aligned with the EcoVadis methodology), amfori BSCI, TfS for chemicals; even second-party customer audits by a qualified external auditor. It contributes less than a certification (ISO 14001 contributes up to 100 points on environmental management systems) — and beware: major or minor non-conformities in the report can cost points or feed your 360° Watch indicator.
+For smaller companies, ISO certifications can be costly. Good news: **sustainability-related audits can score instead**, under conditions — a standalone audit (not contributing to a certification), covering more than 30% of total operations, on topics material for you, with the complete report from a qualified or accredited external auditor. Valid examples: Sedex SMETA (closely aligned with the EcoVadis methodology), amfori BSCI, TfS for chemicals; even second-party customer audits by a qualified external auditor. It contributes less than a certification ([ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) contributes up to 100 points on environmental management systems) — and beware: major or minor non-conformities in the report can cost points or feed your [360° Watch](https://ecovadis.com/) indicator.
 
 ## What is changing in the 2026 methodology?
 
-**Change #1 — Choosing environmental material topics.** EcoVadis continues its materiality customisation pilot: organisations in specific industries (pharmaceutical manufacturing, plastics, electronics, some agriculture) are asked whether topics such as water, air pollution, product use, product end-of-life and customer health & safety are material to their operations. If not, related questions deactivate. To prove non-materiality, provide a comprehensive materiality assessment: the significant ESG topics, how the organisation impacts each, and the topics not considered material with the reasoning. Caution: contradictory information (360° Watch findings, processes visible in other documents) leads EcoVadis to reactivate the topic.
+**Change #1 — Choosing environmental material topics.** EcoVadis continues its materiality customisation pilot: organisations in specific industries (pharmaceutical manufacturing, plastics, electronics, some agriculture) are asked whether topics such as water, air pollution, product use, product end-of-life and customer health & safety are material to their operations. If not, related questions deactivate. To prove non-materiality, provide a comprehensive materiality assessment: the significant ESG topics, how the organisation impacts each, and the topics not considered material with the reasoning. Caution: contradictory information ([360° Watch](https://ecovadis.com/) findings, processes visible in other documents) leads EcoVadis to reactivate the topic.
 
-**Change #2 — Enhanced 360° Watch methodology.** A new mitigating/aggravating factor: **stakeholder consensus** — the level of certainty expressed by relevant, credible stakeholders about a finding's adverse nature. Higher consensus raises severity; low or disputed consensus avoids over-penalisation. Anticipate findings through the Live News function and verify they reflect your organisation's actual scope and responsibilities.
+**Change #2 — Enhanced [360° Watch](https://ecovadis.com/) methodology.** A new mitigating/aggravating factor: **stakeholder consensus** — the level of certainty expressed by relevant, credible stakeholders about a finding's adverse nature. Higher consensus raises severity; low or disputed consensus avoids over-penalisation. Anticipate findings through the Live News function and verify they reflect your organisation's actual scope and responsibilities.
 
-**Change #3 — VSME reporting framework recognition.** EcoVadis now formally recognises the EFRAG **VSME** standard — the simplified EU framework for SMEs outside CSRD scope. Reporting aligned with the VSME **Basic Module** can reach 75/100 on Reporting (other criteria met); **Basic + Comprehensive Modules** can reach the full 100. A streamlined path for EU-exposed SMEs to strong submissions and emerging European reporting expectations.
+**Change #3 — [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) reporting framework recognition.** EcoVadis now formally recognises the EFRAG **[VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)** standard — the simplified EU framework for SMEs outside [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) scope. Reporting aligned with the VSME **Basic Module** can reach 75/100 on Reporting (other criteria met); **Basic + Comprehensive Modules** can reach the full 100. A streamlined path for EU-exposed SMEs to strong submissions and emerging European reporting expectations.
 
 ## What action plan for 2026?
 
 - **Verify your assessment scope** at the outset of each cycle — documentation must align perfectly with group, entity or site level.
-- **Elevate reporting maturity**: work towards a public report aligned with GRI, ESRS or VSME, with KPIs covering all relevant topics.
+- **Elevate reporting maturity**: work towards a public report aligned with [GRI](https://www.globalreporting.org/standards/), [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) or VSME, with KPIs covering all relevant topics.
 - **Stay informed**: follow EcoVadis methodology updates and monitor 360° Watch findings proactively through Live News.
 - **Prepare a robust (double) materiality assessment** — the foundation for the EcoVadis assessment and wider ESG practice.
 

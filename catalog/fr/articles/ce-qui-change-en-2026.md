@@ -30,6 +30,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "What's changing in 2026 + FAQ February (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, efrag-vsme, eu-csrd, gri-standards]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -49,7 +50,7 @@ faq:
 
 ## En bref
 
-**Regard d'expert — François Dequenne :** voici les principales questions des participants au dernier webinaire ESG Interim Management, classées par sujet. La méthodologie 2026 apporte trois nouveautés : (1) la flexibilité de matérialité, qui permet de désactiver des sujets environnementaux non matériels (actuellement en pilote dans certains secteurs), (2) une évaluation de la sévérité de la Veille 360° intégrant le consensus des parties prenantes, et (3) la reconnaissance formelle du standard VSME avec une notation différenciée Basic / Comprehensive. Pendant ce temps, les seuils continuent de monter : l'Argent est passé de 68 à 72 points entre juillet 2025 et janvier 2026.
+**Regard d'expert — François Dequenne :** voici les principales questions des participants au dernier webinaire ESG Interim Management, classées par sujet. La méthodologie 2026 apporte trois nouveautés : (1) la flexibilité de matérialité, qui permet de désactiver des sujets environnementaux non matériels (actuellement en pilote dans certains secteurs), (2) une évaluation de la sévérité de la Veille 360° intégrant le consensus des parties prenantes, et (3) la reconnaissance formelle du standard [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) avec une notation différenciée Basic / Comprehensive. Pendant ce temps, les seuils continuent de monter : l'Argent est passé de 68 à 72 points entre juillet 2025 et janvier 2026.
 
 ## Comment le périmètre et la structure de l'évaluation changent-ils ?
 
@@ -75,13 +76,13 @@ faq:
 
 **Nous soumettons un tableur KPI couvrant tous les sites. Le maximum est-il de 50/100 si les KPI ne sont pas publics ?** Oui : dès 2026, EcoVadis privilégie la divulgation publique sur la documentation privée. Le tableur garde sa valeur, mais les meilleurs scores Rapports exigent des KPI publics (rapport de durabilité, site web). Considérez aussi les autres exigences pour 75 ou 100/100 : analyse de double matérialité, données vérifiées, conformité à un standard de reporting.
 
-**Quelle bonne pratique en cas de changement de référentiel, avec des définitions de KPI différentes d'une année à l'autre ?** Continuité et transparence : pendant la transition, rapportez les KPI selon les deux définitions quand c'est faisable, expliquez les changements méthodologiques, joignez des tables de réconciliation. Une année de recouvrement aide. Les transitions vers des cadres reconnus (GRI, ESRS, ISSB) sont perçues positivement quand elles sont documentées.
+**Quelle bonne pratique en cas de changement de référentiel, avec des définitions de KPI différentes d'une année à l'autre ?** Continuité et transparence : pendant la transition, rapportez les KPI selon les deux définitions quand c'est faisable, expliquez les changements méthodologiques, joignez des tables de réconciliation. Une année de recouvrement aide. Les transitions vers des cadres reconnus ([GRI](https://www.globalreporting.org/standards/), [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj), ISSB) sont perçues positivement quand elles sont documentées.
 
 **Si notre rapport fondé sur la matérialité n'atteint pas les 67 % de couverture des critères EcoVadis, comment est-ce noté ?** Dès 2026, il y a plus de flexibilité pour exclure les sujets environnementaux non matériels, mais la couverture reste attendue pour les sujets actifs. Ne pas les rapporter fera probablement baisser la Couverture. Une documentation de matérialité solide et des décisions de périmètre clairement expliquées aident — les analystes peuvent en tenir compte, et la transparence de l'approche est valorisée.
 
 ## Comment s'aligner sur les référentiels de reporting ?
 
-**EcoVadis reconnaîtra-t-il le reporting CSRD comme le GRI ?** Oui : les ESRS (standards de la CSRD) sont reconnus comme cadre formel. Dès 2026, la conformité formelle compte plus que la simple « référence » — un reporting en conformité avec les ESRS obtient tous les points, comme le GRI « in accordance with ».
+**EcoVadis reconnaîtra-t-il le reporting [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) comme le [GRI](https://www.globalreporting.org/standards/) ?** Oui : les [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) (standards de la CSRD) sont reconnus comme cadre formel. Dès 2026, la conformité formelle compte plus que la simple « référence » — un reporting en conformité avec les ESRS obtient tous les points, comme le [GRI](https://www.globalreporting.org/standards/) « in accordance with ».
 
 **« With reference to GRI » ne suffit-il plus ?** Exact — changement majeur de 2026. Auparavant, « préparé en référence au GRI » rapportait des points sans conformité complète ; désormais EcoVadis exige « in accordance with » GRI (ou un usage substantiel démontré des indicateurs et principes), et de même pour CSRD/ESRS. L'adoption partielle garde un crédit ; les meilleurs scores exigent la conformité formelle. C'est le reflet de la vigilance accrue anti-greenwashing.
 
@@ -89,13 +90,13 @@ faq:
 
 **Le GRI est-il meilleur que l'IFRS ou les ESRS ?** Ils servent des objectifs différents : GRI est centré sur l'impact et multi-parties prenantes ; IFRS vise les investisseurs (matérialité financière) ; les ESRS intègrent les deux via la double matérialité et s'imposent sous la CSRD. Les trois sont reconnus — ce qui compte dès 2026, c'est la conformité formelle. Note : « in accordance with GRI » score au maximum ; « in reference to GRI » ne le fait plus.
 
-**Une entreprise américaine peut-elle rapporter en VSME ?** Oui. Le VSME a été développé par l'EFRAG pour les PME européennes, mais ses principes s'appliquent partout, et EcoVadis le reconnaît comme divulgation structurée légitime — complète et moins lourde qu'un GRI ou ESRS intégral. Vérifiez qu'il répond aussi aux attentes de vos parties prenantes face aux cadres américains (SASB/IFRS).
+**Une entreprise américaine peut-elle rapporter en [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) ?** Oui. Le [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) a été développé par l'EFRAG pour les PME européennes, mais ses principes s'appliquent partout, et EcoVadis le reconnaît comme divulgation structurée légitime — complète et moins lourde qu'un GRI ou ESRS intégral. Vérifiez qu'il répond aussi aux attentes de vos parties prenantes face aux cadres américains (SASB/IFRS).
 
 **EcoVadis accepte-t-il le VSME pour une mid-cap (750 ETP, par exemple) ?** Pas d'interdiction stricte, mais à 750 ETP vous approchez du champ CSRD obligatoire et les analystes peuvent questionner un standard simplifié ; à cette taille, le GRI « in accordance with » colle sans doute mieux aux attentes.
 
 **Le UK SRS sera-t-il accepté ?** Attendu : oui, une fois formellement en vigueur — il s'aligne sur l'ISSB, déjà reconnu. Un délai est possible avant sa mention explicite dans la méthodologie ; entre-temps, référencez le UK SRS en notant l'alignement ISSB.
 
-**Une Communication on Progress UNGC compte-t-elle comme rapport externe ?** Une COP rapporte des points en **Adhésions**, et peut donner un crédit Rapports si elle contient des KPI pertinents avec tendances pluriannuelles — mais elle n'a pas le poids d'un cadre de reporting formel. Si c'est votre divulgation principale, rendez-la complète et riche en données, et envisagez de la compléter.
+**Une Communication on Progress [UNGC](https://unglobalcompact.org/participation/report/cop) compte-t-elle comme rapport externe ?** Une COP rapporte des points en **Adhésions**, et peut donner un crédit Rapports si elle contient des KPI pertinents avec tendances pluriannuelles — mais elle n'a pas le poids d'un cadre de reporting formel. Si c'est votre divulgation principale, rendez-la complète et riche en données, et envisagez de la compléter.
 
 **EcoVadis interroge-t-il sur la conformité EUDR ?** Oui — dans les sections Environnement et Achats Responsables, surtout pour les entreprises traitant les matières premières couvertes (bovins, cacao, café, huile de palme, caoutchouc, soja, bois et dérivés) : politiques de déforestation, processus de vigilance, systèmes de traçabilité, gestion des risques. Avec l'entrée en application, la préparation pèsera de plus en plus.
 

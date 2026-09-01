@@ -29,6 +29,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Improve your EcoVadis score fast - Practical steps that work (Evernote, updated 2026-08-24; client names restored and outcomes corrected by François on 2026-09-01 — medal levels for Bridgestone and Les Tartes de Françoise still to be confirmed)"
+sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -61,12 +62,12 @@ Understand what you are optimising against — the scoring grid behind each them
 | Layer | Component (weight within layer) | What is assessed | Scoring bands |
 |---|---|---|---|
 | Policies (25%) | Policies (80%) | Policies, objectives, targets, governance | 0 / 25 / 50 / 75 / 100 |
-| | Endorsement (20%) | External CSR initiatives endorsed (e.g. UN Global Compact) | 0 / 25 / 50 / 75 / 100 |
+| | Endorsement (20%) | External CSR initiatives endorsed (e.g. [UN Global Compact](https://unglobalcompact.org/participation/report/cop)) | 0 / 25 / 50 / 75 / 100 |
 | Actions (40%) | Measures (65%) | Actions supporting objectives and targets | 0 / 25 / 50 / 75 / 100 |
 | | Certifications (35%) | Certifications, labels, third-party audits | 0 / 25 / 50 / 75 / 100 |
 | | Coverage | Deployment level of certificates and actions | 0 / 25 / 50 / 75 / 100 |
 | Results (35%) | Reporting (40%) | Quality of reporting available to stakeholders | 0 / 25 / 50 / 75 / 100 |
-| | 360° Watch (60%) | Standpoints of stakeholder representatives (authorities, unions, NGOs) | 0 Severe / 25 Major / 50 Minor / 75 None / 100 Positive |
+| | [360° Watch](https://ecovadis.com/) (60%) | Standpoints of stakeholder representatives (authorities, unions, NGOs) | 0 Severe / 25 Major / 50 Minor / 75 None / 100 Positive |
 
 ## Quick win 2: which data and reporting processes do you set up?
 
@@ -74,11 +75,11 @@ EcoVadis heavily rewards performance measurement. Tracking energy consumption, w
 
 ## Quick win 3: how do you engage suppliers quickly?
 
-Supply chain practices are a strong differentiator. Immediate steps: **map your critical suppliers** and assess their risks by geography, industry and management system; **introduce a supplier code of conduct**; **create a due diligence procedure** aligned with current regulations (e.g. CSDDD). Even modest progress adds valuable points.
+Supply chain practices are a strong differentiator. Immediate steps: **map your critical suppliers** and assess their risks by geography, industry and management system; **introduce a supplier code of conduct**; **create a due diligence procedure** aligned with current regulations (e.g. [CSDDD](https://eur-lex.europa.eu/eli/dir/2024/1760/oj)). Even modest progress adds valuable points.
 
 ## Quick win 4: which certifications and audits should you target?
 
-Certifications are highly valued: **ISO 14001** (environmental management), **ISO 45001** (health & safety) and **ISO 37001** (anti-bribery) are quick wins if the organisation already complies with good practices. If ISO certification is too costly, evidence of internal audits, external verification or industry-specific certifications still adds points.
+Certifications are highly valued: **[ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)** (environmental management), **[ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html)** (health & safety) and **ISO 37001** (anti-bribery) are quick wins if the organisation already complies with good practices. If ISO certification is too costly, evidence of internal audits, external verification or industry-specific certifications still adds points.
 
 ## Quick win 5: how do you boost carbon management?
 
@@ -105,5 +106,5 @@ Improving quickly is about turning existing good intentions into **structured ev
 - Formalise what you already do: signed, communicated policies are the fastest points.
 - Start measuring now — spreadsheets suffice; consistency beats tooling.
 - Suppliers: mapping, code of conduct, due diligence — a strong differentiator.
-- Certify where feasible (ISO 14001/45001/37001); audits are the fallback.
+- Certify where feasible ([ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)/45001/37001); audits are the fallback.
 - Carbon management (targets, inventory, reporting) compounds across both scorecards.

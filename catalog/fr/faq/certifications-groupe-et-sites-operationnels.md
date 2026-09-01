@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -40,4 +41,4 @@ related: [comprendre-la-fiche-devaluation-ecovadis]
 
 Les certifications détenues au niveau du groupe ou du siège **contribuent à l'indicateur Certifications** en évaluation groupe, mais l'indicateur **Coverage évalue l'ampleur de leur extension** aux sites et opérations du groupe.
 
-La définition du « site opérationnel » compte : EcoVadis inclut **tous les sites qui exercent l'activité cœur de l'entreprise, plus ceux qui exercent des activités de support à risque, comme les centres R&D et les entrepôts**. Les bureaux et représentants commerciaux peuvent être exclus du décompte, sauf s'il s'agit de l'activité principale. Vérifiez les documents de périmètre de vos certifications pour confirmer les sites couverts et, quand c'est faisable, étendez le périmètre aux sites opérationnels significatifs comme les entrepôts.
+La définition du « site opérationnel » compte : [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) inclut **tous les sites qui exercent l'activité cœur de l'entreprise, plus ceux qui exercent des activités de support à risque, comme les centres R&D et les entrepôts**. Les bureaux et représentants commerciaux peuvent être exclus du décompte, sauf s'il s'agit de l'activité principale. Vérifiez les documents de périmètre de vos certifications pour confirmer les sites couverts et, quand c'est faisable, étendez le périmètre aux sites opérationnels significatifs comme les entrepôts.

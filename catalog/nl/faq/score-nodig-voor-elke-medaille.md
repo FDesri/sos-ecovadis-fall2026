@@ -26,6 +26,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "EcoVadis FAQ 2026 (1) (Evernote, updated 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -38,6 +39,6 @@ related: [rising-bar-strengere-normen-2026, ecovadis-drempels-verpakking-farma-b
 
 # Welke score is nodig voor elke medaille, en kan de medaille vóór indiening worden voorspeld?
 
-Sinds januari 2024 kent EcoVadis medailles toe op basis van **percentiel, niet van vaste drempels**: Brons voor de top 35% van de beoordeelde ondernemingen, Zilver voor de top 15%, Goud voor de top 5%, Platinum voor de top 1%. Omdat de databank groeit, stijgt de indicatieve score per niveau voortdurend.
+Sinds januari 2024 kent [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) medailles toe op basis van **percentiel, niet van vaste drempels**: Brons voor de top 35% van de beoordeelde ondernemingen, Zilver voor de top 15%, Goud voor de top 5%, Platinum voor de top 1%. Omdat de databank groeit, stijgt de indicatieve score per niveau voortdurend.
 
 Volgens de interne benchmarkdata van ESGIM in **juli 2026** liggen de indicatieve drempels rond **64/100 voor Brons, 73/100 voor Zilver, 81/100 voor Goud en 84/100 voor Platinum**. Dit zijn richtinggevende ramingen uit het klantenportfolio van ESGIM, geen door EcoVadis gepubliceerde doelen. De medaille kan vóór indiening met redelijke zekerheid worden voorspeld via een **gestructureerde gap-analyse** tegen de scoringsindicatoren.

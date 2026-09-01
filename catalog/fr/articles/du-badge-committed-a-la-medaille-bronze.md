@@ -28,6 +28,7 @@ author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
 source_note: "Committed Badge to Bronze (Evernote, mise à jour 2026-08-24)"
+sources: [ecovadis-medals, ecovadis-methodology, esgim-portfolio]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -63,7 +64,7 @@ Le Bronze signifie que votre système de gestion de la durabilité surclasse au 
 - La preuve de premières mesures de réduction des impacts négatifs sur certains critères clés
 - Des indicateurs rapportés sur certains critères clés, sur plusieurs cycles
 - Un responsable interne clairement identifié pour le processus EcoVadis
-- Aucune observation Veille 360° (360° Watch) en cours
+- Aucune observation Veille 360° ([360° Watch](https://ecovadis.com/)) en cours
 
 Ce qu'une entreprise Bronze n'a souvent **pas** encore : des systèmes de gestion structurés couvrant la majorité des critères activés, un reporting KPI sur tous les critères clés, des évaluations de risques, des certifications tierces — plus fréquents à partir de l'Argent.
 
