@@ -14,9 +14,11 @@ summary: >-
   sterktes en verbeterpunten die uit het bewijs naar voren komen, verschijnen
   op de scorecard. Gebruikelijke tools: de Aqueduct-atlas van WRI en de Water
   Risk Filter van WWF.
+description: "ENV7003, toegevoegd in Q1 2026 voor ondernemingen vanaf grootte S, vraagt bewijs van een fysieke klimaat- en waterrisicobeoordeling."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire, methodologie]
 ecovadis_questions: [ENV7003]
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [milieuverstoringen-aanpakken-env7012, milieu-indicatoren-verzamelen, methodologie-updates-q2-2026]

@@ -13,9 +13,11 @@ summary: >-
   coverage. Company press releases and marketing do not qualify. ESGIM does
   not advise investing in 360° Watch as a primary lever: Policies, Measures
   and Reporting are the controllable path.
+description: "A score above the neutral 75/100 is possible but rare: it takes several independent sources confirming verified achievements."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [360-watch, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard]

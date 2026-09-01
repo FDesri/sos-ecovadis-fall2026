@@ -15,9 +15,11 @@ summary: >-
   assessment, 55 new files per year), target the Reporting score (public
   report or capped at 50/100, 85% KPI coverage, entity-level breakdowns) and
   anticipate materiality and the 360° Watch.
+description: "Five families of field-tested EcoVadis tips: organise the team, scope correctly, respect deadlines, prove everything, review before sending."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, preuves, timing, methodologie, 360-watch]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-essentials-guide, supporting-documents-for-xs-companies, ecovadis-rising-standards-2026, whats-changing-in-2026]

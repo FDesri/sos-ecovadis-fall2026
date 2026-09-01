@@ -11,9 +11,11 @@ summary: >-
   crucial to stay competitive: knowing the ESG landscape of competitors
   enables better strategic alignment while initiatives stay tailored to your
   own maturity.
+description: "Benchmarking against peers and understanding customer expectations is what aligns an ESG strategy with its market rather than with nothing."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [methodologie, medailles-percentiles]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-rising-standards-2026, ecovadis-thresholds-belgian-packaging-pharma]

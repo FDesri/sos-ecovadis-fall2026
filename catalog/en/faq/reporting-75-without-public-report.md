@@ -12,9 +12,11 @@ summary: >-
   50/100, so documents accepted under a less stringent methodology may not
   score the same again. Check the basis of your score and publish a structured
   report before the next assessment.
+description: "It depends on why the 75 was awarded: from 2026, going above 50/100 on Reporting requires a public, standard-aligned sustainability report."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: reporting
+intent: verifier
 themes: [general]
 topics: [rising-bar, vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [whats-changing-in-2026, ecovadis-rising-standards-2026]

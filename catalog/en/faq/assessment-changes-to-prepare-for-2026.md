@@ -12,9 +12,11 @@ summary: >-
   (public standard-aligned report needed for Reporting scores above 50/100),
   and continuously rising medal thresholds (Silver moved from ~68 to ~73
   points between July 2025 and May 2026).
+description: "Three developments to expect in 2026: the materiality pilot, tightened reporting requirements, and medal thresholds that keep climbing."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [rising-bar, methodologie, vsme-csrd]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [whats-changing-in-2026, ecovadis-rising-standards-2026, ecovadis-methodology-updates-q2-2026]

@@ -12,9 +12,11 @@ summary: >-
   duurzaamheidscriteria voor leveranciers; vragenlijsten, zelfbeoordelingen of
   contractclausules voeden de Maatregelen. Gedocumenteerde criteria toegepast
   op de topleveranciers kunnen volstaan voor Brons of Zilver.
+description: "Dezelfde indicatoren Duurzame Inkoop, verwachtingen op schaal: het minimum is een inkoopbeleid met duurzaamheidscriteria voor leveranciers."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [sustainable-procurement]
 topics: [achats-responsables, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [duurzame-inkoop-maatregelen-sup307, duurzame-inkoop-waar-beginnen]

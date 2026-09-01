@@ -11,9 +11,11 @@ summary: >-
   framework-aligned data (GRI indicators, ESRS data points); the shift from
   'with reference to' to 'in accordance with' reporting standards is the
   clearest recent signal.
+description: "Yes: review standards now demand genuine implementation evidence and framework-aligned data, with a stricter reading of GRI in accordance with."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: verifier
 themes: [general]
 topics: [rising-bar, preuves, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-rising-standards-2026, whats-changing-in-2026]

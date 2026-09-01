@@ -12,9 +12,11 @@ summary: >-
   is het primaire bewijs; daarnaast zoeken analisten interne auditrapporten,
   directiebeoordelingen, logboeken van corrigerende acties en prestatiedata.
   Een certificaat alleen scoort enkel op certificaatniveau.
+description: "EcoVadis auditeert niet: het beoordeelt de documenten die u aanlevert. Een geldig ISO-certificaat binnen de scope is het primaire bewijs."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [sterke-ecovadis-indieningen-opbouwen]

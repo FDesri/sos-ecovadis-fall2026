@@ -10,9 +10,11 @@ summary: >-
   Nee: scorecards zijn standaard niet publiek en alleen zichtbaar voor kopers
   met wie u ze actief deelt. Geen enkele derde krijgt toegang tot de score
   zonder uw toestemming.
+description: "Nee: scorecards zijn standaard niet publiek en alleen zichtbaar voor de kopers met wie u ze zelf actief deelt."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [plateforme, donneur-d-ordres]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [scorecard-lezen-delen-optimaliseren]

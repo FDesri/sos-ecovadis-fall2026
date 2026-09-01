@@ -15,9 +15,11 @@ summary: >-
   routekaart) en elke beoordeling precies uitvoeren (projectdiscipline,
   gekwalificeerd bewijs, heldere P-A-R-gestructureerde antwoorden). Mettertijd
   versmelten beide tot een continue verbeterlus.
+description: "Omdat medailles naar de toppercentielen gaan, is een EcoVadis-indiening doorlopend werk: twee sporen om niet af te haken."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [methodologie, timing, questionnaire, rising-bar]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-essentials-gids, ecovadis-score-snel-verbeteren, rising-bar-strengere-normen-2026, volledige-ecovadis-begeleiding]

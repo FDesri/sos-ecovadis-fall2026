@@ -10,9 +10,11 @@ summary: >-
   Les questionnaires sont adaptés à la taille, au secteur et à la géographie,
   n'activant que les indicateurs pertinents ; les médailles reflètent le rang
   percentile parmi toutes les entreprises évaluées dans le monde.
+description: "Les questionnaires sont adaptés à la taille, au secteur et à la géographie ; les médailles reflètent le rang percentile parmi toutes les entreprises."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, medailles-percentiles]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [criteres-actives-ecovadis-par-secteur, comprendre-la-fiche-devaluation-ecovadis]

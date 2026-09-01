@@ -11,9 +11,11 @@ summary: >-
   position relative, donc votre médaille, peut changer si le groupe progresse
   plus vite : un 72/100 qui valait l'Argent peut se retrouver en haut du
   Bronze.
+description: "Votre score absolu ne baisse pas — il ne dépend que de vos preuves. C'est votre position relative, donc votre médaille, qui peut changer."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [medailles-percentiles, rising-bar]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-exigences-croissantes-2026, pourquoi-la-medaille-bronze-est-plus-difficile]

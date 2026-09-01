@@ -12,9 +12,11 @@ summary: >-
   Rapportering — documenten aanvaard onder een minder strenge methodologie
   scoren mogelijk niet meer hetzelfde. Controleer de basis van uw score en
   publiceer een gestructureerd rapport vóór de volgende beoordeling.
+description: "Dat hangt af van waarom de 75 werd toegekend: vanaf 2026 vraagt boven 50/100 op Rapportering een publiek, op een standaard afgestemd rapport."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: reporting
+intent: verifier
 themes: [general]
 topics: [rising-bar, vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-verandert-in-2026, rising-bar-strengere-normen-2026]

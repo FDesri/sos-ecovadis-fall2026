@@ -13,9 +13,11 @@ summary: >-
   informatiebeveiliging, 7 corruptie, 10 concurrentiebeperkende praktijken),
   vanaf de gebeurtenis. De medailleonverkiesbaarheid duurt 3 jaar (5 voor
   Ethiek).
+description: "De 360° Watch start op 75/100 per thema: een kleine bevinding kost 25 punten, een grote 50, een ernstige 75, met vijf jaar impact."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [360-watch, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen, praktische-ecovadis-tips]

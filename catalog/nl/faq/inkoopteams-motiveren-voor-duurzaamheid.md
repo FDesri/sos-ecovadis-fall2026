@@ -10,9 +10,11 @@ summary: >-
   Koppel ESG-doelstellingen aan inkoop-KPI's en beslissingscycli via
   governance, verzeker de steun van de directie, laat teams samenwerken en
   bied opleiding aan die duurzame inkoop verduidelijkt.
+description: "Koppel ESG-doelen aan inkoop-KPI's, verzeker de steun van de directie en leid uw inkopers op: wat een inkoopteam echt in beweging brengt."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [sustainable-procurement]
 topics: [achats-responsables]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [duurzame-inkoop-waar-beginnen, leveranciersengagement-programmas]

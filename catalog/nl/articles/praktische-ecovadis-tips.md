@@ -15,9 +15,11 @@ summary: >-
   nieuwe bestanden per jaar), mik op de rapporteringsscore (publiek rapport of
   plafond op 50/100, 85% KPI-dekking, uitsplitsing per entiteit) en anticipeer
   op materialiteit en de 360° Watch.
+description: "Vijf families veldgeteste EcoVadis-tips: het team organiseren, de scope afbakenen, deadlines respecteren, alles bewijzen, nalezen vóór indiening."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, preuves, timing, methodologie, 360-watch]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-essentials-gids, bewijsstukken-voor-xs-ondernemingen, rising-bar-strengere-normen-2026, wat-verandert-in-2026]

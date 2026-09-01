@@ -11,9 +11,11 @@ summary: >-
   duurzaamheidsbeheer werkelijk wordt aangestuurd: een entiteitsbeoordeling
   dekt één juridische entiteit en is eenvoudiger; een groepsbeoordeling dekt
   alle geconsolideerde entiteiten en activeert de Coverage-indicator.
+description: "Het juiste niveau hangt af van wie de score vraagt en waar duurzaamheid wordt aangestuurd: entiteitsniveau is eenvoudiger, groepsniveau breder."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [questionnaire, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-essentials-gids]

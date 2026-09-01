@@ -10,9 +10,11 @@ summary: >-
   L'analyse doit être actualisée régulièrement et documentée en profondeur :
   les auditeurs examinent la sélection des parties prenantes, les seuils et le
   traitement des impacts négatifs sur les droits humains.
+description: "L'analyse de double matérialité s'actualise régulièrement : les auditeurs examinent parties prenantes, seuils et traitement des impacts négatifs."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ce-qui-change-en-2026]

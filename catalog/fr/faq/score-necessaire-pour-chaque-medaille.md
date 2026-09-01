@@ -12,9 +12,11 @@ summary: >-
   2026) situe les seuils indicatifs vers 64 (Bronze), 73 (Argent), 81 (Or), 84
   (Platine) — des estimations, pas des cibles publiées. Une gap analysis
   structurée prédit la médaille avec une confiance raisonnable.
+description: "Depuis janvier 2024 les médailles sont au percentile. Le benchmark ESGIM de juillet 2026 situe les seuils indicatifs autour de 64, 73, 81 et 84."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: choisir
 themes: [general]
 topics: [medailles-percentiles, rising-bar]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-exigences-croissantes-2026, seuils-ecovadis-emballage-pharma-belgique]

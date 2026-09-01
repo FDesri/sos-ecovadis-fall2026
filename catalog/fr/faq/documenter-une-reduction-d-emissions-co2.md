@@ -13,9 +13,11 @@ summary: >-
   seulement le résultat ; Coverage — préciser explicitement la part des
   opérations couverte. Un tableau de bord interne fonctionne s'il est nommé,
   daté et borné.
+description: "Exploitez la réduction à trois endroits : un KPI chiffré en Reporting, un document d'action en Mesures, et la cohérence entre les deux."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, preuves]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [ecovadis-et-bilan-ges-de-base, indicateurs-environnementaux-a-collecter]

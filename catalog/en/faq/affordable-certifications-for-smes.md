@@ -12,9 +12,11 @@ summary: >-
   covers similar ground. Both are cheaper and faster than ISO. For
   Environment, a standalone external audit covering more than 30% of
   operations, with a complete written report, partially substitutes ISO 14001.
+description: "Third-party sustainability audits are the most accessible route: a SMETA audit covers Labour at one site and is widely accepted."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [improve-your-ecovadis-score-fast, from-bronze-to-silver]

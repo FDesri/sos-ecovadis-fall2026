@@ -11,9 +11,11 @@ summary: >-
   supplements documents, does not count against the 55-document limit, and is
   best used to point the analyst to the exact page or clause in an uploaded
   document. Keep comments brief and precise.
+description: "Analysts read comments but never award points on comments alone: the field is there to point them to the exact page of a document."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, preuves]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [build-strong-ecovadis-submissions-consistently]

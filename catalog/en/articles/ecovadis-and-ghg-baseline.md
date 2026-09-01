@@ -14,9 +14,11 @@ summary: >-
   Scope 3 categories — is the single intervention that moves an Environment
   score most: a policy without measurement scores at Policy level only. The
   same baseline also feeds CSRD (ESRS E1), SBTi and CDP.
+description: "Energy and GHGs is the criterion buyers scrutinise most: a quantified Scope 1 and 2 baseline is the minimum foundation to have."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: comprendre
 themes: [environment]
 topics: [carbone-ghg, environnement, methodologie, vsme-csrd]
 ecovadis_questions: [ENV310, ENV630, CAR100, CAR104, CAR105, CAR107, CAR108]
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [environmental-indicators-to-collect, ecovadis-methodology-updates-q2-2026, improve-your-ecovadis-score-fast, from-bronze-to-silver]

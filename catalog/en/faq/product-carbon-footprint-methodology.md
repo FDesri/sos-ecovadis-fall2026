@@ -12,9 +12,11 @@ summary: >-
   also qualify. Document the PCF as part of a product-level environmental
   approach, linked to your broader GHG data, with methodology and calculation
   scope clearly stated.
+description: "EcoVadis accepts product footprints calculated per ISO 14067 or the GHG Protocol Product Standard; sector methodologies also qualify."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-and-ghg-baseline]

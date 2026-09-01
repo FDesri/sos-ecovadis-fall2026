@@ -12,9 +12,11 @@ summary: >-
   requires structured management systems, risk assessments, some
   certifications and broad KPI reporting; Gold and Platinum add SMART targets,
   multiple certifications and a public, third-party-verified report.
+description: "What changes from one medal to the next is not the type of evidence but its depth, its coverage and its credibility."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [medailles-percentiles, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [from-committed-badge-to-bronze, from-bronze-to-silver, from-silver-to-gold]

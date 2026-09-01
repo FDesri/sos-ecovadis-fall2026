@@ -12,9 +12,11 @@ summary: >-
   versterkt ook Maatregelen. UNGC met een substantiële COP draagt bij over
   meerdere thema's. Ze sluiten elkaar niet uit en worden bij Goud en Platinum
   vaak samen gehouden.
+description: "SBTi is het sterkste signaal voor Milieu; het UN Global Compact dekt breder maar weegt minder zwaar op één enkel thema."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comparer
 themes: [environment, general]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-en-co2-nulmeting]

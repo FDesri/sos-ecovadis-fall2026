@@ -12,9 +12,11 @@ summary: >-
   sites opérationnels incluent l'activité cœur plus les activités de support à
   risque (centres R&D, entrepôts) ; bureaux et fonctions commerciales peuvent
   être exclus sauf activité principale.
+description: "Les certifications du siège alimentent l'indicateur Certifications en évaluation groupe, mais le Coverage mesure leur extension réelle aux sites."
 situations: [S1, S2, S3]
 sizes: [L]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis]

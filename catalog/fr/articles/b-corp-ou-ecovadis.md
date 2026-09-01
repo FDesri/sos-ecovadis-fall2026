@@ -15,9 +15,11 @@ summary: >-
   9 000 B Corps, minimum 80 points, addendum statutaire, 9-24 mois,
   recertification tous les 3 ans). Règle d'or : une entreprise EcoVadis Argent
   a la maturité pour entamer un parcours B Corp.
+description: "EcoVadis note votre système de gestion de la durabilité, B Corp certifie l'entreprise entière : deux démarches qui ne mesurent pas la même chose."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: comparer
 themes: [general]
 topics: [methodologie, b-corp, timing]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis, pourquoi-se-lancer-dans-ecovadis, auto-evaluation-ou-accompagnement-expert, de-bronze-a-argent]

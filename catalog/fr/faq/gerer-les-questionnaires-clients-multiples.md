@@ -10,9 +10,11 @@ summary: >-
   Invitez vos clients à consulter votre fiche d'évaluation (scorecard)
   EcoVadis plutôt que d'envoyer leurs propres questionnaires : la plateforme
   comme source unique réduit la fatigue d'enquête.
+description: "Invitez vos clients à consulter votre fiche d'évaluation EcoVadis plutôt qu'à envoyer leurs propres questionnaires : une seule source de données."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [plateforme, donneur-d-ordres]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [lire-partager-optimiser-sa-fiche-devaluation]

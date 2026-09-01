@@ -16,9 +16,11 @@ summary: >-
   plafond à 50/100), et la préparation demande 2 à 4 mois minimum. Règle
   d'or : mieux vaut quelques actions qui comptent que déchiffrer seul le
   labyrinthe EcoVadis.
+description: "Faire soi-même ou se faire accompagner : maîtrise des coûts et montée en compétence d'un côté, méthode et objectivité de l'autre."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: comparer
 themes: [general]
 topics: [methodologie, timing, tarifs]
 ecovadis_questions: []
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [combien-coute-un-accompagnement-ecovadis, accompagnement-ecovadis-complet, guide-essentiel-ecovadis, du-badge-committed-a-la-medaille-bronze]

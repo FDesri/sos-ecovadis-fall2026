@@ -14,9 +14,11 @@ summary: >-
   in vijf schijven (0/25/50/75/100), en activeert alleen de criteria die
   relevant zijn voor uw sector, grootte en risicoprofiel — met maximaal 55
   bewijsdocumenten per beoordeling.
+description: "De EcoVadis-scorecard kruist vier thema's met zeven criteria, in vijf schijven gescoord, en activeert alleen de criteria die voor u relevant zijn."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, questionnaire, plateforme]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [scorecard-lezen-delen-optimaliseren, geactiveerde-criteria-per-sector, van-committed-badge-naar-brons, ecovadis-essentials-gids]

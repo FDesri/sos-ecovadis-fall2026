@@ -11,9 +11,11 @@ summary: >-
   ans maximum à partir de la période de reporting. Les mises à jour
   méthodologiques peuvent aussi durcir les exigences. La raison du rejet dans
   les détails du score identifie généralement l'écart.
+description: "Le plus souvent l'expiration : les documents KPI et reporting sont valides deux ans au maximum à partir de la période de reporting."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [evolutions-methodologiques-t2-2026, soumissions-ecovadis-solides-et-regulieres]

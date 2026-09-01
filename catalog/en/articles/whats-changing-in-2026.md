@@ -14,9 +14,11 @@ summary: >-
   to 72 between July 2025 and January 2026 alone. This consolidated Q&A covers
   assessment scope, reporting requirements, framework alignment (GRI, ESRS,
   VSME, UK SRS), materiality customisation, and certifications versus audits.
+description: "Three EcoVadis changes in 2026: materiality flexibility, 360° Watch severity weighted by stakeholder consensus, and formal VSME recognition."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [methodologie, rising-bar, vsme-csrd, questionnaire, 360-watch]
 ecovadis_questions: [GEN600]
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-rising-standards-2026, ecovadis-methodology-updates-q2-2026, understanding-the-ecovadis-scorecard, build-strong-ecovadis-submissions-consistently]

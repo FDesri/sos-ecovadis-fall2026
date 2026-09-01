@@ -16,9 +16,11 @@ summary: >-
   couvre le périmètre d'évaluation, les exigences de reporting, l'alignement
   sur les référentiels (GRI, ESRS, VSME, UK SRS), la personnalisation de la
   matérialité et les certifications versus audits.
+description: "Trois nouveautés EcoVadis en 2026 : flexibilité de matérialité, Veille 360° pondérée par consensus, et reconnaissance formelle du VSME."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [methodologie, rising-bar, vsme-csrd, questionnaire, 360-watch]
 ecovadis_questions: [GEN600]
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-exigences-croissantes-2026, evolutions-methodologiques-t2-2026, comprendre-la-fiche-devaluation-ecovadis, soumissions-ecovadis-solides-et-regulieres]

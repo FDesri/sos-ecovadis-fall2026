@@ -14,9 +14,11 @@ summary: >-
   systèmes de gestion qui dépassent le siège, et — pour la plupart des
   entreprises — une montée en puissance sérieuse des Achats Responsables, le
   thème le plus sous-investi au niveau Bronze.
+description: "Passer du Bronze à l'Argent EcoVadis demande environ 9 points de plus : reporting KPI cohérent, systèmes au-delà du siège, seuil ≈ 73/100."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general, sustainable-procurement]
 topics: [medailles-percentiles, rising-bar, methodologie, achats-responsables]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [du-badge-committed-a-la-medaille-bronze, de-l-argent-a-l-or, guide-essentiel-ecovadis, rising-bar-exigences-croissantes-2026, achats-responsables-par-ou-commencer, jours-de-conseil-expert-ecovadis]

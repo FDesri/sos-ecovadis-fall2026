@@ -11,9 +11,11 @@ summary: >-
   geldig vanaf de rapporteringsperiode. Methodologie-updates kunnen de eisen
   ook verhogen. De verwerpingsreden in de scoredetails identificeert doorgaans
   de kloof.
+description: "Meestal de vervaldatum: KPI- en rapporteringsdocumenten zijn maximaal twee jaar geldig vanaf de rapporteringsperiode."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [methodologie-updates-q2-2026, sterke-ecovadis-indieningen-opbouwen]

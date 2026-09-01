@@ -17,9 +17,11 @@ summary: >-
   recognition (Basic 75 / Comprehensive 100) and two Belgian markets:
   food packaging and pharmaceutical machinery (Responsible Health
   Initiative).
+description: "Since 2024 EcoVadis medals are percentiles: a prospective analysis of thresholds, focused on Belgian packaging and pharma-equipment markets."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [medailles-percentiles, rising-bar, secteur-emballage, secteur-pharma, methodologie, vsme-csrd, 360-watch]
 ecovadis_questions: []
@@ -33,6 +35,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-rising-standards-2026, why-keeping-a-bronze-medal-is-harder, ecovadis-activated-criteria-by-sector, understanding-the-ecovadis-scorecard]

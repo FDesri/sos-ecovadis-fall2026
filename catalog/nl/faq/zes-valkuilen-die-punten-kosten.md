@@ -11,9 +11,11 @@ summary: >-
   beoordeelde entiteit; zwakke thema's negeren (minimum 30/100 per thema voor
   een medaille); geplande acties als uitgevoerd voorstellen; Coverage-eisen
   missen; 360° Watch-bevindingen negeren.
+description: "Zes valkuilen kosten punten: vervallen documenten, bewijs zonder band met de entiteit, genegeerde zwakke thema's, enkel geplande acties."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [methodologie, preuves, 360-watch]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [praktische-ecovadis-tips, sterke-ecovadis-indieningen-opbouwen]

@@ -11,9 +11,11 @@ summary: >-
   risque de durabilité ou améliorer la performance : spécifique, applicable et
   prouvée. Une intention déclarée ou une description générale sans
   documentation ne compte pas.
+description: "Une mesure est une action concrète, mise en œuvre ou en cours, spécifique et prouvée. Une intention déclarée n'en est pas une."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis, soumissions-ecovadis-solides-et-regulieres]

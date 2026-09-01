@@ -12,9 +12,11 @@ summary: >-
   uitstrekken. Operationele sites omvatten kernactiviteitssites plus
   risicovolle ondersteunende activiteiten (R&D-centra, magazijnen); kantoren
   en verkoop kunnen worden uitgesloten tenzij ze de hoofdactiviteit zijn.
+description: "Hoofdkantoorcertificaten voeden de indicator Certificaten bij een groepsbeoordeling, maar Coverage meet hoe ver ze zich echt uitstrekken."
 situations: [S1, S2, S3]
 sizes: [L]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen]

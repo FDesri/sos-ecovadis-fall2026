@@ -15,9 +15,11 @@ summary: >-
   punten, statutair addendum, 9-24 maanden, hercertificering om de 3 jaar).
   Vuistregel: een onderneming met EcoVadis Zilver heeft de maturiteit om aan
   een B Corp-traject te beginnen.
+description: "EcoVadis beoordeelt uw duurzaamheidsmanagementsysteem, B Corp certificeert de hele onderneming: twee beoordelingen die iets anders meten."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: comparer
 themes: [general]
 topics: [methodologie, b-corp, timing]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen, waarom-aan-ecovadis-beginnen, zelf-doen-of-expertbegeleiding, van-brons-naar-zilver]

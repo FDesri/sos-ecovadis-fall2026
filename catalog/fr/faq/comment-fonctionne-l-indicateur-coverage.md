@@ -13,9 +13,11 @@ summary: >-
   le Coverage même s'il améliore le Reporting — ne déclarer un KPI que si le
   déploiement dépasse 50 % ; deux KPI proxy vérifiés au-dessus de 50 % peuvent
   atteindre 100/100 par pilier.
+description: "Le Coverage, réservé aux entreprises de 1 000 salariés et plus, multiplie les scores Mesures et Certifications et récompense l'ampleur du déploiement."
 situations: [S1, S2, S3]
 sizes: [L]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis]

@@ -10,9 +10,11 @@ summary: >-
   Keep them: rejected documents do not count against the submission, the
   rejection reason is recorded in Score Details, and deleting them removes
   information useful at reassessment.
+description: "Keep them: rejected documents do not count against the submission, and the rejection reason stays visible in the Score Details."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: verifier
 themes: [general]
 topics: [preuves, plateforme]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [build-strong-ecovadis-submissions-consistently]

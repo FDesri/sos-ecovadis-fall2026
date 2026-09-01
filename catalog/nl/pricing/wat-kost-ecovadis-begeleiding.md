@@ -14,9 +14,11 @@ summary: >-
   downgrade). U betaalt in drie schijven; het saldo is enkel verschuldigd als
   het afgesproken niveau (Brons of Zilver) wordt gehaald. Expertadvies op
   afstand start vanaf 1.500 € per dag.
+description: "Een volledige EcoVadis-begeleiding kost 7.500 tot 12.000 € excl. btw over twee tot vier maanden, in drie schijven — de laatste enkel bij resultaat."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [tarifs, timing]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-08-27
 version: 1
 status: review
 related: [volledige-ecovadis-begeleiding, ecovadis-expertadvies-dagen, francois-dequenne]

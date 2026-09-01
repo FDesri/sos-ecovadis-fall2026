@@ -11,9 +11,11 @@ summary: >-
   extendable by up to 60 business days in total; after expiry a repurchase may
   be needed, though EcoVadis can reopen within 6 months of creation. Start
   evidence-gathering early.
+description: "Yes: about 6 weeks initially, self-extendable up to 60 business days in total; beyond that a repurchase may be needed to reopen it."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [timing, plateforme]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [ecovadis-essentials-guide, practical-ecovadis-tips]

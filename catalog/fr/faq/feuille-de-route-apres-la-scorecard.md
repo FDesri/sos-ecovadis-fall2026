@@ -13,9 +13,11 @@ summary: >-
   à jour de politiques, formalisation, documentation KPI peuvent regagner 5-10
   points en un cycle. Le CAP n'est pas exhaustif : une revue critère par
   critère révèle des actions qu'il n'affiche pas.
+description: "Partir du plan d'action correctif, mais filtrer par effort et par impact : un thème sous 30/100 tue l'éligibilité à toute médaille."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: methodology
+intent: choisir
 themes: [general]
 topics: [methodologie, questionnaire]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ameliorer-son-score-ecovadis-rapidement, comprendre-la-fiche-devaluation-ecovadis]

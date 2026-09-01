@@ -12,9 +12,11 @@ summary: >-
   comprehensive documents outweigh narrow ones. Cross-theme questions get no
   automatic extra weight within one theme — the multiplier comes from
   improving multiple theme scores at once.
+description: "Some evidence counts for several themes at once: that is what favours comprehensive documents, not any increased weighting."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard]

@@ -13,9 +13,11 @@ summary: >-
   sterk en in medaillezone, 85+ = toppraktijk. Deel ze via het platform,
   beveiligde alleen-lezen-links of pdf-exports — en behandel de lijst
   verbeterpunten als het actieplan voor volgend jaar.
+description: "Totaalscore, percentiel, medaille en P-A-R-opsplitsing per thema: hoe u uw EcoVadis-scorecard leest, deelt en omzet in een plan."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [methodologie, plateforme, medailles-percentiles, timing]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen, ecovadis-score-snel-verbeteren, van-committed-badge-naar-brons, wat-kost-ecovadis-begeleiding]

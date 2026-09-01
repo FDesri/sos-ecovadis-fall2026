@@ -11,9 +11,11 @@ summary: >-
   structuré — ils se complètent. La VSME est reconnue par EcoVadis : le module
   Basic débloque jusqu'à 75/100 en Reporting, Basic + Comprehensive avec
   vérification tierce jusqu'à 100/100.
+description: "EcoVadis note le système de gestion, la VSME est un cadre de reporting : le module Basic débloque jusqu'à 75/100 en Reporting, la version complète 100."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: choisir
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ce-qui-change-en-2026, rising-bar-exigences-croissantes-2026]

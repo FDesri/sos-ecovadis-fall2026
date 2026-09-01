@@ -13,9 +13,11 @@ summary: >-
   beleidsupdates, formalisering, KPI-documentatie kunnen 5-10 punten in één
   cyclus opleveren. Het CAP is niet volledig: een review criterium per
   criterium legt acties bloot die het niet toont.
+description: "Vertrek van het corrigerend actieplan maar filter op inspanning en score-impact: een thema onder 30/100 sluit elke medaille uit."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: methodology
+intent: choisir
 themes: [general]
 topics: [methodologie, questionnaire]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-score-snel-verbeteren, de-ecovadis-scorecard-begrijpen]

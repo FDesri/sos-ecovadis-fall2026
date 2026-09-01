@@ -11,9 +11,11 @@ summary: >-
   to manage a sustainability risk or improve performance: specific,
   implementable and evidenced. A stated intention or a general description
   without documentation does not qualify.
+description: "A measure is a concrete action, implemented or actively under way, specific and evidenced. A stated intention is not a measure."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard, build-strong-ecovadis-submissions-consistently]

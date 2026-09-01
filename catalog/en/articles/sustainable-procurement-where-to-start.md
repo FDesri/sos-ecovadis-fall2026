@@ -15,9 +15,11 @@ summary: >-
   three minimum policy documents (supplier code of conduct, sustainable
   procurement policy, risk assessment process), then engage, measure and
   improve — with quarterly review and a realistic year-one target.
+description: "Map the supplier base, run a baseline assessment, then build three policy documents: a realistic start on sustainable procurement."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [sustainable-procurement]
 topics: [achats-responsables, methodologie, vsme-csrd, carbone-ghg]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [sustainable-procurement-measures-sup307, ecovadis-supplier-engagement-programmes, ecovadis-and-ghg-baseline]

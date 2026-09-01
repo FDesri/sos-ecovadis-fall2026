@@ -15,9 +15,11 @@ summary: >-
   Coverage: extend ISO scope to all significant sites, track training at all
   locations, screen all suppliers, source mostly renewable energy, run risk
   assessments everywhere.
+description: "Coverage, for companies of 1,000 employees and up, multiplies the Measures and Certifications scores and rewards breadth of deployment."
 situations: [S1, S2, S3]
 sizes: [L]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard]

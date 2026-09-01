@@ -13,9 +13,11 @@ summary: >-
   formelle documentée — idéalement une double matérialité avec preuves parties
   prenantes et validation de gouvernance. Couverture limitée ; vérifiez
   l'éligibilité avant d'investir.
+description: "Le pilote permet, dans les secteurs couverts, de déclarer un sujet environnemental non matériel : les questions concernées sont alors désactivées."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, vsme-csrd]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ce-qui-change-en-2026, evolutions-methodologiques-t2-2026]

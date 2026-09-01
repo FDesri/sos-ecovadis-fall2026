@@ -11,9 +11,11 @@ summary: >-
   disponible avant de payer. EcoVadis publie un aperçu des quatre thèmes et un
   guide des documents acceptés ; le périmètre exact dépend du secteur, de la
   taille et de la géographie.
+description: "Non : aucune prévisualisation complète du questionnaire personnalisé avant paiement. EcoVadis publie un aperçu des quatre thèmes et un guide documents."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [questionnaire, plateforme, timing]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [guide-essentiel-ecovadis, criteres-actives-ecovadis-par-secteur]

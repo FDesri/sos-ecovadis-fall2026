@@ -14,9 +14,11 @@ summary: >-
   die verder reiken dan het hoofdkantoor, en — voor de meeste ondernemingen —
   een grondige upgrade van Duurzame Inkoop, het meest onderbenutte thema op
   Bronsniveau.
+description: "Van EcoVadis Brons naar Zilver vraagt zo'n 9 punten meer: consistente KPI-rapportering, systemen buiten het hoofdkantoor, drempel ≈ 73/100."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general, sustainable-procurement]
 topics: [medailles-percentiles, rising-bar, methodologie, achats-responsables]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [van-committed-badge-naar-brons, van-zilver-naar-goud, ecovadis-essentials-gids, rising-bar-strengere-normen-2026, duurzame-inkoop-waar-beginnen, ecovadis-expertadvies-dagen]

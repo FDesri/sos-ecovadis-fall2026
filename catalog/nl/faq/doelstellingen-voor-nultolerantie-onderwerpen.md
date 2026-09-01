@@ -12,9 +12,11 @@ summary: >-
   zorgvuldigheidsmaatregelen (audits, opleidingsregisters, klachtenprocedure)
   en prestatiedata van de controles — uitgevoerde audits, gescreende
   leveranciers, gemelde incidenten, opleidingsgraad.
+description: "Voor nultolerantie-onderwerpen verwacht EcoVadis bewijs via controles — verbod, zorgvuldigheid, opleiding — en geen reductiedoelen."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [labor-human-rights, ethics]
 topics: [social-droits-humains, ethique, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [sjablonen-diversiteit-corruptie-kinderarbeid, ethiekpakket-corruptie-intimidatie-discriminatie]

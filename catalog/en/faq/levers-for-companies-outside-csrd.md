@@ -12,9 +12,11 @@ summary: >-
   highly effective, and endorsements like UN Global Compact and SBTi add score
   independently of regulatory status. Without any public report, Reporting
   caps at 50/100.
+description: "CSRD compliance is not a prerequisite: VSME is formally recognised, GRI remains effective, and UNGC or SBTi endorsements add score."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [whats-changing-in-2026, ecovadis-rising-standards-2026]

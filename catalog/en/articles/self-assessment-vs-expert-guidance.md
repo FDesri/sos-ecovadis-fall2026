@@ -14,9 +14,11 @@ summary: >-
   25/100; full coverage without quantitative targets caps it at 50/100), and
   preparation takes 2-4 months minimum. Rule of thumb: focus on a selection of
   meaningful actions rather than deciphering the EcoVadis labyrinth alone.
+description: "Doing it yourself or bringing in an expert: cost control and capability-building on one side, method and objectivity on the other."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: comparer
 themes: [general]
 topics: [methodologie, timing, tarifs]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [how-much-does-ecovadis-support-cost, full-ecovadis-support-mission, ecovadis-essentials-guide, from-committed-badge-to-bronze]

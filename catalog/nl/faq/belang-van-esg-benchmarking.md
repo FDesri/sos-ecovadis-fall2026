@@ -10,9 +10,11 @@ summary: >-
   Vergelijken met sectorgenoten en de klantverwachtingen begrijpen is cruciaal
   om competitief te blijven: het ESG-landschap van concurrenten kennen zorgt
   voor een betere strategische afstemming.
+description: "Vergelijken met sectorgenoten en klantverwachtingen begrijpen is wat een ESG-strategie op haar markt afstemt in plaats van op niets."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [methodologie, medailles-percentiles]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-strengere-normen-2026, ecovadis-drempels-verpakking-farma-belgie]

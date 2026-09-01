@@ -11,9 +11,11 @@ summary: >-
   Traitez-le comme un atout de communication : présentez-le comme votre agenda
   d'amélioration vivant, et calez la réévaluation pour que la prochaine fiche
   reflète déjà les améliorations réalisées.
+description: "Le plan d'action correctif fait partie de la fiche et ne peut pas être masqué : présentez-le comme votre agenda d'amélioration vivant."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [donneur-d-ordres, plateforme]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [lire-partager-optimiser-sa-fiche-devaluation, ameliorer-son-score-ecovadis-rapidement]

@@ -11,9 +11,11 @@ summary: >-
   zijn — exact één jaar na de publicatie van de scorecard. Voor een
   ononderbroken medaille dient u één à twee maanden vóór de verjaardag in; in
   drukke periodes kan de review tot drie maanden duren.
+description: "Geen van beide: het is de datum waarop uw medaille ophoudt geldig te zijn. Dien één à twee maanden vooraf in om een gat te vermijden."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [timing, plateforme]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [praktische-ecovadis-tips, scorecard-lezen-delen-optimaliseren]

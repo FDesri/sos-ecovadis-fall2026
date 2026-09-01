@@ -14,9 +14,11 @@ summary: >-
   de regel die de meeste kandidaten diskwalificeert is het minimum van 30
   punten in elk van de vier thema's, met Ethiek en Duurzame Inkoop als meest
   voorkomende struikelblokken.
+description: "Van de Committed Badge naar EcoVadis Brons is formaliseringswerk: de indicatieve Bronsscore ligt op 64/100 (top 35%) in mei 2026."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general, ethics, sustainable-procurement]
 topics: [medailles-percentiles, rising-bar, methodologie, ethique]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [van-brons-naar-zilver, ecovadis-essentials-gids, de-ecovadis-scorecard-begrijpen, rising-bar-strengere-normen-2026, volledige-ecovadis-begeleiding]

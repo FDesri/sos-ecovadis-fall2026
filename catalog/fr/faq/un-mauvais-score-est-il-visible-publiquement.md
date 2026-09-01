@@ -10,9 +10,11 @@ summary: >-
   Non : les fiches d'évaluation ne sont pas publiques par défaut et ne sont
   visibles que des acheteurs avec qui vous les partagez. Aucun tiers ne peut
   accéder au score sans votre consentement.
+description: "Non : les fiches d'évaluation ne sont pas publiques par défaut et ne sont visibles que des acheteurs avec qui vous les partagez volontairement."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [plateforme, donneur-d-ordres]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [lire-partager-optimiser-sa-fiche-devaluation]

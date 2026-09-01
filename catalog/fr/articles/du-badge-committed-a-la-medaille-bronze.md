@@ -14,9 +14,11 @@ summary: >-
   en juillet 2025 — et la règle qui disqualifie le plus de candidats est le
   minimum de 30 points dans chacun des quatre thèmes, l'Éthique et les Achats
   Responsables étant les blocages les plus fréquents.
+description: "Passer du badge Committed au Bronze EcoVadis est un travail de formalisation : le score indicatif du Bronze est de 64/100 (top 35 %) en mai 2026."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general, ethics, sustainable-procurement]
 topics: [medailles-percentiles, rising-bar, methodologie, ethique]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-bronze-a-argent, guide-essentiel-ecovadis, comprendre-la-fiche-devaluation-ecovadis, rising-bar-exigences-croissantes-2026, accompagnement-ecovadis-complet]

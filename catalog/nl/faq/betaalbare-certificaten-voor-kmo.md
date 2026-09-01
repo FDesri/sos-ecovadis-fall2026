@@ -13,9 +13,11 @@ summary: >-
   Milieu vervangt een zelfstandige externe audit die meer dan 30% van de
   activiteiten dekt, met volledig schriftelijk rapport, gedeeltelijk ISO
   14001.
+description: "Externe duurzaamheidsaudits zijn de toegankelijkste route: een SMETA-audit dekt Arbeidsrechten op één site en wordt breed aanvaard."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-score-snel-verbeteren, van-brons-naar-zilver]

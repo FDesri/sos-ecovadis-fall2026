@@ -11,9 +11,11 @@ summary: >-
   year after scorecard publication. To keep an unbroken medal, submit one to
   two months before the anniversary; in busy periods the review can take up to
   three months. Plan backwards from the outcome you need.
+description: "Neither: it is the date your current medal ceases to be valid. To avoid any gap, submit one to two months before the anniversary."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [timing, plateforme]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [practical-ecovadis-tips, read-share-maximise-your-ecovadis-scorecard]

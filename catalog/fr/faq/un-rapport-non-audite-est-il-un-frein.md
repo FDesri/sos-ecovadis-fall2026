@@ -11,9 +11,11 @@ summary: >-
   ; l'assurance externe débloque des points supplémentaires. Sous l'Or, ce
   n'est rarement un plafond ; pour l'Or et le Platine, la vérification tierce
   devient progressivement plus importante.
+description: "Un rapport public non audité peut atteindre un score Reporting significatif ; l'assurance externe débloque des points, rarement décisifs sous l'Or."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: verifier
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-l-argent-a-l-or, ce-qui-change-en-2026]

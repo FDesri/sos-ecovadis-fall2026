@@ -16,9 +16,11 @@ summary: >-
   collecteur agréé couvre l'élimination des déchets dangereux. Restent deux
   vrais trous — matériaux biosourcés et preuve de formation — et un piège :
   ne pas recycler les documents fournisseurs, attendus en Achats Responsables.
+description: "ENV3522 évalue neuf sous-actions sur les matières premières et produits chimiques, de l'optimisation des process à la substitution des dangereux."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire, achats-responsables]
 ecovadis_questions: [ENV3522, ENV3525]
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [gestion-des-dechets-env3549, indicateurs-environnementaux-a-collecter, guide-essentiel-ecovadis]

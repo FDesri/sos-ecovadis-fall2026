@@ -12,9 +12,11 @@ summary: >-
   gedragscodes — en externe certificaten (ISO 14001, SMETA) wegen zwaarder
   door de externe verificatie. Resultaatbewijs toont uitkomsten: KPI's in de
   tijd, vooruitgang naar doelen.
+description: "Opleidingsregisters, interne auditrapporten, procedures en externe certificaten: wat uitvoering aantoont voorbij beleid op papier."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen, sterke-ecovadis-indieningen-opbouwen]

@@ -14,9 +14,11 @@ summary: >-
   80-point minimum, articles-of-association addendum, 9-24 months,
   recertification every 3 years). Rule of thumb: an EcoVadis Silver company
   has the maturity to start a B Corp journey.
+description: "EcoVadis rates your sustainability management system, B Corp certifies the whole company: two assessments that measure different things."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: comparer
 themes: [general]
 topics: [methodologie, b-corp, timing]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard, why-ecovadis-strengthens-sustainability-management, self-assessment-vs-expert-guidance, from-bronze-to-silver]

@@ -1,0 +1,351 @@
+# ============================================================
+# SOS-EcoVadis — Hubs thématiques (index par sujet)
+# Version: 1.0 (2026-09-01) — décisions D13c et D18 (vision v1.2)
+# Propriétaire: François Dequenne (ESGIM)
+#
+# Répond à KC-S09 (hubs thématiques), KC-T07 (aucune page orpheline)
+# et KC-L03 (llms.txt doit pointer vers des index, pas vers 105 fiches).
+#
+# UN SEUL AXE DE HUB : le sujet (`topics`). Les quatre thèmes officiels
+# EcoVadis SONT quatre de ces sujets, sous leur nom officiel — un hub
+# « thème » distinct d'un hub « sujet » sur le même contenu serait la
+# cannibalisation que KC-S08 interdit.
+#
+# Les hubs ne sont PAS des fiches Markdown : ils sont GÉNÉRÉS par
+# build_index.py à partir de ce fichier et des `topics` des fiches.
+# Une seule source, pas de copie à maintenir.
+#
+# Seuil : un sujet devient un hub à partir de 4 objets. Les sujets
+# sous le seuil (b-corp, secteur-emballage, secteur-pharma) restent des
+# facettes de filtrage ; leurs fiches sont rattachées par leurs autres sujets.
+# Vérifié le 2026-09-01 : 0 objet sur 105 sans hub.
+# ============================================================
+
+threshold: 4
+
+hubs:
+
+  methodologie:
+    slug:  { fr: "methodologie-ecovadis", nl: "ecovadis-methodologie", en: "ecovadis-methodology" }
+    title:
+      fr: "Comment fonctionne la méthodologie EcoVadis ?"
+      nl: "Hoe werkt de EcoVadis-methodologie?"
+      en: "How does the EcoVadis methodology work?"
+    intro:
+      fr: >-
+        EcoVadis note quatre thèmes à partir d'un questionnaire adapté au secteur, à la taille
+        et à la géographie de l'entreprise, puis pondère le score sur des preuves documentaires.
+        Ce sujet rassemble les fiches qui expliquent le mécanisme : pondération, modèle P-A-R,
+        seuils, et ce qui distingue une réponse acceptée d'une réponse rejetée.
+      nl: >-
+        EcoVadis beoordeelt vier thema's op basis van een vragenlijst die is afgestemd op de
+        sector, de grootte en de geografie van de onderneming, en weegt de score op
+        bewijsstukken. Dit onderwerp bundelt de fiches die het mechanisme uitleggen: weging,
+        P-A-R-model, drempels, en wat een aanvaard antwoord onderscheidt van een verworpen antwoord.
+      en: >-
+        EcoVadis scores four themes from a questionnaire tailored to the company's sector, size
+        and geography, then weights that score on documentary evidence. This topic gathers the
+        entries that explain the mechanism: weighting, the P-A-R model, thresholds, and what
+        separates an accepted answer from a rejected one.
+
+  preuves:
+    slug:  { fr: "preuves-documentaires", nl: "bewijsstukken", en: "documentary-evidence" }
+    title:
+      fr: "Quelles preuves EcoVadis accepte-t-il ?"
+      nl: "Welke bewijsstukken aanvaardt EcoVadis?"
+      en: "What evidence does EcoVadis accept?"
+    intro:
+      fr: >-
+        La majorité des points perdus par les PME le sont faute de preuve, pas faute d'action.
+        Ce sujet couvre ce qu'EcoVadis attend comme document, comment le formaliser, comment
+        l'anonymiser, et les canevas prêts à remplir par critère.
+      nl: >-
+        De meeste punten die kmo's verliezen, gaan verloren bij gebrek aan bewijs, niet bij
+        gebrek aan actie. Dit onderwerp behandelt welk document EcoVadis verwacht, hoe u het
+        formaliseert, hoe u het anonimiseert, en de invulklare sjablonen per criterium.
+      en: >-
+        Most of the points small companies lose are lost for want of evidence, not for want of
+        action. This topic covers what EcoVadis expects as a document, how to formalise it, how
+        to anonymise it, and the ready-to-fill templates per criterion.
+
+  questionnaire:
+    slug:  { fr: "questionnaire-ecovadis", nl: "ecovadis-vragenlijst", en: "ecovadis-questionnaire" }
+    title:
+      fr: "Comment remplir le questionnaire EcoVadis ?"
+      nl: "Hoe vult u de EcoVadis-vragenlijst in?"
+      en: "How do you complete the EcoVadis questionnaire?"
+    intro:
+      fr: >-
+        Le questionnaire est le point d'entrée de l'évaluation : sa longueur, ses codes de
+        question et ses pièges conditionnent le score. Ce sujet couvre la préparation, les
+        questions qui rapportent le plus, et les erreurs qui coûtent une médaille.
+      nl: >-
+        De vragenlijst is het startpunt van de beoordeling: lengte, vraagcodes en valkuilen
+        bepalen de score. Dit onderwerp behandelt de voorbereiding, de vragen die het meeste
+        opleveren, en de fouten die een medaille kosten.
+      en: >-
+        The questionnaire is the assessment's entry point: its length, question codes and traps
+        drive the score. This topic covers preparation, the questions that pay the most, and the
+        mistakes that cost a medal.
+
+  medailles-percentiles:
+    slug:  { fr: "medailles-et-percentiles", nl: "medailles-en-percentielen", en: "medals-and-percentiles" }
+    title:
+      fr: "Comment sont attribuées les médailles EcoVadis ?"
+      nl: "Hoe worden de EcoVadis-medailles toegekend?"
+      en: "How are EcoVadis medals awarded?"
+    intro:
+      fr: >-
+        Bronze, Argent, Or et Platine ne sont pas des seuils fixes mais des percentiles calculés
+        sur les entreprises évaluées les douze derniers mois. Ce sujet explique le calcul, les
+        niveaux indicatifs du moment et les badges Committed et Fast Mover.
+      nl: >-
+        Brons, Zilver, Goud en Platina zijn geen vaste drempels maar percentielen, berekend over
+        de ondernemingen die de voorbije twaalf maanden zijn beoordeeld. Dit onderwerp legt de
+        berekening uit, de indicatieve niveaus van het moment en de badges Committed en Fast Mover.
+      en: >-
+        Bronze, Silver, Gold and Platinum are not fixed thresholds but percentiles computed over
+        the companies assessed in the last twelve months. This topic explains the calculation,
+        the current indicative levels, and the Committed and Fast Mover badges.
+
+  rising-bar:
+    slug:  { fr: "rising-bar", nl: "rising-bar", en: "rising-bar" }
+    title:
+      fr: "Pourquoi le même score vaut moins chaque année ?"
+      nl: "Waarom is dezelfde score elk jaar minder waard?"
+      en: "Why is the same score worth less every year?"
+    intro:
+      fr: >-
+        Parce que les médailles sont des percentiles, le niveau requis monte à mesure que le
+        marché progresse : une entreprise qui ne bouge pas recule. Ce sujet documente le
+        phénomène, son rythme et ce qu'il implique pour une réévaluation.
+      nl: >-
+        Omdat medailles percentielen zijn, stijgt het vereiste niveau naarmate de markt
+        vooruitgaat: een onderneming die stilstaat, zakt. Dit onderwerp documenteert het
+        fenomeen, het tempo ervan en wat het betekent voor een herbeoordeling.
+      en: >-
+        Because medals are percentiles, the required level rises as the market improves: a
+        company that stands still moves down. This topic documents the phenomenon, its pace, and
+        what it means for a reassessment.
+
+  environnement:
+    slug:  { fr: "environnement", nl: "milieu", en: "environment" }
+    title:
+      fr: "Environnement : que faut-il démontrer ?"
+      nl: "Milieu: wat moet u aantonen?"
+      en: "Environment: what do you have to demonstrate?"
+    intro:
+      fr: >-
+        Environnement est l'un des quatre thèmes officiels d'EcoVadis et celui qui pèse le plus
+        lourd pour un industriel. Ce sujet couvre les indicateurs attendus, les politiques
+        exigées et le niveau de données à produire selon la taille de l'entreprise.
+      nl: >-
+        Milieu is een van de vier officiële EcoVadis-thema's en weegt het zwaarst voor een
+        productiebedrijf. Dit onderwerp behandelt de verwachte indicatoren, de vereiste beleidsdocumenten
+        en het gegevensniveau dat u moet aanleveren naargelang de grootte van de onderneming.
+      en: >-
+        Environment is one of EcoVadis's four official themes and the heaviest one for a
+        manufacturer. This topic covers the expected indicators, the required policies, and the
+        level of data to produce depending on company size.
+
+  social-droits-humains:
+    slug:  { fr: "social-et-droits-humains", nl: "arbeids-en-mensenrechten", en: "labor-and-human-rights" }
+    title:
+      fr: "Social et Droits Humains : que faut-il documenter ?"
+      nl: "Arbeids- en Mensenrechten: wat moet u documenteren?"
+      en: "Labor & Human Rights: what has to be documented?"
+    intro:
+      fr: >-
+        Deuxième thème officiel : santé et sécurité, conditions de travail, formation,
+        diversité, travail des enfants et travail forcé. Ce sujet rassemble les preuves
+        attendues et les registres à tenir, y compris pour une entreprise de moins de cent personnes.
+      nl: >-
+        Tweede officiële thema: gezondheid en veiligheid, arbeidsomstandigheden, opleiding,
+        diversiteit, kinderarbeid en gedwongen arbeid. Dit onderwerp bundelt de verwachte
+        bewijsstukken en de registers die u moet bijhouden, ook voor een onderneming met minder
+        dan honderd medewerkers.
+      en: >-
+        The second official theme: health and safety, working conditions, training, diversity,
+        child labour and forced labour. This topic gathers the expected evidence and the
+        registers to keep, including for a company of fewer than a hundred people.
+
+  ethique:
+    slug:  { fr: "ethique", nl: "ethiek", en: "ethics" }
+    title:
+      fr: "Éthique : comment couvrir le risque de corruption ?"
+      nl: "Ethiek: hoe dekt u het corruptierisico af?"
+      en: "Ethics: how do you cover corruption risk?"
+    intro:
+      fr: >-
+        Troisième thème officiel : anticorruption, sécurité de l'information, harcèlement et
+        discrimination. Ce sujet couvre la cartographie du risque, le registre des cadeaux et
+        les conflits d'intérêts — les preuves qui manquent le plus souvent aux PME.
+      nl: >-
+        Derde officiële thema: anticorruptie, informatiebeveiliging, pesterijen en discriminatie.
+        Dit onderwerp behandelt de risicomapping, het geschenkenregister en de
+        belangenconflicten — de bewijsstukken die kmo's het vaakst missen.
+      en: >-
+        The third official theme: anti-corruption, information security, harassment and
+        discrimination. This topic covers risk mapping, the gifts register and conflicts of
+        interest — the evidence small companies most often lack.
+
+  achats-responsables:
+    slug:  { fr: "achats-responsables", nl: "duurzame-inkoop", en: "sustainable-procurement" }
+    title:
+      fr: "Achats Responsables : par où commencer ?"
+      nl: "Duurzame Inkoop: waar begint u?"
+      en: "Sustainable Procurement: where do you start?"
+    intro:
+      fr: >-
+        Quatrième thème officiel, et celui où les entreprises scorent le plus souvent sous leur
+        potentiel. Ce sujet couvre la cartographie fournisseurs, le code de conduite, l'évaluation
+        des risques et le ruissellement des obligations CSDDD vers les fournisseurs.
+      nl: >-
+        Vierde officiële thema, en het thema waar ondernemingen het vaakst onder hun potentieel
+        scoren. Dit onderwerp behandelt de leveranciersmapping, de gedragscode, de
+        risicobeoordeling en het doorsijpelen van de CSDDD-verplichtingen naar leveranciers.
+      en: >-
+        The fourth official theme, and the one where companies most often score below their
+        potential. This topic covers supplier mapping, the code of conduct, risk assessment, and
+        how CSDDD obligations cascade down to suppliers.
+
+  carbone-ghg:
+    slug:  { fr: "bilan-carbone-et-ges", nl: "koolstofvoetafdruk-en-broeikasgassen", en: "carbon-footprint-and-ghg" }
+    title:
+      fr: "Quel bilan carbone EcoVadis attend-il ?"
+      nl: "Welke koolstofbalans verwacht EcoVadis?"
+      en: "What carbon footprint does EcoVadis expect?"
+    intro:
+      fr: >-
+        Les Scopes 1 et 2 sont devenus le minimum attendu, et les clients réclament de plus en
+        plus le Scope 3. Ce sujet couvre le périmètre à couvrir, les méthodes acceptées et le
+        niveau d'effort réaliste pour une entreprise de moins de cent personnes.
+      nl: >-
+        Scope 1 en 2 zijn het verwachte minimum geworden, en klanten vragen steeds vaker Scope 3.
+        Dit onderwerp behandelt de te dekken perimeter, de aanvaarde methoden en het realistische
+        inspanningsniveau voor een onderneming met minder dan honderd medewerkers.
+      en: >-
+        Scopes 1 and 2 have become the expected minimum, and customers increasingly ask for
+        Scope 3. This topic covers the perimeter to cover, the accepted methods, and the
+        realistic level of effort for a company of fewer than a hundred people.
+
+  vsme-csrd:
+    slug:  { fr: "vsme-csrd-et-omnibus", nl: "vsme-csrd-en-omnibus", en: "vsme-csrd-and-omnibus" }
+    title:
+      fr: "VSME, CSRD, CSDDD : qu'est-ce qui s'applique à une PME ?"
+      nl: "VSME, CSRD, CSDDD: wat is van toepassing op een kmo?"
+      en: "VSME, CSRD, CSDDD: what applies to a small company?"
+    intro:
+      fr: >-
+        Une PME n'est presque jamais directement soumise à la CSRD ou à la CSDDD, mais ses
+        clients le sont et lui répercutent leurs obligations. Ce sujet démêle ce qui est
+        obligatoire, ce qui ruisselle par contrat, et ce que le paquet Omnibus a déplacé.
+      nl: >-
+        Een kmo valt bijna nooit rechtstreeks onder de CSRD of de CSDDD, maar haar klanten wel,
+        en zij schuiven hun verplichtingen door. Dit onderwerp ontwart wat verplicht is, wat via
+        contracten doorsijpelt, en wat het Omnibus-pakket heeft verschoven.
+      en: >-
+        A small company is almost never directly subject to CSRD or CSDDD, but its customers are
+        and they pass their obligations down. This topic separates what is mandatory, what
+        cascades by contract, and what the Omnibus package moved.
+
+  plateforme:
+    slug:  { fr: "plateforme-ecovadis", nl: "ecovadis-platform", en: "ecovadis-platform" }
+    title:
+      fr: "Comment s'utilise la plateforme EcoVadis ?"
+      nl: "Hoe gebruikt u het EcoVadis-platform?"
+      en: "How do you use the EcoVadis platform?"
+    intro:
+      fr: >-
+        Comptes, modules, dépôt des documents, partage de la fiche d'évaluation (scorecard) avec
+        un client : la plateforme a ses règles et ses limites. Ce sujet couvre son
+        fonctionnement pratique et les blocages les plus fréquents.
+      nl: >-
+        Accounts, modules, documenten opladen, de scorecard delen met een klant: het platform
+        heeft zijn regels en zijn grenzen. Dit onderwerp behandelt de praktische werking en de
+        meest voorkomende blokkeringen.
+      en: >-
+        Accounts, modules, uploading documents, sharing the scorecard with a customer: the
+        platform has its rules and its limits. This topic covers how it works in practice and
+        the most frequent blockers.
+
+  360-watch:
+    slug:  { fr: "360-watch", nl: "360-watch", en: "360-watch" }
+    title:
+      fr: "Qu'est-ce que la 360° Watch et que peut-elle coûter ?"
+      nl: "Wat is de 360° Watch en wat kan die kosten?"
+      en: "What is the 360° Watch and what can it cost you?"
+    intro:
+      fr: >-
+        EcoVadis scrute des sources publiques indépendantes de vos déclarations, et une
+        controverse retrouvée là pèse sur le score sans que vous l'ayez déclarée. Ce sujet
+        explique ce qui est surveillé, l'effet sur la note et ce qu'on peut y faire.
+      nl: >-
+        EcoVadis scant publieke bronnen los van uw verklaringen, en een controverse die daar
+        opduikt weegt op de score zonder dat u ze hebt aangegeven. Dit onderwerp legt uit wat
+        wordt gemonitord, het effect op de score en wat u eraan kunt doen.
+      en: >-
+        EcoVadis scans public sources independent of your declarations, and a controversy found
+        there weighs on the score without you having declared it. This topic explains what is
+        monitored, the effect on the rating, and what can be done about it.
+
+  timing:
+    slug:  { fr: "delais-et-calendrier", nl: "termijnen-en-planning", en: "timing-and-deadlines" }
+    title:
+      fr: "Combien de temps prend une évaluation EcoVadis ?"
+      nl: "Hoe lang duurt een EcoVadis-beoordeling?"
+      en: "How long does an EcoVadis assessment take?"
+    intro:
+      fr: >-
+        Entre la décision et la médaille, il faut compter le temps de préparation, le délai
+        d'évaluation d'EcoVadis et la fenêtre de réévaluation. Ce sujet donne les durées
+        réelles, les échéances à ne pas manquer et le moment où il est trop tard pour agir.
+      nl: >-
+        Tussen de beslissing en de medaille rekent u op de voorbereidingstijd, de
+        beoordelingstermijn van EcoVadis en het herbeoordelingsvenster. Dit onderwerp geeft de
+        werkelijke doorlooptijden, de deadlines die u niet mag missen, en het punt waarop het te
+        laat is om nog te handelen.
+      en: >-
+        Between the decision and the medal come preparation time, EcoVadis's own assessment
+        delay, and the reassessment window. This topic gives the real durations, the deadlines
+        not to miss, and the point at which it is too late to act.
+
+  tarifs:
+    slug:  { fr: "tarifs-et-budget", nl: "tarieven-en-budget", en: "pricing-and-budget" }
+    title:
+      fr: "Combien coûte une démarche EcoVadis ?"
+      nl: "Wat kost een EcoVadis-traject?"
+      en: "What does an EcoVadis programme cost?"
+    intro:
+      fr: >-
+        Deux budgets à distinguer : l'abonnement payé à EcoVadis et l'accompagnement externe.
+        Ce sujet donne les fourchettes, les modalités de paiement et ce qui fait varier le prix
+        d'une mission d'une entreprise à l'autre.
+      nl: >-
+        Twee budgetten om uit elkaar te houden: het abonnement dat u aan EcoVadis betaalt en de
+        externe begeleiding. Dit onderwerp geeft de vorken, de betalingsmodaliteiten en wat de
+        prijs van een opdracht van onderneming tot onderneming doet verschillen.
+      en: >-
+        Two budgets to keep apart: the subscription paid to EcoVadis and the external support.
+        This topic gives the ranges, the payment terms, and what makes the price of an
+        engagement vary from one company to the next.
+
+  donneur-d-ordres:
+    slug:  { fr: "exigences-des-donneurs-d-ordres", nl: "eisen-van-opdrachtgevers", en: "large-account-requirements" }
+    title:
+      fr: "Que demande exactement un donneur d'ordres ?"
+      nl: "Wat vraagt een opdrachtgever precies?"
+      en: "What exactly does a large account require?"
+    intro:
+      fr: >-
+        Un badge ne suffit presque jamais quand un grand client écrit un seuil dans son contrat :
+        il demande une médaille, parfois un minimum par thème. Ce sujet couvre les exigences
+        réelles rencontrées sur le terrain et comment y répondre sans surinvestir.
+      nl: >-
+        Een badge volstaat bijna nooit wanneer een grote klant een drempel in zijn contract
+        schrijft: hij vraagt een medaille, soms een minimum per thema. Dit onderwerp behandelt de
+        werkelijke eisen uit de praktijk en hoe u eraan voldoet zonder te overinvesteren.
+      en: >-
+        A badge almost never suffices once a large customer writes a threshold into the contract:
+        they ask for a medal, sometimes a minimum per theme. This topic covers the requirements
+        actually met in the field and how to satisfy them without overinvesting.

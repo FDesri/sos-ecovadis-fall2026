@@ -12,9 +12,11 @@ summary: >-
   (fifteen years of full P&L responsibility), he takes charge of the EcoVadis
   journey end to end, the way an interim manager does, and leaves behind an
   organisation able to hold its score without him.
+description: "François Dequenne, EcoVadis Interim Manager at ESGIM: engineer, former subsidiary managing director, 100+ EcoVadis projects delivered."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [how-much-does-ecovadis-support-cost, full-ecovadis-support-mission]

@@ -11,9 +11,11 @@ summary: >-
   durabilité sur l'entreprise et l'impact de l'entreprise sur l'environnement
   et la société ; cette double lecture pilote la priorisation et les
   divulgations CSRD.
+description: "La double matérialité évalue l'impact financier des enjeux sur l'entreprise et l'impact de l'entreprise sur l'environnement et la société."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: comprendre
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ce-qui-change-en-2026]

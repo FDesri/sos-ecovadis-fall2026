@@ -13,9 +13,11 @@ summary: >-
   locatie door een doorwinterde ESGIM interim manager, over twee tot vier
   maanden, voor 7.500 tot 12.000 € excl. btw — het saldo is enkel verschuldigd
   als de afgesproken medaille wordt gehaald.
+description: "EcoVadis-begeleiding van begin tot einde voor XS- en S-ondernemingen: audit, actieplan, bewijsstukken, indiening, tot de afgesproken medaille."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [tarifs, timing, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-kost-ecovadis-begeleiding, ecovadis-expertadvies-dagen, francois-dequenne]

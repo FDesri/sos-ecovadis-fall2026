@@ -10,9 +10,11 @@ summary: >-
   CSRD-naleving is geen voorwaarde: VSME is erkend (Basic tot 75/100, volledig
   tot 100/100), GRI blijft doeltreffend, en aansluitingen (UNGC, SBTi) voegen
   score toe. Zonder publiek rapport plafonneert Rapportering op 50/100.
+description: "CSRD-naleving is geen voorwaarde: VSME is erkend, GRI blijft doeltreffend, en aansluitingen zoals UNGC of SBTi voegen score toe."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-verandert-in-2026, rising-bar-strengere-normen-2026]

@@ -13,9 +13,11 @@ summary: >-
   and in medal range, 85+ leading practice. Share it via the platform, secure
   view-only links or PDF exports — and treat the improvement-area list as next
   year's action plan.
+description: "Overall score, percentile, medal and a P-A-R breakdown per theme: how to read your EcoVadis scorecard, share it and turn it into a plan."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [methodologie, plateforme, medailles-percentiles, timing]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard, improve-your-ecovadis-score-fast, from-committed-badge-to-bronze, how-much-does-ecovadis-support-cost]

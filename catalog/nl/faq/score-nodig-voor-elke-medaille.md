@@ -12,9 +12,11 @@ summary: >-
   plaatst de indicatieve drempels rond 64 (Brons), 73 (Zilver), 81 (Goud), 84
   (Platinum) — richtinggevende ramingen, geen gepubliceerde doelen. Een
   gestructureerde gap-analyse voorspelt de medaille met redelijke zekerheid.
+description: "Sinds januari 2024 zijn medailles percentielgebaseerd. De ESGIM-benchmark van juli 2026 plaatst de indicatieve drempels rond 64, 73, 81 en 84."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: choisir
 themes: [general]
 topics: [medailles-percentiles, rising-bar]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-strengere-normen-2026, ecovadis-drempels-verpakking-farma-belgie]

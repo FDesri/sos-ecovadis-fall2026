@@ -14,9 +14,11 @@ summary: >-
   (15 juli); nieuwe, fijnmazigere verbeterpunten verschijnen voor de
   milieucriteria Water, Biodiversiteit en Luchtverontreiniging (15 juli); en
   de halfjaarlijkse landenrisico-update herklasseert tien landen (29 juli).
+description: "Vier methodologische EcoVadis-updates in Q2 2026: Scope 2-methode verplicht vermelden, Select Check Up geschrapt, nieuwe verbeterpunten."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: comprendre
 themes: [general, environment]
 topics: [methodologie, carbone-ghg, plateforme]
 ecovadis_questions: [CAR100, CAR104, CAR105]
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-verandert-in-2026, rising-bar-strengere-normen-2026, ecovadis-en-co2-nulmeting]

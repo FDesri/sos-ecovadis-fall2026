@@ -16,9 +16,11 @@ summary: >-
   objectif AR dans une évaluation), la frontière avec SUP600 (KPI), et trois
   corrections avant upload : placeholder à remplir, clause de conséquence à
   ajouter au code de conduite, politique d'achats référencée mais absente.
+description: "SUP307 évalue neuf sous-actions Achats Responsables. Règle d'or : ne cocher que ce qu'un document dédié peut réellement prouver."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [sustainable-procurement]
 topics: [achats-responsables, preuves, questionnaire]
 ecovadis_questions: [SUP307, SUP600]
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [achats-responsables-par-ou-commencer, programmes-engagement-fournisseurs, matieres-premieres-produits-chimiques-env3522]

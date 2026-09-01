@@ -11,9 +11,11 @@ summary: >-
   logo — with no exception. Produce internal documents on branded templates,
   ask external providers to include the company name, and where impossible,
   add a cover sheet on letterhead naming employee, company, training and date.
+description: "Every document must carry an affiliation with the assessed entity — name or logo — without exception, including documents from a provider."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: verifier
 themes: [general]
 topics: [preuves, questionnaire]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [supporting-documents-for-xs-companies, build-strong-ecovadis-submissions-consistently]

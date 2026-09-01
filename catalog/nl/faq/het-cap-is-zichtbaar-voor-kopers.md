@@ -11,9 +11,11 @@ summary: >-
   verborgen. Behandel het als communicatietroef: kader het als uw levende
   verbeteragenda, en tim uw herbeoordeling zodat de volgende scorecard de
   uitgevoerde verbeteringen al weerspiegelt.
+description: "Het corrigerend actieplan hoort bij de scorecard en kan niet worden verborgen: presenteer het als uw levende verbeteragenda."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [donneur-d-ordres, plateforme]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [scorecard-lezen-delen-optimaliseren, ecovadis-score-snel-verbeteren]

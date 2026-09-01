@@ -11,9 +11,11 @@ summary: >-
   conduite fournisseurs sert l'Éthique et les Achats Responsables) — d'où le
   poids des documents complets. Pas de surpondération automatique : l'effet
   multiplicateur vient d'améliorer plusieurs thèmes en même temps.
+description: "Certaines preuves comptent pour plusieurs thèmes à la fois : c'est ce qui donne l'avantage aux documents complets, pas une pondération accrue."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis]

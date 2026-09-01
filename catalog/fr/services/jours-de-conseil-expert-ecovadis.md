@@ -13,9 +13,11 @@ summary: >-
   les trois. L'expert passe en revue votre fiche d'évaluation (scorecard) et
   votre plan d'actions correctives, et priorise les leviers qui font le plus
   bouger le score d'une PME.
+description: "Une à trois journées de conseil expert EcoVadis à distance, de 1 500 à 3 750 €, pour une entreprise qui gère déjà sa démarche en interne."
 situations: [S1]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [tarifs, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [combien-coute-un-accompagnement-ecovadis, accompagnement-ecovadis-complet, francois-dequenne]

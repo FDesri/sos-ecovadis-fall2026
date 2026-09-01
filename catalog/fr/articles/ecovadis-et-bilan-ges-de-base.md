@@ -15,9 +15,11 @@ summary: >-
   qui fait le plus bouger un score Environnement : une politique sans mesure
   ne score qu'au niveau Politiques. Le même bilan alimente la CSRD (ESRS E1),
   le SBTi et le CDP.
+description: "Énergie et GES est le critère le plus scruté par les donneurs d'ordres : un bilan Scopes 1 et 2 en est la fondation minimale."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: comprendre
 themes: [environment]
 topics: [carbone-ghg, environnement, methodologie, vsme-csrd]
 ecovadis_questions: [ENV310, ENV630, CAR100, CAR104, CAR105, CAR107, CAR108]
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [indicateurs-environnementaux-a-collecter, evolutions-methodologiques-t2-2026, ameliorer-son-score-ecovadis-rapidement, de-bronze-a-argent]

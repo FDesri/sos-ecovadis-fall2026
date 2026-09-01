@@ -12,9 +12,11 @@ summary: >-
   the agreed level (Bronze or Silver). Delivered on-site by a seasoned ESGIM
   interim manager over two to four months, for €7,500 to €12,000 excl. VAT,
   with the final instalment due only if the agreed medal is reached.
+description: "End-to-end EcoVadis support for XS and S companies: gap audit, action plan, evidence, submission, through to the agreed medal."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [tarifs, timing, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [how-much-does-ecovadis-support-cost, ecovadis-expert-advice-days, francois-dequenne]

@@ -15,9 +15,11 @@ summary: >-
   assessment with precision (project discipline, qualified evidence, clear
   P-A-R-structured responses). Over time both merge into a continuous
   improvement loop.
+description: "Because medals go to the top percentiles, an EcoVadis submission is continuous work: two complementary pathways to keep pace."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [methodologie, timing, questionnaire, rising-bar]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-essentials-guide, improve-your-ecovadis-score-fast, ecovadis-rising-standards-2026, full-ecovadis-support-mission]

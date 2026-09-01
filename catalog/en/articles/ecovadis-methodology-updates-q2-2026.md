@@ -14,9 +14,11 @@ summary: >-
   Improvement Areas appear for the Environment criteria Water, Biodiversity
   and Air pollution (15 July); and the biannual country risk update reclassifies
   ten countries (29 July).
+description: "Four EcoVadis methodology updates in Q2 2026: Scope 2 method must be specified, Select Check Up discontinued, new Improvement Areas added."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: comprendre
 themes: [general, environment]
 topics: [methodologie, carbone-ghg, plateforme]
 ecovadis_questions: [CAR100, CAR104, CAR105]
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [whats-changing-in-2026, ecovadis-rising-standards-2026, ecovadis-and-ghg-baseline]

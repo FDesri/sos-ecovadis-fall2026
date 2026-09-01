@@ -10,9 +10,11 @@ summary: >-
   Volledige LCA's zijn niet verplicht voor alle producten, maar een LCA of
   vergelijkbare analyse van de hoofdproducten is aangeraden om de CDP-
   governancescore te ondersteunen.
+description: "Volledige LCA's zijn niet voor elk product verplicht, maar een LCA van uw hoofdproducten ondersteunt de CDP-governancescore."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: verifier
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-en-co2-nulmeting]

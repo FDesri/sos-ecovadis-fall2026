@@ -11,9 +11,11 @@ summary: >-
   new platform: understand the scoring logic, use the available guidance,
   document sustainability narratives, and consider optional third-party
   verification for score and credibility.
+description: "CDP encourages agile reporting: understand the scoring logic, document your sustainability narratives, and consider external verification."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-and-ghg-baseline]

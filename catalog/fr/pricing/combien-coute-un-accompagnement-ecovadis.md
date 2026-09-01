@@ -14,9 +14,11 @@ summary: >-
   paiement se fait en trois tranches ; le solde n'est dû que si le niveau
   convenu (Bronze ou Argent) est atteint. Les forfaits de conseil expert à
   distance commencent à 1 500 € la journée.
+description: "Un accompagnement EcoVadis complet coûte 7 500 à 12 000 € HTVA sur deux à quatre mois, payable en trois tranches dont la dernière au résultat."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [tarifs, timing]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-08-27
 version: 1
 status: review
 related: [accompagnement-ecovadis-complet, jours-de-conseil-expert-ecovadis, francois-dequenne]

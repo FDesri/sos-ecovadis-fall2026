@@ -12,9 +12,11 @@ summary: >-
   un terrain similaire. Les deux sont moins chers et plus rapides que l'ISO.
   Pour l'Environnement, un audit externe autonome couvrant plus de 30 % des
   opérations, avec rapport écrit complet, substitue partiellement l'ISO 14001.
+description: "Les audits de durabilité tiers sont la voie la plus accessible : un audit SMETA couvre le Social sur un site et est largement accepté."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ameliorer-son-score-ecovadis-rapidement, de-bronze-a-argent]

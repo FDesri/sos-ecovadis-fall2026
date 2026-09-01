@@ -12,9 +12,11 @@ summary: >-
   The document combination must provide commitment, governance and targets;
   upload each where relevant and use the comment field to link them.
   Condition: targets must cover at least 80% of operations to be credited.
+description: "Yes: EcoVadis distinguishes qualitative objectives from quantitative targets, and targets may live in a report or a standalone plan."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: policies
+intent: verifier
 themes: [general]
 topics: [preuves, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [build-strong-ecovadis-submissions-consistently]

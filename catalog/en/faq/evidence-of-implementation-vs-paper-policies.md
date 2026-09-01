@@ -12,9 +12,11 @@ summary: >-
   conduct — and third-party certifications (ISO 14001, SMETA) carry extra
   weight through external verification. Results evidence shows outcomes: KPIs
   over time, progress against targets.
+description: "Training records, internal audit reports, procedures and third-party certifications: what proves implementation beyond paper policies."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard, build-strong-ecovadis-submissions-consistently]

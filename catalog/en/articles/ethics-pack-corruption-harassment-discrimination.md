@@ -17,9 +17,11 @@ summary: >-
   training, register, clause, procedure, control, reporting — not mere
   intention. Belgian thresholds recalled: whistleblowing channel and
   confidential counsellor mandatory from 50 workers.
+description: "Ten anti-corruption actions plus a harassment and discrimination set: simple, credible and documentable steps for a Belgian SME."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [ethics, labor-human-rights]
 topics: [ethique, social-droits-humains, preuves, questionnaire]
 ecovadis_questions: [FB3103, LAB3604]
@@ -33,6 +35,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [evidence-templates-diversity-corruption-child-labour, social-hr-indicators-to-collect, supporting-documents-for-xs-companies]

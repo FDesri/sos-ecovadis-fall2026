@@ -10,9 +10,11 @@ summary: >-
   Bewaar ze: ze tellen niet mee tegen de indiening, de verwerpingsreden staat
   in de scoredetails, en ze verwijderen wist informatie die nuttig is bij de
   herbeoordeling.
+description: "Bewaar ze: verworpen documenten tellen niet mee tegen de indiening, en de verwerpingsreden blijft zichtbaar in de scoredetails."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: verifier
 themes: [general]
 topics: [preuves, plateforme]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [sterke-ecovadis-indieningen-opbouwen]

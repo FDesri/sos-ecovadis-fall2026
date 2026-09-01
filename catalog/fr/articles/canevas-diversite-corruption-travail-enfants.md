@@ -16,9 +16,11 @@ summary: >-
   cinq canevas prêts à copier (fiche action, registre diversité, matrice
   corruption, tableau de bord social, registre âge/jeunes travailleurs) et
   le dossier minimal recommandé pour une entreprise S belge.
+description: "Diversité, corruption, reporting social, travail des enfants : quatre sujets crus sans objet qui se documentent avec des preuves simples."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [labor-human-rights, ethics]
 topics: [social-droits-humains, ethique, preuves, questionnaire]
 ecovadis_questions: [LAB3604, FB3103, LAB601, LAB6011, LAB3503, LAB3511]
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [indicateurs-sociaux-rh-a-collecter, pack-corruption-harcelement-discrimination, documents-justificatifs-entreprises-xs]

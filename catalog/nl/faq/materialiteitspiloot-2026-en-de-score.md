@@ -13,9 +13,11 @@ summary: >-
   formele, gedocumenteerde verantwoording — idealiter een dubbele
   materialiteitsanalyse met stakeholderbewijs en governancegoedkeuring.
   Dekking beperkt; controleer de toelating vóór u investeert.
+description: "In gedekte sectoren laat de piloot toe een milieuonderwerp niet-materieel te verklaren: de betrokken vragen worden dan gedeactiveerd."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, vsme-csrd]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-verandert-in-2026, methodologie-updates-q2-2026]

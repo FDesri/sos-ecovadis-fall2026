@@ -10,9 +10,11 @@ summary: >-
   CDP moedigt wendbare rapportering aan op zijn geïntegreerde vragenlijst en
   nieuwe platform: begrijp de scorelogica, documenteer de
   duurzaamheidsverhalen en overweeg optionele externe verificatie.
+description: "CDP moedigt wendbare rapportering aan: begrijp de scorelogica, documenteer uw duurzaamheidsverhalen en overweeg externe verificatie."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-en-co2-nulmeting]

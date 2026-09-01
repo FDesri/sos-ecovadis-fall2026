@@ -14,9 +14,11 @@ summary: >-
   estimated emissions), and show active tracking — a lightweight but honest
   approach with real data beats a comprehensive-looking policy without
   figures.
+description: "Fewer criteria activate: water and biodiversity are rarely material for a consultancy; energy, Scope 1-2 GHGs and waste remain in play."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [environmental-indicators-to-collect, ecovadis-activated-criteria-by-sector]

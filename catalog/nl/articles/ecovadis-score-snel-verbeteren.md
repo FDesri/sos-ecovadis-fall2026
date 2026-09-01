@@ -16,9 +16,11 @@ summary: >-
   koolstofbeheer versterken (doelen, inventaris, rapportering). Samen
   verschuiven die vaak de score met één of zelfs twee medailleniveaus in één
   cyclus.
+description: "Vijf quick wins vóór een EcoVadis-hernieuwing: bestaande praktijken formaliseren, een KPI-dashboard bouwen, een kort jaarrapport publiceren."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general, environment, sustainable-procurement]
 topics: [methodologie, timing, achats-responsables, carbone-ghg]
 ecovadis_questions: []
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-essentials-gids, sterke-ecovadis-indieningen-opbouwen, scorecard-lezen-delen-optimaliseren, duurzame-inkoop-waar-beginnen, ecovadis-en-co2-nulmeting]

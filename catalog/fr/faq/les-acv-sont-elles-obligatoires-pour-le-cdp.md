@@ -10,9 +10,11 @@ summary: >-
   Les ACV complètes ne sont pas obligatoires pour tous les produits, mais une
   ACV ou analyse similaire sur les produits principaux est conseillée pour
   soutenir le score de gouvernance CDP.
+description: "Les ACV complètes ne sont pas obligatoires sur tous les produits, mais une ACV sur les produits principaux soutient le score de gouvernance CDP."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: verifier
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-et-bilan-ges-de-base]

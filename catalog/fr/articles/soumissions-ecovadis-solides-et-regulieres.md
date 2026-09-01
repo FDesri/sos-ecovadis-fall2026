@@ -16,9 +16,11 @@ summary: >-
   précision (discipline de projet, preuves qualifiées, réponses structurées
   P-A-R). Avec le temps, les deux fusionnent en une boucle d'amélioration
   continue.
+description: "Les médailles allant aux meilleurs percentiles, une soumission EcoVadis se travaille en continu : deux voies pour ne pas décrocher."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [methodologie, timing, questionnaire, rising-bar]
 ecovadis_questions: []
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [guide-essentiel-ecovadis, ameliorer-son-score-ecovadis-rapidement, rising-bar-exigences-croissantes-2026, accompagnement-ecovadis-complet]

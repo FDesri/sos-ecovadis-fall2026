@@ -12,9 +12,11 @@ summary: >-
   au-delà, les analystes cherchent audits internes, revues de direction,
   journaux d'actions correctives et données de performance. Un certificat seul
   ne score qu'au niveau certification.
+description: "EcoVadis n'audite pas : il évalue les documents fournis. Un certificat ISO valide et dans le périmètre est la preuve primaire."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [soumissions-ecovadis-solides-et-regulieres]

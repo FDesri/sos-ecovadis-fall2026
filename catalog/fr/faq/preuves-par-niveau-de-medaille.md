@@ -13,9 +13,11 @@ summary: >-
   risques, des certifications et un reporting KPI large ; l'Or et le Platine
   ajoutent des objectifs SMART, des certifications multiples et un rapport
   public vérifié.
+description: "Ce qui change d'un niveau de médaille à l'autre n'est pas le type de preuve, mais sa profondeur, sa couverture et sa crédibilité."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [medailles-percentiles, preuves]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [du-badge-committed-a-la-medaille-bronze, de-bronze-a-argent, de-l-argent-a-l-or]

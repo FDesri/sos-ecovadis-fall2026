@@ -15,9 +15,11 @@ summary: >-
   85% KPI coverage), and use qualified audits where certifications are out of
   reach. 2026 brings materiality customisation, a refined 360° Watch and
   formal VSME recognition.
+description: "Between July 2025 and July 2026 Silver moved from 68 to 73/100 and Gold from 77 to 81: the same evidence is worth less every year."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [rising-bar, medailles-percentiles, methodologie, vsme-csrd, 360-watch]
 ecovadis_questions: [GEN600]
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [whats-changing-in-2026, ecovadis-methodology-updates-q2-2026, from-bronze-to-silver, why-keeping-a-bronze-medal-is-harder, build-strong-ecovadis-submissions-consistently]

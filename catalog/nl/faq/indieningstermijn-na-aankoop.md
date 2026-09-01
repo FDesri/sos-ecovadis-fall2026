@@ -11,9 +11,11 @@ summary: >-
   werkdagen in totaal; na het verstrijken kan een nieuwe aankoop nodig zijn,
   al kan EcoVadis binnen 6 maanden heropenen. Begin vroeg met
   bewijsverzameling.
+description: "Ja: ongeveer 6 weken initieel, zelf verlengbaar tot 60 werkdagen in totaal; daarna kan een nieuwe aankoop nodig zijn om te heropenen."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [timing, plateforme]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [ecovadis-essentials-gids, praktische-ecovadis-tips]

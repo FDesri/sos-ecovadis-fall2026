@@ -13,9 +13,11 @@ summary: >-
   peut passer sous l'Argent. Les scores passés ne sont pas ajustés ; préparez
   le questionnaire élargi avant le cycle suivant et signalez un effectif
   erroné via le portail de support.
+description: "Le reclassement est automatique, fondé sur les ETP issus de sources publiques et de vos propres données : il ne peut pas être empêché."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, questionnaire]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [criteres-actives-ecovadis-par-secteur, documents-justificatifs-entreprises-xs]

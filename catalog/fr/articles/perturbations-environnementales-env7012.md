@@ -14,9 +14,11 @@ summary: >-
   d'activités, stock de sécurité, équipements de secours). La question n'a pas
   d'impact sur le score, mais ce qu'elle révèle apparaît sur la fiche
   d'évaluation.
+description: "ENV7012 demande deux familles d'actions : des pratiques adaptatives intégrées aux opérations et des réserves d'urgence documentées."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire, methodologie]
 ecovadis_questions: [ENV7012]
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [risques-environnementaux-externes-env7003, indicateurs-environnementaux-a-collecter, evolutions-methodologiques-t2-2026]

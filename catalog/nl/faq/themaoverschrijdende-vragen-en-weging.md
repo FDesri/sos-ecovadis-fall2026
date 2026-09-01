@@ -11,9 +11,11 @@ summary: >-
   leveranciers dient Ethiek én Duurzame Inkoop) — vandaar het gewicht van
   volledige documenten. Geen automatische extra weging: het
   multiplicatoreffect komt van meerdere themascores tegelijk verbeteren.
+description: "Sommig bewijs telt voor meerdere thema's tegelijk: dat is wat volledige documenten bevoordeelt, niet een verhoogde weging."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen]

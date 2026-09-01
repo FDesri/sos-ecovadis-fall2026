@@ -13,9 +13,11 @@ summary: >-
   KPI documentation can close 5-10 points in one cycle. The CAP is not
   comprehensive: a criterion-by-criterion review of the scorecard surfaces
   actions it does not show.
+description: "Start from the Corrective Action Plan but filter by effort and by score impact: any theme below 30/100 kills medal eligibility outright."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: methodology
+intent: choisir
 themes: [general]
 topics: [methodologie, questionnaire]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [improve-your-ecovadis-score-fast, understanding-the-ecovadis-scorecard]

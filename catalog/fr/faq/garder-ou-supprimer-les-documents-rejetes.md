@@ -10,9 +10,11 @@ summary: >-
   Gardez-les : ils ne comptent pas contre la soumission, la raison du rejet
   est enregistrée dans les détails du score, et les supprimer efface une
   information utile à la réévaluation.
+description: "Gardez-les : les documents rejetés ne comptent pas contre la soumission et la raison du rejet reste consultable dans les détails du score."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: verifier
 themes: [general]
 topics: [preuves, plateforme]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [soumissions-ecovadis-solides-et-regulieres]

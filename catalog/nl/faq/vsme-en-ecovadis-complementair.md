@@ -11,9 +11,11 @@ summary: >-
   rapporteringskader — ze vullen elkaar aan. VSME is erkend door EcoVadis: de
   Basic-module ontgrendelt tot 75/100 op Rapportering, Basic + Comprehensive
   met externe verificatie tot 100/100.
+description: "EcoVadis scoort het managementsysteem, VSME is een rapporteringskader: de Basic-module ontgrendelt tot 75/100 op Rapportering, de volledige 100."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: choisir
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-verandert-in-2026, rising-bar-strengere-normen-2026]

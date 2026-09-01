@@ -12,9 +12,11 @@ summary: >-
   business continuity plan) and emergency reserves or safety nets (business
   interruption insurance, safety stock, backup equipment). The question has no
   impact on the score, but what it reveals appears on the scorecard.
+description: "ENV7012 asks for two families of actions: adaptive practices built into operations, and documented emergency reserves or safety nets."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire, methodologie]
 ecovadis_questions: [ENV7012]
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [external-climate-risk-assessment-env7003, environmental-indicators-to-collect, ecovadis-methodology-updates-q2-2026]

@@ -10,9 +10,11 @@ summary: >-
   Relier les objectifs ESG aux KPI achats et aux cycles de décision via la
   gouvernance, obtenir l'appui de la direction, faire collaborer les équipes,
   et former les acheteurs aux achats responsables.
+description: "Relier les objectifs ESG aux KPI achats, obtenir l'appui de la direction et former les acheteurs : ce qui fait bouger une équipe achats."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [sustainable-procurement]
 topics: [achats-responsables]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [achats-responsables-par-ou-commencer, programmes-engagement-fournisseurs]

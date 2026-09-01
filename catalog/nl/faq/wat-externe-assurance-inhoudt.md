@@ -13,9 +13,11 @@ summary: >-
   leveren: specialisten, geaccrediteerde instanties, middelgrote
   auditkantoren. Interne audit telt niet. KPI-gerichte verificatie is
   mogelijk; de topscore Rapportering vereist assurance over de vier thema's.
+description: "Een onafhankelijke verificatie van de data in drie fasen; limited assurance — de EcoVadis-standaard — duurt doorgaans drie tot zes maanden."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: comprendre
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-verandert-in-2026, van-zilver-naar-goud]

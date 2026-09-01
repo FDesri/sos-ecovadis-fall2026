@@ -14,9 +14,11 @@ summary: >-
   materiële Scope 3-categorieën — is de ingreep die een Milieuscore het meest
   doet bewegen: beleid zonder meting scoort alleen op Beleidsniveau. Dezelfde
   nulmeting voedt ook CSRD (ESRS E1), SBTi en CDP.
+description: "Energie en broeikasgassen is het criterium dat kopers het strengst bekijken: een Scope 1- en 2-nulmeting is de minimale basis."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: comprendre
 themes: [environment]
 topics: [carbone-ghg, environnement, methodologie, vsme-csrd]
 ecovadis_questions: [ENV310, ENV630, CAR100, CAR104, CAR105, CAR107, CAR108]
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [milieu-indicatoren-verzamelen, methodologie-updates-q2-2026, ecovadis-score-snel-verbeteren, van-brons-naar-zilver]

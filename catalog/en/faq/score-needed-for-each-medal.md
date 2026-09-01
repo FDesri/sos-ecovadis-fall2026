@@ -12,9 +12,11 @@ summary: >-
   indicative thresholds at ~64 (Bronze), ~73 (Silver), ~81 (Gold), ~84
   (Platinum) — directional estimates, not EcoVadis-published targets. A
   structured gap analysis predicts the medal with reasonable confidence.
+description: "Since January 2024 medals are percentile-based. ESGIM benchmarking of July 2026 puts indicative thresholds around 64, 73, 81 and 84."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: choisir
 themes: [general]
 topics: [medailles-percentiles, rising-bar]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-rising-standards-2026, ecovadis-thresholds-belgian-packaging-pharma]

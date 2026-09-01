@@ -15,9 +15,11 @@ summary: >-
   granulaires apparaissent pour les critères Environnement Eau, Biodiversité
   et Pollution de l'air (15 juillet) ; et la révision semestrielle du risque
   pays reclasse dix pays (29 juillet).
+description: "Quatre évolutions méthodologiques EcoVadis au T2 2026 : méthode Scope 2 à préciser, Select Check Up supprimé, nouveaux points d'amélioration."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: comprendre
 themes: [general, environment]
 topics: [methodologie, carbone-ghg, plateforme]
 ecovadis_questions: [CAR100, CAR104, CAR105]
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ce-qui-change-en-2026, rising-bar-exigences-croissantes-2026, ecovadis-et-bilan-ges-de-base]

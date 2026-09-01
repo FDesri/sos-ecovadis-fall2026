@@ -12,9 +12,11 @@ summary: >-
   indicator Maatregelen in Milieu voeden, als geloofwaardig bewijs van een
   verbeterprogramma, mits gedocumenteerd met benoemde acties, tijdlijnen en
   resultaten.
+description: "Niet als formele standaard gelijkwaardig aan ISO 14001, maar een gestructureerd actieplan erop gebaseerd kan de indicator Maatregelen voeden."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [environment]
 topics: [environnement, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-en-co2-nulmeting, milieu-indicatoren-verzamelen]

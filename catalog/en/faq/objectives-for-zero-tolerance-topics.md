@@ -13,9 +13,11 @@ summary: >-
   on the controls — audits conducted, suppliers screened, incidents reported,
   training completion. Documenting the process year over year is the
   functional KPI.
+description: "For zero-tolerance topics EcoVadis expects control-based evidence — prohibition, due diligence, training — rather than reduction targets."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [labor-human-rights, ethics]
 topics: [social-droits-humains, ethique, preuves]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [evidence-templates-diversity-corruption-child-labour, ethics-pack-corruption-harassment-discrimination]

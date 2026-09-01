@@ -16,9 +16,11 @@ summary: >-
   hazardous-waste disposal. Two real gaps remain — bio-based materials and
   training evidence — plus one trap: do not recycle supplier documents,
   which EcoVadis expects under Sustainable Procurement.
+description: "ENV3522 assesses nine sub-actions on raw materials and chemicals, from process optimisation to substituting hazardous substances."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire, achats-responsables]
 ecovadis_questions: [ENV3522, ENV3525]
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [waste-management-env3549, environmental-indicators-to-collect, ecovadis-essentials-guide]

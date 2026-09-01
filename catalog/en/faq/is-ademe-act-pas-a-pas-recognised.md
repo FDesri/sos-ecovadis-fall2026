@@ -12,9 +12,11 @@ summary: >-
   indicator in Environment, as credible evidence of an improvement programme,
   if documented with named actions, timelines and outcomes. Pair it with GHG
   data and a reduction plan.
+description: "Not as a formal standard equivalent to ISO 14001, but a structured action plan based on it can feed the Measures indicator in Environment."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [environment]
 topics: [environnement, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-and-ghg-baseline, environmental-indicators-to-collect]

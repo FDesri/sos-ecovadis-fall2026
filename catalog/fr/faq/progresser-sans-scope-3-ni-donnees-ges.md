@@ -12,9 +12,11 @@ summary: >-
   un objectif SMART et une année de référence. Sans aucune donnée GES,
   commencez par convertir la consommation d'énergie en équivalent CO₂ avec des
   facteurs reconnus — un tableur annuel cohérent est une preuve valide.
+description: "Les objectifs Scope 3 ne sont pas un prérequis et leur absence n'est pas pénalisée : l'attente porte d'abord sur les Scopes 1 et 2."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-et-bilan-ges-de-base, indicateurs-environnementaux-a-collecter]

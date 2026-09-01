@@ -16,9 +16,11 @@ summary: >-
   gains rapides des documents rejetés, le plan d'actions correctives trié par
   pondération, le changement réel plutôt que les cases cochées, les
   commentaires explicatifs, et la lecture précise de chaque question.
+description: "Un aide-mémoire EcoVadis en deux parcours : neuf étapes pour une première évaluation, et la marche à suivre pour une réévaluation."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, preuves, methodologie, timing]
 ecovadis_questions: []
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis, ameliorer-son-score-ecovadis-rapidement, soumissions-ecovadis-solides-et-regulieres, documents-justificatifs-entreprises-xs, accompagnement-ecovadis-complet]

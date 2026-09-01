@@ -1,0 +1,105 @@
+# ============================================================
+# SOS-EcoVadis — Plan d'URL canonique du catalogue
+# Version: 1.0 (2026-09-01) — décision D13 (vision v1.2)
+# Propriétaire: François Dequenne (ESGIM)
+#
+# Étend §5.1 de la vision v1.1 sans le contredire : les branches
+# /fr/savoir/, /nl/kennis/, /en/knowledge/ y étaient déjà fixées pour
+# les articles. Ce fichier ajoute les branches des cinq autres types
+# d'objets, que le plan d'origine ne logeait pas.
+#
+# Ce fichier est la SEULE source des URL canoniques. `canonical_url`
+# dans le front matter est GÉNÉRÉ à partir d'ici par build_index.py :
+# ne jamais l'écrire à la main.
+# ============================================================
+
+site:
+  domain: "sos-ecovadis.com"
+  scheme: "https"
+  canonical_host: "sos-ecovadis.com"   # apex canonique, www redirige (vision D4)
+  trailing_slash: true
+  default_lang: fr                      # / → /fr/
+
+# ------------------------------------------------------------
+# Branches par type d'objet et par langue.
+# Le segment de langue est toujours le premier ; le segment de type
+# est localisé (décision D1 de la vision : « le mot localisé se lit mieux »).
+# ------------------------------------------------------------
+branches:
+  article:
+    fr: "savoir"        # fixé par la vision v1.1 §5.1 — ne pas changer
+    nl: "kennis"        # idem
+    en: "knowledge"     # idem
+  faq:
+    fr: "questions"
+    nl: "vragen"
+    en: "questions"
+  service:
+    fr: "services"
+    nl: "diensten"
+    en: "services"
+  pricing:
+    fr: "tarifs"
+    nl: "tarieven"
+    en: "pricing"
+  expert:
+    fr: "experts"
+    nl: "experts"
+    en: "experts"
+  hub:
+    fr: "sujets"
+    nl: "onderwerpen"
+    en: "topics"
+
+# ------------------------------------------------------------
+# Objets à URL fixe (un seul exemplaire, pas de slug variable).
+# ------------------------------------------------------------
+singletons:
+  glossary:
+    # Objet intrinsèquement trilingue (lang: mul) : UNE page, UNE canonique.
+    # Les routes /nl/ et /en/ redirigent en 301 vers la canonique.
+    canonical: "/fr/glossaire/"
+    aliases: ["/nl/woordenlijst/", "/en/glossary/"]
+  organization:
+    fr: "/fr/a-propos/"
+    nl: "/nl/over-ons/"
+    en: "/en/about/"
+
+# ------------------------------------------------------------
+# Pages de la landing (vision v1.1 §5.1 — inchangées, rappelées ici
+# pour que le plan d'URL soit lisible d'un seul coup d'œil).
+#
+# DÉCISION D13b : les hubs de SITUATION ne sont pas des objets du
+# catalogue. Les pages S1/S2/S3 de la landing FONT office de hub de
+# situation — leur bloc « Pour aller plus loin » liste les fiches de
+# la situation. Deux pages concurrentes par situation créeraient
+# exactement la cannibalisation que KC-S08 interdit.
+# ------------------------------------------------------------
+landing:
+  fr:
+    root: "/fr/"
+    S1: "/fr/monter/"                 # slug provisoire (pitch brainstorm)
+    S2: "/fr/retrograde/"             # slug provisoire
+    S3: "/fr/premiere-evaluation/"    # slug provisoire
+    legal: ["/fr/mentions-legales/", "/fr/confidentialite/", "/fr/cookies/"]
+
+# ------------------------------------------------------------
+# Fichiers machine, à la racine de l'origine (KC-A03, KC-L01, KC-T06).
+# ------------------------------------------------------------
+machine_files:
+  - "/robots.txt"
+  - "/sitemap.xml"
+  - "/llms.txt"
+  - "/llms-full.txt"
+  - "/feed.xml"
+  - "/catalog.json"
+
+# ------------------------------------------------------------
+# Règles invariantes.
+# ------------------------------------------------------------
+rules:
+  - "Minuscules, tirets, slash final, pas de date dans l'URL."
+  - "Les IDs S1-S3 et kb-XXXX n'apparaissent jamais dans une URL."
+  - "Un slug publié n'est jamais réutilisé ni modifié : on redirige."
+  - "Une seule URL canonique par objet et par langue. Les URL raw GitHub ne sont JAMAIS canoniques."
+  - "Seuls les objets en `status: published` reçoivent une URL canonique, entrent au sitemap et dans llms.txt (décision D19)."

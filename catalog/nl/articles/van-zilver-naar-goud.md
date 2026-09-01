@@ -14,9 +14,11 @@ summary: >-
   kwantitatieve doelen, een publiek duurzaamheidsrapport volgens een erkende
   standaard, KPI-dashboards tot in de waardeketen, en zichtbaar engagement van
   de directie.
+description: "EcoVadis Goud is voorbehouden aan de top 5%: ongeveer 81/100 in mei 2026, met volledig bewijs, SMART-doelen en een conform publiek rapport."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [medailles-percentiles, rising-bar, methodologie]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [van-brons-naar-zilver, rising-bar-strengere-normen-2026, scorecard-lezen-delen-optimaliseren, ecovadis-expertadvies-dagen]

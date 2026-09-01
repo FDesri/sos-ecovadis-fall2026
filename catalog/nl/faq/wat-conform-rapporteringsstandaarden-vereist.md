@@ -12,9 +12,11 @@ summary: >-
   accordance with', ESRS-naleving of VSME-adoptie is de weg naar 100/100. Er
   is geen 'in transitie'-niveau — EcoVadis scoort wat bij indiening
   aantoonbaar gepubliceerd is.
+description: "Gelaagde scoring: zonder publiek rapport plafonneert Rapportering op 50/100; GRI with reference geldt tot 75; in accordance with opent daarboven."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: verifier
 themes: [general]
 topics: [vsme-csrd, rising-bar, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-verandert-in-2026, methodologie-updates-q2-2026]

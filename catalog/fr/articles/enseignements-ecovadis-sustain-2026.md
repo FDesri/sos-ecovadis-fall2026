@@ -15,9 +15,11 @@ summary: >-
   sont »), l'écart de visibilité du Baromètre des Achats Responsables (le rang
   3 est une boîte noire), et le constat de Siemens Gamesa : de meilleurs
   scores EcoVadis corrèlent avec des coûts qualité fournisseurs plus bas.
+description: "Notes de terrain d'EcoVadis Sustain 2026 : les quatre piliers de l'avantage durable et les forces qui redéfinissent les modèles d'entreprise."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general, sustainable-procurement]
 topics: [methodologie, achats-responsables, donneur-d-ordres, carbone-ghg]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [programmes-engagement-fournisseurs, achats-responsables-par-ou-commencer, pourquoi-se-lancer-dans-ecovadis, rising-bar-exigences-croissantes-2026]

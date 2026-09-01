@@ -15,9 +15,11 @@ summary: >-
   kwantitatieve doelen plafond op 50/100), en vraagt de voorbereiding minstens
   2 tot 4 maanden. Vuistregel: focus op een selectie acties die tellen in
   plaats van alleen het EcoVadis-labyrint te ontcijferen.
+description: "Zelf doen of een expert inschakelen: kostenbeheersing en competentieopbouw enerzijds, methode en objectiviteit anderzijds."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: comparer
 themes: [general]
 topics: [methodologie, timing, tarifs]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-kost-ecovadis-begeleiding, volledige-ecovadis-begeleiding, ecovadis-essentials-gids, van-committed-badge-naar-brons]

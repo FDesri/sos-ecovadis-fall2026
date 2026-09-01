@@ -11,9 +11,11 @@ summary: >-
   documents précédents disponibles hors quota. Revoir le pré-rempli,
   actualiser politiques et KPI expirés, et faire une gap analysis avant de
   soumettre.
+description: "Même séquence qu'au premier cycle, mais plus facile : réponses pré-remplies et documents précédents réutilisables hors quota."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, timing]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [soumissions-ecovadis-solides-et-regulieres, ameliorer-son-score-ecovadis-rapidement]

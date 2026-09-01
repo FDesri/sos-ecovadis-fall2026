@@ -12,9 +12,11 @@ summary: >-
   GHG commitment and strengthens Measures as well. UNGC with a substantive COP
   contributes across multiple themes. They are not mutually exclusive and are
   frequently held together at Gold and Platinum level.
+description: "SBTi is the stronger signal for the Environment theme; the UN Global Compact covers more ground but weighs less on any single theme."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comparer
 themes: [environment, general]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-and-ghg-baseline]

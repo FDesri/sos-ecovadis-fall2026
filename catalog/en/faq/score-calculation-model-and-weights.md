@@ -12,9 +12,11 @@ summary: >-
   Endorsements 5%, Measures 24%, Certifications 16%, Reporting 14%, 360° Watch
   21% — within Policies 25% / Actions 40% / Results 35%. Coverage has no fixed
   percentage: it multiplies Measures and Certifications scores.
+description: "The overall score is a weighted average of the four themes. Confirmed weights: Policies 20%, Endorsements 5%, Measures 24%, Certifications 16%."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, medailles-percentiles]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard, ecovadis-activated-criteria-by-sector]

@@ -13,9 +13,11 @@ summary: >-
   and situation (first assessment, upgrade or downgrade). Payment is in three
   instalments, and the final one is due only if the agreed level (Bronze or
   Silver) is reached. Remote expert-advice packages start at €1,500 for one day.
+description: "A full EcoVadis engagement costs €7,500–€12,000 excl. VAT over two to four months, in three instalments — the last one only if the medal is reached."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [tarifs, timing]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-08-27
 version: 1
 status: review
 related: [full-ecovadis-support-mission, ecovadis-expert-advice-days, francois-dequenne]

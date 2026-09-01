@@ -15,9 +15,11 @@ summary: >-
   (21 %). Quel que soit votre niveau de maturité — débutant, intermédiaire ou
   avancé — la fiche d'évaluation fait office de feuille de route
   d'amélioration continue.
+description: "Au-delà de la demande d'un client, EcoVadis construit un système de gestion de la durabilité via le modèle P-A-R pondéré 25/40/35."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [methodologie, medailles-percentiles]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis, guide-essentiel-ecovadis, lire-partager-optimiser-sa-fiche-devaluation, du-badge-committed-a-la-medaille-bronze]

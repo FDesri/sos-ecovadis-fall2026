@@ -10,9 +10,11 @@ summary: >-
   Communication et éducation fondent le changement culturel : ancrer les
   objectifs carbone dans la stratégie, attribuer la responsabilité, créer des
   task forces, et commencer à mesurer les Scopes 1 et 2 progressivement.
+description: "Ancrer les objectifs carbone dans la stratégie, attribuer la responsabilité, créer des task forces et commencer à mesurer les Scopes 1 et 2."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-et-bilan-ges-de-base, indicateurs-environnementaux-a-collecter]

@@ -11,9 +11,11 @@ summary: >-
   uitgevoerd) om een duurzaamheidsrisico te beheren of de prestaties te
   verbeteren: specifiek, uitvoerbaar en bewezen. Een verklaarde intentie of
   algemene beschrijving zonder documentatie telt niet.
+description: "Een maatregel is een concrete actie, uitgevoerd of lopend, specifiek en bewezen. Een verklaarde intentie is geen maatregel."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen, sterke-ecovadis-indieningen-opbouwen]

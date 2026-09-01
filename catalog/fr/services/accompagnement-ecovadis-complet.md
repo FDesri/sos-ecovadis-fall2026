@@ -13,9 +13,11 @@ summary: >-
   Réalisé sur site par un manager de transition ESGIM aguerri, sur deux à
   quatre mois, pour 7 500 à 12 000 € HTVA — le solde n'étant dû que si la
   médaille convenue est atteinte.
+description: "Accompagnement EcoVadis de bout en bout pour entreprises XS et S : audit, plan d'actions, preuves et soumission, jusqu'à la médaille convenue."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [tarifs, timing, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [combien-coute-un-accompagnement-ecovadis, jours-de-conseil-expert-ecovadis, francois-dequenne]

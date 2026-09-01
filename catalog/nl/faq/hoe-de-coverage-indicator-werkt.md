@@ -13,9 +13,11 @@ summary: >-
   zelfs als hij Rapportering verbetert — verklaar KPI's alleen bij een uitrol
   boven 50%; twee geverifieerde proxy-KPI's boven 50% kunnen 100/100 per
   pijler halen.
+description: "Coverage, voor ondernemingen vanaf 1.000 werknemers, vermenigvuldigt de scores Maatregelen en Certificaten en beloont de breedte van de uitrol."
 situations: [S1, S2, S3]
 sizes: [L]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen]

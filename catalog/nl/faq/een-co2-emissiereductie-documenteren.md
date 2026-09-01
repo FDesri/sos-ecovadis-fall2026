@@ -13,9 +13,11 @@ summary: >-
   resultaat; Coverage — expliciet vermelden welk deel van de activiteiten ze
   dekt. Een intern KPI-dashboard werkt als het benoemd, gedateerd en
   afgebakend is.
+description: "Benut de reductie op drie plaatsen: een becijferde KPI bij Rapportering, een actiedocument bij Maatregelen, en samenhang tussen beide."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, preuves]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [ecovadis-en-co2-nulmeting, milieu-indicatoren-verzamelen]

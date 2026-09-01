@@ -15,9 +15,11 @@ summary: >-
   (herbeoordeling): vijf stappen — quick wins uit afgewezen documenten, het
   Correctief Actieplan gesorteerd op gewicht, echte verandering boven
   vinkjes, verklarende commentaren, en een precieze lezing van elke vraag.
+description: "Een EcoVadis-spiekbrief in twee sporen: negen stappen voor een eerste beoordeling, en de te volgen route bij een herbeoordeling."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, preuves, methodologie, timing]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen, ecovadis-score-snel-verbeteren, sterke-ecovadis-indieningen-opbouwen, bewijsstukken-voor-xs-ondernemingen, volledige-ecovadis-begeleiding]

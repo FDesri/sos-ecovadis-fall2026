@@ -14,9 +14,11 @@ summary: >-
   mechanisms, and explicit application to subcontractors — dated, approved,
   ideally naming aligned legislation. Specificity separates it from a standard
   one.
+description: "Explicit anti-corruption and anti-fraud commitments, prohibited behaviours listed, information security provisions and a documented reporting channel."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: policies
+intent: mettre-en-oeuvre
 themes: [ethics]
 topics: [ethique, preuves]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [ethics-pack-corruption-harassment-discrimination, evidence-templates-diversity-corruption-child-labour]

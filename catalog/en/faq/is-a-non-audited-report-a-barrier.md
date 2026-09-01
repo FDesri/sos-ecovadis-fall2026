@@ -12,9 +12,11 @@ summary: >-
   Below Gold it is rarely a ceiling; for Gold and Platinum, third-party
   verification becomes progressively more important. Publish a well-structured
   aligned report first, then invest in assurance.
+description: "A non-audited public report can still reach a significant Reporting score; external assurance adds points, rarely decisive below Gold."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: verifier
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [from-silver-to-gold, whats-changing-in-2026]

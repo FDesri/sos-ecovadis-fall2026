@@ -10,9 +10,11 @@ summary: >-
   Ja: de reviewnormen evolueren naar echt uitvoeringsbewijs en kadergebonden
   data (GRI-indicatoren, ESRS-datapunten); de verschuiving van 'with reference
   to' naar 'in accordance with' is het duidelijkste signaal.
+description: "Ja: de reviewnormen eisen nu echt uitvoeringsbewijs en kadergebonden data, met een strengere lezing van GRI in accordance with."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: verifier
 themes: [general]
 topics: [rising-bar, preuves, methodologie]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-strengere-normen-2026, wat-verandert-in-2026]

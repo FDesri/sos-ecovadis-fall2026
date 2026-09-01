@@ -15,9 +15,11 @@ summary: >-
   KPI reporting). Rejected: documents created solely for the questionnaire,
   copied from elsewhere, informal documents, photos, and third-party invoices
   as reporting evidence.
+description: "An XS company gets about ten questions and may provide less formalised evidence — but some documents remain mandatory all the same."
 situations: [S3]
 sizes: [XS]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [preuves, questionnaire, methodologie]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-essentials-guide, practical-ecovadis-tips, from-committed-badge-to-bronze, how-much-does-ecovadis-support-cost]

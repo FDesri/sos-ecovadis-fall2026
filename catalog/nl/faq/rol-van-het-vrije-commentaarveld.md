@@ -11,9 +11,11 @@ summary: >-
   vult documenten aan, telt niet mee in de limiet van 55, en dient vooral om
   de analist naar de exacte pagina of clausule van een opgeladen document te
   wijzen. Houd het kort en precies.
+description: "Analisten lezen commentaren maar kennen er nooit punten op toe: het veld dient om hen naar de exacte pagina van een document te leiden."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, preuves]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [sterke-ecovadis-indieningen-opbouwen]

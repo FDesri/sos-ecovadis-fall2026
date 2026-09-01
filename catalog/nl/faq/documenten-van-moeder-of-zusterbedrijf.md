@@ -12,9 +12,11 @@ summary: >-
   alleen indien uitgesplitst per entiteit; certificaten alleen als de scope
   van de entiteit expliciet wordt vermeld. Documenten van zusterbedrijven
   worden nooit aanvaard.
+description: "Documenten van de moedermaatschappij worden aanvaard als ze de beoordeelde entiteit dekken; rapportering telt enkel indien uitgesplitst."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, questionnaire]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [sterke-ecovadis-indieningen-opbouwen]

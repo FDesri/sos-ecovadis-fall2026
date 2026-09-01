@@ -12,9 +12,11 @@ summary: >-
   accordance with', ESRS compliance or VSME adoption is the route to 100/100.
   There is no 'in transition' tier — EcoVadis scores what is demonstrably
   published at submission.
+description: "Tiered scoring: no public report caps Reporting at 50/100; GRI with reference qualifies up to 75; in accordance with opens the range above."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: verifier
 themes: [general]
 topics: [vsme-csrd, rising-bar, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [whats-changing-in-2026, ecovadis-methodology-updates-q2-2026]

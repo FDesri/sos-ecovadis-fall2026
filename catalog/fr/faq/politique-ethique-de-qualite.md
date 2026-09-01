@@ -13,9 +13,11 @@ summary: >-
   procédures de conflits d'intérêts, des mécanismes d'alerte, et une
   application explicite aux sous-traitants — datée, approuvée, idéalement
   alignée sur une législation nommée.
+description: "Engagements anticorruption et antifraude explicites, comportements interdits listés, sécurité de l'information et canal de signalement documenté."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: policies
+intent: mettre-en-oeuvre
 themes: [ethics]
 topics: [ethique, preuves]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [pack-corruption-harcelement-discrimination, canevas-diversite-corruption-travail-enfants]

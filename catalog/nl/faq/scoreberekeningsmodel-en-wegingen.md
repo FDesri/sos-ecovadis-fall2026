@@ -12,9 +12,11 @@ summary: >-
   24%, Certificaten 16%, Rapportering 14%, 360° Watch 21% — binnen Beleid 25%
   / Acties 40% / Resultaten 35%. Coverage heeft geen vast percentage: het
   vermenigvuldigt Maatregelen en Certificaten.
+description: "De globale score is een gewogen gemiddelde van de vier thema's. Bevestigde wegingen: Beleid 20%, Aansluitingen 5%, Maatregelen 24%, Certificaten 16%."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, medailles-percentiles]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen, geactiveerde-criteria-per-sector]

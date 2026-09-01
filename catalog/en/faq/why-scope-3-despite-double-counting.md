@@ -11,9 +11,11 @@ summary: >-
   because procurement decisions influence upstream emissions; counted at
   multiple tiers, it drives collective action through supplier engagement and
   greener purchasing.
+description: "Scope 3 assigns supply-chain emissions to buyers because procurement decisions drive them: counted at several tiers, it forces collective action."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [environment]
 topics: [carbone-ghg, achats-responsables]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-and-ghg-baseline, ecovadis-supplier-engagement-programmes]

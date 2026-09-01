@@ -10,9 +10,11 @@ summary: >-
   EcoVadis utilise un modèle universel et active les critères selon le profil
   ; les questions des critères non activés peuvent rester visibles, mais les
   preuves chargées dessus sont jugées non pertinentes et ne comptent pas.
+description: "EcoVadis part d'un questionnaire universel et n'active que les critères de votre profil : les preuves chargées ailleurs sont jugées non pertinentes."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [questionnaire, methodologie]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [criteres-actives-ecovadis-par-secteur]

@@ -11,9 +11,11 @@ summary: >-
   exigences de reporting durcies (rapport public aligné exigé au-delà de
   50/100), et des seuils de médailles en hausse continue (Argent de ~68 à ~73
   points entre juillet 2025 et mai 2026).
+description: "Trois évolutions à anticiper en 2026 : le pilote de matérialité, des exigences de reporting durcies et des seuils de médailles en hausse continue."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [rising-bar, methodologie, vsme-csrd]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ce-qui-change-en-2026, rising-bar-exigences-croissantes-2026, evolutions-methodologiques-t2-2026]

@@ -15,9 +15,11 @@ summary: >-
   milieuactivering (Materialen & afval, Luchtverontreiniging, Water). Een
   generieke indiening voorbereiden zonder te weten welke criteria tellen, is
   de meest voorkomende reden waarom scores blijven steken.
+description: "Uw ISIC-code, grootte en vestigingen bepalen welke van de 21 EcoVadis-criteria bij u geactiveerd worden, en met welke weging."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: comprendre
 themes: [general, environment, sustainable-procurement]
 topics: [methodologie, questionnaire, medailles-percentiles]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen, rising-bar-strengere-normen-2026, duurzame-inkoop-waar-beginnen, grondstoffen-en-chemicalien-env3522]

@@ -13,9 +13,11 @@ summary: >-
   impact on the score, but the strengths and improvement areas identified from
   the evidence appear on the scorecard. Usual tools: WRI's Aqueduct atlas and
   WWF's Water Risk Filter.
+description: "ENV7003, added in Q1 2026 for size S companies and up, requires evidence of a physical climate risk and watershed-related risk assessment."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire, methodologie]
 ecovadis_questions: [ENV7003]
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [adapting-to-environmental-disruptions-env7012, environmental-indicators-to-collect, ecovadis-methodology-updates-q2-2026]

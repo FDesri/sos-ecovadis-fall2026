@@ -14,9 +14,11 @@ summary: >-
   reporting (14%) and 360° Watch (21%). Whatever your maturity level —
   beginner, intermediate or advanced — the scorecard doubles as a roadmap for
   continuous improvement.
+description: "Beyond a customer's request, EcoVadis builds a sustainability management system through the Policies-Actions-Results model, weighted 25/40/35."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [methodologie, medailles-percentiles]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard, ecovadis-essentials-guide, read-share-maximise-your-ecovadis-scorecard, from-committed-badge-to-bronze]

@@ -12,9 +12,11 @@ summary: >-
   only if disaggregated by entity; certifications only if the assessed
   company's scope is explicitly mentioned. Sister-company documentation is
   never accepted.
+description: "Parent company documents are accepted when they cover the assessed entity; reporting counts only if it is disaggregated by entity."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, questionnaire]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [build-strong-ecovadis-submissions-consistently]

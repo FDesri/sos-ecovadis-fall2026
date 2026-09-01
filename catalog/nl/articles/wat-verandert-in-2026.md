@@ -15,9 +15,11 @@ summary: >-
   geconsolideerde Q&A behandelt de beoordelingsscope, de rapporteringseisen,
   de afstemming op kaders (GRI, ESRS, VSME, UK SRS), materialiteitspersonalisatie
   en certificeringen versus audits.
+description: "Drie EcoVadis-wijzigingen in 2026: materialiteitsflexibiliteit, 360° Watch gewogen op stakeholderconsensus, en formele VSME-erkenning."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [methodologie, rising-bar, vsme-csrd, questionnaire, 360-watch]
 ecovadis_questions: [GEN600]
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-strengere-normen-2026, methodologie-updates-q2-2026, de-ecovadis-scorecard-begrijpen, sterke-ecovadis-indieningen-opbouwen]

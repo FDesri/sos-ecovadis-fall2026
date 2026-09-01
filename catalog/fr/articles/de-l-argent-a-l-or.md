@@ -14,9 +14,11 @@ summary: >-
   rapport de durabilité public conforme à un standard reconnu, des tableaux de
   bord KPI étendus à la chaîne de valeur, et un engagement visible de la
   direction.
+description: "L'Or EcoVadis est réservé au top 5 % : environ 81/100 en mai 2026, avec preuves complètes, objectifs SMART et rapport public conforme."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [medailles-percentiles, rising-bar, methodologie]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-bronze-a-argent, rising-bar-exigences-croissantes-2026, lire-partager-optimiser-sa-fiche-devaluation, jours-de-conseil-expert-ecovadis]

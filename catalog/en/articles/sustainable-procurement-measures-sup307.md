@@ -16,9 +16,11 @@ summary: >-
   performance review), the boundary with SUP600 (KPIs), and three fixes
   before upload: fill a placeholder, add a consequence clause to the code of
   conduct, produce the procurement policy that is referenced but missing.
+description: "SUP307 assesses nine Sustainable Procurement sub-actions. Golden rule: only tick what a dedicated document can actually prove."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [sustainable-procurement]
 topics: [achats-responsables, preuves, questionnaire]
 ecovadis_questions: [SUP307, SUP600]
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [sustainable-procurement-where-to-start, ecovadis-supplier-engagement-programmes, raw-materials-and-chemicals-env3522]

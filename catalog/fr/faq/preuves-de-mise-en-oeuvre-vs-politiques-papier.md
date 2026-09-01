@@ -12,9 +12,11 @@ summary: >-
   de conduite — et les certifications tierces (ISO 14001, SMETA) pèsent plus
   par la vérification externe. Les preuves de Résultats montrent les effets :
   KPI dans le temps, progrès vers les objectifs.
+description: "Registres de formation, rapports d'audit interne, procédures et certifications tierces : ce qui prouve la mise en œuvre au-delà du papier."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis, soumissions-ecovadis-solides-et-regulieres]

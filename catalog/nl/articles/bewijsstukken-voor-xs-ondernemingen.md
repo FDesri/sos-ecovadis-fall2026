@@ -16,9 +16,11 @@ summary: >-
   documenten die louter voor de vragenlijst zijn gemaakt, gekopieerd van
   elders, informele documenten, foto's, en facturen van derden als
   rapporteringsbewijs.
+description: "Een XS-onderneming krijgt een tiental vragen en mag minder geformaliseerd bewijs aanleveren — maar sommige documenten blijven verplicht."
 situations: [S3]
 sizes: [XS]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [preuves, questionnaire, methodologie]
 ecovadis_questions: []
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-essentials-gids, praktische-ecovadis-tips, van-committed-badge-naar-brons, wat-kost-ecovadis-begeleiding]

@@ -14,9 +14,11 @@ summary: >-
   meilleures pratiques. Partagez-la via la plateforme, des liens sécurisés en
   lecture seule ou des exports PDF — et traitez la liste des points
   d'amélioration comme le plan d'actions de l'année suivante.
+description: "Score global, percentile, médaille et décomposition P-A-R par thème : comment lire sa scorecard EcoVadis, la partager et en tirer un plan."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [methodologie, plateforme, medailles-percentiles, timing]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis, ameliorer-son-score-ecovadis-rapidement, du-badge-committed-a-la-medaille-bronze, combien-coute-un-accompagnement-ecovadis]

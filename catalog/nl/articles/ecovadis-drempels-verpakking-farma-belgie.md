@@ -17,9 +17,11 @@ summary: >-
   (25/40/35), de 360° Watch, de VSME-erkenning (Basic 75 / Comprehensive
   100) en twee Belgische markten: voedingsverpakking en farmaceutische
   machines (Responsible Health Initiative).
+description: "Sinds 2024 zijn EcoVadis-medailles percentielen: een prospectieve analyse van de drempels, met focus op Belgische verpakking en farma-uitrusting."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [medailles-percentiles, rising-bar, secteur-emballage, secteur-pharma, methodologie, vsme-csrd, 360-watch]
 ecovadis_questions: []
@@ -33,6 +35,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-strengere-normen-2026, waarom-een-bronzen-medaille-moeilijker-wordt, geactiveerde-criteria-per-sector, de-ecovadis-scorecard-begrijpen]

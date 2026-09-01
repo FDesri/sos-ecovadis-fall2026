@@ -12,9 +12,11 @@ summary: >-
   doit fournir engagement, gouvernance et cibles ; chargez chaque document au
   bon endroit et reliez-les via le commentaire. Condition : les cibles doivent
   couvrir au moins 80 % des opérations.
+description: "Oui : EcoVadis distingue objectifs qualitatifs et cibles quantitatives, et les cibles peuvent vivre dans un rapport ou un plan autonome."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: policies
+intent: verifier
 themes: [general]
 topics: [preuves, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [soumissions-ecovadis-solides-et-regulieres]

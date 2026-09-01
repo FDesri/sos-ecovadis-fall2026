@@ -11,9 +11,11 @@ summary: >-
   valide — exactement un an après la publication de la fiche. Pour une
   médaille sans interruption, soumettez un à deux mois avant l'anniversaire ;
   en période chargée, la revue peut prendre jusqu'à trois mois.
+description: "Ni l'un ni l'autre : c'est la date où votre médaille cesse d'être valide. Pour éviter toute interruption, soumettez un à deux mois avant."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [timing, plateforme]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [principaux-conseils-pratiques-ecovadis, lire-partager-optimiser-sa-fiche-devaluation]

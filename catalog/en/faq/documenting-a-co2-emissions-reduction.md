@@ -12,9 +12,11 @@ summary: >-
   action taken (renewables, efficiency investment), not just the outcome;
   Coverage — state explicitly what share of operations it applies to. An
   internal KPI dashboard works if named, dated and period-scoped.
+description: "Use the reduction in three places: a quantified KPI under Reporting, an action document under Measures, and consistency between the two."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [ecovadis-and-ghg-baseline, environmental-indicators-to-collect]

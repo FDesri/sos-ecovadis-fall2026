@@ -15,9 +15,11 @@ summary: >-
   broadest environmental activation (Materials/Chemicals & Waste, Air
   Pollution, Water). Preparing a generic submission without knowing which
   criteria count is the most common reason scores stall.
+description: "Your ISIC code, size and locations decide which of the 21 EcoVadis criteria are activated for you, and how heavily each one weighs."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: comprendre
 themes: [general, environment, sustainable-procurement]
 topics: [methodologie, questionnaire, medailles-percentiles]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard, ecovadis-rising-standards-2026, sustainable-procurement-where-to-start, raw-materials-and-chemicals-env3522]

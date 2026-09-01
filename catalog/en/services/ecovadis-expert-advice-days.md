@@ -12,9 +12,11 @@ summary: >-
   advice: €1,500 for one day, €2,850 for two, €3,750 for three. The expert
   reviews your scorecard and corrective action plan and prioritises the levers
   that move the score most for an SME.
+description: "One to three days of remote EcoVadis expert advice, €1,500 to €3,750, for companies already running the assessment in-house."
 situations: [S1]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [tarifs, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [how-much-does-ecovadis-support-cost, full-ecovadis-support-mission, francois-dequenne]

@@ -12,9 +12,11 @@ summary: >-
   Achats Responsables — amfori BSCI, Rainforest Alliance, FSC/PEFC. Toutes les
   ISO ne sont pas nécessaires : priorisez la certification alignée sur votre
   thème le plus pondéré.
+description: "Non, pas toutes : ISO 14001 et 50001 pour l'Environnement, ISO 45001 pour le Social, ISO 37001 et 27001 pour l'Éthique couvrent l'essentiel."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: choisir
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ameliorer-son-score-ecovadis-rapidement, de-bronze-a-argent]

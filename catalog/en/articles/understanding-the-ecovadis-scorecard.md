@@ -14,9 +14,11 @@ summary: >-
   five bands (0/25/50/75/100), and only activates the criteria relevant to
   your industry, size and risk profile — with up to 55 evidence documents per
   assessment.
+description: "The EcoVadis scorecard crosses four themes with seven criteria, scored in five bands, activating only the criteria relevant to your company."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, questionnaire, plateforme]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [read-share-maximise-your-ecovadis-scorecard, ecovadis-activated-criteria-by-sector, from-committed-badge-to-bronze, ecovadis-essentials-guide]

@@ -11,9 +11,11 @@ summary: >-
   and customers; the emphasis should be on credible baselining and
   progressively ambitious commitments rather than hesitating over
   achievability.
+description: "Science-based targets signal ambition and integrity: the priority is a credible baseline before progressively ambitious commitments."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-and-ghg-baseline]

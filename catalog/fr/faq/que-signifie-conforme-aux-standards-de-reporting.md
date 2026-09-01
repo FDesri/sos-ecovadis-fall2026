@@ -12,9 +12,11 @@ summary: >-
   in accordance with », la conformité ESRS ou l'adoption VSME mènent au
   100/100. Pas de palier « en transition » — EcoVadis note ce qui est publié
   au moment de la soumission.
+description: "Notation par paliers : sans rapport public, Reporting plafonne à 50/100 ; le GRI with reference vaut jusqu'à 75, in accordance with ouvre au-delà."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: verifier
 themes: [general]
 topics: [vsme-csrd, rising-bar, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ce-qui-change-en-2026, evolutions-methodologiques-t2-2026]

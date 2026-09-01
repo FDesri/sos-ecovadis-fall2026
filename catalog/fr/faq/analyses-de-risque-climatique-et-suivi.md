@@ -10,9 +10,11 @@ summary: >-
   Il faut intégrer l'analyse des risques climatiques et les données
   d'émissions dans un système de suivi itératif ; les protocoles sectoriels
   orientent le focus sur les risques de transition et physiques.
+description: "Intégrer l'analyse des risques climatiques et les données d'émissions dans un suivi itératif, guidé par les protocoles de votre secteur."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [environment]
 topics: [environnement, carbone-ghg]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-et-bilan-ges-de-base]

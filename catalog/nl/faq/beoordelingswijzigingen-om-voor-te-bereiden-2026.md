@@ -11,9 +11,11 @@ summary: >-
   rapporteringseisen (publiek rapport vereist boven 50/100) en voortdurend
   stijgende medailledrempels (Zilver van ~68 naar ~73 punten tussen juli 2025
   en mei 2026).
+description: "Drie evoluties om op te anticiperen in 2026: het materialiteitspilootproject, strengere rapporteringseisen en almaar stijgende medailledrempels."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [rising-bar, methodologie, vsme-csrd]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-verandert-in-2026, rising-bar-strengere-normen-2026, methodologie-updates-q2-2026]

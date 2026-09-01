@@ -12,9 +12,11 @@ summary: >-
   qui renforce aussi les Mesures. L'UNGC avec une COP substantielle contribue
   sur plusieurs thèmes. Les deux se cumulent, fréquemment chez les Or et
   Platine.
+description: "Le SBTi est le signal le plus fort pour l'Environnement ; le Pacte mondial couvre plus large mais pèse moins sur un seul thème."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comparer
 themes: [environment, general]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-et-bilan-ges-de-base]

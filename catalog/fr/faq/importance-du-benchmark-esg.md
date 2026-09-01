@@ -10,9 +10,11 @@ summary: >-
   Se comparer aux pairs et comprendre les attentes clients est crucial pour
   rester compétitif : connaître le paysage ESG des concurrents permet un
   meilleur alignement stratégique.
+description: "Se comparer à ses pairs et comprendre les attentes clients est ce qui permet d'aligner une stratégie ESG sur son marché plutôt que dans le vide."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [methodologie, medailles-percentiles]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-exigences-croissantes-2026, seuils-ecovadis-emballage-pharma-belgique]

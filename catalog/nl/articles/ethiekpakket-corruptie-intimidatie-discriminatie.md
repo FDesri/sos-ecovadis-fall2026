@@ -17,9 +17,11 @@ summary: >-
   communicatie, opleiding, register, clausule, procedure, controle,
   rapportering — geen loutere intentie. Belgische drempels: meldingskanaal
   en vertrouwenspersoon verplicht vanaf 50 werknemers.
+description: "Tien anticorruptieacties en een luik intimidatie en discriminatie: eenvoudige, geloofwaardige en documenteerbare stappen voor een Belgische kmo."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [ethics, labor-human-rights]
 topics: [ethique, social-droits-humains, preuves, questionnaire]
 ecovadis_questions: [FB3103, LAB3604]
@@ -33,6 +35,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [sjablonen-diversiteit-corruptie-kinderarbeid, sociale-hr-indicatoren-verzamelen, bewijsstukken-voor-xs-ondernemingen]

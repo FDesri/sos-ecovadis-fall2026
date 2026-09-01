@@ -13,9 +13,11 @@ summary: >-
   zakken. Vroegere scores worden niet aangepast; bereid de uitgebreide
   vragenlijst voor vóór de volgende cyclus en meld een fout personeelsaantal
   via het supportportaal.
+description: "De herindeling gebeurt automatisch, op basis van VTE's uit publieke bronnen en uw eigen data: ze valt op geen enkele manier te voorkomen."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, questionnaire]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [geactiveerde-criteria-per-sector, bewijsstukken-voor-xs-ondernemingen]

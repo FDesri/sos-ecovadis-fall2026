@@ -12,9 +12,11 @@ summary: >-
   documents acceptés sous une méthodologie moins stricte peuvent ne plus
   donner le même résultat. Vérifiez la base de votre score et publiez un
   rapport structuré avant la prochaine évaluation.
+description: "Cela dépend de l'origine du 75 : depuis 2026, dépasser 50/100 en Reporting exige un rapport public aligné sur un standard reconnu."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: reporting
+intent: verifier
 themes: [general]
 topics: [rising-bar, vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ce-qui-change-en-2026, rising-bar-exigences-croissantes-2026]

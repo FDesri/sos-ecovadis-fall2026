@@ -11,9 +11,11 @@ summary: >-
   jusqu'à 75/100, complète jusqu'à 100/100), la GRI reste efficace, et les
   adhésions (UNGC, SBTi) ajoutent du score. Sans rapport public, le Reporting
   plafonne à 50/100.
+description: "La conformité CSRD n'est pas un prérequis : la VSME est reconnue, la GRI reste efficace, et les adhésions UNGC ou SBTi ajoutent du score."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ce-qui-change-en-2026, rising-bar-exigences-croissantes-2026]

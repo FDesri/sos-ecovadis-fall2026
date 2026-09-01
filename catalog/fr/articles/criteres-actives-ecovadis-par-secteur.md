@@ -16,9 +16,11 @@ summary: >-
   déchets, Pollution de l'air, Eau). Préparer une soumission générique sans
   savoir quels critères comptent est la première cause de stagnation des
   scores.
+description: "Code ISIC, taille et implantations décident lesquels des 21 critères EcoVadis sont activés chez vous, et avec quelle pondération."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: comprendre
 themes: [general, environment, sustainable-procurement]
 topics: [methodologie, questionnaire, medailles-percentiles]
 ecovadis_questions: []
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis, rising-bar-exigences-croissantes-2026, achats-responsables-par-ou-commencer, matieres-premieres-produits-chimiques-env3522]

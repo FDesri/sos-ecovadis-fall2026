@@ -11,9 +11,11 @@ summary: >-
   logo — zonder uitzondering. Maak interne documenten op huisstijlsjablonen,
   vraag externe aanbieders de naam op te nemen, en voeg anders een voorblad op
   briefpapier toe met werknemer, onderneming, opleiding en datum.
+description: "Elk document moet een band met de beoordeelde entiteit dragen — naam of logo — zonder uitzondering, ook documenten van een dienstverlener."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: verifier
 themes: [general]
 topics: [preuves, questionnaire]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [bewijsstukken-voor-xs-ondernemingen, sterke-ecovadis-indieningen-opbouwen]

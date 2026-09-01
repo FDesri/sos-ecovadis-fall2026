@@ -12,9 +12,11 @@ summary: >-
   minimum of 30/100 for medal eligibility); presenting planned actions as
   implemented; missing Coverage requirements in group assessments; ignoring
   360° Watch findings.
+description: "Six traps consistently cost points: expired documents, evidence unlinked to the assessed entity, ignored weak themes, merely planned actions."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [methodologie, preuves, 360-watch]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [practical-ecovadis-tips, build-strong-ecovadis-submissions-consistently]

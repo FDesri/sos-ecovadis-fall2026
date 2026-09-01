@@ -11,9 +11,11 @@ summary: >-
   own questionnaires: positioning the platform as the single source of
   supplier sustainability data reduces survey fatigue and the burden of
   repetitive requests.
+description: "Point customers to your EcoVadis scorecard instead of answering their own questionnaires: one single source of supplier sustainability data."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [plateforme, donneur-d-ordres]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [read-share-maximise-your-ecovadis-scorecard]

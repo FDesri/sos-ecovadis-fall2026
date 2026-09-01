@@ -11,9 +11,11 @@ summary: >-
   framework — they complement each other. VSME is formally recognised by
   EcoVadis: the Basic Module unlocks up to 75/100 on the Reporting indicator,
   Basic + Comprehensive with third-party assurance up to 100/100.
+description: "EcoVadis rates the management system, VSME is a reporting framework: the Basic module unlocks up to 75/100 on Reporting, the full version 100."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: choisir
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [whats-changing-in-2026, ecovadis-rising-standards-2026]

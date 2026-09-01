@@ -11,9 +11,11 @@ summary: >-
   réellement gouvernée : l'évaluation d'entité couvre une entité légale et est
   plus simple ; l'évaluation groupe couvre toutes les entités consolidées et
   active l'indicateur Coverage.
+description: "Le bon niveau dépend de qui demande la notation et d'où la durabilité est gouvernée : l'évaluation d'entité est plus simple, celle de groupe plus large."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [questionnaire, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [guide-essentiel-ecovadis]

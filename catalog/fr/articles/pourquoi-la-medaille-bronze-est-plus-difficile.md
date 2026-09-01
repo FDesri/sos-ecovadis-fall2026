@@ -16,9 +16,11 @@ summary: >-
   percentiles, transparence accrue du reporting (rapport public, 85 % de
   couverture KPI), rigueur documentaire et risque d'inéligibilité de 3 à 5 ans
   via le 360° Watch.
+description: "Badges et médailles au percentile en 2024, catégorie XL en 2025, matérialité en 2026 : trois ans d'évolutions qui rendent le Bronze plus dur."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [rising-bar, medailles-percentiles, methodologie, 360-watch, vsme-csrd]
 ecovadis_questions: []
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-exigences-croissantes-2026, risques-environnementaux-externes-env7003, perturbations-environnementales-env7012, du-badge-committed-a-la-medaille-bronze]

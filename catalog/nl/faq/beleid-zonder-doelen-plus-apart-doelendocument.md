@@ -12,9 +12,11 @@ summary: >-
   combinatie moet engagement, governance en doelen leveren; laad elk document
   op de juiste plaats en verbind ze via het commentaarveld. Voorwaarde: de
   doelen moeten minstens 80% van de activiteiten dekken.
+description: "Ja: EcoVadis onderscheidt kwalitatieve doelstellingen van kwantitatieve doelen, en doelen mogen in een rapport of zelfstandig plan staan."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: policies
+intent: verifier
 themes: [general]
 topics: [preuves, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [sterke-ecovadis-indieningen-opbouwen]

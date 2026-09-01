@@ -13,9 +13,11 @@ summary: >-
   consistent KPI reporting across criteria, management systems that extend
   beyond headquarters, and — for most companies — a serious upgrade of
   Sustainable Procurement, the most underinvested theme at Bronze level.
+description: "Moving from EcoVadis Bronze to Silver takes about 9 more points: consistent KPI reporting, systems beyond headquarters, threshold ≈ 73/100."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general, sustainable-procurement]
 topics: [medailles-percentiles, rising-bar, methodologie, achats-responsables]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [from-committed-badge-to-bronze, from-silver-to-gold, ecovadis-essentials-guide, ecovadis-rising-standards-2026, sustainable-procurement-where-to-start, ecovadis-expert-advice-days]

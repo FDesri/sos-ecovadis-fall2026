@@ -14,9 +14,11 @@ summary: >-
   where they are"), the Sustainable Procurement Barometer's visibility gap
   (Tier 3 is a black box), and Siemens Gamesa's finding that higher EcoVadis
   scores correlate with lower supplier quality costs.
+description: "Field notes from EcoVadis Sustain 2026: the four pillars of sustained advantage and the forces redefining operating models."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general, sustainable-procurement]
 topics: [methodologie, achats-responsables, donneur-d-ordres, carbone-ghg]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-supplier-engagement-programmes, sustainable-procurement-where-to-start, why-ecovadis-strengthens-sustainability-management, ecovadis-rising-standards-2026]

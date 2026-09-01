@@ -12,9 +12,11 @@ summary: >-
   section Analyse de vos réponses de la fiche publiée (statut de chaque
   document par question). Les questions sans réponse sont signalées
   directement dans le questionnaire.
+description: "Non : les documents rejetés ne sont pas signalés dans le questionnaire. Deux outils y suppléent, le plan d'action correctif et l'analyse des réponses."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [plateforme, questionnaire]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [ameliorer-son-score-ecovadis-rapidement, comprendre-la-fiche-devaluation-ecovadis]

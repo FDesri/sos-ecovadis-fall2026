@@ -10,9 +10,11 @@ summary: >-
   Er is geen volledige preview van de gepersonaliseerde vragenlijst vóór
   betaling. EcoVadis publiceert een overzicht van de vier thema's en een
   documentengids; de exacte scope hangt af van sector, grootte en geografie.
+description: "Nee: er is geen volledige preview van de gepersonaliseerde vragenlijst vóór betaling. EcoVadis publiceert een themaoverzicht en een documentengids."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [questionnaire, plateforme, timing]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [ecovadis-essentials-gids, geactiveerde-criteria-per-sector]

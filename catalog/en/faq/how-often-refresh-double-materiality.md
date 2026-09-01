@@ -11,9 +11,11 @@ summary: >-
   stakeholder selection, threshold-setting and the treatment of negative
   human-rights impacts, and transparent, evolving assessments pass assurance
   more smoothly.
+description: "A double materiality assessment should be refreshed regularly: auditors review stakeholder selection, thresholds and negative human-rights impacts."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [whats-changing-in-2026]

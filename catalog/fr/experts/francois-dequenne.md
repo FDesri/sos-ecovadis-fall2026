@@ -12,9 +12,11 @@ summary: >-
   de responsabilité complète du P&L), il prend la démarche EcoVadis en charge
   de bout en bout, comme un manager de transition, et laisse derrière lui une
   organisation capable de tenir son score sans lui.
+description: "François Dequenne, EcoVadis Interim Manager chez ESGIM : ingénieur, ancien dirigeant de filiales, plus de 100 projets EcoVadis livrés."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [combien-coute-un-accompagnement-ecovadis, accompagnement-ecovadis-complet]

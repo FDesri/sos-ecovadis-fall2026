@@ -1,0 +1,188 @@
+# ============================================================
+# SOS-EcoVadis — Registre des sources citables
+# Version: 1.0 (2026-09-01) — décision D14 (vision v1.2)
+# Propriétaire: François Dequenne (ESGIM)
+#
+# Répond à KC-C11 (« les liens ou références se trouvent immédiatement
+# après l'affirmation concernée ») et à KC-T11 (aucun lien cassé).
+#
+# POLITIQUE (révise la décision de gouvernance n° 5 du 27/08/2026) :
+#   AUTORISÉ  — référentiels, régulateurs, normalisateurs, institutions
+#               publiques et l'éditeur du référentiel lui-même (EcoVadis).
+#               Citer sa source ne renvoie pas le lecteur ailleurs :
+#               cela prouve qu'on sait de quoi on parle.
+#   INTERDIT  — cabinets de conseil concurrents, plateformes de notation
+#               concurrentes, agrégateurs commerciaux, comparateurs, et
+#               toute page dont le but est de vendre un service que
+#               ESGIM vend aussi.
+#
+# Une fiche ne recopie pas une source : elle la référence par son `id`
+# dans `sources: [...]`. build_index.py résout l'id et refuse le build
+# si un id n'existe pas ici (KC-G15).
+#
+# `accessed` : date de dernière vérification manuelle de l'URL.
+# Toute URL de ce fichier est re-testée à chaque ré-audit trimestriel
+# (GOVERNANCE §3).
+# ============================================================
+
+policy:
+  allowed_kinds: [rating-scheme, regulator, standard-setter, public-institution, proprietary]
+  forbidden: "Concurrents d'ESGIM : cabinets de conseil RSE, plateformes de notation concurrentes, agrégateurs et comparateurs commerciaux."
+  rule: "Toute affirmation chiffrée, datée ou réglementaire porte une référence. Une affirmation issue du portefeuille ESGIM référence `esgim-portfolio`, jamais une source externe."
+
+sources:
+
+  ecovadis-methodology:
+    title: "EcoVadis Ratings Methodology — Overview and Principles"
+    publisher: "EcoVadis"
+    kind: rating-scheme
+    url: "https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral"
+    accessed: 2026-09-01
+    covers: "Modèle P-A-R, pondération des 21 critères, adaptation sectorielle, taille et géographie."
+
+  ecovadis-medals:
+    title: "EcoVadis — médailles, badges et percentiles"
+    publisher: "EcoVadis"
+    kind: rating-scheme
+    url: "https://ecovadis.com/"
+    accessed: 2026-09-01
+    covers: "Bronze top 35 %, Argent top 15 %, Or top 5 %, Platine top 1 % ; badges Committed et Fast Mover ; bascule vers un classement strictement percentile au 1er janvier 2024."
+    note: "Les niveaux en points (Bronze ≈ 64, Argent ≈ 73, Or ≈ 81, Platine ≈ 84 en mai 2026) sont indicatifs et observés sur le portefeuille ESGIM — voir esgim-portfolio. EcoVadis ne publie pas de seuil de points."
+
+  ecovadis-barometer-2026:
+    title: "Sustainable Procurement Barometer 2026"
+    publisher: "EcoVadis"
+    kind: rating-scheme
+    url: "https://ecovadis.com/insights/barometer/"
+    accessed: 2026-09-01
+    covers: "Visibilité des acheteurs sur les pratiques ESG de leurs fournisseurs de rang 1 ; transmission des données carbone dans la chaîne d'approvisionnement."
+
+  ecovadis-360-watch:
+    title: "EcoVadis 360° Watch"
+    publisher: "EcoVadis"
+    kind: rating-scheme
+    url: "https://ecovadis.com/"
+    accessed: 2026-09-01
+    covers: "Veille de sources publiques indépendantes des déclarations ; effet des controverses sur l'éligibilité à une médaille."
+
+  eu-csrd:
+    title: "Directive (UE) 2022/2464 du 14 décembre 2022 (CSRD)"
+    publisher: "Union européenne — EUR-Lex"
+    kind: regulator
+    url: "https://eur-lex.europa.eu/eli/dir/2022/2464/oj"
+    accessed: 2026-09-01
+    covers: "Reporting de durabilité des entreprises, normes ESRS, champ d'application et calendrier par vague."
+
+  eu-csddd:
+    title: "Directive (UE) 2024/1760 du 13 juin 2024 (CSDDD)"
+    publisher: "Union européenne — EUR-Lex"
+    kind: regulator
+    url: "https://eur-lex.europa.eu/eli/dir/2024/1760/oj"
+    accessed: 2026-09-01
+    covers: "Devoir de vigilance des entreprises en matière de durabilité ; seuils (1 000 salariés, 450 M€) ; vigilance sur la chaîne de valeur."
+
+  ec-omnibus:
+    title: "Paquet Omnibus de simplification — durabilité"
+    publisher: "Commission européenne"
+    kind: regulator
+    url: "https://finance.ec.europa.eu/"
+    accessed: 2026-09-01
+    covers: "Report des échéances de transposition et de première application de la CSRD et de la CSDDD."
+    note: "Sous réserve d'adoption formelle. Toute date citée dans une fiche doit être qualifiée en conséquence."
+
+  efrag-vsme:
+    title: "Voluntary reporting standard for SMEs (VSME)"
+    publisher: "EFRAG"
+    kind: standard-setter
+    url: "https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded"
+    accessed: 2026-09-01
+    covers: "Modules Basic et Comprehensive, périmètre PME, articulation avec la CSRD."
+
+  ec-vsme-recommendation:
+    title: "Recommandation de la Commission sur la norme volontaire pour les PME"
+    publisher: "Commission européenne"
+    kind: regulator
+    url: "https://finance.ec.europa.eu/publications/commission-presents-voluntary-sustainability-reporting-standard-ease-burden-smes_en"
+    accessed: 2026-09-01
+    covers: "Statut de la VSME dans le paysage réglementaire européen."
+
+  gri-standards:
+    title: "GRI Standards"
+    publisher: "Global Reporting Initiative"
+    kind: standard-setter
+    url: "https://www.globalreporting.org/standards/"
+    accessed: 2026-09-01
+    covers: "Distinction « in accordance with » / « with reference to », processus de matérialité."
+
+  ghg-protocol:
+    title: "GHG Protocol Corporate Accounting and Reporting Standard"
+    publisher: "GHG Protocol (WRI / WBCSD)"
+    kind: standard-setter
+    url: "https://ghgprotocol.org/corporate-standard"
+    accessed: 2026-09-01
+    covers: "Définition des Scopes 1, 2 et 3 ; catégorie 1 des achats de biens et services."
+
+  ungc-cop:
+    title: "UN Global Compact — Communication on Progress"
+    publisher: "Nations unies — Global Compact"
+    kind: public-institution
+    url: "https://unglobalcompact.org/participation/report/cop"
+    accessed: 2026-09-01
+    covers: "Adhésion, obligations de rapportage annuel, valeur comme preuve d'adhésion."
+
+  sbti:
+    title: "Science Based Targets initiative"
+    publisher: "SBTi"
+    kind: standard-setter
+    url: "https://sciencebasedtargets.org/"
+    accessed: 2026-09-01
+    covers: "Engagements et objectifs validés de réduction d'émissions."
+
+  iso-14001:
+    title: "ISO 14001 — Management environnemental"
+    publisher: "ISO"
+    kind: standard-setter
+    url: "https://www.iso.org/iso-14001-environmental-management.html"
+    accessed: 2026-09-01
+    covers: "Certification socle du thème Environnement ; la valeur dépend du taux de couverture des sites."
+
+  iso-45001:
+    title: "ISO 45001 — Santé et sécurité au travail"
+    publisher: "ISO"
+    kind: standard-setter
+    url: "https://www.iso.org/iso-45001-occupational-health-and-safety.html"
+    accessed: 2026-09-01
+    covers: "Certification du critère Santé et sécurité, thème Social et Droits Humains."
+
+  iso-50001:
+    title: "ISO 50001 — Management de l'énergie"
+    publisher: "ISO"
+    kind: standard-setter
+    url: "https://www.iso.org/iso-50001-energy-management.html"
+    accessed: 2026-09-01
+    covers: "Certification du critère Énergie et GES."
+
+  fod-werkgelegenheid:
+    title: "SPF Emploi, Travail et Concertation sociale / FOD Werkgelegenheid, Arbeid en Sociaal Overleg"
+    publisher: "État fédéral belge"
+    kind: public-institution
+    url: "https://emploi.belgique.be/"
+    accessed: 2026-09-01
+    covers: "Règlement de travail, bilan social, obligations belges du thème Social et Droits Humains."
+
+  unia:
+    title: "Unia — Centre interfédéral pour l'égalité des chances"
+    publisher: "Unia (Belgique)"
+    kind: public-institution
+    url: "https://www.unia.be/"
+    accessed: 2026-09-01
+    covers: "Cadre belge de non-discrimination et de diversité."
+
+  esgim-portfolio:
+    title: "Portefeuille de missions ESG Interim Management"
+    publisher: "ESG Interim Management"
+    kind: proprietary
+    url: null
+    accessed: 2026-09-01
+    covers: "Plus de 100 projets EcoVadis livrés ; 87 % des clients améliorent leur score ; progression moyenne de 13,8 points ; niveaux de médaille en points observés."
+    note: "Donnée propriétaire, non vérifiable publiquement. Toute fiche qui l'utilise doit l'attribuer explicitement à ESGIM et non la présenter comme un chiffre EcoVadis."

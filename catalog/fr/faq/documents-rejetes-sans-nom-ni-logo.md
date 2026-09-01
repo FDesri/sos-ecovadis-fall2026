@@ -12,9 +12,11 @@ summary: >-
   tête, demandez aux prestataires externes d'inclure le nom, et sinon ajoutez
   une page de garde sur papier à en-tête nommant salarié, entreprise,
   formation et date.
+description: "Chaque document doit porter une affiliation à l'entité évaluée — nom ou logo — sans exception, y compris les documents produits par un prestataire."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: verifier
 themes: [general]
 topics: [preuves, questionnaire]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [documents-justificatifs-entreprises-xs, soumissions-ecovadis-solides-et-regulieres]

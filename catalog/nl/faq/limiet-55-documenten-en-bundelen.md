@@ -11,9 +11,11 @@ summary: >-
   eerder ingediende documenten blijven in de documentbibliotheek en kunnen
   opnieuw worden gekoppeld zonder het nieuwe quotum te verbruiken. De beste
   praktijk blijft aparte documenten in plaats van samengevoegde bestanden.
+description: "De limiet van 55 documenten geldt per cyclus, niet cumulatief: eerder ingediende documenten koppelt u opnieuw zonder het nieuwe quotum aan te spreken."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, preuves, plateforme]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [sterke-ecovadis-indieningen-opbouwen, bewijsstukken-voor-xs-ondernemingen]

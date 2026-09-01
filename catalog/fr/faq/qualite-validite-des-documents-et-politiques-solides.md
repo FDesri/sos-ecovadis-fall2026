@@ -13,9 +13,11 @@ summary: >-
   (politiques, actions), 2 ans (KPI/reporting), certifications jusqu'à
   échéance. Une politique solide a un périmètre, une gouvernance, un mécanisme
   de revue et des engagements qualitatifs et quantitatifs.
+description: "Pertinence, complétude et récence : un document doit porter nom ou logo et date, et être émis plus d'un mois avant la soumission."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, questionnaire, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [documents-justificatifs-entreprises-xs, soumissions-ecovadis-solides-et-regulieres]

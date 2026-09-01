@@ -15,9 +15,11 @@ summary: >-
   from rejected documents, the corrective action plan sorted by weight,
   meaningful change over box-ticking, explanatory comments, and a precise
   reading of every question.
+description: "A two-track EcoVadis cheat sheet: nine steps for a first assessment, and the route to follow when you are being reassessed."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, preuves, methodologie, timing]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard, improve-your-ecovadis-score-fast, build-strong-ecovadis-submissions-consistently, supporting-documents-for-xs-companies, full-ecovadis-support-mission]

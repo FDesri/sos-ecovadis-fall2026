@@ -13,9 +13,11 @@ summary: >-
   (verzekering tegen bedrijfsonderbreking, veiligheidsvoorraad, noodapparatuur).
   De vraag heeft geen impact op de score, maar wat ze aan het licht brengt,
   verschijnt op de scorecard.
+description: "ENV7012 vraagt twee families van acties: adaptieve praktijken die in de operaties zijn ingebed, en gedocumenteerde noodreserves."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire, methodologie]
 ecovadis_questions: [ENV7012]
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [externe-klimaatrisicos-env7003, milieu-indicatoren-verzamelen, methodologie-updates-q2-2026]

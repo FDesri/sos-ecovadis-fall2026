@@ -11,9 +11,11 @@ summary: >-
   previously submitted documents stay in the Document Library and can be
   reattached without consuming the new quota. Best practice remains separate,
   distinct uploads rather than merged files.
+description: "The 55-document limit applies per assessment cycle, not cumulatively: documents already submitted can be reattached without using the new quota."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, preuves, plateforme]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [build-strong-ecovadis-submissions-consistently, supporting-documents-for-xs-companies]

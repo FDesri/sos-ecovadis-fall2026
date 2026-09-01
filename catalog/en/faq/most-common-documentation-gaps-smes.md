@@ -11,9 +11,11 @@ summary: >-
   (caps Reporting at 50/100); a Code of Conduct without acknowledgement
   evidence; a procurement policy without supplier sustainability requirements;
   environmental policies citing targets without baseline data or tracking.
+description: "Four gaps recur in SMEs: no public report, a code of conduct without acknowledgement evidence, a procurement policy without sustainability criteria."
 situations: [S3, S1]
 sizes: [XS, S]
 content_kind: general
+intent: verifier
 themes: [general]
 topics: [preuves, questionnaire]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [supporting-documents-for-xs-companies, from-committed-badge-to-bronze]

@@ -13,9 +13,11 @@ summary: >-
   fournir : spécialistes, organismes accrédités, cabinets intermédiaires.
   L'audit interne ne compte pas. Une vérification ciblée par KPI est possible
   ; le score Reporting maximal exige une assurance couvrant les quatre thèmes.
+description: "Une vérification indépendante des données en trois phases ; l'assurance limitée, standard chez EcoVadis, prend typiquement trois à six mois."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: comprendre
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ce-qui-change-en-2026, de-l-argent-a-l-or]

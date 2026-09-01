@@ -15,9 +15,11 @@ summary: >-
   de interne preventiedienst en het opleidingsplan het meeste aan — het werk
   zit in het afbakenen van perimeters (uitzendkrachten meegeteld of niet) en
   het documenteren van ongunstige trends vóór de herbeoordeling.
+description: "Gewerkte uren, verloren dagen, opleiding, diversiteit: de vijf HR-indicatoren die Arbeids- en Mensenrechten systematisch verwacht."
 situations: [S1, S2]
 sizes: [S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [labor-human-rights]
 topics: [social-droits-humains, preuves, questionnaire]
 ecovadis_questions: [LAB601, LAB6011]
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [milieu-indicatoren-verzamelen, sjablonen-diversiteit-corruptie-kinderarbeid, sterke-ecovadis-indieningen-opbouwen]

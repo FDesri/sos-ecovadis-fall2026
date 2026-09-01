@@ -11,9 +11,11 @@ summary: >-
   buyers you actively share them with. Buyers who initiated or co-funded the
   assessment may see that it was completed, but no third party can access the
   score without your consent.
+description: "No: scorecards are not public by default and are visible only to the buyers you actively choose to share them with."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [plateforme, donneur-d-ordres]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [read-share-maximise-your-ecovadis-scorecard]

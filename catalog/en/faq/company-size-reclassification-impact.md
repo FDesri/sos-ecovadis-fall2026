@@ -13,9 +13,11 @@ summary: >-
   Silver after reclassification. Previous scores are not adjusted; prepare for
   the expanded questionnaire before the next cycle, and raise incorrect
   employee counts through the support portal beforehand.
+description: "Reclassification is automatic, based on FTE counts from public sources and your own data: it cannot be prevented in any way."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, questionnaire]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-activated-criteria-by-sector, supporting-documents-for-xs-companies]

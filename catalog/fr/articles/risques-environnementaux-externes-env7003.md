@@ -14,9 +14,11 @@ summary: >-
   forces et points d'amélioration identifiés apparaissent sur la fiche
   d'évaluation. Outils habituels : l'atlas Aqueduct du WRI et le Water Risk
   Filter du WWF.
+description: "ENV7003, ajoutée au T1 2026 pour les entreprises S et plus, exige la preuve d'une évaluation des risques climatiques physiques et liés à l'eau."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire, methodologie]
 ecovadis_questions: [ENV7003]
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [perturbations-environnementales-env7012, indicateurs-environnementaux-a-collecter, evolutions-methodologiques-t2-2026]

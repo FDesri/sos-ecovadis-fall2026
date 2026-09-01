@@ -16,9 +16,11 @@ summary: >-
   diligence and Scope 3 Category 1 targets. Programmes stall for design
   reasons, not technology reasons: only 26% of buyers cover more than half
   their addressable spend with third-party ESG ratings.
+description: "Segment before you invite, set requirements grounded in a baseline, then measure: how to design a supplier engagement programme that lasts."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [sustainable-procurement]
 topics: [achats-responsables, methodologie, donneur-d-ordres, vsme-csrd, carbone-ghg]
 ecovadis_questions: []
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [sustainable-procurement-where-to-start, sustainable-procurement-measures-sup307, ecovadis-sustain-2026-takeaways]

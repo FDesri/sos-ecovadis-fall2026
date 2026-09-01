@@ -11,9 +11,11 @@ summary: >-
   and previously submitted documents remain in the Document Library without
   counting against the new 55-document quota. Review pre-filled answers,
   update expired policies and KPIs, and run a gap analysis before submitting.
+description: "The same sequence as the first cycle, but easier: answers are pre-filled and earlier documents stay reusable outside the quota."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, timing]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [build-strong-ecovadis-submissions-consistently, improve-your-ecovadis-score-fast]

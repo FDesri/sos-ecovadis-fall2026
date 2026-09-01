@@ -15,9 +15,11 @@ summary: >-
   trois corrections classiques avant de charger : combler le trou de la
   formation, purger les contradictions entre documents, documenter l'action la
   plus forte (ici la distillation de solvants sur site).
+description: "ENV3549 évalue cinq sous-actions déchets : réduction interne, formation au tri, tri par flux, inventaire des flux et actions complémentaires."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire]
 ecovadis_questions: [ENV3549]
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [indicateurs-environnementaux-a-collecter, matieres-premieres-produits-chimiques-env3522, guide-essentiel-ecovadis]

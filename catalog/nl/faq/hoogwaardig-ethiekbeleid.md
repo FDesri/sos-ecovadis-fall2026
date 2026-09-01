@@ -12,9 +12,11 @@ summary: >-
   informatiebeveiliging, procedures voor belangenconflicten, klachten- en
   klokkenluidersmechanismen, en expliciete toepassing op onderaannemers —
   gedateerd, goedgekeurd, idealiter met genoemde wetgeving.
+description: "Expliciete engagementen tegen corruptie en fraude, verboden gedragingen opgelijst, informatiebeveiliging en een gedocumenteerd meldkanaal."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: policies
+intent: mettre-en-oeuvre
 themes: [ethics]
 topics: [ethique, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [ethiekpakket-corruptie-intimidatie-discriminatie, sjablonen-diversiteit-corruptie-kinderarbeid]

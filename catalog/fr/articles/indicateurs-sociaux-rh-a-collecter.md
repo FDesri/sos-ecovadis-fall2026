@@ -15,9 +15,11 @@ summary: >-
   rapport annuel du SIPP et le plan de formation fournissent l'essentiel — le
   travail consiste à trancher les périmètres (intérimaires inclus ou non) et à
   documenter les tendances défavorables avant la réévaluation.
+description: "Heures travaillées, jours perdus, formation, diversité : les cinq indicateurs RH que le thème Social et Droits Humains attend systématiquement."
 situations: [S1, S2]
 sizes: [S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [labor-human-rights]
 topics: [social-droits-humains, preuves, questionnaire]
 ecovadis_questions: [LAB601, LAB6011]
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [indicateurs-environnementaux-a-collecter, canevas-diversite-corruption-travail-enfants, soumissions-ecovadis-solides-et-regulieres]

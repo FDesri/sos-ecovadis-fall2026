@@ -10,9 +10,11 @@ summary: >-
   EcoVadis gebruikt een universeel sjabloon en activeert criteria per profiel;
   vragen van niet-geactiveerde criteria kunnen zichtbaar blijven, maar bewijs
   daartegen wordt als irrelevant beoordeeld en telt niet mee.
+description: "EcoVadis vertrekt van een universeel sjabloon en activeert enkel de criteria van uw profiel: bewijs daarbuiten wordt als irrelevant beoordeeld."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [questionnaire, methodologie]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [geactiveerde-criteria-per-sector]

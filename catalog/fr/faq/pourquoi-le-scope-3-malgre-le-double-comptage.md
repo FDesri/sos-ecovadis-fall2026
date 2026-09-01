@@ -10,9 +10,11 @@ summary: >-
   Le Scope 3 attribue aux acheteurs la responsabilité des émissions de leur
   chaîne, car les décisions d'achat influencent l'amont ; compté à plusieurs
   niveaux, il pousse l'action collective.
+description: "Le Scope 3 attribue aux acheteurs la responsabilité des émissions de leur chaîne : compté à plusieurs niveaux, il pousse à l'action collective."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [environment]
 topics: [carbone-ghg, achats-responsables]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-et-bilan-ges-de-base, programmes-engagement-fournisseurs]

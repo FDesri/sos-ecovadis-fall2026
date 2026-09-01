@@ -12,9 +12,11 @@ summary: >-
   Social, Achats Responsables) et 5-10 ans pour l'Éthique (5 sécurité de
   l'information, 7 corruption, 10 pratiques anticoncurrentielles), à compter
   de l'événement. L'inéligibilité aux médailles dure 3 ans (5 pour l'Éthique).
+description: "La veille 360° part de 75/100 par thème : un constat mineur coûte 25 points, majeur 50, sévère 75, avec un impact qui dure cinq ans."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [360-watch, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis, principaux-conseils-pratiques-ecovadis]

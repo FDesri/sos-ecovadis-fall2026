@@ -16,9 +16,11 @@ summary: >-
   vóór het opladen: het opleidingsgat dichten, tegenstrijdigheden tussen
   documenten wegwerken, en de sterkste actie documenteren (hier de
   solventdistillatie op de site).
+description: "ENV3549 beoordeelt vijf deelacties afval: interne reductie, opleiding sorteren, sortering per stroom, inventaris van de stromen en meer."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire]
 ecovadis_questions: [ENV3549]
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [milieu-indicatoren-verzamelen, grondstoffen-en-chemicalien-env3522, ecovadis-essentials-gids]

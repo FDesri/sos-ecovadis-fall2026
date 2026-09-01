@@ -10,9 +10,11 @@ summary: >-
   Vraag uw klanten uw EcoVadis-scorecard te raadplegen in plaats van eigen
   vragenlijsten te sturen: het platform als unieke bron vermindert de
   enquêtemoeheid.
+description: "Verwijs klanten naar uw EcoVadis-scorecard in plaats van hun eigen vragenlijsten in te vullen: één enkele bron van duurzaamheidsgegevens."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [plateforme, donneur-d-ordres]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [scorecard-lezen-delen-optimaliseren]

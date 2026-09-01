@@ -10,9 +10,11 @@ summary: >-
   Le CDP encourage un reporting agile sur son questionnaire intégré et sa
   nouvelle plateforme : comprendre la logique de notation, documenter les
   narratifs, et envisager la vérification tierce optionnelle.
+description: "Le CDP encourage un reporting agile : comprendre la logique de notation, documenter les narratifs, envisager la vérification externe."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-et-bilan-ges-de-base]

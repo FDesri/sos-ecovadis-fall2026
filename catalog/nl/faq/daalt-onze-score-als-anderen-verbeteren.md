@@ -11,9 +11,11 @@ summary: >-
   relatieve positie, en dus uw medaille, kan veranderen als de
   vergelijkingsgroep sneller verbetert: een 72/100 die Zilver opleverde, kan
   nu bovenaan Brons zitten.
+description: "Uw absolute score daalt niet — die hangt alleen van uw bewijs af. Het is uw relatieve positie, en dus uw medaille, die kan veranderen."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [medailles-percentiles, rising-bar]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-strengere-normen-2026, waarom-een-bronzen-medaille-moeilijker-wordt]

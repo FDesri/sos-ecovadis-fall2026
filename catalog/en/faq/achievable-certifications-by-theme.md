@@ -12,9 +12,11 @@ summary: >-
   27001, SMETA; Sustainable Procurement — amfori BSCI, Rainforest Alliance,
   FSC/PEFC. You do not need all ISOs: prioritise the certification aligned
   with your highest-weighted theme.
+description: "No, not all of them: ISO 14001 and 50001 for Environment, ISO 45001 for Labour, ISO 37001 and 27001 for Ethics cover the essentials."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: choisir
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [improve-your-ecovadis-score-fast, from-bronze-to-silver]

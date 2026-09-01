@@ -11,9 +11,11 @@ summary: >-
   l'entité évaluée ; thèmes faibles ignorés (minimum 30/100 par thème pour une
   médaille) ; actions planifiées présentées comme réalisées ; exigences
   Coverage manquées ; constats de veille 360° ignorés.
+description: "Six pièges coûtent des points : documents expirés, preuves sans lien avec l'entité, thèmes faibles ignorés, actions seulement planifiées."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [methodologie, preuves, 360-watch]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [principaux-conseils-pratiques-ecovadis, soumissions-ecovadis-solides-et-regulieres]

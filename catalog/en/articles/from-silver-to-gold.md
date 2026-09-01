@@ -14,9 +14,11 @@ summary: >-
   quantitative targets, a public sustainability report to a recognised
   standard, KPI dashboards extending to the value chain, and visible
   leadership commitment.
+description: "EcoVadis Gold is reserved for the top 5%: about 81/100 as of May 2026, with complete evidence, SMART targets and a compliant public report."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [medailles-percentiles, rising-bar, methodologie]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [from-bronze-to-silver, ecovadis-rising-standards-2026, read-share-maximise-your-ecovadis-scorecard, ecovadis-expert-advice-days]

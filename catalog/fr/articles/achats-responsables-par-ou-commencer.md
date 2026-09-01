@@ -17,9 +17,11 @@ summary: >-
   fournisseurs, politique d'achats responsables, processus d'évaluation des
   risques), puis engager, mesurer et améliorer — revue trimestrielle et
   objectif réaliste en année 1.
+description: "Cartographier la base fournisseurs, évaluer, puis bâtir trois documents de politique : le démarrage réaliste des Achats Responsables."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [sustainable-procurement]
 topics: [achats-responsables, methodologie, vsme-csrd, carbone-ghg]
 ecovadis_questions: []
@@ -33,6 +35,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [mesures-achats-responsables-sup307, programmes-engagement-fournisseurs, ecovadis-et-bilan-ges-de-base]

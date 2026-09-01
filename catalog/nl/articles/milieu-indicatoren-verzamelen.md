@@ -14,9 +14,11 @@ summary: >-
   cijfers vinden, maar arbitreren tussen afwijkende bronnen (facturen,
   CO₂-balans, reglementaire aangiften) zodat de opgeladen bewijsstukken
   verdedigbaar zijn.
+description: "Energie, water, luchtverontreiniging, afval: de becijferde indicatoren die het EcoVadis-thema Milieu verwacht, met eenheden en perimeter."
 situations: [S1, S2]
 sizes: [S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire]
 ecovadis_questions: [ENV600, ENV630, ENV6332]
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [sociale-hr-indicatoren-verzamelen, ecovadis-en-co2-nulmeting, afvalbeheer-env3549, sterke-ecovadis-indieningen-opbouwen]

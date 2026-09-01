@@ -16,9 +16,11 @@ summary: >-
   verwijdering van gevaarlijk afval. Twee echte gaten blijven — biogebaseerde
   materialen en opleidingsbewijs — plus één valkuil: recycleer geen
   leveranciersdocumenten, die verwacht EcoVadis onder Duurzame Inkoop.
+description: "ENV3522 beoordeelt negen deelacties rond grondstoffen en chemicaliën, van procesoptimalisatie tot vervanging van gevaarlijke stoffen."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire, achats-responsables]
 ecovadis_questions: [ENV3522, ENV3525]
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [afvalbeheer-env3549, milieu-indicatoren-verzamelen, ecovadis-essentials-gids]

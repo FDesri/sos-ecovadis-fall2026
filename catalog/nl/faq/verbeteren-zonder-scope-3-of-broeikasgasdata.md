@@ -12,9 +12,11 @@ summary: >-
   SMART-reductiedoel en referentiejaar. Zonder enige broeikasgasdata begint u
   met het energieverbruik om te rekenen naar CO₂-equivalent met erkende
   factoren — een consistent jaarlijks rekenblad is geldig bewijs.
+description: "Scope 3-doelen zijn geen voorwaarde en hun afwezigheid wordt niet bestraft: de verwachting ligt in de eerste plaats bij Scope 1 en 2."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-en-co2-nulmeting, milieu-indicatoren-verzamelen]

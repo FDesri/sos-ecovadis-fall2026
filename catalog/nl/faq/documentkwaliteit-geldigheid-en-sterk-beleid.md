@@ -13,9 +13,11 @@ summary: >-
   acties), 2 jaar (KPI/rapportering), certificaten tot vervaldatum. Een sterk
   beleid heeft een scope, governance, een reviewmechanisme en kwalitatieve
   plus kwantitatieve engagementen.
+description: "Relevantie, volledigheid en recentheid: een document draagt naam of logo en datum, en is meer dan een maand vóór de indiening uitgegeven."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, questionnaire, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [bewijsstukken-voor-xs-ondernemingen, sterke-ecovadis-indieningen-opbouwen]

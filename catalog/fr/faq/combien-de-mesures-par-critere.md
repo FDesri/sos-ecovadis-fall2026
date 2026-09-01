@@ -14,9 +14,11 @@ summary: >-
   ; les Achats Responsables sur le total des strengths (6+ pour 100). Cible
   pratique : au moins un strength par critère activé, quatre ou plus sur la
   majorité.
+description: "Le score Mesures repose sur les strengths par critère activé : 100/100 exige 4 strengths ou plus par critère et plus de 65 % de couverture."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis, ameliorer-son-score-ecovadis-rapidement]

@@ -16,9 +16,11 @@ summary: >-
   couverture KPI), et mobiliser des audits qualifiés quand les certifications
   sont hors de portée. 2026 apporte la personnalisation de la matérialité, une
   Veille 360° affinée et la reconnaissance formelle du VSME.
+description: "Entre juillet 2025 et juillet 2026, l'Argent est passé de 68 à 73/100 et l'Or de 77 à 81 : les mêmes preuves valent moins chaque année."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [rising-bar, medailles-percentiles, methodologie, vsme-csrd, 360-watch]
 ecovadis_questions: [GEN600]
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ce-qui-change-en-2026, evolutions-methodologiques-t2-2026, de-bronze-a-argent, pourquoi-la-medaille-bronze-est-plus-difficile, soumissions-ecovadis-solides-et-regulieres]

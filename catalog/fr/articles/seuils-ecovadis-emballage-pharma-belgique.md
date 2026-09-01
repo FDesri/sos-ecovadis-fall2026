@@ -17,9 +17,11 @@ summary: >-
   (25/40/35), la veille 360°, la reconnaissance VSME (Basic 75 /
   Comprehensive 100) et deux marchés belges : emballage agroalimentaire et
   machines pour la pharma (initiative Responsible Health).
+description: "Depuis 2024, les médailles EcoVadis sont des percentiles : analyse prospective des seuils, avec focus emballage et équipement pharma belges."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [medailles-percentiles, rising-bar, secteur-emballage, secteur-pharma, methodologie, vsme-csrd, 360-watch]
 ecovadis_questions: []
@@ -33,6 +35,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-exigences-croissantes-2026, pourquoi-la-medaille-bronze-est-plus-difficile, criteres-actives-ecovadis-par-secteur, comprendre-la-fiche-devaluation-ecovadis]

@@ -11,9 +11,11 @@ summary: >-
   and paying. EcoVadis publishes an overview of the four themes and a Document
   Guide listing accepted evidence types; the exact scope depends on sector,
   size and geography.
+description: "No: there is no full preview of the tailored questionnaire before payment. EcoVadis publishes a four-theme overview and a Document Guide."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [questionnaire, plateforme, timing]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [ecovadis-essentials-guide, ecovadis-activated-criteria-by-sector]

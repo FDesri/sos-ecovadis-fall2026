@@ -16,9 +16,11 @@ summary: >-
   ready-to-copy templates (action factsheet, diversity register, corruption
   matrix, social dashboard, age/young-workers register) and the recommended
   minimum file for a Belgian size-S company.
+description: "Diversity, corruption, social reporting, child labour: four subjects believed not applicable that are in fact documentable with simple evidence."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [labor-human-rights, ethics]
 topics: [social-droits-humains, ethique, preuves, questionnaire]
 ecovadis_questions: [LAB3604, FB3103, LAB601, LAB6011, LAB3503, LAB3511]
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [social-hr-indicators-to-collect, ethics-pack-corruption-harassment-discrimination, supporting-documents-for-xs-companies]

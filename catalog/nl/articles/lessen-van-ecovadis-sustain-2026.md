@@ -16,9 +16,11 @@ summary: >-
   Barometer (tier 3 is een zwarte doos), en de vaststelling van Siemens
   Gamesa dat hogere EcoVadis-scores correleren met lagere kwaliteitskosten
   bij leveranciers.
+description: "Veldnotities van EcoVadis Sustain 2026: de vier pijlers van duurzaam voordeel en de krachten die bedrijfsmodellen hertekenen."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general, sustainable-procurement]
 topics: [methodologie, achats-responsables, donneur-d-ordres, carbone-ghg]
 ecovadis_questions: []
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [leveranciersengagement-programmas, duurzame-inkoop-waar-beginnen, waarom-aan-ecovadis-beginnen, rising-bar-strengere-normen-2026]

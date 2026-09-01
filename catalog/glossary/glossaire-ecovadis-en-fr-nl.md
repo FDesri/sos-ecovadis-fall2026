@@ -12,9 +12,11 @@ summary: >-
   statut de chaque terme NL), les règles de tranchage, les cas de doute
   argumentés, les divergences belgo-néerlandaises et les faux amis. Ce
   glossaire prime sur toute autre source terminologique dans les trois langues.
+description: "Le référentiel terminologique trilingue EN-FR-NL du catalogue EcoVadis : forme officielle, faux amis et divergences belgo-néerlandaises."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, plateforme]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-24
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 2
 status: review
 related: []

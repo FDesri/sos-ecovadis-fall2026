@@ -11,9 +11,11 @@ summary: >-
   Rapporteringsscore halen; externe assurance ontgrendelt bijkomende punten.
   Onder Goud is het zelden een plafond; voor Goud en Platinum wordt externe
   verificatie steeds belangrijker.
+description: "Een niet-geauditeerd publiek rapport haalt een aanzienlijke Rapporteringsscore; externe assurance voegt punten toe, zelden beslissend onder Goud."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: verifier
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [van-zilver-naar-goud, wat-verandert-in-2026]

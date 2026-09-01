@@ -12,9 +12,11 @@ summary: >-
   preuve de prise de connaissance ; une politique achats sans exigences
   durabilité fournisseurs ; des politiques environnementales sans données de
   référence ni suivi.
+description: "Quatre lacunes reviennent chez les PME : pas de rapport public, code de conduite sans preuve de diffusion, politique achats sans critère durable."
 situations: [S3, S1]
 sizes: [XS, S]
 content_kind: general
+intent: verifier
 themes: [general]
 topics: [preuves, questionnaire]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [documents-justificatifs-entreprises-xs, du-badge-committed-a-la-medaille-bronze]

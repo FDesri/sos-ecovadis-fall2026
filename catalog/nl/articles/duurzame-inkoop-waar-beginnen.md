@@ -16,9 +16,11 @@ summary: >-
   (gedragscode voor leveranciers, duurzaam-inkoopbeleid,
   risicobeoordelingsproces), en ga dan engageren, meten en verbeteren — met
   kwartaalreview en een realistisch doel voor jaar één.
+description: "De leveranciersbasis in kaart brengen, een nulmeting doen, dan drie beleidsdocumenten bouwen: een realistische start met Duurzame Inkoop."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [sustainable-procurement]
 topics: [achats-responsables, methodologie, vsme-csrd, carbone-ghg]
 ecovadis_questions: []
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [duurzame-inkoop-maatregelen-sup307, leveranciersengagement-programmas, ecovadis-en-co2-nulmeting]

@@ -11,9 +11,11 @@ summary: >-
   management is actually governed: an entity-level assessment covers one legal
   entity and is simpler; a group-level assessment covers all consolidated
   entities and activates the Coverage indicator.
+description: "The right level depends on who requests the rating and where sustainability is governed: entity-level is simpler, group-level covers more."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [questionnaire, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-essentials-guide]

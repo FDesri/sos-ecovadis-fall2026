@@ -12,9 +12,11 @@ summary: >-
   alimenter l'indicateur Mesures en Environnement, comme preuve crédible d'un
   programme d'amélioration, s'il est documenté avec actions nommées, échéances
   et résultats.
+description: "Pas comme standard formel équivalent à l'ISO 14001, mais un plan d'action structuré fondé dessus peut alimenter l'indicateur Mesures en Environnement."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [environment]
 topics: [environnement, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-et-bilan-ges-de-base, indicateurs-environnementaux-a-collecter]

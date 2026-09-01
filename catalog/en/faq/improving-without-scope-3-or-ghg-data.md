@@ -13,9 +13,11 @@ summary: >-
   With no GHG data at all, start by converting energy consumption to CO₂-
   equivalent with recognised factors — a consistent annual spreadsheet is
   valid evidence; assurance can come later.
+description: "Scope 3 targets are not a prerequisite and their absence is not penalised: the expectation falls first on Scopes 1 and 2."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-and-ghg-baseline, environmental-indicators-to-collect]

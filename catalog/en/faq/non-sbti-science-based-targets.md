@@ -11,9 +11,11 @@ summary: >-
   validation status, and generates a separate Carbon scorecard (Insufficient
   to Leader) — but these questions do not currently contribute to the overall
   EcoVadis score or medal eligibility.
+description: "The Carbon section covers targets and SBTi status and produces a separate Carbon scorecard, without contributing to the overall score for now."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-and-ghg-baseline]

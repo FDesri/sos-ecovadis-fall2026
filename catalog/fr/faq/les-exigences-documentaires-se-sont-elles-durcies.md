@@ -11,9 +11,11 @@ summary: >-
   réelle et des données alignées sur les référentiels (GRI, ESRS) ; le passage
   du « with reference to » au « in accordance with » est le signal le plus
   net.
+description: "Oui : les standards de revue exigent des preuves de mise en œuvre réelle et des données alignées sur les référentiels GRI ou ESRS."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: verifier
 themes: [general]
 topics: [rising-bar, preuves, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-exigences-croissantes-2026, ce-qui-change-en-2026]

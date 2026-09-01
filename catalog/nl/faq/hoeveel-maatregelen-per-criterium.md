@@ -14,9 +14,11 @@ summary: >-
   risicoanalyses; Duurzame Inkoop op het totaal aantal strengths (6+ voor
   100). Praktisch doel: minstens één strength per geactiveerd criterium, vier
   of meer over de meerderheid.
+description: "De Maatregelen-score steunt op strengths per geactiveerd criterium: 100/100 vergt vier of meer per criterium en meer dan 65% dekking."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen, ecovadis-score-snel-verbeteren]

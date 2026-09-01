@@ -11,9 +11,11 @@ summary: >-
   of two years from the reporting period. Methodology updates can also raise
   requirements. The rejection reason in Score Details usually identifies the
   specific gap.
+description: "Usually expiry: KPI and reporting documents are valid for a maximum of two years from the reporting period they cover."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-methodology-updates-q2-2026, build-strong-ecovadis-submissions-consistently]

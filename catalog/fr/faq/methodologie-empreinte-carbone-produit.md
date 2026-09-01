@@ -12,9 +12,11 @@ summary: >-
   Pathfinder qualifient aussi. Documentez la PCF dans une approche
   environnementale produit, reliée à vos données GES, avec méthodologie et
   périmètre de calcul explicites.
+description: "EcoVadis accepte les empreintes produit calculées selon l'ISO 14067 ou le GHG Protocol Product Standard ; les méthodes sectorielles qualifient aussi."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-et-bilan-ges-de-base]

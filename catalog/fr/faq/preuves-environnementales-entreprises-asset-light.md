@@ -13,9 +13,11 @@ summary: >-
   données (factures d'énergie, émissions estimées) et montrez le suivi actif —
   une approche légère mais honnête bat une politique d'apparence complète sans
   chiffres.
+description: "Moins de critères s'activent : eau et biodiversité rarement matérielles pour un cabinet ; restent l'énergie, les GES Scopes 1 et 2, et les déchets."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [indicateurs-environnementaux-a-collecter, criteres-actives-ecovadis-par-secteur]

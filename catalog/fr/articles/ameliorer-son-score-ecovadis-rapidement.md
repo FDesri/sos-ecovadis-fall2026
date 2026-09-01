@@ -15,9 +15,11 @@ summary: >-
   quand la certification coûte trop cher) ; et muscler la gestion carbone
   (objectifs, inventaire, reporting). Ensemble, ces gains déplacent souvent le
   score d'un, voire deux niveaux de médaille en un seul cycle.
+description: "Cinq gains rapides avant un renouvellement EcoVadis : formaliser les pratiques, bâtir un tableau de bord KPI, produire un rapport court."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general, environment, sustainable-procurement]
 topics: [methodologie, timing, achats-responsables, carbone-ghg]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [guide-essentiel-ecovadis, soumissions-ecovadis-solides-et-regulieres, lire-partager-optimiser-sa-fiche-devaluation, achats-responsables-par-ou-commencer, ecovadis-et-bilan-ges-de-base]

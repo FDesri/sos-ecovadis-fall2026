@@ -10,9 +10,11 @@ summary: >-
   Science-based doelen signaleren ambitie, integriteit en leiderschap; de
   nadruk moet liggen op een geloofwaardige nulmeting en progressief ambitieuze
   engagementen.
+description: "Science-based doelen signaleren ambitie en integriteit: de prioriteit is een geloofwaardige nulmeting vóór ambitieuze engagementen."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg]
 ecovadis_questions: []
@@ -26,6 +28,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-en-co2-nulmeting]

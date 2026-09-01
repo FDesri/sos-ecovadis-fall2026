@@ -15,9 +15,11 @@ summary: >-
   actions, 2 ans pour le reporting KPI). Sont refusés : les documents créés
   uniquement pour le questionnaire, copiés d'ailleurs, informels, les photos
   et les factures de tiers comme preuves de reporting.
+description: "Une entreprise XS reçoit une dizaine de questions et peut fournir des preuves moins formalisées — mais certains documents restent obligatoires."
 situations: [S3]
 sizes: [XS]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [preuves, questionnaire, methodologie]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [guide-essentiel-ecovadis, principaux-conseils-pratiques-ecovadis, du-badge-committed-a-la-medaille-bronze, combien-coute-un-accompagnement-ecovadis]

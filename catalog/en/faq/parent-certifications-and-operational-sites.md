@@ -13,9 +13,11 @@ summary: >-
   centres and warehouses; offices and sales can be excluded unless they are
   the primary activity. Review certification scope documents and extend where
   feasible.
+description: "HQ certifications feed the Certifications indicator in a group assessment, but Coverage measures how far they actually extend across sites."
 situations: [S1, S2, S3]
 sizes: [L]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard]

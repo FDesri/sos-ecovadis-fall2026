@@ -12,9 +12,11 @@ summary: >-
   buyers ask, and time your reassessment so the next scorecard already
   reflects completed improvements, shortening the window in which buyers see
   unaddressed gaps.
+description: "The Corrective Action Plan is part of the scorecard and cannot be hidden: present it as your live improvement agenda instead."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [donneur-d-ordres, plateforme]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [read-share-maximise-your-ecovadis-scorecard, improve-your-ecovadis-score-fast]

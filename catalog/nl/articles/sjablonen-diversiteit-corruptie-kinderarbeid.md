@@ -17,9 +17,11 @@ summary: >-
   (actiefiche, diversiteitsregister, corruptiematrix, sociaal dashboard,
   register leeftijd/jonge werknemers) en het aanbevolen minimumdossier voor
   een Belgische onderneming van grootte S.
+description: "Diversiteit, corruptie, sociale rapportering, kinderarbeid: vier onderwerpen die niet van toepassing lijken maar wel documenteerbaar zijn."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [labor-human-rights, ethics]
 topics: [social-droits-humains, ethique, preuves, questionnaire]
 ecovadis_questions: [LAB3604, FB3103, LAB601, LAB6011, LAB3503, LAB3511]
@@ -33,6 +35,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [sociale-hr-indicatoren-verzamelen, ethiekpakket-corruptie-intimidatie-discriminatie, bewijsstukken-voor-xs-ondernemingen]

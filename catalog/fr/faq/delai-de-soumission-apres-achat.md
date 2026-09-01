@@ -11,9 +11,11 @@ summary: >-
   jours ouvrables au total ; après expiration, un rachat peut être nécessaire,
   mais EcoVadis peut rouvrir dans les 6 mois. Commencez tôt la collecte des
   preuves.
+description: "Oui : environ 6 semaines au départ, extensibles soi-même jusqu'à 60 jours ouvrables au total ; au-delà, un rachat peut être nécessaire."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [timing, plateforme]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [guide-essentiel-ecovadis, principaux-conseils-pratiques-ecovadis]

@@ -15,9 +15,11 @@ summary: >-
   corrections to make before uploading: fill the training gap, purge
   contradictions between documents, and document the strongest action (here,
   on-site solvent distillation).
+description: "ENV3549 assesses five waste sub-actions: internal reduction, sorting training, sorting by stream, stream inventory, and further actions."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire]
 ecovadis_questions: [ENV3549]
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [environmental-indicators-to-collect, raw-materials-and-chemicals-env3522, ecovadis-essentials-guide]

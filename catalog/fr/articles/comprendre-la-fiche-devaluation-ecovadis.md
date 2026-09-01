@@ -14,9 +14,11 @@ summary: >-
   Veille 360°), note chacun en cinq paliers (0/25/50/75/100), et n'active que
   les critères pertinents pour votre secteur, votre taille et votre profil de
   risque — avec jusqu'à 55 documents justificatifs par évaluation.
+description: "La fiche d'évaluation EcoVadis croise quatre thèmes et sept critères, notés en cinq paliers, et n'active que les critères pertinents pour vous."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie, questionnaire, plateforme]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [lire-partager-optimiser-sa-fiche-devaluation, criteres-actives-ecovadis-par-secteur, du-badge-committed-a-la-medaille-bronze, guide-essentiel-ecovadis]

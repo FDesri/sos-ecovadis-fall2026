@@ -15,9 +15,11 @@ summary: >-
   l'évaluation, limite de 55 nouveaux fichiers), viser le score Reporting
   (rapport public sous peine de plafond à 50/100, 85 % de couverture KPI,
   données ventilées par entité) et anticiper matérialité et Veille 360°.
+description: "Cinq familles de conseils de terrain EcoVadis : organiser l'équipe, cadrer le périmètre, respecter les délais, prouver, relire avant envoi."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, preuves, timing, methodologie, 360-watch]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [guide-essentiel-ecovadis, documents-justificatifs-entreprises-xs, rising-bar-exigences-croissantes-2026, ce-qui-change-en-2026]

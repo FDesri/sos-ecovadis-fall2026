@@ -11,9 +11,11 @@ summary: >-
   zijn vooraf ingevuld en eerdere documenten blijven buiten het quotum
   beschikbaar. Herbekijk het vooraf ingevulde, actualiseer vervallen beleid en
   KPI's, en doe een gap-analyse vóór indiening.
+description: "Dezelfde volgorde als de eerste cyclus, maar makkelijker: antwoorden zijn vooraf ingevuld en eerdere documenten blijven herbruikbaar."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general]
 topics: [questionnaire, timing]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [sterke-ecovadis-indieningen-opbouwen, ecovadis-score-snel-verbeteren]

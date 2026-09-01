@@ -14,9 +14,11 @@ summary: >-
   the single rule that disqualifies most candidates is the 30-point minimum in
   each of the four themes, with Ethics and Sustainable Procurement as the most
   common blockers.
+description: "Moving from the Committed badge to EcoVadis Bronze is a formalisation job: the indicative Bronze score is 64/100 (top 35%) as of May 2026."
 situations: [S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general, ethics, sustainable-procurement]
 topics: [medailles-percentiles, rising-bar, methodologie, ethique]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [from-bronze-to-silver, ecovadis-essentials-guide, understanding-the-ecovadis-scorecard, ecovadis-rising-standards-2026, full-ecovadis-support-mission]

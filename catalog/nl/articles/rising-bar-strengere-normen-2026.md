@@ -16,9 +16,11 @@ summary: >-
   gekwalificeerde audits in waar certificeringen buiten bereik zijn. 2026
   brengt materialiteitspersonalisatie, een verfijnde 360° Watch en formele
   VSME-erkenning.
+description: "Tussen juli 2025 en juli 2026 ging Zilver van 68 naar 73/100 en Goud van 77 naar 81: hetzelfde bewijs is elk jaar minder waard."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [rising-bar, medailles-percentiles, methodologie, vsme-csrd, 360-watch]
 ecovadis_questions: [GEN600]
@@ -32,6 +34,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-verandert-in-2026, methodologie-updates-q2-2026, van-brons-naar-zilver, waarom-een-bronzen-medaille-moeilijker-wordt, sterke-ecovadis-indieningen-opbouwen]

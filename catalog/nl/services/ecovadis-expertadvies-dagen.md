@@ -12,9 +12,11 @@ summary: >-
   afstand: 1.500 € voor één dag, 2.850 € voor twee, 3.750 € voor drie. De
   expert neemt uw scorecard en uw correctief actieplan door en prioriteert de
   hefbomen die de score van een kmo het meest doen bewegen.
+description: "Eén tot drie dagen EcoVadis-expertadvies op afstand, van 1.500 tot 3.750 €, voor wie de beoordeling al intern beheert."
 situations: [S1]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [tarifs, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [wat-kost-ecovadis-begeleiding, volledige-ecovadis-begeleiding, francois-dequenne]

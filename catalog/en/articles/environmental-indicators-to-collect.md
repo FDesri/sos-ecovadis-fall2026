@@ -13,9 +13,11 @@ summary: >-
   recovered waste (kg). The real work is not finding the figures but
   arbitrating between diverging sources (invoices, carbon footprint, regulatory
   declarations) so the evidence you upload is defensible.
+description: "Energy, water, air pollutants, waste: the quantified indicators the EcoVadis Environment theme expects, with their units and perimeter."
 situations: [S1, S2]
 sizes: [S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire]
 ecovadis_questions: [ENV600, ENV630, ENV6332]
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [social-hr-indicators-to-collect, ecovadis-and-ghg-baseline, waste-management-env3549, build-strong-ecovadis-submissions-consistently]

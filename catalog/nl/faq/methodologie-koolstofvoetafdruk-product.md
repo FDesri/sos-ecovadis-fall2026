@@ -12,9 +12,11 @@ summary: >-
   kwalificeren ook. Documenteer de PCF binnen een milieuaanpak op
   productniveau, gekoppeld aan uw bredere broeikasgasdata, met expliciete
   methodologie en berekeningsscope.
+description: "EcoVadis aanvaardt productvoetafdrukken berekend volgens ISO 14067 of de GHG Protocol Product Standard; sectormethodologieën kwalificeren ook."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-en-co2-nulmeting]

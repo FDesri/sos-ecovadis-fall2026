@@ -12,9 +12,11 @@ summary: >-
   est désagrégé par entité ; les certifications seulement si le périmètre de
   l'entité y est mentionné. Les documents de sociétés sœurs ne sont jamais
   acceptés.
+description: "Les documents de la maison mère sont acceptés s'ils couvrent l'entité évaluée ; le reporting seulement s'il est désagrégé par entité."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, questionnaire]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [soumissions-ecovadis-solides-et-regulieres]

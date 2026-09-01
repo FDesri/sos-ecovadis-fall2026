@@ -13,9 +13,11 @@ summary: >-
   évaluations ou clauses contractuelles alimentent les Mesures. Des critères
   documentés appliqués aux principaux fournisseurs peuvent suffire pour Bronze
   ou Argent.
+description: "Mêmes indicateurs Achats Responsables, attentes calibrées à la taille : le minimum est une politique d'achats référençant des critères de durabilité."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [sustainable-procurement]
 topics: [achats-responsables, preuves]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [mesures-achats-responsables-sup307, achats-responsables-par-ou-commencer]

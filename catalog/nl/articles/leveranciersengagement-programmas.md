@@ -17,9 +17,11 @@ summary: >-
   Programma's lopen vast door ontwerpfouten, niet door technologie: slechts
   26% van de kopers dekt meer dan de helft van hun adresseerbare uitgaven
   met externe ESG-ratings.
+description: "Segmenteer vóór u uitnodigt, stel eisen op basis van een nulmeting, meet daarna: een leveranciersengagementprogramma ontwerpen dat standhoudt."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [sustainable-procurement]
 topics: [achats-responsables, methodologie, donneur-d-ordres, vsme-csrd, carbone-ghg]
 ecovadis_questions: []
@@ -33,6 +35,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [duurzame-inkoop-waar-beginnen, duurzame-inkoop-maatregelen-sup307, lessen-van-ecovadis-sustain-2026]

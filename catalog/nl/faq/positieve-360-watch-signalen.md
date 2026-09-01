@@ -13,9 +13,11 @@ summary: >-
   geverifieerde certificeringen, aanhoudende berichtgeving. Persberichten en
   marketing tellen niet. ESGIM raadt af hierop als primaire hefboom in te
   zetten.
+description: "Een score boven de neutrale 75/100 is mogelijk maar zeldzaam: er zijn meerdere onafhankelijke bronnen nodig die realisaties bevestigen."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [360-watch, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen]

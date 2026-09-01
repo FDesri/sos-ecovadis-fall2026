@@ -18,9 +18,11 @@ summary: >-
   contrôle, reporting — pas une simple intention. Seuils belges rappelés :
   canal de signalement et personne de confiance obligatoires à partir de 50
   travailleurs.
+description: "Dix actions anticorruption et un volet harcèlement-discrimination, simples, crédibles et documentables pour une PME belge."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [ethics, labor-human-rights]
 topics: [ethique, social-droits-humains, preuves, questionnaire]
 ecovadis_questions: [FB3103, LAB3604]
@@ -34,6 +36,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [canevas-diversite-corruption-travail-enfants, indicateurs-sociaux-rh-a-collecter, documents-justificatifs-entreprises-xs]

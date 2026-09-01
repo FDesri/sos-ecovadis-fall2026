@@ -12,9 +12,11 @@ summary: >-
   Sustainability, Responsible Business Alliance, PSCI). Les adhésions pèsent
   environ 5 % du score global et valent surtout combinées à des preuves de
   performance solides.
+description: "Pacte mondial avec Communication on Progress, engagements SBTi et initiatives sectorielles : les adhésions pèsent environ 5 % du score global."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [methodologie]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [comprendre-la-fiche-devaluation-ecovadis, seuils-ecovadis-emballage-pharma-belgique]

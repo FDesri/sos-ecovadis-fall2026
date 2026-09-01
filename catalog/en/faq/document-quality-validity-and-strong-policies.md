@@ -13,9 +13,11 @@ summary: >-
   years for policies and actions, 2 years for KPI/reporting, certifications
   until expiry. A strong policy has scope, governance ownership, a review
   mechanism and qualitative plus quantitative commitments.
+description: "Relevance, completeness and recency: a document must carry the company name or logo and a date, and be issued over a month before submission."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [preuves, questionnaire, methodologie]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [supporting-documents-for-xs-companies, build-strong-ecovadis-submissions-consistently]

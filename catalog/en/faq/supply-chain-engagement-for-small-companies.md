@@ -13,9 +13,11 @@ summary: >-
   questionnaires, self-assessments or contractual clauses feed Measures.
   Applying documented criteria to top suppliers by spend can suffice for
   Bronze or Silver in this theme.
+description: "Same Sustainable Procurement indicators, expectations calibrated to scale: the minimum is a procurement policy referencing sustainability criteria."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [sustainable-procurement]
 topics: [achats-responsables, preuves]
 ecovadis_questions: []
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [sustainable-procurement-measures-sup307, sustainable-procurement-where-to-start]

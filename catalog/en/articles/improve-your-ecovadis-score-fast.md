@@ -15,9 +15,11 @@ summary: >-
   costly); and strengthen carbon management (targets, inventory, reporting).
   Together these often shift scores by one or even two medal levels in a
   single cycle.
+description: "Five quick wins before an EcoVadis renewal: formalise existing practices, build a KPI dashboard, and publish a short annual report."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: mettre-en-oeuvre
 themes: [general, environment, sustainable-procurement]
 topics: [methodologie, timing, achats-responsables, carbone-ghg]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-essentials-guide, build-strong-ecovadis-submissions-consistently, read-share-maximise-your-ecovadis-scorecard, sustainable-procurement-where-to-start, ecovadis-and-ghg-baseline]

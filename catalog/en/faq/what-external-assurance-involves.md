@@ -14,9 +14,11 @@ summary: >-
   audit firms. Internal audit does not qualify. KPI-scoped verification is
   possible; the top Reporting score requires assurance covering all four
   themes.
+description: "An independent verification of the data in three phases; limited assurance — the EcoVadis standard — typically takes three to six months."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: reporting
+intent: comprendre
 themes: [general]
 topics: [vsme-csrd, methodologie]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [whats-changing-in-2026, from-silver-to-gold]

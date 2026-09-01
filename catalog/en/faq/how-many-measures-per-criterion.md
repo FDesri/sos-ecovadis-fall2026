@@ -14,9 +14,11 @@ summary: >-
   plus risk assessments; Sustainable Procurement on total strengths (6+ for
   100). Practical target: at least one strength per activated criterion, four
   or more across the majority.
+description: "Measures scoring rests on strengths per activated criterion: 100/100 needs four or more per criterion and coverage above 65%."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [general]
 topics: [methodologie, preuves]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [understanding-the-ecovadis-scorecard, improve-your-ecovadis-score-fast]

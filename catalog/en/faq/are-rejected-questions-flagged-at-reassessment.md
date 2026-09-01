@@ -12,9 +12,11 @@ summary: >-
   of Your Answers section in the published scorecard (document-level status
   per question). Unanswered questions are flagged directly in the
   questionnaire.
+description: "No: rejected documents are not flagged in the questionnaire. Two tools fill the gap: the Corrective Action Plan and the Analysis of Your Answers."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [plateforme, questionnaire]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [improve-your-ecovadis-score-fast, understanding-the-ecovadis-scorecard]

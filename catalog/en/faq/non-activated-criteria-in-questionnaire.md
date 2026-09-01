@@ -11,9 +11,11 @@ summary: >-
   company profile; questions on non-activated criteria may stay visible, but
   evidence uploaded against them is assessed as irrelevant and does not
   contribute to the score.
+description: "EcoVadis starts from a universal template and activates only your profile's criteria: evidence uploaded elsewhere is assessed as irrelevant."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [questionnaire, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-activated-criteria-by-sector]

@@ -15,9 +15,11 @@ summary: >-
   continue percentielcompetitie, hogere rapporteringstransparantie (publiek
   rapport, 85% KPI-dekking), striktere bewijsherkomst, en een risico van 3 tot
   5 jaar medaille-onverkiesbaarheid via 360° Watch.
+description: "Badges en percentielmedailles in 2024, de XL-categorie in 2025, materialiteit in 2026: drie jaar wijzigingen die Brons moeilijker maken."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [rising-bar, medailles-percentiles, methodologie, 360-watch, vsme-csrd]
 ecovadis_questions: []
@@ -31,6 +33,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [rising-bar-strengere-normen-2026, externe-klimaatrisicos-env7003, milieuverstoringen-aanpakken-env7012, van-committed-badge-naar-brons]

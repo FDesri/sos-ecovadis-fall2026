@@ -13,9 +13,11 @@ summary: >-
   non dangereux et valorisés (kg). L'essentiel du travail n'est pas de trouver
   les chiffres mais d'arbitrer les divergences entre sources (factures, bilan
   carbone, déclarations réglementaires) pour charger des preuves défendables.
+description: "Énergie, eau, polluants, déchets : les indicateurs chiffrés que le thème Environnement d'EcoVadis attend, avec leurs unités et leur périmètre."
 situations: [S1, S2]
 sizes: [S]
 content_kind: reporting
+intent: mettre-en-oeuvre
 themes: [environment]
 topics: [environnement, preuves, questionnaire]
 ecovadis_questions: [ENV600, ENV630, ENV6332]
@@ -29,6 +31,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [indicateurs-sociaux-rh-a-collecter, ecovadis-et-bilan-ges-de-base, gestion-des-dechets-env3549, soumissions-ecovadis-solides-et-regulieres]

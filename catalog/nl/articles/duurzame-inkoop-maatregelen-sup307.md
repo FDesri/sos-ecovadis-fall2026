@@ -17,9 +17,11 @@ summary: >-
   evaluatie), de grens met SUP600 (KPI's), en drie correcties vóór het
   opladen: placeholder invullen, consequentieclausule toevoegen aan de
   gedragscode, ontbrekend maar gerefereerd inkoopbeleid opstellen.
+description: "SUP307 beoordeelt negen deelacties Duurzame Inkoop. Gouden regel: vink alleen aan wat een specifiek document echt kan bewijzen."
 situations: [S1, S2]
 sizes: [S]
 content_kind: actions
+intent: mettre-en-oeuvre
 themes: [sustainable-procurement]
 topics: [achats-responsables, preuves, questionnaire]
 ecovadis_questions: [SUP307, SUP600]
@@ -33,6 +35,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [duurzame-inkoop-waar-beginnen, leveranciersengagement-programmas, grondstoffen-en-chemicalien-env3522]

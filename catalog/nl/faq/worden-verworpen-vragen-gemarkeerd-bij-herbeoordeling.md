@@ -12,9 +12,11 @@ summary: >-
   Analyse van uw antwoorden in de gepubliceerde scorecard (status per document
   per vraag). Onbeantwoorde vragen worden wel rechtstreeks in de vragenlijst
   gemarkeerd.
+description: "Nee: verworpen documenten worden niet gemarkeerd in de vragenlijst. Twee tools vullen dat aan: het corrigerend actieplan en de antwoordanalyse."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
+intent: comprendre
 themes: [general]
 topics: [plateforme, questionnaire]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2027-02-27
 version: 1
 status: review
 related: [ecovadis-score-snel-verbeteren, de-ecovadis-scorecard-begrijpen]

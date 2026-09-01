@@ -17,9 +17,11 @@ summary: >-
   les objectifs Scope 3 catégorie 1. Les programmes calent pour des raisons
   de conception, pas de technologie : seuls 26 % des acheteurs couvrent plus
   de la moitié de leurs dépenses adressables avec des notations ESG tierces.
+description: "Segmenter avant d'inviter, fixer des exigences ancrées dans une base de référence, mesurer : concevoir un programme d'engagement fournisseurs qui tient."
 situations: [S1, S2]
 sizes: [S]
 content_kind: methodology
+intent: mettre-en-oeuvre
 themes: [sustainable-procurement]
 topics: [achats-responsables, methodologie, donneur-d-ordres, vsme-csrd, carbone-ghg]
 ecovadis_questions: []
@@ -33,6 +35,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [achats-responsables-par-ou-commencer, mesures-achats-responsables-sup307, enseignements-ecovadis-sustain-2026]

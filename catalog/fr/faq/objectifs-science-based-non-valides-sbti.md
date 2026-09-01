@@ -11,9 +11,11 @@ summary: >-
   et génère une fiche Carbone séparée (Insufficient à Leader) — mais ces
   questions ne contribuent actuellement ni au score global ni à l'éligibilité
   aux médailles.
+description: "La section Carbone couvre les objectifs et le statut SBTi et produit une fiche Carbone séparée, sans contribuer pour l'instant au score global."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: verifier
 themes: [environment]
 topics: [carbone-ghg, methodologie]
 ecovadis_questions: []
@@ -27,6 +29,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-et-bilan-ges-de-base]

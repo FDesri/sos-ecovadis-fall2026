@@ -12,9 +12,11 @@ summary: >-
   group improves faster: a 72/100 that earned Silver may now sit at the top of
   Bronze. Maintaining rather than improving puts the medal tier under
   pressure.
+description: "Your absolute score does not fall — it depends only on your evidence. It is your relative position, and so your medal, that can change."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
+intent: comprendre
 themes: [general]
 topics: [medailles-percentiles, rising-bar]
 ecovadis_questions: []
@@ -28,6 +30,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [ecovadis-rising-standards-2026, why-keeping-a-bronze-medal-is-harder]

@@ -14,9 +14,11 @@ summary: >-
   dekkingsvermenigvuldiger, rapportering (14%) en 360° Watch (21%). Op welk
   maturiteitsniveau u ook staat — beginner, gevorderd of expert — de scorecard
   dient meteen als routekaart voor continue verbetering.
+description: "Los van de vraag van een klant bouwt EcoVadis een duurzaamheidsmanagementsysteem op via het model Beleid-Acties-Resultaten, gewogen 25/40/35."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
+intent: choisir
 themes: [general]
 topics: [methodologie, medailles-percentiles]
 ecovadis_questions: []
@@ -30,6 +32,7 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
+review_due: 2026-11-27
 version: 1
 status: review
 related: [de-ecovadis-scorecard-begrijpen, ecovadis-essentials-gids, scorecard-lezen-delen-optimaliseren, van-committed-badge-naar-brons]
