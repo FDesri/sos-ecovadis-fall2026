@@ -35,8 +35,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-08-27
 version: 1
-status: review
-related: [volledige-ecovadis-begeleiding, ecovadis-expertadvies-dagen, francois-dequenne]
+status: published
+related: [volledige-ecovadis-begeleiding, francois-dequenne]
 faq:
   - q: "Wat gebeurt er als de afgesproken medaille niet wordt gehaald?"
     a: "Dan is het saldo niet verschuldigd, en blijft ESG Interim Management u zonder bijkomende kosten begeleiden tot uw volgende beoordeling, 12 maanden later."

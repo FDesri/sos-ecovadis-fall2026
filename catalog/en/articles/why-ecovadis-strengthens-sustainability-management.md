@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [understanding-the-ecovadis-scorecard, ecovadis-essentials-guide, read-share-maximise-your-ecovadis-scorecard, from-committed-badge-to-bronze]
 faq:
   - q: "Can a small business complete the EcoVadis assessment?"

@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [lire-partager-optimiser-sa-fiche-devaluation, criteres-actives-ecovadis-par-secteur, du-badge-committed-a-la-medaille-bronze, guide-essentiel-ecovadis]
 faq:
   - q: "EcoVadis note-t-il des résultats ou des systèmes de gestion ?"

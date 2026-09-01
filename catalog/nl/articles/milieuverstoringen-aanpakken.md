@@ -3,9 +3,9 @@ id: kb-0033
 type: article
 lang: nl
 source_lang: fr
-translation_of: perturbations-environnementales-env7012
-title: "Welke acties tegen externe milieuverstoringen? (ENV7012)"
-slug: milieuverstoringen-aanpakken-env7012
+translation_of: perturbations-environnementales
+title: "Welke acties tegen externe milieuverstoringen?"
+slug: milieuverstoringen-aanpakken
 summary: >-
   ENV7012 vraagt bewijs van twee families van acties: adaptieve praktijken die
   in de operaties zijn geïntegreerd (protocollen bij hittegolf of storm,
@@ -34,15 +34,14 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [externe-klimaatrisicos-env7003, milieu-indicatoren-verzamelen, methodologie-updates-q2-2026]
+status: published
+related: [externe-klimaatrisicos, milieu-indicatoren-verzamelen, methodologie-updates-q2-2026]
 faq:
   - q: "Telt ENV7012 mee voor de score?"
     a: "Nee. Net als ENV7003 heeft deze vraag geen impact op de score, maar de sterktes en verbeterpunten die uit de aangeleverde bewijsstukken worden afgeleid, verschijnen op de scorecard."
 ---
 
-# Welke acties tegen externe milieuverstoringen? (ENV7012)
-
+# Welke acties tegen externe milieuverstoringen?
 ## In het kort
 
 [ENV7012](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) trekt de klimaatrisicobeoordeling (ENV7003) door naar het terrein van de **acties**: wat doet de onderneming concreet om milieuverstoringen te weerstaan? Twee families van bewijs worden verwacht — adaptieve praktijken die in de operaties geïntegreerd zijn, en noodreserves of vangnetten. Geen impact op de score, maar zichtbaar op de scorecard.

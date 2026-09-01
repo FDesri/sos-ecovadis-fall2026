@@ -4,8 +4,8 @@ type: article
 lang: fr
 source_lang: fr
 translation_of: null
-title: "Comment gérer ses matières premières et produits chimiques ? (ENV3522)"
-slug: matieres-premieres-produits-chimiques-env3522
+title: "Comment gérer ses matières premières et produits chimiques ?"
+slug: matieres-premieres-produits-chimiques
 summary: >-
   La question ENV3522 évalue neuf sous-actions, de l'optimisation des process
   à la substitution de substances dangereuses. Un cas réel anonymisé
@@ -37,8 +37,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [gestion-des-dechets-env3549, indicateurs-environnementaux-a-collecter, guide-essentiel-ecovadis]
+status: published
+related: [gestion-des-dechets, indicateurs-environnementaux-a-collecter, guide-essentiel-ecovadis]
 faq:
   - q: "Peut-on réutiliser les documents fournisseurs (VACCP, code de conduite) dans ENV3522 ?"
     a: "Non. EcoVadis les attend dans le thème Achats Responsables ; les compter deux fois n'ajoute rien. ENV3522 vise la gestion des matières et substances dans vos propres opérations."
@@ -48,8 +48,7 @@ faq:
     a: "La preuve de formation à la gestion des substances dangereuses : une demi-journée sur les FIS solvants avec liste d'émargement signée fait passer la sous-action au vert."
 ---
 
-# Comment gérer ses matières premières et produits chimiques ? (ENV3522)
-
+# Comment gérer ses matières premières et produits chimiques ?
 ## En bref
 
 ENV3522 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre pour gérer les matières premières et les produits chimiques ? » — neuf sous-actions. Comme pour les déchets (ENV3549), l'essentiel des preuves existe déjà dans un dossier industriel : procédures, fiches d'information sécurité, registres de collecteurs, certificats. Le travail consiste à relier chaque document à la bonne sous-action, à identifier les vrais trous, et à ne pas gaspiller des preuves attendues ailleurs dans le questionnaire.

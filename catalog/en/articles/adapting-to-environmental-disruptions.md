@@ -3,9 +3,9 @@ id: kb-0033
 type: article
 lang: en
 source_lang: fr
-translation_of: perturbations-environnementales-env7012
-title: "What actions against external environmental disruptions? (ENV7012)"
-slug: adapting-to-environmental-disruptions-env7012
+translation_of: perturbations-environnementales
+title: "What actions against external environmental disruptions?"
+slug: adapting-to-environmental-disruptions
 summary: >-
   ENV7012 asks for evidence of two families of actions: adaptive practices
   integrated into operations (heatwave or storm protocols, drought management,
@@ -33,15 +33,14 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [external-climate-risk-assessment-env7003, environmental-indicators-to-collect, ecovadis-methodology-updates-q2-2026]
+status: published
+related: [external-climate-risk-assessment, environmental-indicators-to-collect, ecovadis-methodology-updates-q2-2026]
 faq:
   - q: "Does ENV7012 count towards the score?"
     a: "No. Like ENV7003, this question has no impact on the score, but the strengths and improvement areas identified from the evidence provided appear on the scorecard."
 ---
 
-# What actions against external environmental disruptions? (ENV7012)
-
+# What actions against external environmental disruptions?
 ## In brief
 
 [ENV7012](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) extends the climate risk assessment (ENV7003) into the territory of **actions**: what does the company concretely do to withstand environmental disruptions? Two families of evidence are expected — adaptive practices integrated into operations, and emergency reserves or safety nets. No impact on the score, but visible on the scorecard.

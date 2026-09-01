@@ -4,8 +4,8 @@ type: article
 lang: fr
 source_lang: fr
 translation_of: null
-title: "Que peut-on faire de mieux pour gérer ses déchets ? (ENV3549)"
-slug: gestion-des-dechets-env3549
+title: "Que peut-on faire de mieux pour gérer ses déchets ?"
+slug: gestion-des-dechets
 summary: >-
   La question ENV3549 évalue cinq sous-actions : réduction interne des déchets
   (réutilisation, récupération, recyclage), formation des employés au tri, tri
@@ -36,8 +36,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [indicateurs-environnementaux-a-collecter, matieres-premieres-produits-chimiques-env3522, guide-essentiel-ecovadis]
+status: published
+related: [indicateurs-environnementaux-a-collecter, matieres-premieres-produits-chimiques, guide-essentiel-ecovadis]
 faq:
   - q: "EcoVadis pardonne-t-il une tendance déchets défavorable ?"
     a: "Oui, si elle est commentée ET assortie d'un objectif chiffré. Une hausse des déchets dangereux sera lue comme une dégradation ; un objectif du type « −10 % kg/t d'ici 2028 » inscrit dans la politique environnementale change la lecture de tout le dossier."
@@ -45,8 +45,7 @@ faq:
     a: "La formation au tri : une toolbox d'une demi-heure avec liste d'émargement signée suffit à couvrir la sous-action « formation des employés » — souvent le seul trou béant d'un dossier par ailleurs solide."
 ---
 
-# Que peut-on faire de mieux pour gérer ses déchets ? (ENV3549)
-
+# Que peut-on faire de mieux pour gérer ses déchets ?
 ## En bref
 
 ENV3549 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre pour gérer les déchets ? » — cinq sous-actions à documenter. La plupart des PME industrielles ont déjà l'essentiel (procédures, registres de collecteurs, certificats) ; le travail consiste à relier chaque document à la bonne sous-action, à combler le trou récurrent de la formation, et à purger les contradictions entre documents avant de charger.

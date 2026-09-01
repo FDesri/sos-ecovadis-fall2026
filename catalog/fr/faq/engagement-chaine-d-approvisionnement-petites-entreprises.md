@@ -34,8 +34,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [mesures-achats-responsables-sup307, achats-responsables-par-ou-commencer]
+status: published
+related: [mesures-achats-responsables, achats-responsables-par-ou-commencer]
 ---
 
 # Comment EcoVadis évalue-t-il l'engagement de la chaîne d'approvisionnement pour les petites entreprises ?

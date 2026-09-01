@@ -38,7 +38,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [rising-bar-exigences-croissantes-2026, pourquoi-la-medaille-bronze-est-plus-difficile, criteres-actives-ecovadis-par-secteur, comprendre-la-fiche-devaluation-ecovadis]
 faq:
   - q: "Un score de 65 suffisait pour l'Argent — pourquoi plus maintenant ?"
@@ -70,7 +70,7 @@ Le score moyen mondial monte : ~40 points en 2011, 44 en 2016, 50 franchis en 20
 
 | Médaille | Score indicatif (juillet 2024) | Évolution prévue (2026) |
 |---|---|---|
-| Platine | ~84-85 | > 85 |
+| Platine | ~86 | > 85 |
 | Or | ~73 | ~75 |
 | Argent | ~66 | ~72 |
 | Bronze | ~58 | ~65 |

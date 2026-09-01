@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [wat-verandert-in-2026, rising-bar-strengere-normen-2026, ecovadis-en-co2-nulmeting]
 faq:
   - q: "Veranderen de nieuwe Scope 2-doelopties mijn score?"

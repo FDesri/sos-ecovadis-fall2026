@@ -35,8 +35,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [du-badge-committed-a-la-medaille-bronze, de-l-argent-a-l-or, guide-essentiel-ecovadis, rising-bar-exigences-croissantes-2026, achats-responsables-par-ou-commencer, jours-de-conseil-expert-ecovadis]
+status: published
+related: [du-badge-committed-a-la-medaille-bronze, de-l-argent-a-l-or, guide-essentiel-ecovadis, rising-bar-exigences-croissantes-2026, achats-responsables-par-ou-commencer]
 faq:
   - q: "Quel score faut-il pour une médaille Argent EcoVadis ?"
     a: "Il n'y a pas de seuil fixe : depuis janvier 2024, les médailles sont attribuées par percentile. L'Argent revient au top 15 % des entreprises évaluées sur les 12 derniers mois, ce qui correspond en mai 2026 à un score d'environ 73/100 (données portefeuille ESGIM — indicatives, pas un objectif officiel EcoVadis)."

@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [environmental-indicators-to-collect, ecovadis-methodology-updates-q2-2026, improve-your-ecovadis-score-fast, from-bronze-to-silver]
 faq:
   - q: "What GHG data does EcoVadis ask for?"

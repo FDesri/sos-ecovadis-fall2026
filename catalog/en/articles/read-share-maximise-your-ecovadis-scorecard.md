@@ -34,7 +34,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [understanding-the-ecovadis-scorecard, improve-your-ecovadis-score-fast, from-committed-badge-to-bronze, how-much-does-ecovadis-support-cost]
 faq:
   - q: "What do customers use your EcoVadis score for?"

@@ -38,8 +38,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [achats-responsables-par-ou-commencer, mesures-achats-responsables-sup307, enseignements-ecovadis-sustain-2026]
+status: published
+related: [achats-responsables-par-ou-commencer, mesures-achats-responsables, enseignements-ecovadis-sustain-2026]
 faq:
   - q: "Pourquoi les programmes d'engagement fournisseurs calent-ils ?"
     a: "Pour les mêmes raisons de conception : invitations envoyées sans contexte, seuils de score fixés sans connaître le point de départ, absence de développement des capacités, et pas de bande passante interne pour le suivi. C'est un problème de conception de programme, pas de technologie — seuls 26 % des acheteurs couvrent plus de la moitié de leurs dépenses adressables avec des notations ESG tierces."

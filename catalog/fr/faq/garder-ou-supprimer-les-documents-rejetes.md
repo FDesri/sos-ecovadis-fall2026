@@ -31,7 +31,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
+status: published
 related: [soumissions-ecovadis-solides-et-regulieres]
 ---
 

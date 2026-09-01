@@ -34,8 +34,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [wat-kost-ecovadis-begeleiding, ecovadis-expertadvies-dagen, francois-dequenne]
+status: published
+related: [wat-kost-ecovadis-begeleiding, francois-dequenne]
 faq:
   - q: "Wie doet het werk — mijn team of het uwe?"
     a: "ESGIM-experts zijn interim managers, geen adviseurs op afstand: ze werken op locatie met uw teams en nemen het werk van uw bureau weg."

@@ -13,7 +13,7 @@ summary: >-
   de documentregels (logo + datum, 8 jaar geldigheid voor beleid, 2 jaar voor
   KPI's en audits, geen document jonger dan 2 maanden vóór de beoordeling, 55
   nieuwe bestanden per jaar), mik op de rapporteringsscore (publiek rapport of
-  plafond op 50/100, 85% KPI-dekking, uitsplitsing per entiteit) en anticipeer
+  plafond op 50/100; 85% KPI-dekking voor Goud en Platinum, uitsplitsing per entiteit) en anticipeer
   op materialiteit en de 360° Watch.
 description: "Vijf families veldgeteste EcoVadis-tips: het team organiseren, de scope afbakenen, deadlines respecteren, alles bewijzen, nalezen vóór indiening."
 situations: [S1, S2, S3]
@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [ecovadis-essentials-gids, bewijsstukken-voor-xs-ondernemingen, rising-bar-strengere-normen-2026, wat-verandert-in-2026]
 faq:
   - q: "Wordt een document dat vlak vóór de beoordeling is gemaakt aanvaard?"
@@ -85,7 +85,7 @@ Vijf families van tips bundelen het gros van de terreinervaring: de teamorganisa
 
 **Publiceer een publiek duurzaamheidsrapport:** KPI's op de website zetten levert geen punten meer op. EcoVadis eist KPI's geïntegreerd in een **publiek toegankelijk jaar- of duurzaamheidsrapport**, anders wordt de rapporteringsscore afgetopt op **50/100**. De redactie duurt doorgaans **3 tot 4 maanden** — ruim op voorhand te starten.
 
-**Mik op 85% KPI-dekking:** voor de maximumscore op de thema's Milieu en Arbeids- en Mensenrechten moet minstens **85% van de geactiveerde criteria** door gedocumenteerde KPI's gedekt zijn.
+**Mik op 85% KPI-dekking:** voor de maximumscore op de thema's Milieu en Arbeids- en Mensenrechten — het niveau dat op Goud en Platinum wordt verwacht moet minstens **85% van de geactiveerde criteria** door gedocumenteerde KPI's gedekt zijn.
 
 **Splits de gegevens van dochters uit:** bij een beoordeling op entiteitsniveau wordt een geconsolideerd groepsrapport alleen aanvaard als KPI's en data **expliciet per entiteit zijn uitgesplitst**.
 
@@ -102,5 +102,5 @@ Vijf families van tips bundelen het gros van de terreinervaring: de teamorganisa
 - Eén ambassadeur + één expert per thema: de organisatie is de halve score.
 - Scope afgestemd op de echte governance; overnames gemeld (respijtperiode van één jaar).
 - Documentdiscipline: logo + datum, geldigheid 8 jaar / 2 jaar, niets jonger dan 2 maanden, 55 bestanden per jaar.
-- Rapportering: publiek rapport verplicht om boven 50/100 te raken, 85% KPI-dekking, uitsplitsing per entiteit.
+- Rapportering: publiek rapport verplicht om boven 50/100 te raken; 85% KPI-dekking op Goud- en Platinumniveau; uitsplitsing per entiteit.
 - Anticipeer: materialiteitsanalyse klaar, Live News in de gaten.

@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
+status: published
 related: [environmental-indicators-to-collect, evidence-templates-diversity-corruption-child-labour, build-strong-ecovadis-submissions-consistently]
 faq:
   - q: "Where do you find these figures in a Belgian SME?"

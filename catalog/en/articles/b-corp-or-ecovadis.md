@@ -9,7 +9,7 @@ slug: b-corp-or-ecovadis
 summary: >-
   Both are document-based, tailored, continuous-improvement assessments — but
   they measure different things: EcoVadis rates your sustainability management
-  system (130,000+ companies rated, tiered medals, annual cycle, 4-6 months);
+  system (150,000+ companies rated, tiered medals, annual cycle, 4-6 months);
   B Corp certifies your overall impact and business model (about 9,000 B Corps,
   80-point minimum, articles-of-association addendum, 9-24 months,
   recertification every 3 years). Rule of thumb: an EcoVadis Silver company
@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [understanding-the-ecovadis-scorecard, why-ecovadis-strengthens-sustainability-management, self-assessment-vs-expert-guidance, from-bronze-to-silver]
 faq:
   - q: "When is a company ready for B Corp?"
@@ -60,9 +60,9 @@ Under growing scrutiny from regulators, stakeholders and customers, certificatio
 
 ## What are the key differences?
 
-**Reach.** EcoVadis is one of the most widely used corporate sustainability ratings, with more than 130,000 companies assessed worldwide; there are only around 9,000 B Corps globally.
+**Reach.** EcoVadis is one of the most widely used corporate sustainability ratings, with more than 150,000 companies assessed worldwide; there are only around 9,000 B Corps globally.
 
-**Accessibility.** A wider range of industries is eligible for an EcoVadis rating; B Corp is more restricted due to industry risk considerations. B Corp requires a **minimum of 80 points**; EcoVadis operates a tiered approach (Bronze, Silver, Gold, Platinum) recognising different levels of progress.
+**Accessibility.** A wider range of industries is eligible for an EcoVadis rating; B Corp is more restricted due to industry risk considerations. B Corp requires a **minimum of 80 points**. A company that has reached EcoVadis Silver (73/100) has the management maturity to start a B Corp process; EcoVadis operates a tiered approach (Bronze, Silver, Gold, Platinum) recognising different levels of progress.
 
 **Scope of the assessment.** The main difference: **EcoVadis evaluates the sustainability management system; B Corp assesses the company's impact** through its operations and business model. B Corp also requires an addendum to the articles of association stating that the company weighs the interests of the environment, society and financial performance equally — protecting the mission through organisational changes.
 
@@ -89,7 +89,7 @@ Choose the pathway that matches your position on the sustainability maturity cur
 ## Key takeaways
 
 - Same family, different objects: EcoVadis rates the management system; B Corp certifies the impact and the business model.
-- EcoVadis is broader and tiered (130,000+ rated companies); B Corp is selective (80-point minimum, ~9,000 companies, statutory mission lock).
+- EcoVadis is broader and tiered (150,000+ rated companies); B Corp is selective (80-point minimum, ~9,000 companies, statutory mission lock).
 - Timelines differ sharply: 4-6 months annually versus 9-24 months every three years.
 - The two are complementary: EcoVadis for supply chain and finance, B Corp for consumer credibility and community.
 - Maturity rule of thumb: EcoVadis Silver = ready to start B Corp.

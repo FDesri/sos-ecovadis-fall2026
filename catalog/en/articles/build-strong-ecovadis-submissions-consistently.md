@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [ecovadis-essentials-guide, improve-your-ecovadis-score-fast, ecovadis-rising-standards-2026, full-ecovadis-support-mission]
 faq:
   - q: "Why isn't one good submission enough?"

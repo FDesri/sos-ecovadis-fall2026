@@ -37,7 +37,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [rising-bar-exigences-croissantes-2026, evolutions-methodologiques-t2-2026, comprendre-la-fiche-devaluation-ecovadis, soumissions-ecovadis-solides-et-regulieres]
 faq:
   - q: "Qu'est-ce qui change chez EcoVadis en 2026 ?"

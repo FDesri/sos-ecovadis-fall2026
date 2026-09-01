@@ -3,9 +3,9 @@ id: kb-0034
 type: article
 lang: nl
 source_lang: fr
-translation_of: matieres-premieres-produits-chimiques-env3522
-title: "Hoe beheert u uw grondstoffen en chemicaliën? (ENV3522)"
-slug: grondstoffen-en-chemicalien-env3522
+translation_of: matieres-premieres-produits-chimiques
+title: "Hoe beheert u uw grondstoffen en chemicaliën?"
+slug: grondstoffen-en-chemicalien
 summary: >-
   Vraag ENV3522 beoordeelt negen deelacties, van procesoptimalisatie tot de
   vervanging van gevaarlijke stoffen. Een geanonimiseerd reëel geval (Waalse
@@ -37,8 +37,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [afvalbeheer-env3549, milieu-indicatoren-verzamelen, ecovadis-essentials-gids]
+status: published
+related: [afvalbeheer, milieu-indicatoren-verzamelen, ecovadis-essentials-gids]
 faq:
   - q: "Mag u leveranciersdocumenten (VACCP, gedragscode) hergebruiken in ENV3522?"
     a: "Nee. EcoVadis verwacht ze onder het thema Duurzame Inkoop; ze twee keer meetellen voegt niets toe. ENV3522 gaat over het beheer van materialen en stoffen in uw eigen activiteiten."
@@ -48,8 +48,7 @@ faq:
     a: "Het opleidingsbewijs over het veilige beheer van gevaarlijke stoffen: een halve dag over de veiligheidsfiches van de solventen met een ondertekende aanwezigheidslijst zet de deelactie op groen."
 ---
 
-# Hoe beheert u uw grondstoffen en chemicaliën? (ENV3522)
-
+# Hoe beheert u uw grondstoffen en chemicaliën?
 ## In het kort
 
 ENV3522 vraagt: "Welke acties heeft uw onderneming ingevoerd om grondstoffen en chemicaliën te beheren?" — negen deelacties. Zoals bij afval (ENV3549) bestaat het meeste bewijs al in een industrieel dossier: procedures, veiligheidsinformatiefiches, registers van ophalers, certificaten. Het werk bestaat erin elk document aan de juiste deelactie te koppelen, de echte gaten te identificeren en geen bewijs te verspillen dat elders in de vragenlijst wordt verwacht.

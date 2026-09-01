@@ -14,8 +14,8 @@
   "fr",
   "nl"
  ],
- "object_count": 106,
- "published_count": 0,
+ "object_count": 105,
+ "published_count": 101,
  "sources": {
   "ecovadis-methodology": {
    "title": "EcoVadis Ratings Methodology — Overview and Principles",
@@ -176,11 +176,10 @@
     "fr": "https://sos-ecovadis.com/fr/sujets/methodologie-ecovadis/",
     "nl": "https://sos-ecovadis.com/nl/onderwerpen/ecovadis-methodologie/"
    },
-   "member_count": 71,
+   "member_count": 70,
    "members": [
     "kb-0002",
     "kb-0003",
-    "kb-0004",
     "kb-0005",
     "kb-0006",
     "kb-0010",
@@ -690,32 +689,6 @@
    ]
   },
   {
-   "id": "tarifs",
-   "slug": {
-    "fr": "tarifs-et-budget",
-    "nl": "tarieven-en-budget",
-    "en": "pricing-and-budget"
-   },
-   "title": {
-    "fr": "Combien coûte une démarche EcoVadis ?",
-    "nl": "Wat kost een EcoVadis-traject?",
-    "en": "What does an EcoVadis programme cost?"
-   },
-   "url": {
-    "en": "https://sos-ecovadis.com/en/topics/pricing-and-budget/",
-    "fr": "https://sos-ecovadis.com/fr/sujets/tarifs-et-budget/",
-    "nl": "https://sos-ecovadis.com/nl/onderwerpen/tarieven-en-budget/"
-   },
-   "member_count": 5,
-   "members": [
-    "kb-0001",
-    "kb-0003",
-    "kb-0004",
-    "kb-0006",
-    "kb-0025"
-   ]
-  },
-  {
    "id": "donneur-d-ordres",
    "slug": {
     "fr": "exigences-des-donneurs-d-ordres",
@@ -765,13 +738,38 @@
     "kb-0038",
     "kb-0148"
    ]
+  },
+  {
+   "id": "tarifs",
+   "slug": {
+    "fr": "tarifs-et-budget",
+    "nl": "tarieven-en-budget",
+    "en": "pricing-and-budget"
+   },
+   "title": {
+    "fr": "Combien coûte une démarche EcoVadis ?",
+    "nl": "Wat kost een EcoVadis-traject?",
+    "en": "What does an EcoVadis programme cost?"
+   },
+   "url": {
+    "en": "https://sos-ecovadis.com/en/topics/pricing-and-budget/",
+    "fr": "https://sos-ecovadis.com/fr/sujets/tarifs-et-budget/",
+    "nl": "https://sos-ecovadis.com/nl/onderwerpen/tarieven-en-budget/"
+   },
+   "member_count": 4,
+   "members": [
+    "kb-0001",
+    "kb-0003",
+    "kb-0006",
+    "kb-0025"
+   ]
   }
  ],
  "objects": [
   {
    "id": "kb-0001",
    "type": "pricing",
-   "status": "review",
+   "status": "published",
    "intent": "choisir",
    "situations": [
     "S1",
@@ -826,12 +824,11 @@
       "EcoVadis reassessment cost"
      ],
      "path": "catalog/en/pricing/how-much-does-ecovadis-support-cost.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/pricing/how-much-does-ecovadis-support-cost/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
       "full-ecovadis-support-mission",
-      "ecovadis-expert-advice-days",
       "francois-dequenne"
      ],
      "relations": {},
@@ -862,12 +859,11 @@
       "coût réévaluation EcoVadis"
      ],
      "path": "catalog/fr/pricing/combien-coute-un-accompagnement-ecovadis.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/tarifs/combien-coute-un-accompagnement-ecovadis/",
      "source_lang": "en",
      "translation_of": "how-much-does-ecovadis-support-cost",
      "related": [
       "accompagnement-ecovadis-complet",
-      "jours-de-conseil-expert-ecovadis",
       "francois-dequenne"
      ],
      "relations": {},
@@ -899,12 +895,11 @@
       "herbeoordeling kosten"
      ],
      "path": "catalog/nl/pricing/wat-kost-ecovadis-begeleiding.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/tarieven/wat-kost-ecovadis-begeleiding/",
      "source_lang": "en",
      "translation_of": "how-much-does-ecovadis-support-cost",
      "related": [
       "volledige-ecovadis-begeleiding",
-      "ecovadis-expertadvies-dagen",
       "francois-dequenne"
      ],
      "relations": {},
@@ -925,7 +920,7 @@
   {
    "id": "kb-0002",
    "type": "expert",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -975,7 +970,7 @@
       "ESG Interim Management"
      ],
      "path": "catalog/en/experts/francois-dequenne.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/experts/francois-dequenne/",
      "source_lang": "fr",
      "translation_of": "francois-dequenne",
      "related": [
@@ -999,7 +994,7 @@
       "ESG Interim Management"
      ],
      "path": "catalog/fr/experts/francois-dequenne.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/experts/francois-dequenne/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
@@ -1024,7 +1019,7 @@
       "kmo"
      ],
      "path": "catalog/nl/experts/francois-dequenne.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/experts/francois-dequenne/",
      "source_lang": "fr",
      "translation_of": "francois-dequenne",
      "related": [
@@ -1040,7 +1035,7 @@
   {
    "id": "kb-0003",
    "type": "service",
-   "status": "review",
+   "status": "published",
    "intent": "choisir",
    "situations": [
     "S1",
@@ -1097,12 +1092,11 @@
       "EcoVadis gap analysis"
      ],
      "path": "catalog/en/services/full-ecovadis-support-mission.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/services/full-ecovadis-support-mission/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
       "how-much-does-ecovadis-support-cost",
-      "ecovadis-expert-advice-days",
       "francois-dequenne"
      ],
      "relations": {},
@@ -1133,12 +1127,11 @@
       "gap analysis EcoVadis"
      ],
      "path": "catalog/fr/services/accompagnement-ecovadis-complet.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/services/accompagnement-ecovadis-complet/",
      "source_lang": "en",
      "translation_of": "full-ecovadis-support-mission",
      "related": [
       "combien-coute-un-accompagnement-ecovadis",
-      "jours-de-conseil-expert-ecovadis",
       "francois-dequenne"
      ],
      "relations": {},
@@ -1171,12 +1164,11 @@
       "mkb"
      ],
      "path": "catalog/nl/services/volledige-ecovadis-begeleiding.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/diensten/volledige-ecovadis-begeleiding/",
      "source_lang": "en",
      "translation_of": "full-ecovadis-support-mission",
      "related": [
       "wat-kost-ecovadis-begeleiding",
-      "ecovadis-expertadvies-dagen",
       "francois-dequenne"
      ],
      "relations": {},
@@ -1195,143 +1187,9 @@
    "parent_hub": "tarifs"
   },
   {
-   "id": "kb-0004",
-   "type": "service",
-   "status": "review",
-   "intent": "choisir",
-   "situations": [
-    "S1"
-   ],
-   "sizes": [
-    "XS",
-    "S"
-   ],
-   "content_kind": "general",
-   "themes": [
-    "general"
-   ],
-   "topics": [
-    "tarifs",
-    "methodologie"
-   ],
-   "ecovadis_questions": [],
-   "audience": [
-    "sustainability_lead",
-    "sme_owner"
-   ],
-   "author": "francois-dequenne",
-   "source": "esgim-proprietary",
-   "reliability": "expert-drafted",
-   "sources": [
-    "ecovadis-methodology",
-    "esgim-portfolio"
-   ],
-   "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
-   "hubs": [
-    "methodologie",
-    "tarifs"
-   ],
-   "languages": {
-    "en": {
-     "slug": "ecovadis-expert-advice-days",
-     "title": "EcoVadis expert analysis and advice: 1 to 3 remote days",
-     "summary": "For companies that already run EcoVadis internally and want to move up a medal (S1), ESGIM offers 1, 2 or 3 days of remote expert analysis and advice: €1,500 for one day, €2,850 for two, €3,750 for three. The expert reviews your scorecard and corrective action plan and prioritises the levers that move the score most for an SME.",
-     "description": "One to three days of remote EcoVadis expert advice, €1,500 to €3,750, for companies already running the assessment in-house.",
-     "keywords": [
-      "EcoVadis expert advice",
-      "EcoVadis scorecard review",
-      "EcoVadis day rate",
-      "EcoVadis coaching",
-      "move up EcoVadis medal",
-      "Bronze to Silver advice"
-     ],
-     "path": "catalog/en/services/ecovadis-expert-advice-days.md",
-     "canonical_url": null,
-     "source_lang": "en",
-     "translation_of": null,
-     "related": [
-      "how-much-does-ecovadis-support-cost",
-      "full-ecovadis-support-mission",
-      "francois-dequenne"
-     ],
-     "relations": {},
-     "faq": [
-      {
-       "q": "When is a full mission better than advice days?",
-       "a": "When nobody internally can carry the work: a full support mission (from audit to submission) is then priced at €9,000 for an XS and €10,000 for an S in an upgrade situation."
-      }
-     ]
-    },
-    "fr": {
-     "slug": "jours-de-conseil-expert-ecovadis",
-     "title": "Analyse et conseil expert EcoVadis : 1 à 3 journées à distance",
-     "summary": "Pour les entreprises qui gèrent déjà EcoVadis en interne et veulent monter d'une médaille (S1), ESGIM propose 1, 2 ou 3 journées d'analyse et de conseil expert à distance : 1 500 € la journée, 2 850 € les deux, 3 750 € les trois. L'expert passe en revue votre fiche d'évaluation (scorecard) et votre plan d'actions correctives, et priorise les leviers qui font le plus bouger le score d'une PME.",
-     "description": "Une à trois journées de conseil expert EcoVadis à distance, de 1 500 à 3 750 €, pour une entreprise qui gère déjà sa démarche en interne.",
-     "keywords": [
-      "conseil expert EcoVadis",
-      "revue scorecard EcoVadis",
-      "tarif journalier EcoVadis",
-      "coaching EcoVadis",
-      "monter de médaille EcoVadis",
-      "conseil Bronze vers Argent"
-     ],
-     "path": "catalog/fr/services/jours-de-conseil-expert-ecovadis.md",
-     "canonical_url": null,
-     "source_lang": "en",
-     "translation_of": "ecovadis-expert-advice-days",
-     "related": [
-      "combien-coute-un-accompagnement-ecovadis",
-      "accompagnement-ecovadis-complet",
-      "francois-dequenne"
-     ],
-     "relations": {},
-     "faq": [
-      {
-       "q": "Quand une mission complète vaut-elle mieux que des journées de conseil ?",
-       "a": "Quand personne en interne ne peut porter le travail : une mission d'accompagnement complet (de l'audit à la soumission) est alors facturée 9 000 € pour une XS et 10 000 € pour une S en situation de montée."
-      }
-     ]
-    },
-    "nl": {
-     "slug": "ecovadis-expertadvies-dagen",
-     "title": "EcoVadis-expertanalyse en -advies: 1 tot 3 dagen op afstand",
-     "summary": "Voor ondernemingen die EcoVadis al intern beheren en een medaille hoger willen (S1), biedt ESGIM 1, 2 of 3 dagen expertanalyse en -advies op afstand: 1.500 € voor één dag, 2.850 € voor twee, 3.750 € voor drie. De expert neemt uw scorecard en uw correctief actieplan door en prioriteert de hefbomen die de score van een kmo het meest doen bewegen.",
-     "description": "Eén tot drie dagen EcoVadis-expertadvies op afstand, van 1.500 tot 3.750 €, voor wie de beoordeling al intern beheert.",
-     "keywords": [
-      "EcoVadis expertadvies",
-      "EcoVadis scorecard review",
-      "dagtarief EcoVadis",
-      "EcoVadis coaching",
-      "medaille verbeteren EcoVadis",
-      "advies Brons naar Zilver",
-      "kmo",
-      "mkb"
-     ],
-     "path": "catalog/nl/services/ecovadis-expertadvies-dagen.md",
-     "canonical_url": null,
-     "source_lang": "en",
-     "translation_of": "ecovadis-expert-advice-days",
-     "related": [
-      "wat-kost-ecovadis-begeleiding",
-      "volledige-ecovadis-begeleiding",
-      "francois-dequenne"
-     ],
-     "relations": {},
-     "faq": [
-      {
-       "q": "Wanneer is een volledige missie beter dan adviesdagen?",
-       "a": "Wanneer niemand intern het werk kan dragen: een volledig begeleidingstraject (van audit tot indiening) kost in een upgradesituatie 9.000 € voor een XS en 10.000 € voor een S."
-      }
-     ]
-    }
-   },
-   "parent_hub": "tarifs"
-  },
-  {
    "id": "kb-0005",
    "type": "glossary",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -1392,7 +1250,7 @@
       "vertaling EcoVadis"
      ],
      "path": "catalog/glossary/glossaire-ecovadis-en-fr-nl.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/glossaire/",
      "source_lang": "mul",
      "translation_of": null,
      "related": [],
@@ -1405,7 +1263,7 @@
   {
    "id": "kb-0006",
    "type": "organization",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -1462,7 +1320,7 @@
       "Brussels"
      ],
      "path": "catalog/en/organization/esgim.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/about/",
      "source_lang": "fr",
      "translation_of": "esgim",
      "related": [
@@ -1491,7 +1349,7 @@
       "Watermael-Boitsfort"
      ],
      "path": "catalog/fr/organization/esgim.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/a-propos/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
@@ -1521,7 +1379,7 @@
       "Watermaal-Bosvoorde"
      ],
      "path": "catalog/nl/organization/esgim.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/over-ons/",
      "source_lang": "fr",
      "translation_of": "esgim",
      "related": [
@@ -1538,7 +1396,7 @@
   {
    "id": "kb-0010",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S3"
@@ -1596,7 +1454,7 @@
       "top 35 percent"
      ],
      "path": "catalog/en/articles/from-committed-badge-to-bronze.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/from-committed-badge-to-bronze/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -1633,7 +1491,7 @@
       "top 35 pourcent"
      ],
      "path": "catalog/fr/articles/du-badge-committed-a-la-medaille-bronze.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/du-badge-committed-a-la-medaille-bronze/",
      "source_lang": "en",
      "translation_of": "from-committed-badge-to-bronze",
      "related": [
@@ -1672,7 +1530,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/van-committed-badge-naar-brons.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/van-committed-badge-naar-brons/",
      "source_lang": "en",
      "translation_of": "from-committed-badge-to-bronze",
      "related": [
@@ -1700,7 +1558,7 @@
   {
    "id": "kb-0011",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -1760,7 +1618,7 @@
       "KPI reporting EcoVadis"
      ],
      "path": "catalog/en/articles/from-bronze-to-silver.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/from-bronze-to-silver/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -1768,8 +1626,7 @@
       "from-silver-to-gold",
       "ecovadis-essentials-guide",
       "ecovadis-rising-standards-2026",
-      "sustainable-procurement-where-to-start",
-      "ecovadis-expert-advice-days"
+      "sustainable-procurement-where-to-start"
      ],
      "relations": {},
      "faq": [
@@ -1800,7 +1657,7 @@
       "reporting KPI EcoVadis"
      ],
      "path": "catalog/fr/articles/de-bronze-a-argent.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/de-bronze-a-argent/",
      "source_lang": "en",
      "translation_of": "from-bronze-to-silver",
      "related": [
@@ -1808,8 +1665,7 @@
       "de-l-argent-a-l-or",
       "guide-essentiel-ecovadis",
       "rising-bar-exigences-croissantes-2026",
-      "achats-responsables-par-ou-commencer",
-      "jours-de-conseil-expert-ecovadis"
+      "achats-responsables-par-ou-commencer"
      ],
      "relations": {},
      "faq": [
@@ -1841,7 +1697,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/van-brons-naar-zilver.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/van-brons-naar-zilver/",
      "source_lang": "en",
      "translation_of": "from-bronze-to-silver",
      "related": [
@@ -1849,8 +1705,7 @@
       "van-zilver-naar-goud",
       "ecovadis-essentials-gids",
       "rising-bar-strengere-normen-2026",
-      "duurzame-inkoop-waar-beginnen",
-      "ecovadis-expertadvies-dagen"
+      "duurzame-inkoop-waar-beginnen"
      ],
      "relations": {},
      "faq": [
@@ -1870,7 +1725,7 @@
   {
    "id": "kb-0012",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -1925,14 +1780,13 @@
       "top EcoVadis performer"
      ],
      "path": "catalog/en/articles/from-silver-to-gold.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/from-silver-to-gold/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
       "from-bronze-to-silver",
       "ecovadis-rising-standards-2026",
-      "read-share-maximise-your-ecovadis-scorecard",
-      "ecovadis-expert-advice-days"
+      "read-share-maximise-your-ecovadis-scorecard"
      ],
      "relations": {},
      "faq": [
@@ -1962,14 +1816,13 @@
       "top performer EcoVadis"
      ],
      "path": "catalog/fr/articles/de-l-argent-a-l-or.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/de-l-argent-a-l-or/",
      "source_lang": "en",
      "translation_of": "from-silver-to-gold",
      "related": [
       "de-bronze-a-argent",
       "rising-bar-exigences-croissantes-2026",
-      "lire-partager-optimiser-sa-fiche-devaluation",
-      "jours-de-conseil-expert-ecovadis"
+      "lire-partager-optimiser-sa-fiche-devaluation"
      ],
      "relations": {},
      "faq": [
@@ -2000,14 +1853,13 @@
       "kmo"
      ],
      "path": "catalog/nl/articles/van-zilver-naar-goud.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/van-zilver-naar-goud/",
      "source_lang": "en",
      "translation_of": "from-silver-to-gold",
      "related": [
       "van-brons-naar-zilver",
       "rising-bar-strengere-normen-2026",
-      "scorecard-lezen-delen-optimaliseren",
-      "ecovadis-expertadvies-dagen"
+      "scorecard-lezen-delen-optimaliseren"
      ],
      "relations": {},
      "faq": [
@@ -2027,7 +1879,7 @@
   {
    "id": "kb-0013",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -2084,7 +1936,7 @@
       "EcoVadis assessment explained"
      ],
      "path": "catalog/en/articles/understanding-the-ecovadis-scorecard.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/understanding-the-ecovadis-scorecard/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -2122,7 +1974,7 @@
       "système de gestion de la durabilité"
      ],
      "path": "catalog/fr/articles/comprendre-la-fiche-devaluation-ecovadis.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/comprendre-la-fiche-devaluation-ecovadis/",
      "source_lang": "en",
      "translation_of": "understanding-the-ecovadis-scorecard",
      "related": [
@@ -2161,7 +2013,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/de-ecovadis-scorecard-begrijpen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/de-ecovadis-scorecard-begrijpen/",
      "source_lang": "en",
      "translation_of": "understanding-the-ecovadis-scorecard",
      "related": [
@@ -2188,7 +2040,7 @@
   {
    "id": "kb-0014",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -2246,7 +2098,7 @@
       "scorecard PDF"
      ],
      "path": "catalog/en/articles/read-share-maximise-your-ecovadis-scorecard.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/read-share-maximise-your-ecovadis-scorecard/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -2291,7 +2143,7 @@
       "PDF scorecard"
      ],
      "path": "catalog/fr/articles/lire-partager-optimiser-sa-fiche-devaluation.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/lire-partager-optimiser-sa-fiche-devaluation/",
      "source_lang": "en",
      "translation_of": "read-share-maximise-your-ecovadis-scorecard",
      "related": [
@@ -2338,7 +2190,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/scorecard-lezen-delen-optimaliseren.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/scorecard-lezen-delen-optimaliseren/",
      "source_lang": "en",
      "translation_of": "read-share-maximise-your-ecovadis-scorecard",
      "related": [
@@ -2373,7 +2225,7 @@
   {
    "id": "kb-0015",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -2432,14 +2284,14 @@
       "sector-specific gap analysis"
      ],
      "path": "catalog/en/articles/ecovadis-activated-criteria-by-sector.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/ecovadis-activated-criteria-by-sector/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
       "understanding-the-ecovadis-scorecard",
       "ecovadis-rising-standards-2026",
       "sustainable-procurement-where-to-start",
-      "raw-materials-and-chemicals-env3522"
+      "raw-materials-and-chemicals"
      ],
      "relations": {},
      "faq": [
@@ -2483,14 +2335,14 @@
       "gap analysis sectorielle"
      ],
      "path": "catalog/fr/articles/criteres-actives-ecovadis-par-secteur.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/criteres-actives-ecovadis-par-secteur/",
      "source_lang": "en",
      "translation_of": "ecovadis-activated-criteria-by-sector",
      "related": [
       "comprendre-la-fiche-devaluation-ecovadis",
       "rising-bar-exigences-croissantes-2026",
       "achats-responsables-par-ou-commencer",
-      "matieres-premieres-produits-chimiques-env3522"
+      "matieres-premieres-produits-chimiques"
      ],
      "relations": {},
      "faq": [
@@ -2535,14 +2387,14 @@
       "kmo"
      ],
      "path": "catalog/nl/articles/geactiveerde-criteria-per-sector.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/geactiveerde-criteria-per-sector/",
      "source_lang": "en",
      "translation_of": "ecovadis-activated-criteria-by-sector",
      "related": [
       "de-ecovadis-scorecard-begrijpen",
       "rising-bar-strengere-normen-2026",
       "duurzame-inkoop-waar-beginnen",
-      "grondstoffen-en-chemicalien-env3522"
+      "grondstoffen-en-chemicalien"
      ],
      "relations": {},
      "faq": [
@@ -2574,7 +2426,7 @@
   {
    "id": "kb-0016",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "choisir",
    "situations": [
     "S1",
@@ -2625,8 +2477,8 @@
     "en": {
      "slug": "ecovadis-rising-standards-2026",
      "title": "How hard is it to get a Bronze or Silver medal? EcoVadis' rising standards in 2026",
-     "summary": "The bar keeps rising: between July 2025 and July 2026 the indicative Silver threshold moved from 68 to 73/100 and Gold from 77 to 81. Uploading the same evidence as last year can leave you several points behind before the assessment even begins. The 2025 lessons: get the assessment scope right, meet the much higher reporting requirements (public report, 3 years of data, 85% KPI coverage), and use qualified audits where certifications are out of reach. 2026 brings materiality customisation, a refined 360° Watch and formal VSME recognition.",
-     "description": "Between July 2025 and July 2026 Silver moved from 68 to 73/100 and Gold from 77 to 81: the same evidence is worth less every year.",
+     "summary": "The bar keeps rising: between July 2025 and August 2026 the indicative Silver threshold moved from 68 to 73/100 and Gold from 77 to 81. Uploading the same evidence as last year can leave you several points behind before the assessment even begins. The 2025 lessons: get the assessment scope right, meet the much higher reporting requirements for Gold and Platinum (public report, 3 years of data, 85% KPI coverage), and use qualified audits where certifications are out of reach. 2026 brings materiality customisation, a refined 360° Watch and formal VSME recognition.",
+     "description": "Between July 2025 and August 2026 Silver moved from 68 to 73/100 and Gold from 77 to 81: the same evidence is worth less every year.",
      "keywords": [
       "Rising Bar",
       "EcoVadis thresholds 2026",
@@ -2640,7 +2492,7 @@
       "sustainability report EcoVadis"
      ],
      "path": "catalog/en/articles/ecovadis-rising-standards-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/ecovadis-rising-standards-2026/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -2665,8 +2517,8 @@
     "fr": {
      "slug": "rising-bar-exigences-croissantes-2026",
      "title": "Est-ce difficile d'obtenir une médaille Bronze ou Argent ? Les exigences croissantes d'EcoVadis en 2026",
-     "summary": "La barre ne cesse de monter : entre juillet 2025 et juillet 2026, le seuil indicatif de l'Argent est passé de 68 à 73/100 et l'Or de 77 à 81. Charger les mêmes preuves que l'an dernier peut vous laisser plusieurs points derrière votre objectif avant même le début de l'évaluation. Les leçons de 2025 : cadrer correctement le périmètre d'évaluation, répondre aux exigences de reporting nettement relevées (rapport public, 3 ans de données, 85 % de couverture KPI), et mobiliser des audits qualifiés quand les certifications sont hors de portée. 2026 apporte la personnalisation de la matérialité, une Veille 360° affinée et la reconnaissance formelle du VSME.",
-     "description": "Entre juillet 2025 et juillet 2026, l'Argent est passé de 68 à 73/100 et l'Or de 77 à 81 : les mêmes preuves valent moins chaque année.",
+     "summary": "La barre ne cesse de monter : entre juillet 2025 et août 2026, le seuil indicatif de l'Argent est passé de 68 à 73/100 et l'Or de 77 à 81. Charger les mêmes preuves que l'an dernier peut vous laisser plusieurs points derrière votre objectif avant même le début de l'évaluation. Les leçons de 2025 : cadrer correctement le périmètre d'évaluation, répondre aux exigences de reporting nettement relevées pour l'Or et le Platine (rapport public, 3 ans de données, 85 % de couverture KPI), et mobiliser des audits qualifiés quand les certifications sont hors de portée. 2026 apporte la personnalisation de la matérialité, une Veille 360° affinée et la reconnaissance formelle du VSME.",
+     "description": "Entre juillet 2025 et août 2026, l'Argent est passé de 68 à 73/100 et l'Or de 77 à 81 : les mêmes preuves valent moins chaque année.",
      "keywords": [
       "Rising Bar",
       "seuils EcoVadis 2026",
@@ -2680,7 +2532,7 @@
       "rapport de durabilité EcoVadis"
      ],
      "path": "catalog/fr/articles/rising-bar-exigences-croissantes-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/rising-bar-exigences-croissantes-2026/",
      "source_lang": "en",
      "translation_of": "ecovadis-rising-standards-2026",
      "related": [
@@ -2705,8 +2557,8 @@
     "nl": {
      "slug": "rising-bar-strengere-normen-2026",
      "title": "Hoe moeilijk is een Bronzen of Zilveren medaille? De stijgende EcoVadis-normen in 2026",
-     "summary": "De lat ligt elk jaar hoger: tussen juli 2025 en juli 2026 schoof de indicatieve Zilverdrempel van 68 naar 73/100 en Goud van 77 naar 81. Hetzelfde bewijs opladen als vorig jaar kan u meerdere punten achterstand geven nog vóór de beoordeling begint. De lessen van 2025: baken de beoordelingsscope correct af, voldoe aan de fors verhoogde rapporteringseisen (publiek rapport, 3 jaar data, 85% KPI-dekking), en zet gekwalificeerde audits in waar certificeringen buiten bereik zijn. 2026 brengt materialiteitspersonalisatie, een verfijnde 360° Watch en formele VSME-erkenning.",
-     "description": "Tussen juli 2025 en juli 2026 ging Zilver van 68 naar 73/100 en Goud van 77 naar 81: hetzelfde bewijs is elk jaar minder waard.",
+     "summary": "De lat ligt elk jaar hoger: tussen juli 2025 en augustus 2026 schoof de indicatieve Zilverdrempel van 68 naar 73/100 en Goud van 77 naar 81. Hetzelfde bewijs opladen als vorig jaar kan u meerdere punten achterstand geven nog vóór de beoordeling begint. De lessen van 2025: baken de beoordelingsscope correct af, voldoe aan de fors verhoogde rapporteringseisen voor Goud en Platinum (publiek rapport, 3 jaar data, 85% KPI-dekking), en zet gekwalificeerde audits in waar certificeringen buiten bereik zijn. 2026 brengt materialiteitspersonalisatie, een verfijnde 360° Watch en formele VSME-erkenning.",
+     "description": "Tussen juli 2025 en augustus 2026 ging Zilver van 68 naar 73/100 en Goud van 77 naar 81: hetzelfde bewijs is elk jaar minder waard.",
      "keywords": [
       "Rising Bar",
       "EcoVadis drempels 2026",
@@ -2723,7 +2575,7 @@
       "duurzaamheidsrapportering"
      ],
      "path": "catalog/nl/articles/rising-bar-strengere-normen-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/rising-bar-strengere-normen-2026/",
      "source_lang": "en",
      "translation_of": "ecovadis-rising-standards-2026",
      "related": [
@@ -2751,7 +2603,7 @@
   {
    "id": "kb-0017",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -2816,7 +2668,7 @@
       "EUDR"
      ],
      "path": "catalog/en/articles/whats-changing-in-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/whats-changing-in-2026/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -2855,7 +2707,7 @@
       "EUDR"
      ],
      "path": "catalog/fr/articles/ce-qui-change-en-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/ce-qui-change-en-2026/",
      "source_lang": "en",
      "translation_of": "whats-changing-in-2026",
      "related": [
@@ -2896,7 +2748,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/wat-verandert-in-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/wat-verandert-in-2026/",
      "source_lang": "en",
      "translation_of": "whats-changing-in-2026",
      "related": [
@@ -2923,7 +2775,7 @@
   {
    "id": "kb-0018",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -2980,7 +2832,7 @@
       "GHG Protocol"
      ],
      "path": "catalog/en/articles/ecovadis-methodology-updates-q2-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/ecovadis-methodology-updates-q2-2026/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -3016,7 +2868,7 @@
       "GHG Protocol"
      ],
      "path": "catalog/fr/articles/evolutions-methodologiques-t2-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/evolutions-methodologiques-t2-2026/",
      "source_lang": "en",
      "translation_of": "ecovadis-methodology-updates-q2-2026",
      "related": [
@@ -3053,7 +2905,7 @@
       "kmo"
      ],
      "path": "catalog/nl/articles/methodologie-updates-q2-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/methodologie-updates-q2-2026/",
      "source_lang": "en",
      "translation_of": "ecovadis-methodology-updates-q2-2026",
      "related": [
@@ -3079,7 +2931,7 @@
   {
    "id": "kb-0019",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -3144,13 +2996,13 @@
       "public report"
      ],
      "path": "catalog/en/articles/why-keeping-a-bronze-medal-is-harder.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/why-keeping-a-bronze-medal-is-harder/",
      "source_lang": "fr",
      "translation_of": "pourquoi-la-medaille-bronze-est-plus-difficile",
      "related": [
       "ecovadis-rising-standards-2026",
-      "external-climate-risk-assessment-env7003",
-      "adapting-to-environmental-disruptions-env7012",
+      "external-climate-risk-assessment",
+      "adapting-to-environmental-disruptions",
       "from-committed-badge-to-bronze"
      ],
      "relations": {},
@@ -3168,7 +3020,7 @@
     "fr": {
      "slug": "pourquoi-la-medaille-bronze-est-plus-difficile",
      "title": "Pourquoi est-il plus difficile d'obtenir et de conserver une médaille Bronze ? Évolution 2024-2026",
-     "summary": "Trois années d'évolutions EcoVadis expliquent la difficulté croissante : 2024 a introduit les badges, l'attribution des médailles par percentiles et l'IA du 360° Watch ; 2025 a créé la catégorie XL et mis à jour le questionnaire (économie circulaire, salaire décent) ; 2026 apporte le pilote de matérialité environnementale, le consensus des parties prenantes dans le 360° Watch et la valorisation VSME/ESRS. Résultat : compétition continue par percentiles, transparence accrue du reporting (rapport public, 85 % de couverture KPI), rigueur documentaire et risque d'inéligibilité de 3 à 5 ans via le 360° Watch.",
+     "summary": "Trois années d'évolutions EcoVadis expliquent la difficulté croissante : 2024 a introduit les badges, l'attribution des médailles par percentiles et l'IA du 360° Watch ; 2025 a créé la catégorie XL et mis à jour le questionnaire (économie circulaire, salaire décent) ; 2026 apporte le pilote de matérialité environnementale, le consensus des parties prenantes dans le 360° Watch et la valorisation VSME/ESRS. Résultat : compétition continue par percentiles, transparence accrue du reporting (rapport public ; 85 % de couverture KPI), rigueur documentaire et risque d'inéligibilité de 3 à 5 ans via le 360° Watch.",
      "description": "Badges et médailles au percentile en 2024, catégorie XL en 2025, matérialité en 2026 : trois ans d'évolutions qui rendent le Bronze plus dur.",
      "keywords": [
       "médaille Bronze plus difficile",
@@ -3182,13 +3034,13 @@
       "rapport public"
      ],
      "path": "catalog/fr/articles/pourquoi-la-medaille-bronze-est-plus-difficile.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/pourquoi-la-medaille-bronze-est-plus-difficile/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
       "rising-bar-exigences-croissantes-2026",
-      "risques-environnementaux-externes-env7003",
-      "perturbations-environnementales-env7012",
+      "risques-environnementaux-externes",
+      "perturbations-environnementales",
       "du-badge-committed-a-la-medaille-bronze"
      ],
      "relations": {},
@@ -3221,13 +3073,13 @@
       "kmo"
      ],
      "path": "catalog/nl/articles/waarom-een-bronzen-medaille-moeilijker-wordt.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/waarom-een-bronzen-medaille-moeilijker-wordt/",
      "source_lang": "fr",
      "translation_of": "pourquoi-la-medaille-bronze-est-plus-difficile",
      "related": [
       "rising-bar-strengere-normen-2026",
-      "externe-klimaatrisicos-env7003",
-      "milieuverstoringen-aanpakken-env7012",
+      "externe-klimaatrisicos",
+      "milieuverstoringen-aanpakken",
       "van-committed-badge-naar-brons"
      ],
      "relations": {},
@@ -3248,7 +3100,7 @@
   {
    "id": "kb-0020",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "choisir",
    "situations": [
     "S1",
@@ -3314,7 +3166,7 @@
       "360° Watch"
      ],
      "path": "catalog/en/articles/ecovadis-thresholds-belgian-packaging-pharma.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/ecovadis-thresholds-belgian-packaging-pharma/",
      "source_lang": "fr",
      "translation_of": "seuils-ecovadis-emballage-pharma-belgique",
      "related": [
@@ -3359,7 +3211,7 @@
       "veille 360°"
      ],
      "path": "catalog/fr/articles/seuils-ecovadis-emballage-pharma-belgique.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/seuils-ecovadis-emballage-pharma-belgique/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
@@ -3405,7 +3257,7 @@
       "kmo"
      ],
      "path": "catalog/nl/articles/ecovadis-drempels-verpakking-farma-belgie.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/ecovadis-drempels-verpakking-farma-belgie/",
      "source_lang": "fr",
      "translation_of": "seuils-ecovadis-emballage-pharma-belgique",
      "related": [
@@ -3436,7 +3288,7 @@
   {
    "id": "kb-0021",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "choisir",
    "situations": [
     "S1",
@@ -3492,7 +3344,7 @@
       "merge documents EcoVadis"
      ],
      "path": "catalog/en/articles/why-ecovadis-strengthens-sustainability-management.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/why-ecovadis-strengthens-sustainability-management/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -3538,7 +3390,7 @@
       "fusionner documents EcoVadis"
      ],
      "path": "catalog/fr/articles/pourquoi-se-lancer-dans-ecovadis.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/pourquoi-se-lancer-dans-ecovadis/",
      "source_lang": "en",
      "translation_of": "why-ecovadis-strengthens-sustainability-management",
      "related": [
@@ -3586,7 +3438,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/waarom-aan-ecovadis-beginnen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/waarom-aan-ecovadis-beginnen/",
      "source_lang": "en",
      "translation_of": "why-ecovadis-strengthens-sustainability-management",
      "related": [
@@ -3621,7 +3473,7 @@
   {
    "id": "kb-0022",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -3680,7 +3532,7 @@
       "55 documents"
      ],
      "path": "catalog/en/articles/ecovadis-essentials-guide.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/ecovadis-essentials-guide/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -3719,7 +3571,7 @@
       "55 documents"
      ],
      "path": "catalog/fr/articles/guide-essentiel-ecovadis.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/guide-essentiel-ecovadis/",
      "source_lang": "en",
      "translation_of": "ecovadis-essentials-guide",
      "related": [
@@ -3760,7 +3612,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/ecovadis-essentials-gids.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/ecovadis-essentials-gids/",
      "source_lang": "en",
      "translation_of": "ecovadis-essentials-guide",
      "related": [
@@ -3788,7 +3640,7 @@
   {
    "id": "kb-0023",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -3850,7 +3702,7 @@
       "science-based targets"
      ],
      "path": "catalog/en/articles/improve-your-ecovadis-score-fast.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/improve-your-ecovadis-score-fast/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -3890,7 +3742,7 @@
       "science-based targets"
      ],
      "path": "catalog/fr/articles/ameliorer-son-score-ecovadis-rapidement.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/ameliorer-son-score-ecovadis-rapidement/",
      "source_lang": "en",
      "translation_of": "improve-your-ecovadis-score-fast",
      "related": [
@@ -3932,7 +3784,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/ecovadis-score-snel-verbeteren.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/ecovadis-score-snel-verbeteren/",
      "source_lang": "en",
      "translation_of": "improve-your-ecovadis-score-fast",
      "related": [
@@ -3960,7 +3812,7 @@
   {
    "id": "kb-0024",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -4017,7 +3869,7 @@
       "EcoVadis journey"
      ],
      "path": "catalog/en/articles/build-strong-ecovadis-submissions-consistently.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/build-strong-ecovadis-submissions-consistently/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -4054,7 +3906,7 @@
       "parcours EcoVadis"
      ],
      "path": "catalog/fr/articles/soumissions-ecovadis-solides-et-regulieres.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/soumissions-ecovadis-solides-et-regulieres/",
      "source_lang": "en",
      "translation_of": "build-strong-ecovadis-submissions-consistently",
      "related": [
@@ -4093,7 +3945,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/sterke-ecovadis-indieningen-opbouwen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/sterke-ecovadis-indieningen-opbouwen/",
      "source_lang": "en",
      "translation_of": "build-strong-ecovadis-submissions-consistently",
      "related": [
@@ -4120,7 +3972,7 @@
   {
    "id": "kb-0025",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "comparer",
    "situations": [
     "S3"
@@ -4172,7 +4024,7 @@
       "preparation time EcoVadis"
      ],
      "path": "catalog/en/articles/self-assessment-vs-expert-guidance.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/self-assessment-vs-expert-guidance/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -4220,7 +4072,7 @@
       "temps de préparation EcoVadis"
      ],
      "path": "catalog/fr/articles/auto-evaluation-ou-accompagnement-expert.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/auto-evaluation-ou-accompagnement-expert/",
      "source_lang": "en",
      "translation_of": "self-assessment-vs-expert-guidance",
      "related": [
@@ -4270,7 +4122,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/zelf-doen-of-expertbegeleiding.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/zelf-doen-of-expertbegeleiding/",
      "source_lang": "en",
      "translation_of": "self-assessment-vs-expert-guidance",
      "related": [
@@ -4309,7 +4161,7 @@
   {
    "id": "kb-0026",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "comparer",
    "situations": [
     "S3"
@@ -4349,7 +4201,7 @@
     "en": {
      "slug": "b-corp-or-ecovadis",
      "title": "B Corp or EcoVadis: what's the best choice for your company?",
-     "summary": "Both are document-based, tailored, continuous-improvement assessments — but they measure different things: EcoVadis rates your sustainability management system (130,000+ companies rated, tiered medals, annual cycle, 4-6 months); B Corp certifies your overall impact and business model (about 9,000 B Corps, 80-point minimum, articles-of-association addendum, 9-24 months, recertification every 3 years). Rule of thumb: an EcoVadis Silver company has the maturity to start a B Corp journey.",
+     "summary": "Both are document-based, tailored, continuous-improvement assessments — but they measure different things: EcoVadis rates your sustainability management system (150,000+ companies rated, tiered medals, annual cycle, 4-6 months); B Corp certifies your overall impact and business model (about 9,000 B Corps, 80-point minimum, articles-of-association addendum, 9-24 months, recertification every 3 years). Rule of thumb: an EcoVadis Silver company has the maturity to start a B Corp journey.",
      "description": "EcoVadis rates your sustainability management system, B Corp certifies the whole company: two assessments that measure different things.",
      "keywords": [
       "B Corp or EcoVadis",
@@ -4362,7 +4214,7 @@
       "which sustainability label"
      ],
      "path": "catalog/en/articles/b-corp-or-ecovadis.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/b-corp-or-ecovadis/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -4386,7 +4238,7 @@
     "fr": {
      "slug": "b-corp-ou-ecovadis",
      "title": "B Corp ou EcoVadis : quel est le meilleur choix pour votre entreprise ?",
-     "summary": "Les deux démarches sont documentaires, sur mesure et fondées sur l'amélioration continue — mais elles mesurent des choses différentes : EcoVadis note votre système de gestion de la durabilité (130 000+ entreprises évaluées, médailles par paliers, cycle annuel, 4-6 mois) ; B Corp certifie votre impact global et votre modèle d'affaires (environ 9 000 B Corps, minimum 80 points, addendum statutaire, 9-24 mois, recertification tous les 3 ans). Règle d'or : une entreprise EcoVadis Argent a la maturité pour entamer un parcours B Corp.",
+     "summary": "Les deux démarches sont documentaires, sur mesure et fondées sur l'amélioration continue — mais elles mesurent des choses différentes : EcoVadis note votre système de gestion de la durabilité (150 000+ entreprises évaluées, médailles par paliers, cycle annuel, 4-6 mois) ; B Corp certifie votre impact global et votre modèle d'affaires (environ 9 000 B Corps, minimum 80 points, addendum statutaire, 9-24 mois, recertification tous les 3 ans). Règle d'or : une entreprise EcoVadis Argent a la maturité pour entamer un parcours B Corp.",
      "description": "EcoVadis note votre système de gestion de la durabilité, B Corp certifie l'entreprise entière : deux démarches qui ne mesurent pas la même chose.",
      "keywords": [
       "B Corp ou EcoVadis",
@@ -4399,7 +4251,7 @@
       "quel label durabilité"
      ],
      "path": "catalog/fr/articles/b-corp-ou-ecovadis.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/b-corp-ou-ecovadis/",
      "source_lang": "en",
      "translation_of": "b-corp-or-ecovadis",
      "related": [
@@ -4423,7 +4275,7 @@
     "nl": {
      "slug": "b-corp-of-ecovadis",
      "title": "B Corp of EcoVadis: wat is de beste keuze voor uw onderneming?",
-     "summary": "Beide zijn documentgebaseerde beoordelingen op maat met continue verbetering — maar ze meten iets anders: EcoVadis beoordeelt uw duurzaamheidsmanagementsysteem (130.000+ beoordeelde ondernemingen, medailles in niveaus, jaarlijkse cyclus, 4-6 maanden); B Corp certificeert uw globale impact en bedrijfsmodel (ongeveer 9.000 B Corps, minimum 80 punten, statutair addendum, 9-24 maanden, hercertificering om de 3 jaar). Vuistregel: een onderneming met EcoVadis Zilver heeft de maturiteit om aan een B Corp-traject te beginnen.",
+     "summary": "Beide zijn documentgebaseerde beoordelingen op maat met continue verbetering — maar ze meten iets anders: EcoVadis beoordeelt uw duurzaamheidsmanagementsysteem (150.000+ beoordeelde ondernemingen, medailles in niveaus, jaarlijkse cyclus, 4-6 maanden); B Corp certificeert uw globale impact en bedrijfsmodel (ongeveer 9.000 B Corps, minimum 80 punten, statutair addendum, 9-24 maanden, hercertificering om de 3 jaar). Vuistregel: een onderneming met EcoVadis Zilver heeft de maturiteit om aan een B Corp-traject te beginnen.",
      "description": "EcoVadis beoordeelt uw duurzaamheidsmanagementsysteem, B Corp certificeert de hele onderneming: twee beoordelingen die iets anders meten.",
      "keywords": [
       "B Corp of EcoVadis",
@@ -4438,7 +4290,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/b-corp-of-ecovadis.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/b-corp-of-ecovadis/",
      "source_lang": "en",
      "translation_of": "b-corp-or-ecovadis",
      "related": [
@@ -4465,7 +4317,7 @@
   {
    "id": "kb-0027",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -4523,7 +4375,7 @@
       "workers voice"
      ],
      "path": "catalog/en/articles/ecovadis-sustain-2026-takeaways.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/ecovadis-sustain-2026-takeaways/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -4561,7 +4413,7 @@
       "worker voice"
      ],
      "path": "catalog/fr/articles/enseignements-ecovadis-sustain-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/enseignements-ecovadis-sustain-2026/",
      "source_lang": "en",
      "translation_of": "ecovadis-sustain-2026-takeaways",
      "related": [
@@ -4600,7 +4452,7 @@
       "kmo"
      ],
      "path": "catalog/nl/articles/lessen-van-ecovadis-sustain-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/lessen-van-ecovadis-sustain-2026/",
      "source_lang": "en",
      "translation_of": "ecovadis-sustain-2026-takeaways",
      "related": [
@@ -4627,7 +4479,7 @@
   {
    "id": "kb-0028",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -4673,7 +4525,7 @@
     "en": {
      "slug": "practical-ecovadis-tips",
      "title": "What are the main practical tips for a successful EcoVadis assessment?",
-     "summary": "Five families of field-tested tips: organise the team (one dedicated ambassador plus experts per theme), scope the assessment to match real governance (with the one-year grace period for acquisitions), respect the documentary rules (logo + date, 8-year validity for policies, 2 years for KPIs and audits, no document created less than 2 months before the assessment, 55 new files per year), target the Reporting score (public report or capped at 50/100, 85% KPI coverage, entity-level breakdowns) and anticipate materiality and the 360° Watch.",
+     "summary": "Five families of field-tested tips: organise the team (one dedicated ambassador plus experts per theme), scope the assessment to match real governance (with the one-year grace period for acquisitions), respect the documentary rules (logo + date, 8-year validity for policies, 2 years for KPIs and audits, no document created less than 2 months before the assessment, 55 new files per year), target the Reporting score (public report or capped at 50/100; 85% KPI coverage for Gold and Platinum, entity-level breakdowns) and anticipate materiality and the 360° Watch.",
      "description": "Five families of field-tested EcoVadis tips: organise the team, scope correctly, respect deadlines, prove everything, review before sending.",
      "keywords": [
       "practical EcoVadis tips",
@@ -4687,7 +4539,7 @@
       "Live News"
      ],
      "path": "catalog/en/articles/practical-ecovadis-tips.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/practical-ecovadis-tips/",
      "source_lang": "fr",
      "translation_of": "principaux-conseils-pratiques-ecovadis",
      "related": [
@@ -4711,7 +4563,7 @@
     "fr": {
      "slug": "principaux-conseils-pratiques-ecovadis",
      "title": "Quels sont les principaux conseils pratiques pour réussir son évaluation EcoVadis ?",
-     "summary": "Cinq familles de conseils de terrain : organiser l'équipe (un ambassadeur unique + des experts par thème), cadrer le périmètre selon la gouvernance réelle (avec la période de grâce d'un an pour les acquisitions), respecter les règles documentaires (logo + date, validité 8 ans pour les politiques, 2 ans pour les KPI et audits, pas de document créé moins de 2 mois avant l'évaluation, limite de 55 nouveaux fichiers), viser le score Reporting (rapport public sous peine de plafond à 50/100, 85 % de couverture KPI, données ventilées par entité) et anticiper matérialité et Veille 360°.",
+     "summary": "Cinq familles de conseils de terrain : organiser l'équipe (un ambassadeur unique + des experts par thème), cadrer le périmètre selon la gouvernance réelle (avec la période de grâce d'un an pour les acquisitions), respecter les règles documentaires (logo + date, validité 8 ans pour les politiques, 2 ans pour les KPI et audits, pas de document créé moins de 2 mois avant l'évaluation, limite de 55 nouveaux fichiers), viser le score Reporting (rapport public sous peine de plafond à 50/100 ; 85 % de couverture KPI pour l'Or et le Platine, données ventilées par entité) et anticiper matérialité et Veille 360°.",
      "description": "Cinq familles de conseils de terrain EcoVadis : organiser l'équipe, cadrer le périmètre, respecter les délais, prouver, relire avant envoi.",
      "keywords": [
       "conseils pratiques EcoVadis",
@@ -4725,7 +4577,7 @@
       "Live News"
      ],
      "path": "catalog/fr/articles/principaux-conseils-pratiques-ecovadis.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/principaux-conseils-pratiques-ecovadis/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
@@ -4749,7 +4601,7 @@
     "nl": {
      "slug": "praktische-ecovadis-tips",
      "title": "Wat zijn de belangrijkste praktische tips voor een geslaagde EcoVadis-beoordeling?",
-     "summary": "Vijf families van veldgeteste tips: organiseer het team (één toegewijde ambassadeur plus experts per thema), baken de scope af volgens de echte governance (met de respijtperiode van één jaar voor overnames), respecteer de documentregels (logo + datum, 8 jaar geldigheid voor beleid, 2 jaar voor KPI's en audits, geen document jonger dan 2 maanden vóór de beoordeling, 55 nieuwe bestanden per jaar), mik op de rapporteringsscore (publiek rapport of plafond op 50/100, 85% KPI-dekking, uitsplitsing per entiteit) en anticipeer op materialiteit en de 360° Watch.",
+     "summary": "Vijf families van veldgeteste tips: organiseer het team (één toegewijde ambassadeur plus experts per thema), baken de scope af volgens de echte governance (met de respijtperiode van één jaar voor overnames), respecteer de documentregels (logo + datum, 8 jaar geldigheid voor beleid, 2 jaar voor KPI's en audits, geen document jonger dan 2 maanden vóór de beoordeling, 55 nieuwe bestanden per jaar), mik op de rapporteringsscore (publiek rapport of plafond op 50/100; 85% KPI-dekking voor Goud en Platinum, uitsplitsing per entiteit) en anticipeer op materialiteit en de 360° Watch.",
      "description": "Vijf families veldgeteste EcoVadis-tips: het team organiseren, de scope afbakenen, deadlines respecteren, alles bewijzen, nalezen vóór indiening.",
      "keywords": [
       "praktische EcoVadis tips",
@@ -4765,7 +4617,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/praktische-ecovadis-tips.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/praktische-ecovadis-tips/",
      "source_lang": "fr",
      "translation_of": "principaux-conseils-pratiques-ecovadis",
      "related": [
@@ -4792,7 +4644,7 @@
   {
    "id": "kb-0029",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S3"
@@ -4842,7 +4694,7 @@
       "XS guide"
      ],
      "path": "catalog/en/articles/supporting-documents-for-xs-companies.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/supporting-documents-for-xs-companies/",
      "source_lang": "fr",
      "translation_of": "documents-justificatifs-entreprises-xs",
      "related": [
@@ -4879,7 +4731,7 @@
       "bewijsstukken"
      ],
      "path": "catalog/fr/articles/documents-justificatifs-entreprises-xs.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/documents-justificatifs-entreprises-xs/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
@@ -4916,7 +4768,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/bewijsstukken-voor-xs-ondernemingen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/bewijsstukken-voor-xs-ondernemingen/",
      "source_lang": "fr",
      "translation_of": "documents-justificatifs-entreprises-xs",
      "related": [
@@ -4943,7 +4795,7 @@
   {
    "id": "kb-0030",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -5000,13 +4852,13 @@
       "SME carbon footprint"
      ],
      "path": "catalog/en/articles/environmental-indicators-to-collect.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/environmental-indicators-to-collect/",
      "source_lang": "fr",
      "translation_of": "indicateurs-environnementaux-a-collecter",
      "related": [
       "social-hr-indicators-to-collect",
       "ecovadis-and-ghg-baseline",
-      "waste-management-env3549",
+      "waste-management",
       "build-strong-ecovadis-submissions-consistently"
      ],
      "relations": {},
@@ -5033,13 +4885,13 @@
       "bilan carbone PME"
      ],
      "path": "catalog/fr/articles/indicateurs-environnementaux-a-collecter.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/indicateurs-environnementaux-a-collecter/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
       "indicateurs-sociaux-rh-a-collecter",
       "ecovadis-et-bilan-ges-de-base",
-      "gestion-des-dechets-env3549",
+      "gestion-des-dechets",
       "soumissions-ecovadis-solides-et-regulieres"
      ],
      "relations": {},
@@ -5067,13 +4919,13 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/milieu-indicatoren-verzamelen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/milieu-indicatoren-verzamelen/",
      "source_lang": "fr",
      "translation_of": "indicateurs-environnementaux-a-collecter",
      "related": [
       "sociale-hr-indicatoren-verzamelen",
       "ecovadis-en-co2-nulmeting",
-      "afvalbeheer-env3549",
+      "afvalbeheer",
       "sterke-ecovadis-indieningen-opbouwen"
      ],
      "relations": {},
@@ -5090,7 +4942,7 @@
   {
    "id": "kb-0031",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -5158,7 +5010,7 @@
       "CDP"
      ],
      "path": "catalog/en/articles/ecovadis-and-ghg-baseline.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/ecovadis-and-ghg-baseline/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -5204,7 +5056,7 @@
       "CDP"
      ],
      "path": "catalog/fr/articles/ecovadis-et-bilan-ges-de-base.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/ecovadis-et-bilan-ges-de-base/",
      "source_lang": "en",
      "translation_of": "ecovadis-and-ghg-baseline",
      "related": [
@@ -5252,7 +5104,7 @@
       "broeikasgasemissies"
      ],
      "path": "catalog/nl/articles/ecovadis-en-co2-nulmeting.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/ecovadis-en-co2-nulmeting/",
      "source_lang": "en",
      "translation_of": "ecovadis-and-ghg-baseline",
      "related": [
@@ -5287,7 +5139,7 @@
   {
    "id": "kb-0032",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -5328,8 +5180,8 @@
    ],
    "languages": {
     "en": {
-     "slug": "external-climate-risk-assessment-env7003",
-     "title": "How does EcoVadis take climate risks into consideration? (ENV7003)",
+     "slug": "external-climate-risk-assessment",
+     "title": "How does EcoVadis take climate risks into consideration?",
      "summary": "ENV7003 is a new question added to questionnaires in Q1 2026 for size S companies and up: it asks for evidence of a physical climate risk assessment (acute and chronic) and a watershed-related risk assessment. It has no impact on the score, but the strengths and improvement areas identified from the evidence appear on the scorecard. Usual tools: WRI's Aqueduct atlas and WWF's Water Risk Filter.",
      "description": "ENV7003, added in Q1 2026 for size S companies and up, requires evidence of a physical climate risk and watershed-related risk assessment.",
      "keywords": [
@@ -5344,12 +5196,12 @@
       "Aqueduct",
       "Water Risk Filter"
      ],
-     "path": "catalog/en/articles/external-climate-risk-assessment-env7003.md",
-     "canonical_url": null,
+     "path": "catalog/en/articles/external-climate-risk-assessment.md",
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/external-climate-risk-assessment/",
      "source_lang": "fr",
-     "translation_of": "risques-environnementaux-externes-env7003",
+     "translation_of": "risques-environnementaux-externes",
      "related": [
-      "adapting-to-environmental-disruptions-env7012",
+      "adapting-to-environmental-disruptions",
       "environmental-indicators-to-collect",
       "ecovadis-methodology-updates-q2-2026"
      ],
@@ -5362,8 +5214,8 @@
      ]
     },
     "fr": {
-     "slug": "risques-environnementaux-externes-env7003",
-     "title": "Comment les risques climatiques sont-ils pris en compte dans EcoVadis ? (ENV7003)",
+     "slug": "risques-environnementaux-externes",
+     "title": "Comment les risques climatiques sont-ils pris en compte dans EcoVadis ?",
      "summary": "ENV7003 est une nouvelle question ajoutée aux questionnaires au T1 2026 pour les entreprises de taille S et plus : elle demande la preuve d'une évaluation des risques climatiques physiques (aigus et chroniques) et des risques liés aux bassins hydrographiques. Elle n'a pas d'impact sur le score, mais les forces et points d'amélioration identifiés apparaissent sur la fiche d'évaluation. Outils habituels : l'atlas Aqueduct du WRI et le Water Risk Filter du WWF.",
      "description": "ENV7003, ajoutée au T1 2026 pour les entreprises S et plus, exige la preuve d'une évaluation des risques climatiques physiques et liés à l'eau.",
      "keywords": [
@@ -5378,12 +5230,12 @@
       "Aqueduct",
       "Water Risk Filter"
      ],
-     "path": "catalog/fr/articles/risques-environnementaux-externes-env7003.md",
-     "canonical_url": null,
+     "path": "catalog/fr/articles/risques-environnementaux-externes.md",
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/risques-environnementaux-externes/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
-      "perturbations-environnementales-env7012",
+      "perturbations-environnementales",
       "indicateurs-environnementaux-a-collecter",
       "evolutions-methodologiques-t2-2026"
      ],
@@ -5396,8 +5248,8 @@
      ]
     },
     "nl": {
-     "slug": "externe-klimaatrisicos-env7003",
-     "title": "Hoe neemt EcoVadis klimaatrisico's in aanmerking? (ENV7003)",
+     "slug": "externe-klimaatrisicos",
+     "title": "Hoe neemt EcoVadis klimaatrisico's in aanmerking?",
      "summary": "ENV7003 is een nieuwe vraag die in Q1 2026 aan de vragenlijsten werd toegevoegd voor ondernemingen van grootte S en meer: ze vraagt bewijs van een beoordeling van fysieke klimaatrisico's (acuut en chronisch) en van waterbekkengerelateerde risico's. Ze heeft geen impact op de score, maar de sterktes en verbeterpunten die uit het bewijs naar voren komen, verschijnen op de scorecard. Gebruikelijke tools: de Aqueduct-atlas van WRI en de Water Risk Filter van WWF.",
      "description": "ENV7003, toegevoegd in Q1 2026 voor ondernemingen vanaf grootte S, vraagt bewijs van een fysieke klimaat- en waterrisicobeoordeling.",
      "keywords": [
@@ -5413,12 +5265,12 @@
       "Water Risk Filter",
       "kmo"
      ],
-     "path": "catalog/nl/articles/externe-klimaatrisicos-env7003.md",
-     "canonical_url": null,
+     "path": "catalog/nl/articles/externe-klimaatrisicos.md",
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/externe-klimaatrisicos/",
      "source_lang": "fr",
-     "translation_of": "risques-environnementaux-externes-env7003",
+     "translation_of": "risques-environnementaux-externes",
      "related": [
-      "milieuverstoringen-aanpakken-env7012",
+      "milieuverstoringen-aanpakken",
       "milieu-indicatoren-verzamelen",
       "methodologie-updates-q2-2026"
      ],
@@ -5436,7 +5288,7 @@
   {
    "id": "kb-0033",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -5477,8 +5329,8 @@
    ],
    "languages": {
     "en": {
-     "slug": "adapting-to-environmental-disruptions-env7012",
-     "title": "What actions against external environmental disruptions? (ENV7012)",
+     "slug": "adapting-to-environmental-disruptions",
+     "title": "What actions against external environmental disruptions?",
      "summary": "ENV7012 asks for evidence of two families of actions: adaptive practices integrated into operations (heatwave or storm protocols, drought management, business continuity plan) and emergency reserves or safety nets (business interruption insurance, safety stock, backup equipment). The question has no impact on the score, but what it reveals appears on the scorecard.",
      "description": "ENV7012 asks for two families of actions: adaptive practices built into operations, and documented emergency reserves or safety nets.",
      "keywords": [
@@ -5492,12 +5344,12 @@
       "drought",
       "SME climate resilience"
      ],
-     "path": "catalog/en/articles/adapting-to-environmental-disruptions-env7012.md",
-     "canonical_url": null,
+     "path": "catalog/en/articles/adapting-to-environmental-disruptions.md",
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/adapting-to-environmental-disruptions/",
      "source_lang": "fr",
-     "translation_of": "perturbations-environnementales-env7012",
+     "translation_of": "perturbations-environnementales",
      "related": [
-      "external-climate-risk-assessment-env7003",
+      "external-climate-risk-assessment",
       "environmental-indicators-to-collect",
       "ecovadis-methodology-updates-q2-2026"
      ],
@@ -5510,8 +5362,8 @@
      ]
     },
     "fr": {
-     "slug": "perturbations-environnementales-env7012",
-     "title": "Quelles actions face aux perturbations environnementales externes ? (ENV7012)",
+     "slug": "perturbations-environnementales",
+     "title": "Quelles actions face aux perturbations environnementales externes ?",
      "summary": "ENV7012 demande la preuve de deux familles d'actions : l'intégration de pratiques adaptatives dans les opérations (protocoles canicule ou tempête, gestion de la sécheresse, plan de continuité) et la mise en place de réserves d'urgence ou de filets de sécurité (assurance interruption d'activités, stock de sécurité, équipements de secours). La question n'a pas d'impact sur le score, mais ce qu'elle révèle apparaît sur la fiche d'évaluation.",
      "description": "ENV7012 demande deux familles d'actions : des pratiques adaptatives intégrées aux opérations et des réserves d'urgence documentées.",
      "keywords": [
@@ -5525,12 +5377,12 @@
       "sécheresse",
       "résilience climatique PME"
      ],
-     "path": "catalog/fr/articles/perturbations-environnementales-env7012.md",
-     "canonical_url": null,
+     "path": "catalog/fr/articles/perturbations-environnementales.md",
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/perturbations-environnementales/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
-      "risques-environnementaux-externes-env7003",
+      "risques-environnementaux-externes",
       "indicateurs-environnementaux-a-collecter",
       "evolutions-methodologiques-t2-2026"
      ],
@@ -5543,8 +5395,8 @@
      ]
     },
     "nl": {
-     "slug": "milieuverstoringen-aanpakken-env7012",
-     "title": "Welke acties tegen externe milieuverstoringen? (ENV7012)",
+     "slug": "milieuverstoringen-aanpakken",
+     "title": "Welke acties tegen externe milieuverstoringen?",
      "summary": "ENV7012 vraagt bewijs van twee families van acties: adaptieve praktijken die in de operaties zijn geïntegreerd (protocollen bij hittegolf of storm, droogtebeheer, bedrijfscontinuïteitsplan) en noodreserves of vangnetten (verzekering tegen bedrijfsonderbreking, veiligheidsvoorraad, noodapparatuur). De vraag heeft geen impact op de score, maar wat ze aan het licht brengt, verschijnt op de scorecard.",
      "description": "ENV7012 vraagt twee families van acties: adaptieve praktijken die in de operaties zijn ingebed, en gedocumenteerde noodreserves.",
      "keywords": [
@@ -5558,12 +5410,12 @@
       "droogte",
       "klimaatveerkracht kmo"
      ],
-     "path": "catalog/nl/articles/milieuverstoringen-aanpakken-env7012.md",
-     "canonical_url": null,
+     "path": "catalog/nl/articles/milieuverstoringen-aanpakken.md",
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/milieuverstoringen-aanpakken/",
      "source_lang": "fr",
-     "translation_of": "perturbations-environnementales-env7012",
+     "translation_of": "perturbations-environnementales",
      "related": [
-      "externe-klimaatrisicos-env7003",
+      "externe-klimaatrisicos",
       "milieu-indicatoren-verzamelen",
       "methodologie-updates-q2-2026"
      ],
@@ -5581,7 +5433,7 @@
   {
    "id": "kb-0034",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -5623,8 +5475,8 @@
    ],
    "languages": {
     "en": {
-     "slug": "raw-materials-and-chemicals-env3522",
-     "title": "How to manage your raw materials and chemicals (ENV3522)",
+     "slug": "raw-materials-and-chemicals",
+     "title": "How to manage your raw materials and chemicals",
      "summary": "Question ENV3522 assesses nine sub-actions, from process optimisation to the substitution of hazardous substances. An anonymised real case (Walloon flexographic printer, size S) shows that a file of ~70 documents already contains 9 directly usable ones: the waste procedure covers material recovery, the safety information sheets (SIS) cover labelling-storage-handling, the licensed collector's register covers hazardous-waste disposal. Two real gaps remain — bio-based materials and training evidence — plus one trap: do not recycle supplier documents, which EcoVadis expects under Sustainable Procurement.",
      "description": "ENV3522 assesses nine sub-actions on raw materials and chemicals, from process optimisation to substituting hazardous substances.",
      "keywords": [
@@ -5639,12 +5491,12 @@
       "hazardous waste",
       "environmental emergency"
      ],
-     "path": "catalog/en/articles/raw-materials-and-chemicals-env3522.md",
-     "canonical_url": null,
+     "path": "catalog/en/articles/raw-materials-and-chemicals.md",
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/raw-materials-and-chemicals/",
      "source_lang": "fr",
-     "translation_of": "matieres-premieres-produits-chimiques-env3522",
+     "translation_of": "matieres-premieres-produits-chimiques",
      "related": [
-      "waste-management-env3549",
+      "waste-management",
       "environmental-indicators-to-collect",
       "ecovadis-essentials-guide"
      ],
@@ -5665,8 +5517,8 @@
      ]
     },
     "fr": {
-     "slug": "matieres-premieres-produits-chimiques-env3522",
-     "title": "Comment gérer ses matières premières et produits chimiques ? (ENV3522)",
+     "slug": "matieres-premieres-produits-chimiques",
+     "title": "Comment gérer ses matières premières et produits chimiques ?",
      "summary": "La question ENV3522 évalue neuf sous-actions, de l'optimisation des process à la substitution de substances dangereuses. Un cas réel anonymisé (imprimeur flexographique wallon, taille S) montre qu'un dossier de ~70 pièces contient déjà 9 documents directement utilisables : la procédure déchets couvre la récupération des matériaux, les fiches d'information sécurité (FIS) couvrent l'étiquetage-stockage-manipulation, le registre du collecteur agréé couvre l'élimination des déchets dangereux. Restent deux vrais trous — matériaux biosourcés et preuve de formation — et un piège : ne pas recycler les documents fournisseurs, attendus en Achats Responsables.",
      "description": "ENV3522 évalue neuf sous-actions sur les matières premières et produits chimiques, de l'optimisation des process à la substitution des dangereux.",
      "keywords": [
@@ -5681,12 +5533,12 @@
       "déchets dangereux",
       "urgence environnementale"
      ],
-     "path": "catalog/fr/articles/matieres-premieres-produits-chimiques-env3522.md",
-     "canonical_url": null,
+     "path": "catalog/fr/articles/matieres-premieres-produits-chimiques.md",
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/matieres-premieres-produits-chimiques/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
-      "gestion-des-dechets-env3549",
+      "gestion-des-dechets",
       "indicateurs-environnementaux-a-collecter",
       "guide-essentiel-ecovadis"
      ],
@@ -5707,8 +5559,8 @@
      ]
     },
     "nl": {
-     "slug": "grondstoffen-en-chemicalien-env3522",
-     "title": "Hoe beheert u uw grondstoffen en chemicaliën? (ENV3522)",
+     "slug": "grondstoffen-en-chemicalien",
+     "title": "Hoe beheert u uw grondstoffen en chemicaliën?",
      "summary": "Vraag ENV3522 beoordeelt negen deelacties, van procesoptimalisatie tot de vervanging van gevaarlijke stoffen. Een geanonimiseerd reëel geval (Waalse flexografische drukkerij, grootte S) toont dat een dossier van ~70 stukken al 9 rechtstreeks bruikbare documenten bevat: de afvalprocedure dekt de materiaalrecuperatie, de veiligheidsinformatiefiches dekken etikettering-opslag-hantering, het register van de vergunde ophaler dekt de verwijdering van gevaarlijk afval. Twee echte gaten blijven — biogebaseerde materialen en opleidingsbewijs — plus één valkuil: recycleer geen leveranciersdocumenten, die verwacht EcoVadis onder Duurzame Inkoop.",
      "description": "ENV3522 beoordeelt negen deelacties rond grondstoffen en chemicaliën, van procesoptimalisatie tot vervanging van gevaarlijke stoffen.",
      "keywords": [
@@ -5724,12 +5576,12 @@
       "milieunoodgeval",
       "kmo"
      ],
-     "path": "catalog/nl/articles/grondstoffen-en-chemicalien-env3522.md",
-     "canonical_url": null,
+     "path": "catalog/nl/articles/grondstoffen-en-chemicalien.md",
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/grondstoffen-en-chemicalien/",
      "source_lang": "fr",
-     "translation_of": "matieres-premieres-produits-chimiques-env3522",
+     "translation_of": "matieres-premieres-produits-chimiques",
      "related": [
-      "afvalbeheer-env3549",
+      "afvalbeheer",
       "milieu-indicatoren-verzamelen",
       "ecovadis-essentials-gids"
      ],
@@ -5755,7 +5607,7 @@
   {
    "id": "kb-0035",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -5794,8 +5646,8 @@
    ],
    "languages": {
     "en": {
-     "slug": "waste-management-env3549",
-     "title": "What can you do better on waste management? (ENV3549)",
+     "slug": "waste-management",
+     "title": "What can you do better on waste management?",
      "summary": "Question ENV3549 assesses five sub-actions: internal waste reduction (reuse, recovery, recycling), employee training on sorting, internal sorting by stream, inventory/mapping of waste streams, and other actions. An anonymised real case (Walloon flexographic printer, size S) shows how to mobilise existing procedures, certificates and registers — and the three classic corrections to make before uploading: fill the training gap, purge contradictions between documents, and document the strongest action (here, on-site solvent distillation).",
      "description": "ENV3549 assesses five waste sub-actions: internal reduction, sorting training, sorting by stream, stream inventory, and further actions.",
      "keywords": [
@@ -5809,13 +5661,13 @@
       "recovery",
       "waste collector register"
      ],
-     "path": "catalog/en/articles/waste-management-env3549.md",
-     "canonical_url": null,
+     "path": "catalog/en/articles/waste-management.md",
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/waste-management/",
      "source_lang": "fr",
-     "translation_of": "gestion-des-dechets-env3549",
+     "translation_of": "gestion-des-dechets",
      "related": [
       "environmental-indicators-to-collect",
-      "raw-materials-and-chemicals-env3522",
+      "raw-materials-and-chemicals",
       "ecovadis-essentials-guide"
      ],
      "relations": {},
@@ -5831,8 +5683,8 @@
      ]
     },
     "fr": {
-     "slug": "gestion-des-dechets-env3549",
-     "title": "Que peut-on faire de mieux pour gérer ses déchets ? (ENV3549)",
+     "slug": "gestion-des-dechets",
+     "title": "Que peut-on faire de mieux pour gérer ses déchets ?",
      "summary": "La question ENV3549 évalue cinq sous-actions : réduction interne des déchets (réutilisation, récupération, recyclage), formation des employés au tri, tri interne par flux, inventaire/cartographie des flux, et autres actions. Un cas réel anonymisé (imprimeur flexographique wallon, taille S) montre comment mobiliser procédures, certificats et registres existants — et les trois corrections classiques avant de charger : combler le trou de la formation, purger les contradictions entre documents, documenter l'action la plus forte (ici la distillation de solvants sur site).",
      "description": "ENV3549 évalue cinq sous-actions déchets : réduction interne, formation au tri, tri par flux, inventaire des flux et actions complémentaires.",
      "keywords": [
@@ -5846,13 +5698,13 @@
       "valorisation",
       "registre collecteur"
      ],
-     "path": "catalog/fr/articles/gestion-des-dechets-env3549.md",
-     "canonical_url": null,
+     "path": "catalog/fr/articles/gestion-des-dechets.md",
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/gestion-des-dechets/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
       "indicateurs-environnementaux-a-collecter",
-      "matieres-premieres-produits-chimiques-env3522",
+      "matieres-premieres-produits-chimiques",
       "guide-essentiel-ecovadis"
      ],
      "relations": {},
@@ -5868,8 +5720,8 @@
      ]
     },
     "nl": {
-     "slug": "afvalbeheer-env3549",
-     "title": "Wat kunt u beter doen in uw afvalbeheer? (ENV3549)",
+     "slug": "afvalbeheer",
+     "title": "Wat kunt u beter doen in uw afvalbeheer?",
      "summary": "Vraag ENV3549 beoordeelt vijf deelacties: interne afvalreductie (hergebruik, terugwinning, recyclage), opleiding van medewerkers in sorteren, interne sortering per stroom, inventaris/mapping van de afvalstromen, en andere acties. Een geanonimiseerd reëel geval (Waalse flexografische drukkerij, grootte S) toont hoe u bestaande procedures, certificaten en registers mobiliseert — en de drie klassieke correcties vóór het opladen: het opleidingsgat dichten, tegenstrijdigheden tussen documenten wegwerken, en de sterkste actie documenteren (hier de solventdistillatie op de site).",
      "description": "ENV3549 beoordeelt vijf deelacties afval: interne reductie, opleiding sorteren, sortering per stroom, inventaris van de stromen en meer.",
      "keywords": [
@@ -5884,13 +5736,13 @@
       "register afvalophaler",
       "kmo"
      ],
-     "path": "catalog/nl/articles/afvalbeheer-env3549.md",
-     "canonical_url": null,
+     "path": "catalog/nl/articles/afvalbeheer.md",
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/afvalbeheer/",
      "source_lang": "fr",
-     "translation_of": "gestion-des-dechets-env3549",
+     "translation_of": "gestion-des-dechets",
      "related": [
       "milieu-indicatoren-verzamelen",
-      "grondstoffen-en-chemicalien-env3522",
+      "grondstoffen-en-chemicalien",
       "ecovadis-essentials-gids"
      ],
      "relations": {},
@@ -5911,7 +5763,7 @@
   {
    "id": "kb-0036",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -5968,7 +5820,7 @@
       "social report"
      ],
      "path": "catalog/en/articles/social-hr-indicators-to-collect.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/social-hr-indicators-to-collect/",
      "source_lang": "fr",
      "translation_of": "indicateurs-sociaux-rh-a-collecter",
      "related": [
@@ -6006,7 +5858,7 @@
       "bilan social"
      ],
      "path": "catalog/fr/articles/indicateurs-sociaux-rh-a-collecter.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/indicateurs-sociaux-rh-a-collecter/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
@@ -6046,7 +5898,7 @@
       "mkb"
      ],
      "path": "catalog/nl/articles/sociale-hr-indicatoren-verzamelen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/sociale-hr-indicatoren-verzamelen/",
      "source_lang": "fr",
      "translation_of": "indicateurs-sociaux-rh-a-collecter",
      "related": [
@@ -6072,7 +5924,7 @@
   {
    "id": "kb-0037",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -6137,7 +5989,7 @@
       "evidence templates"
      ],
      "path": "catalog/en/articles/evidence-templates-diversity-corruption-child-labour.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/evidence-templates-diversity-corruption-child-labour/",
      "source_lang": "fr",
      "translation_of": "canevas-diversite-corruption-travail-enfants",
      "related": [
@@ -6179,7 +6031,7 @@
       "canevas de preuves"
      ],
      "path": "catalog/fr/articles/canevas-diversite-corruption-travail-enfants.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/canevas-diversite-corruption-travail-enfants/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
@@ -6221,7 +6073,7 @@
       "bewijssjablonen"
      ],
      "path": "catalog/nl/articles/sjablonen-diversiteit-corruptie-kinderarbeid.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/sjablonen-diversiteit-corruptie-kinderarbeid/",
      "source_lang": "fr",
      "translation_of": "canevas-diversite-corruption-travail-enfants",
      "related": [
@@ -6251,7 +6103,7 @@
   {
    "id": "kb-0038",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -6313,7 +6165,7 @@
       "EcoVadis evidence pack"
      ],
      "path": "catalog/en/articles/ethics-pack-corruption-harassment-discrimination.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/ethics-pack-corruption-harassment-discrimination/",
      "source_lang": "fr",
      "translation_of": "pack-corruption-harcelement-discrimination",
      "related": [
@@ -6355,7 +6207,7 @@
       "pack documentaire EcoVadis"
      ],
      "path": "catalog/fr/articles/pack-corruption-harcelement-discrimination.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/pack-corruption-harcelement-discrimination/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
@@ -6397,7 +6249,7 @@
       "EcoVadis-bewijspakket"
      ],
      "path": "catalog/nl/articles/ethiekpakket-corruptie-intimidatie-discriminatie.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/ethiekpakket-corruptie-intimidatie-discriminatie/",
      "source_lang": "fr",
      "translation_of": "pack-corruption-harcelement-discrimination",
      "related": [
@@ -6427,7 +6279,7 @@
   {
    "id": "kb-0039",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -6467,8 +6319,8 @@
    ],
    "languages": {
     "en": {
-     "slug": "sustainable-procurement-measures-sup307",
-     "title": "What should you do about your suppliers? Sustainable Procurement measures (SUP307)",
+     "slug": "sustainable-procurement-measures",
+     "title": "What should you do about your suppliers? Sustainable Procurement measures",
      "summary": "Question SUP307 assesses nine Sustainable Procurement sub-actions, from the supplier code of conduct to capacity-building programmes. Golden rule: only tick what can be proven by a dedicated document — a ticked option without evidence is neutralised by the assessor and weakens the whole section. An anonymised real case (Walloon flexographic printer, size S) shows 5 of 9 options to tick, two quick wins (buyer toolbox, SP objective in a performance review), the boundary with SUP600 (KPIs), and three fixes before upload: fill a placeholder, add a consequence clause to the code of conduct, produce the procurement policy that is referenced but missing.",
      "description": "SUP307 assesses nine Sustainable Procurement sub-actions. Golden rule: only tick what a dedicated document can actually prove.",
      "keywords": [
@@ -6483,14 +6335,14 @@
       "SUP600",
       "due diligence"
      ],
-     "path": "catalog/en/articles/sustainable-procurement-measures-sup307.md",
-     "canonical_url": null,
+     "path": "catalog/en/articles/sustainable-procurement-measures.md",
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/sustainable-procurement-measures/",
      "source_lang": "fr",
-     "translation_of": "mesures-achats-responsables-sup307",
+     "translation_of": "mesures-achats-responsables",
      "related": [
       "sustainable-procurement-where-to-start",
       "ecovadis-supplier-engagement-programmes",
-      "raw-materials-and-chemicals-env3522"
+      "raw-materials-and-chemicals"
      ],
      "relations": {},
      "faq": [
@@ -6509,8 +6361,8 @@
      ]
     },
     "fr": {
-     "slug": "mesures-achats-responsables-sup307",
-     "title": "Que faut-il faire par rapport à ses fournisseurs ? Les mesures Achats Responsables (SUP307)",
+     "slug": "mesures-achats-responsables",
+     "title": "Que faut-il faire par rapport à ses fournisseurs ? Les mesures Achats Responsables",
      "summary": "La question SUP307 évalue neuf sous-actions Achats Responsables, du code de conduite fournisseurs aux programmes de développement des capacités. Règle d'or : ne cocher que ce qui est prouvable par un document dédié — une option cochée sans preuve est neutralisée par l'analyste et fragilise la section. Un cas réel anonymisé (imprimeur flexographique wallon, taille S) montre 5 options à cocher sur 9, deux quick wins (toolbox acheteurs, objectif AR dans une évaluation), la frontière avec SUP600 (KPI), et trois corrections avant upload : placeholder à remplir, clause de conséquence à ajouter au code de conduite, politique d'achats référencée mais absente.",
      "description": "SUP307 évalue neuf sous-actions Achats Responsables. Règle d'or : ne cocher que ce qu'un document dédié peut réellement prouver.",
      "keywords": [
@@ -6525,14 +6377,14 @@
       "SUP600",
       "devoir de vigilance"
      ],
-     "path": "catalog/fr/articles/mesures-achats-responsables-sup307.md",
-     "canonical_url": null,
+     "path": "catalog/fr/articles/mesures-achats-responsables.md",
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/mesures-achats-responsables/",
      "source_lang": "fr",
      "translation_of": null,
      "related": [
       "achats-responsables-par-ou-commencer",
       "programmes-engagement-fournisseurs",
-      "matieres-premieres-produits-chimiques-env3522"
+      "matieres-premieres-produits-chimiques"
      ],
      "relations": {},
      "faq": [
@@ -6551,8 +6403,8 @@
      ]
     },
     "nl": {
-     "slug": "duurzame-inkoop-maatregelen-sup307",
-     "title": "Wat moet u doen met uw leveranciers? De maatregelen Duurzame Inkoop (SUP307)",
+     "slug": "duurzame-inkoop-maatregelen",
+     "title": "Wat moet u doen met uw leveranciers? De maatregelen Duurzame Inkoop",
      "summary": "Vraag SUP307 beoordeelt negen deelacties Duurzame Inkoop, van de gedragscode voor leveranciers tot programma's voor capaciteitsopbouw. Gouden regel: vink alleen aan wat met een specifiek document te bewijzen valt — een aangevinkte optie zonder bewijs wordt door de analist geneutraliseerd en verzwakt de hele sectie. Een geanonimiseerd reëel geval (Waalse flexografische drukkerij, grootte S) toont 5 van de 9 opties om aan te vinken, twee quick wins (toolbox inkopers, doelstelling in een evaluatie), de grens met SUP600 (KPI's), en drie correcties vóór het opladen: placeholder invullen, consequentieclausule toevoegen aan de gedragscode, ontbrekend maar gerefereerd inkoopbeleid opstellen.",
      "description": "SUP307 beoordeelt negen deelacties Duurzame Inkoop. Gouden regel: vink alleen aan wat een specifiek document echt kan bewijzen.",
      "keywords": [
@@ -6568,14 +6420,14 @@
       "zorgplicht",
       "kmo"
      ],
-     "path": "catalog/nl/articles/duurzame-inkoop-maatregelen-sup307.md",
-     "canonical_url": null,
+     "path": "catalog/nl/articles/duurzame-inkoop-maatregelen.md",
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/duurzame-inkoop-maatregelen/",
      "source_lang": "fr",
-     "translation_of": "mesures-achats-responsables-sup307",
+     "translation_of": "mesures-achats-responsables",
      "related": [
       "duurzame-inkoop-waar-beginnen",
       "leveranciersengagement-programmas",
-      "grondstoffen-en-chemicalien-env3522"
+      "grondstoffen-en-chemicalien"
      ],
      "relations": {},
      "faq": [
@@ -6599,7 +6451,7 @@
   {
    "id": "kb-0040",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -6656,11 +6508,11 @@
       "EcoVadis Sustainable Procurement theme"
      ],
      "path": "catalog/en/articles/sustainable-procurement-where-to-start.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/sustainable-procurement-where-to-start/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
-      "sustainable-procurement-measures-sup307",
+      "sustainable-procurement-measures",
       "ecovadis-supplier-engagement-programmes",
       "ecovadis-and-ghg-baseline"
      ],
@@ -6697,11 +6549,11 @@
       "thème Achats Responsables EcoVadis"
      ],
      "path": "catalog/fr/articles/achats-responsables-par-ou-commencer.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/achats-responsables-par-ou-commencer/",
      "source_lang": "en",
      "translation_of": "sustainable-procurement-where-to-start",
      "related": [
-      "mesures-achats-responsables-sup307",
+      "mesures-achats-responsables",
       "programmes-engagement-fournisseurs",
       "ecovadis-et-bilan-ges-de-base"
      ],
@@ -6739,11 +6591,11 @@
       "kmo"
      ],
      "path": "catalog/nl/articles/duurzame-inkoop-waar-beginnen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/duurzame-inkoop-waar-beginnen/",
      "source_lang": "en",
      "translation_of": "sustainable-procurement-where-to-start",
      "related": [
-      "duurzame-inkoop-maatregelen-sup307",
+      "duurzame-inkoop-maatregelen",
       "leveranciersengagement-programmas",
       "ecovadis-en-co2-nulmeting"
      ],
@@ -6769,7 +6621,7 @@
   {
    "id": "kb-0041",
    "type": "article",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -6829,12 +6681,12 @@
       "supplier monitoring"
      ],
      "path": "catalog/en/articles/ecovadis-supplier-engagement-programmes.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/knowledge/ecovadis-supplier-engagement-programmes/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
       "sustainable-procurement-where-to-start",
-      "sustainable-procurement-measures-sup307",
+      "sustainable-procurement-measures",
       "ecovadis-sustain-2026-takeaways"
      ],
      "relations": {},
@@ -6871,12 +6723,12 @@
       "monitoring fournisseurs"
      ],
      "path": "catalog/fr/articles/programmes-engagement-fournisseurs.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/savoir/programmes-engagement-fournisseurs/",
      "source_lang": "en",
      "translation_of": "ecovadis-supplier-engagement-programmes",
      "related": [
       "achats-responsables-par-ou-commencer",
-      "mesures-achats-responsables-sup307",
+      "mesures-achats-responsables",
       "enseignements-ecovadis-sustain-2026"
      ],
      "relations": {},
@@ -6914,12 +6766,12 @@
       "kmo"
      ],
      "path": "catalog/nl/articles/leveranciersengagement-programmas.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/kennis/leveranciersengagement-programmas/",
      "source_lang": "en",
      "translation_of": "ecovadis-supplier-engagement-programmes",
      "related": [
       "duurzame-inkoop-waar-beginnen",
-      "duurzame-inkoop-maatregelen-sup307",
+      "duurzame-inkoop-maatregelen",
       "lessen-van-ecovadis-sustain-2026"
      ],
      "relations": {},
@@ -6944,7 +6796,7 @@
   {
    "id": "kb-0100",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -6995,7 +6847,7 @@
       "reattach documents"
      ],
      "path": "catalog/en/faq/55-document-limit-and-combining-documents.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/55-document-limit-and-combining-documents/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -7017,7 +6869,7 @@
       "rattacher documents"
      ],
      "path": "catalog/fr/faq/limite-55-documents-et-regroupement.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/limite-55-documents-et-regroupement/",
      "source_lang": "en",
      "translation_of": "55-document-limit-and-combining-documents",
      "related": [
@@ -7039,7 +6891,7 @@
       "documenten opnieuw koppelen"
      ],
      "path": "catalog/nl/faq/limiet-55-documenten-en-bundelen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/limiet-55-documenten-en-bundelen/",
      "source_lang": "en",
      "translation_of": "55-document-limit-and-combining-documents",
      "related": [
@@ -7055,7 +6907,7 @@
   {
    "id": "kb-0101",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -7105,7 +6957,7 @@
       "percentile ranking"
      ],
      "path": "catalog/en/faq/how-ecovadis-ensures-fair-scoring.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/how-ecovadis-ensures-fair-scoring/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -7127,7 +6979,7 @@
       "classement percentile"
      ],
      "path": "catalog/fr/faq/comment-ecovadis-garantit-une-notation-equitable.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/comment-ecovadis-garantit-une-notation-equitable/",
      "source_lang": "en",
      "translation_of": "how-ecovadis-ensures-fair-scoring",
      "related": [
@@ -7149,7 +7001,7 @@
       "percentielrangschikking"
      ],
      "path": "catalog/nl/faq/hoe-ecovadis-eerlijke-scoring-garandeert.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/hoe-ecovadis-eerlijke-scoring-garandeert/",
      "source_lang": "en",
      "translation_of": "how-ecovadis-ensures-fair-scoring",
      "related": [
@@ -7165,7 +7017,7 @@
   {
    "id": "kb-0102",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -7212,7 +7064,7 @@
       "governance"
      ],
      "path": "catalog/en/faq/motivating-procurement-teams-sustainability.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/motivating-procurement-teams-sustainability/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -7234,7 +7086,7 @@
       "gouvernance"
      ],
      "path": "catalog/fr/faq/motiver-les-equipes-achats-durabilite.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/motiver-les-equipes-achats-durabilite/",
      "source_lang": "en",
      "translation_of": "motivating-procurement-teams-sustainability",
      "related": [
@@ -7256,7 +7108,7 @@
       "governance"
      ],
      "path": "catalog/nl/faq/inkoopteams-motiveren-voor-duurzaamheid.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/inkoopteams-motiveren-voor-duurzaamheid/",
      "source_lang": "en",
      "translation_of": "motivating-procurement-teams-sustainability",
      "related": [
@@ -7272,7 +7124,7 @@
   {
    "id": "kb-0103",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -7321,7 +7173,7 @@
       "single source"
      ],
      "path": "catalog/en/faq/handling-multiple-customer-questionnaires.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/handling-multiple-customer-questionnaires/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -7342,7 +7194,7 @@
       "source unique"
      ],
      "path": "catalog/fr/faq/gerer-les-questionnaires-clients-multiples.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/gerer-les-questionnaires-clients-multiples/",
      "source_lang": "en",
      "translation_of": "handling-multiple-customer-questionnaires",
      "related": [
@@ -7363,7 +7215,7 @@
       "unieke bron"
      ],
      "path": "catalog/nl/faq/omgaan-met-meerdere-klantenvragenlijsten.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/omgaan-met-meerdere-klantenvragenlijsten/",
      "source_lang": "en",
      "translation_of": "handling-multiple-customer-questionnaires",
      "related": [
@@ -7378,7 +7230,7 @@
   {
    "id": "kb-0104",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "choisir",
    "situations": [
     "S1",
@@ -7429,7 +7281,7 @@
       "third-party assurance"
      ],
      "path": "catalog/en/faq/vsme-and-ecovadis-complementary.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/vsme-and-ecovadis-complementary/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -7452,7 +7304,7 @@
       "vérification tierce"
      ],
      "path": "catalog/fr/faq/vsme-et-ecovadis-complementaires.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/vsme-et-ecovadis-complementaires/",
      "source_lang": "en",
      "translation_of": "vsme-and-ecovadis-complementary",
      "related": [
@@ -7475,7 +7327,7 @@
       "externe verificatie"
      ],
      "path": "catalog/nl/faq/vsme-en-ecovadis-complementair.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/vsme-en-ecovadis-complementair/",
      "source_lang": "en",
      "translation_of": "vsme-and-ecovadis-complementary",
      "related": [
@@ -7491,7 +7343,7 @@
   {
    "id": "kb-0105",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -7540,7 +7392,7 @@
       "ESG disclosures"
      ],
      "path": "catalog/en/faq/what-is-double-materiality.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/what-is-double-materiality/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -7561,7 +7413,7 @@
       "divulgations ESG"
      ],
      "path": "catalog/fr/faq/quest-ce-que-la-double-materialite.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/quest-ce-que-la-double-materialite/",
      "source_lang": "en",
      "translation_of": "what-is-double-materiality",
      "related": [
@@ -7582,7 +7434,7 @@
       "ESG-rapportering"
      ],
      "path": "catalog/nl/faq/wat-is-dubbele-materialiteit.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/wat-is-dubbele-materialiteit/",
      "source_lang": "en",
      "translation_of": "what-is-double-materiality",
      "related": [
@@ -7597,7 +7449,7 @@
   {
    "id": "kb-0106",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -7646,7 +7498,7 @@
       "stakeholder engagement"
      ],
      "path": "catalog/en/faq/how-often-refresh-double-materiality.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/how-often-refresh-double-materiality/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -7667,7 +7519,7 @@
       "parties prenantes"
      ],
      "path": "catalog/fr/faq/frequence-actualisation-double-materialite.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/frequence-actualisation-double-materialite/",
      "source_lang": "en",
      "translation_of": "how-often-refresh-double-materiality",
      "related": [
@@ -7688,7 +7540,7 @@
       "stakeholders"
      ],
      "path": "catalog/nl/faq/hoe-vaak-dubbele-materialiteit-actualiseren.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/hoe-vaak-dubbele-materialiteit-actualiseren/",
      "source_lang": "en",
      "translation_of": "how-often-refresh-double-materiality",
      "related": [
@@ -7703,7 +7555,7 @@
   {
    "id": "kb-0107",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -7752,7 +7604,7 @@
       "competitive position"
      ],
      "path": "catalog/en/faq/importance-of-peer-benchmarking-esg.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/importance-of-peer-benchmarking-esg/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -7773,7 +7625,7 @@
       "position concurrentielle"
      ],
      "path": "catalog/fr/faq/importance-du-benchmark-esg.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/importance-du-benchmark-esg/",
      "source_lang": "en",
      "translation_of": "importance-of-peer-benchmarking-esg",
      "related": [
@@ -7794,7 +7646,7 @@
       "concurrentiepositie"
      ],
      "path": "catalog/nl/faq/belang-van-esg-benchmarking.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/belang-van-esg-benchmarking/",
      "source_lang": "en",
      "translation_of": "importance-of-peer-benchmarking-esg",
      "related": [
@@ -7810,7 +7662,7 @@
   {
    "id": "kb-0108",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -7857,7 +7709,7 @@
       "task force"
      ],
      "path": "catalog/en/faq/employee-engagement-emissions-monitoring.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/employee-engagement-emissions-monitoring/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -7879,7 +7731,7 @@
       "task force"
      ],
      "path": "catalog/fr/faq/engager-les-employes-suivi-des-emissions.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/engager-les-employes-suivi-des-emissions/",
      "source_lang": "en",
      "translation_of": "employee-engagement-emissions-monitoring",
      "related": [
@@ -7901,7 +7753,7 @@
       "taskforce"
      ],
      "path": "catalog/nl/faq/medewerkers-betrekken-bij-emissiemonitoring.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/medewerkers-betrekken-bij-emissiemonitoring/",
      "source_lang": "en",
      "translation_of": "employee-engagement-emissions-monitoring",
      "related": [
@@ -7917,7 +7769,7 @@
   {
    "id": "kb-0109",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -7966,7 +7818,7 @@
       "Category 1"
      ],
      "path": "catalog/en/faq/why-scope-3-despite-double-counting.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/why-scope-3-despite-double-counting/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -7988,7 +7840,7 @@
       "catégorie 1"
      ],
      "path": "catalog/fr/faq/pourquoi-le-scope-3-malgre-le-double-comptage.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/pourquoi-le-scope-3-malgre-le-double-comptage/",
      "source_lang": "en",
      "translation_of": "why-scope-3-despite-double-counting",
      "related": [
@@ -8010,7 +7862,7 @@
       "categorie 1"
      ],
      "path": "catalog/nl/faq/waarom-scope-3-ondanks-dubbeltelling.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/waarom-scope-3-ondanks-dubbeltelling/",
      "source_lang": "en",
      "translation_of": "why-scope-3-despite-double-counting",
      "related": [
@@ -8026,7 +7878,7 @@
   {
    "id": "kb-0110",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -8073,7 +7925,7 @@
       "baseline"
      ],
      "path": "catalog/en/faq/carbon-target-setting-and-sbti.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/carbon-target-setting-and-sbti/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -8094,7 +7946,7 @@
       "base de référence"
      ],
      "path": "catalog/fr/faq/fixer-des-objectifs-carbone-et-sbti.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/fixer-des-objectifs-carbone-et-sbti/",
      "source_lang": "en",
      "translation_of": "carbon-target-setting-and-sbti",
      "related": [
@@ -8115,7 +7967,7 @@
       "nulmeting"
      ],
      "path": "catalog/nl/faq/koolstofdoelen-stellen-en-sbti.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/koolstofdoelen-stellen-en-sbti/",
      "source_lang": "en",
      "translation_of": "carbon-target-setting-and-sbti",
      "related": [
@@ -8130,7 +7982,7 @@
   {
    "id": "kb-0111",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -8179,7 +8031,7 @@
       "monitoring system"
      ],
      "path": "catalog/en/faq/climate-risk-assessments-and-monitoring.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/climate-risk-assessments-and-monitoring/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -8200,7 +8052,7 @@
       "système de suivi"
      ],
      "path": "catalog/fr/faq/analyses-de-risque-climatique-et-suivi.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/analyses-de-risque-climatique-et-suivi/",
      "source_lang": "en",
      "translation_of": "climate-risk-assessments-and-monitoring",
      "related": [
@@ -8221,7 +8073,7 @@
       "monitoringsysteem"
      ],
      "path": "catalog/nl/faq/klimaatrisicoanalyses-en-monitoring.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/klimaatrisicoanalyses-en-monitoring/",
      "source_lang": "en",
      "translation_of": "climate-risk-assessments-and-monitoring",
      "related": [
@@ -8236,7 +8088,7 @@
   {
    "id": "kb-0112",
    "type": "faq",
-   "status": "review",
+   "status": "archived",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -8342,7 +8194,7 @@
   {
    "id": "kb-0113",
    "type": "faq",
-   "status": "review",
+   "status": "archived",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -8445,7 +8297,7 @@
   {
    "id": "kb-0114",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S3"
@@ -8494,7 +8346,7 @@
       "Document Guide"
      ],
      "path": "catalog/en/faq/preview-questionnaire-before-purchase.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/preview-questionnaire-before-purchase/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -8516,7 +8368,7 @@
       "guide des documents"
      ],
      "path": "catalog/fr/faq/previsualiser-le-questionnaire-avant-achat.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/previsualiser-le-questionnaire-avant-achat/",
      "source_lang": "en",
      "translation_of": "preview-questionnaire-before-purchase",
      "related": [
@@ -8538,7 +8390,7 @@
       "documentengids"
      ],
      "path": "catalog/nl/faq/vragenlijst-bekijken-voor-aankoop.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/vragenlijst-bekijken-voor-aankoop/",
      "source_lang": "en",
      "translation_of": "preview-questionnaire-before-purchase",
      "related": [
@@ -8554,7 +8406,7 @@
   {
    "id": "kb-0115",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "choisir",
    "situations": [
     "S3"
@@ -8601,7 +8453,7 @@
       "legal entity"
      ],
      "path": "catalog/en/faq/assessment-entity-level-group-or-subsidiary.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/assessment-entity-level-group-or-subsidiary/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -8622,7 +8474,7 @@
       "entité légale"
      ],
      "path": "catalog/fr/faq/niveau-d-evaluation-groupe-ou-filiale.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/niveau-d-evaluation-groupe-ou-filiale/",
      "source_lang": "en",
      "translation_of": "assessment-entity-level-group-or-subsidiary",
      "related": [
@@ -8643,7 +8495,7 @@
       "juridische entiteit"
      ],
      "path": "catalog/nl/faq/beoordelingsniveau-groep-of-dochter.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/beoordelingsniveau-groep-of-dochter/",
      "source_lang": "en",
      "translation_of": "assessment-entity-level-group-or-subsidiary",
      "related": [
@@ -8658,7 +8510,7 @@
   {
    "id": "kb-0116",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -8707,7 +8559,7 @@
       "reopening"
      ],
      "path": "catalog/en/faq/submission-deadline-after-purchase.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/submission-deadline-after-purchase/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -8729,7 +8581,7 @@
       "réouverture"
      ],
      "path": "catalog/fr/faq/delai-de-soumission-apres-achat.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/delai-de-soumission-apres-achat/",
      "source_lang": "en",
      "translation_of": "submission-deadline-after-purchase",
      "related": [
@@ -8751,7 +8603,7 @@
       "heropening"
      ],
      "path": "catalog/nl/faq/indieningstermijn-na-aankoop.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/indieningstermijn-na-aankoop/",
      "source_lang": "en",
      "translation_of": "submission-deadline-after-purchase",
      "related": [
@@ -8767,7 +8619,7 @@
   {
    "id": "kb-0117",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -8816,7 +8668,7 @@
       "activated criteria"
      ],
      "path": "catalog/en/faq/non-activated-criteria-in-questionnaire.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/non-activated-criteria-in-questionnaire/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -8837,7 +8689,7 @@
       "critères activés"
      ],
      "path": "catalog/fr/faq/criteres-non-actives-dans-le-questionnaire.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/criteres-non-actives-dans-le-questionnaire/",
      "source_lang": "en",
      "translation_of": "non-activated-criteria-in-questionnaire",
      "related": [
@@ -8858,7 +8710,7 @@
       "geactiveerde criteria"
      ],
      "path": "catalog/nl/faq/niet-geactiveerde-criteria-in-de-vragenlijst.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/niet-geactiveerde-criteria-in-de-vragenlijst/",
      "source_lang": "en",
      "translation_of": "non-activated-criteria-in-questionnaire",
      "related": [
@@ -8873,7 +8725,7 @@
   {
    "id": "kb-0118",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -8922,7 +8774,7 @@
       "poor score"
      ],
      "path": "catalog/en/faq/is-a-poor-score-publicly-visible.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/is-a-poor-score-publicly-visible/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -8943,7 +8795,7 @@
       "mauvais score"
      ],
      "path": "catalog/fr/faq/un-mauvais-score-est-il-visible-publiquement.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/un-mauvais-score-est-il-visible-publiquement/",
      "source_lang": "en",
      "translation_of": "is-a-poor-score-publicly-visible",
      "related": [
@@ -8964,7 +8816,7 @@
       "slechte score"
      ],
      "path": "catalog/nl/faq/is-een-slechte-score-publiek-zichtbaar.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/is-een-slechte-score-publiek-zichtbaar/",
      "source_lang": "en",
      "translation_of": "is-a-poor-score-publicly-visible",
      "related": [
@@ -8979,7 +8831,7 @@
   {
    "id": "kb-0119",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -9027,7 +8879,7 @@
       "gap analysis"
      ],
      "path": "catalog/en/faq/how-does-a-reassessment-work.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/how-does-a-reassessment-work/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -9049,7 +8901,7 @@
       "gap analysis"
      ],
      "path": "catalog/fr/faq/comment-se-deroule-une-reevaluation.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/comment-se-deroule-une-reevaluation/",
      "source_lang": "en",
      "translation_of": "how-does-a-reassessment-work",
      "related": [
@@ -9071,7 +8923,7 @@
       "gap-analyse"
      ],
      "path": "catalog/nl/faq/hoe-verloopt-een-herbeoordeling.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/hoe-verloopt-een-herbeoordeling/",
      "source_lang": "en",
      "translation_of": "how-does-a-reassessment-work",
      "related": [
@@ -9087,7 +8939,7 @@
   {
    "id": "kb-0120",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -9138,7 +8990,7 @@
       "rising thresholds"
      ],
      "path": "catalog/en/faq/assessment-changes-to-prepare-for-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/assessment-changes-to-prepare-for-2026/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -9161,7 +9013,7 @@
       "seuils en hausse"
      ],
      "path": "catalog/fr/faq/changements-d-evaluation-a-anticiper-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/changements-d-evaluation-a-anticiper-2026/",
      "source_lang": "en",
      "translation_of": "assessment-changes-to-prepare-for-2026",
      "related": [
@@ -9184,7 +9036,7 @@
       "stijgende drempels"
      ],
      "path": "catalog/nl/faq/beoordelingswijzigingen-om-voor-te-bereiden-2026.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/beoordelingswijzigingen-om-voor-te-bereiden-2026/",
      "source_lang": "en",
      "translation_of": "assessment-changes-to-prepare-for-2026",
      "related": [
@@ -9201,7 +9053,7 @@
   {
    "id": "kb-0121",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -9252,7 +9104,7 @@
       "Reporting cap 50"
      ],
      "path": "catalog/en/faq/levers-for-companies-outside-csrd.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/levers-for-companies-outside-csrd/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -9276,7 +9128,7 @@
       "plafond Reporting 50"
      ],
      "path": "catalog/fr/faq/leviers-pour-entreprises-hors-csrd.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/leviers-pour-entreprises-hors-csrd/",
      "source_lang": "en",
      "translation_of": "levers-for-companies-outside-csrd",
      "related": [
@@ -9300,7 +9152,7 @@
       "Rapporteringsplafond 50"
      ],
      "path": "catalog/nl/faq/hefbomen-voor-ondernemingen-buiten-csrd.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/hefbomen-voor-ondernemingen-buiten-csrd/",
      "source_lang": "en",
      "translation_of": "levers-for-companies-outside-csrd",
      "related": [
@@ -9316,7 +9168,7 @@
   {
    "id": "kb-0122",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -9369,7 +9221,7 @@
       "company logo"
      ],
      "path": "catalog/en/faq/document-quality-validity-and-strong-policies.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/document-quality-validity-and-strong-policies/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -9393,7 +9245,7 @@
       "logo entreprise"
      ],
      "path": "catalog/fr/faq/qualite-validite-des-documents-et-politiques-solides.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/qualite-validite-des-documents-et-politiques-solides/",
      "source_lang": "en",
      "translation_of": "document-quality-validity-and-strong-policies",
      "related": [
@@ -9417,7 +9269,7 @@
       "bedrijfslogo"
      ],
      "path": "catalog/nl/faq/documentkwaliteit-geldigheid-en-sterk-beleid.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/documentkwaliteit-geldigheid-en-sterk-beleid/",
      "source_lang": "en",
      "translation_of": "document-quality-validity-and-strong-policies",
      "related": [
@@ -9433,7 +9285,7 @@
   {
    "id": "kb-0123",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -9482,7 +9334,7 @@
       "certification scope"
      ],
      "path": "catalog/en/faq/parent-or-sister-company-documentation.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/parent-or-sister-company-documentation/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -9503,7 +9355,7 @@
       "périmètre de certification"
      ],
      "path": "catalog/fr/faq/documents-de-maison-mere-ou-societe-soeur.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/documents-de-maison-mere-ou-societe-soeur/",
      "source_lang": "en",
      "translation_of": "parent-or-sister-company-documentation",
      "related": [
@@ -9524,7 +9376,7 @@
       "certificaatscope"
      ],
      "path": "catalog/nl/faq/documenten-van-moeder-of-zusterbedrijf.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/documenten-van-moeder-of-zusterbedrijf/",
      "source_lang": "en",
      "translation_of": "parent-or-sister-company-documentation",
      "related": [
@@ -9539,7 +9391,7 @@
   {
    "id": "kb-0124",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -9587,7 +9439,7 @@
       "rejection reason"
      ],
      "path": "catalog/en/faq/keep-or-delete-rejected-documents.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/keep-or-delete-rejected-documents/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -9607,7 +9459,7 @@
       "raison du rejet"
      ],
      "path": "catalog/fr/faq/garder-ou-supprimer-les-documents-rejetes.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/garder-ou-supprimer-les-documents-rejetes/",
      "source_lang": "en",
      "translation_of": "keep-or-delete-rejected-documents",
      "related": [
@@ -9627,7 +9479,7 @@
       "verwerpingsreden"
      ],
      "path": "catalog/nl/faq/verworpen-documenten-bewaren-of-verwijderen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/verworpen-documenten-bewaren-of-verwijderen/",
      "source_lang": "en",
      "translation_of": "keep-or-delete-rejected-documents",
      "related": [
@@ -9642,7 +9494,7 @@
   {
    "id": "kb-0125",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -9690,7 +9542,7 @@
       "methodology update"
      ],
      "path": "catalog/en/faq/kpi-document-accepted-then-rejected.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/kpi-document-accepted-then-rejected/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -9712,7 +9564,7 @@
       "mise à jour méthodologique"
      ],
      "path": "catalog/fr/faq/document-kpi-accepte-puis-rejete.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/document-kpi-accepte-puis-rejete/",
      "source_lang": "en",
      "translation_of": "kpi-document-accepted-then-rejected",
      "related": [
@@ -9734,7 +9586,7 @@
       "methodologie-update"
      ],
      "path": "catalog/nl/faq/kpi-document-eerst-aanvaard-dan-verworpen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/kpi-document-eerst-aanvaard-dan-verworpen/",
      "source_lang": "en",
      "translation_of": "kpi-document-accepted-then-rejected",
      "related": [
@@ -9750,7 +9602,7 @@
   {
    "id": "kb-0126",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -9800,7 +9652,7 @@
       "SMETA"
      ],
      "path": "catalog/en/faq/evidence-of-implementation-vs-paper-policies.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/evidence-of-implementation-vs-paper-policies/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -9823,7 +9675,7 @@
       "SMETA"
      ],
      "path": "catalog/fr/faq/preuves-de-mise-en-oeuvre-vs-politiques-papier.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/preuves-de-mise-en-oeuvre-vs-politiques-papier/",
      "source_lang": "en",
      "translation_of": "evidence-of-implementation-vs-paper-policies",
      "related": [
@@ -9846,7 +9698,7 @@
       "SMETA"
      ],
      "path": "catalog/nl/faq/bewijs-van-uitvoering-versus-papieren-beleid.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/bewijs-van-uitvoering-versus-papieren-beleid/",
      "source_lang": "en",
      "translation_of": "evidence-of-implementation-vs-paper-policies",
      "related": [
@@ -9862,7 +9714,7 @@
   {
    "id": "kb-0127",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S3",
@@ -9910,7 +9762,7 @@
       "baseline data"
      ],
      "path": "catalog/en/faq/most-common-documentation-gaps-smes.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/most-common-documentation-gaps-smes/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -9932,7 +9784,7 @@
       "données de référence"
      ],
      "path": "catalog/fr/faq/lacunes-documentaires-les-plus-frequentes-pme.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/lacunes-documentaires-les-plus-frequentes-pme/",
      "source_lang": "en",
      "translation_of": "most-common-documentation-gaps-smes",
      "related": [
@@ -9954,7 +9806,7 @@
       "nulmetingsdata"
      ],
      "path": "catalog/nl/faq/meest-voorkomende-documentatiekloven-kmo.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/meest-voorkomende-documentatiekloven-kmo/",
      "source_lang": "en",
      "translation_of": "most-common-documentation-gaps-smes",
      "related": [
@@ -9970,7 +9822,7 @@
   {
    "id": "kb-0128",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -10019,7 +9871,7 @@
       "analyst guidance"
      ],
      "path": "catalog/en/faq/free-text-comment-field-role.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/free-text-comment-field-role/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -10040,7 +9892,7 @@
       "orientation analyste"
      ],
      "path": "catalog/fr/faq/role-du-champ-de-commentaire-libre.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/role-du-champ-de-commentaire-libre/",
      "source_lang": "en",
      "translation_of": "free-text-comment-field-role",
      "related": [
@@ -10061,7 +9913,7 @@
       "analist wijzen"
      ],
      "path": "catalog/nl/faq/rol-van-het-vrije-commentaarveld.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/rol-van-het-vrije-commentaarveld/",
      "source_lang": "en",
      "translation_of": "free-text-comment-field-role",
      "related": [
@@ -10076,7 +9928,7 @@
   {
    "id": "kb-0129",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -10127,7 +9979,7 @@
       "ESRS data points"
      ],
      "path": "catalog/en/faq/have-documentation-expectations-tightened.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/have-documentation-expectations-tightened/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -10149,7 +10001,7 @@
       "points de données ESRS"
      ],
      "path": "catalog/fr/faq/les-exigences-documentaires-se-sont-elles-durcies.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/les-exigences-documentaires-se-sont-elles-durcies/",
      "source_lang": "en",
      "translation_of": "have-documentation-expectations-tightened",
      "related": [
@@ -10171,7 +10023,7 @@
       "ESRS-datapunten"
      ],
      "path": "catalog/nl/faq/zijn-de-documentatie-eisen-strenger-geworden.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/zijn-de-documentatie-eisen-strenger-geworden/",
      "source_lang": "en",
      "translation_of": "have-documentation-expectations-tightened",
      "related": [
@@ -10187,7 +10039,7 @@
   {
    "id": "kb-0130",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -10239,7 +10091,7 @@
       "Coverage"
      ],
      "path": "catalog/en/faq/six-traps-that-cost-your-score.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/six-traps-that-cost-your-score/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -10262,7 +10114,7 @@
       "Coverage"
      ],
      "path": "catalog/fr/faq/six-pieges-qui-coutent-des-points.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/six-pieges-qui-coutent-des-points/",
      "source_lang": "en",
      "translation_of": "six-traps-that-cost-your-score",
      "related": [
@@ -10285,7 +10137,7 @@
       "Coverage"
      ],
      "path": "catalog/nl/faq/zes-valkuilen-die-punten-kosten.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/zes-valkuilen-die-punten-kosten/",
      "source_lang": "en",
      "translation_of": "six-traps-that-cost-your-score",
      "related": [
@@ -10301,7 +10153,7 @@
   {
    "id": "kb-0131",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "choisir",
    "situations": [
     "S1",
@@ -10343,18 +10195,18 @@
     "en": {
      "slug": "score-needed-for-each-medal",
      "title": "What score is needed for each medal, and can medals be predicted before submission?",
-     "summary": "Since January 2024 medals are percentile-based: Bronze top 35%, Silver top 15%, Gold top 5%, Platinum top 1%. ESGIM benchmarking as of July 2026 puts indicative thresholds at ~64 (Bronze), ~73 (Silver), ~81 (Gold), ~84 (Platinum) — directional estimates, not EcoVadis-published targets. A structured gap analysis predicts the medal with reasonable confidence.",
-     "description": "Since January 2024 medals are percentile-based. ESGIM benchmarking of July 2026 puts indicative thresholds around 64, 73, 81 and 84.",
+     "summary": "Since January 2024 medals are percentile-based: Bronze top 35%, Silver top 15%, Gold top 5%, Platinum top 1%. ESGIM benchmarking as of August 2026 puts indicative thresholds at ~64 (Bronze), ~73 (Silver), ~81 (Gold), ~86 (Platinum) — directional estimates, not EcoVadis-published targets. A structured gap analysis predicts the medal with reasonable confidence.",
+     "description": "Since January 2024 medals are percentile-based. ESGIM benchmarking of August 2026 puts indicative thresholds around 64, 73, 81 and 86.",
      "keywords": [
       "medal thresholds",
       "64 Bronze",
       "73 Silver",
       "81 Gold",
-      "84 Platinum",
+      "86 Platinum",
       "percentile"
      ],
      "path": "catalog/en/faq/score-needed-for-each-medal.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/score-needed-for-each-medal/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -10367,18 +10219,18 @@
     "fr": {
      "slug": "score-necessaire-pour-chaque-medaille",
      "title": "Quel score faut-il pour chaque médaille, et peut-on prédire la médaille avant soumission ?",
-     "summary": "Depuis janvier 2024, les médailles sont au percentile : Bronze top 35 %, Argent top 15 %, Or top 5 %, Platine top 1 %. Le benchmark ESGIM (juillet 2026) situe les seuils indicatifs vers 64 (Bronze), 73 (Argent), 81 (Or), 84 (Platine) — des estimations, pas des cibles publiées. Une gap analysis structurée prédit la médaille avec une confiance raisonnable.",
-     "description": "Depuis janvier 2024 les médailles sont au percentile. Le benchmark ESGIM de juillet 2026 situe les seuils indicatifs autour de 64, 73, 81 et 84.",
+     "summary": "Depuis janvier 2024, les médailles sont au percentile : Bronze top 35 %, Argent top 15 %, Or top 5 %, Platine top 1 %. Le benchmark ESGIM (août 2026) situe les seuils indicatifs vers 64 (Bronze), 73 (Argent), 81 (Or), 86 (Platine) — des estimations, pas des cibles publiées. Une gap analysis structurée prédit la médaille avec une confiance raisonnable.",
+     "description": "Depuis janvier 2024 les médailles sont au percentile. Le benchmark ESGIM d'août 2026 situe les seuils indicatifs autour de 64, 73, 81 et 86.",
      "keywords": [
       "seuils médailles",
       "64 Bronze",
       "73 Argent",
       "81 Or",
-      "84 Platine",
+      "86 Platine",
       "percentile"
      ],
      "path": "catalog/fr/faq/score-necessaire-pour-chaque-medaille.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/score-necessaire-pour-chaque-medaille/",
      "source_lang": "en",
      "translation_of": "score-needed-for-each-medal",
      "related": [
@@ -10391,18 +10243,18 @@
     "nl": {
      "slug": "score-nodig-voor-elke-medaille",
      "title": "Welke score is nodig voor elke medaille, en kan de medaille vóór indiening worden voorspeld?",
-     "summary": "Sinds januari 2024 zijn medailles percentielgebaseerd: Brons top 35%, Zilver top 15%, Goud top 5%, Platinum top 1%. De ESGIM-benchmark (juli 2026) plaatst de indicatieve drempels rond 64 (Brons), 73 (Zilver), 81 (Goud), 84 (Platinum) — richtinggevende ramingen, geen gepubliceerde doelen. Een gestructureerde gap-analyse voorspelt de medaille met redelijke zekerheid.",
-     "description": "Sinds januari 2024 zijn medailles percentielgebaseerd. De ESGIM-benchmark van juli 2026 plaatst de indicatieve drempels rond 64, 73, 81 en 84.",
+     "summary": "Sinds januari 2024 zijn medailles percentielgebaseerd: Brons top 35%, Zilver top 15%, Goud top 5%, Platinum top 1%. De ESGIM-benchmark (augustus 2026) plaatst de indicatieve drempels rond 64 (Brons), 73 (Zilver), 81 (Goud), 86 (Platinum) — richtinggevende ramingen, geen gepubliceerde doelen. Een gestructureerde gap-analyse voorspelt de medaille met redelijke zekerheid.",
+     "description": "Sinds januari 2024 zijn medailles percentielgebaseerd. De ESGIM-benchmark van augustus 2026 plaatst de indicatieve drempels rond 64, 73, 81 en 86.",
      "keywords": [
       "medailledrempels",
       "64 Brons",
       "73 Zilver",
       "81 Goud",
-      "84 Platinum",
+      "86 Platinum",
       "percentiel"
      ],
      "path": "catalog/nl/faq/score-nodig-voor-elke-medaille.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/score-nodig-voor-elke-medaille/",
      "source_lang": "en",
      "translation_of": "score-needed-for-each-medal",
      "related": [
@@ -10418,7 +10270,7 @@
   {
    "id": "kb-0132",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -10467,7 +10319,7 @@
       "verified report"
      ],
      "path": "catalog/en/faq/evidence-per-medal-level.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/evidence-per-medal-level/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -10490,7 +10342,7 @@
       "rapport vérifié"
      ],
      "path": "catalog/fr/faq/preuves-par-niveau-de-medaille.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/preuves-par-niveau-de-medaille/",
      "source_lang": "en",
      "translation_of": "evidence-per-medal-level",
      "related": [
@@ -10513,7 +10365,7 @@
       "geverifieerd rapport"
      ],
      "path": "catalog/nl/faq/bewijs-per-medailleniveau.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/bewijs-per-medailleniveau/",
      "source_lang": "en",
      "translation_of": "evidence-per-medal-level",
      "related": [
@@ -10530,7 +10382,7 @@
   {
    "id": "kb-0133",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -10581,7 +10433,7 @@
       "Coverage multiplier"
      ],
      "path": "catalog/en/faq/score-calculation-model-and-weights.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/score-calculation-model-and-weights/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -10604,7 +10456,7 @@
       "multiplicateur Coverage"
      ],
      "path": "catalog/fr/faq/modele-de-calcul-du-score-et-ponderations.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/modele-de-calcul-du-score-et-ponderations/",
      "source_lang": "en",
      "translation_of": "score-calculation-model-and-weights",
      "related": [
@@ -10627,7 +10479,7 @@
       "Coverage-vermenigvuldiger"
      ],
      "path": "catalog/nl/faq/scoreberekeningsmodel-en-wegingen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/scoreberekeningsmodel-en-wegingen/",
      "source_lang": "en",
      "translation_of": "score-calculation-model-and-weights",
      "related": [
@@ -10643,7 +10495,7 @@
   {
    "id": "kb-0134",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -10693,7 +10545,7 @@
       "72 Silver Bronze"
      ],
      "path": "catalog/en/faq/will-our-score-drop-if-others-improve.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/will-our-score-drop-if-others-improve/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -10715,7 +10567,7 @@
       "72 Argent Bronze"
      ],
      "path": "catalog/fr/faq/notre-score-baisse-t-il-si-les-autres-progressent.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/notre-score-baisse-t-il-si-les-autres-progressent/",
      "source_lang": "en",
      "translation_of": "will-our-score-drop-if-others-improve",
      "related": [
@@ -10737,7 +10589,7 @@
       "72 Zilver Brons"
      ],
      "path": "catalog/nl/faq/daalt-onze-score-als-anderen-verbeteren.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/daalt-onze-score-als-anderen-verbeteren/",
      "source_lang": "en",
      "translation_of": "will-our-score-drop-if-others-improve",
      "related": [
@@ -10753,7 +10605,7 @@
   {
    "id": "kb-0135",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -10800,7 +10652,7 @@
       "multiplier"
      ],
      "path": "catalog/en/faq/cross-theme-questions-and-weighting.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/cross-theme-questions-and-weighting/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -10821,7 +10673,7 @@
       "multiplicateur"
      ],
      "path": "catalog/fr/faq/questions-transversales-et-ponderation.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/questions-transversales-et-ponderation/",
      "source_lang": "en",
      "translation_of": "cross-theme-questions-and-weighting",
      "related": [
@@ -10842,7 +10694,7 @@
       "multiplicator"
      ],
      "path": "catalog/nl/faq/themaoverschrijdende-vragen-en-weging.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/themaoverschrijdende-vragen-en-weging/",
      "source_lang": "en",
      "translation_of": "cross-theme-questions-and-weighting",
      "related": [
@@ -10857,7 +10709,7 @@
   {
    "id": "kb-0136",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -10905,7 +10757,7 @@
       "implementation evidence"
      ],
      "path": "catalog/en/faq/what-counts-as-a-measure.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/what-counts-as-a-measure/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -10926,7 +10778,7 @@
       "preuve de mise en œuvre"
      ],
      "path": "catalog/fr/faq/qu-est-ce-qui-compte-comme-mesure.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/qu-est-ce-qui-compte-comme-mesure/",
      "source_lang": "en",
      "translation_of": "what-counts-as-a-measure",
      "related": [
@@ -10947,7 +10799,7 @@
       "uitvoeringsbewijs"
      ],
      "path": "catalog/nl/faq/wat-telt-als-een-maatregel.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/wat-telt-als-een-maatregel/",
      "source_lang": "en",
      "translation_of": "what-counts-as-a-measure",
      "related": [
@@ -10963,7 +10815,7 @@
   {
    "id": "kb-0137",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -11012,7 +10864,7 @@
       "measures scoring"
      ],
      "path": "catalog/en/faq/how-many-measures-per-criterion.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/how-many-measures-per-criterion/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -11034,7 +10886,7 @@
       "score mesures"
      ],
      "path": "catalog/fr/faq/combien-de-mesures-par-critere.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/combien-de-mesures-par-critere/",
      "source_lang": "en",
      "translation_of": "how-many-measures-per-criterion",
      "related": [
@@ -11056,7 +10908,7 @@
       "maatregelenscore"
      ],
      "path": "catalog/nl/faq/hoeveel-maatregelen-per-criterium.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/hoeveel-maatregelen-per-criterium/",
      "source_lang": "en",
      "translation_of": "how-many-measures-per-criterion",
      "related": [
@@ -11072,7 +10924,7 @@
   {
    "id": "kb-0138",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -11119,7 +10971,7 @@
       "proxy KPIs"
      ],
      "path": "catalog/en/faq/how-the-coverage-indicator-works.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/how-the-coverage-indicator-works/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -11141,7 +10993,7 @@
       "KPI proxy"
      ],
      "path": "catalog/fr/faq/comment-fonctionne-l-indicateur-coverage.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/comment-fonctionne-l-indicateur-coverage/",
      "source_lang": "en",
      "translation_of": "how-the-coverage-indicator-works",
      "related": [
@@ -11163,7 +11015,7 @@
       "proxy-KPI's"
      ],
      "path": "catalog/nl/faq/hoe-de-coverage-indicator-werkt.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/hoe-de-coverage-indicator-werkt/",
      "source_lang": "en",
      "translation_of": "how-the-coverage-indicator-works",
      "related": [
@@ -11178,7 +11030,7 @@
   {
    "id": "kb-0139",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -11228,7 +11080,7 @@
       "2026 methodology"
      ],
      "path": "catalog/en/faq/reporting-75-without-public-report.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/reporting-75-without-public-report/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -11250,7 +11102,7 @@
       "méthodologie 2026"
      ],
      "path": "catalog/fr/faq/reporting-75-sans-rapport-public.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/reporting-75-sans-rapport-public/",
      "source_lang": "en",
      "translation_of": "reporting-75-without-public-report",
      "related": [
@@ -11272,7 +11124,7 @@
       "methodologie 2026"
      ],
      "path": "catalog/nl/faq/rapportering-75-zonder-publiek-rapport.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/rapportering-75-zonder-publiek-rapport/",
      "source_lang": "en",
      "translation_of": "reporting-75-without-public-report",
      "related": [
@@ -11288,7 +11140,7 @@
   {
    "id": "kb-0140",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -11337,7 +11189,7 @@
       "71 below Silver"
      ],
      "path": "catalog/en/faq/company-size-reclassification-impact.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/company-size-reclassification-impact/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -11359,7 +11211,7 @@
       "71 sous l'Argent"
      ],
      "path": "catalog/fr/faq/impact-du-reclassement-de-taille.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/impact-du-reclassement-de-taille/",
      "source_lang": "en",
      "translation_of": "company-size-reclassification-impact",
      "related": [
@@ -11381,7 +11233,7 @@
       "71 onder Zilver"
      ],
      "path": "catalog/nl/faq/impact-van-herindeling-naar-grootte.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/impact-van-herindeling-naar-grootte/",
      "source_lang": "en",
      "translation_of": "company-size-reclassification-impact",
      "related": [
@@ -11397,7 +11249,7 @@
   {
    "id": "kb-0141",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "choisir",
    "situations": [
     "S1",
@@ -11448,7 +11300,7 @@
       "certifications by theme"
      ],
      "path": "catalog/en/faq/achievable-certifications-by-theme.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/achievable-certifications-by-theme/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -11472,7 +11324,7 @@
       "certifications par thème"
      ],
      "path": "catalog/fr/faq/certifications-atteignables-par-theme.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/certifications-atteignables-par-theme/",
      "source_lang": "en",
      "translation_of": "achievable-certifications-by-theme",
      "related": [
@@ -11496,7 +11348,7 @@
       "certificaten per thema"
      ],
      "path": "catalog/nl/faq/haalbare-certificaten-per-thema.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/haalbare-certificaten-per-thema/",
      "source_lang": "en",
      "translation_of": "achievable-certifications-by-theme",
      "related": [
@@ -11512,7 +11364,7 @@
   {
    "id": "kb-0142",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -11560,7 +11412,7 @@
       "certification scope"
      ],
      "path": "catalog/en/faq/parent-certifications-and-operational-sites.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/parent-certifications-and-operational-sites/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -11581,7 +11433,7 @@
       "périmètre de certification"
      ],
      "path": "catalog/fr/faq/certifications-groupe-et-sites-operationnels.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/certifications-groupe-et-sites-operationnels/",
      "source_lang": "en",
      "translation_of": "parent-certifications-and-operational-sites",
      "related": [
@@ -11602,7 +11454,7 @@
       "certificaatscope"
      ],
      "path": "catalog/nl/faq/groepscertificaten-en-operationele-sites.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/groepscertificaten-en-operationele-sites/",
      "source_lang": "en",
      "translation_of": "parent-certifications-and-operational-sites",
      "related": [
@@ -11617,7 +11469,7 @@
   {
    "id": "kb-0143",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -11666,7 +11518,7 @@
       "accredited body"
      ],
      "path": "catalog/en/faq/how-ecovadis-evaluates-iso-system-maturity.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/how-ecovadis-evaluates-iso-system-maturity/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -11687,7 +11539,7 @@
       "organisme accrédité"
      ],
      "path": "catalog/fr/faq/comment-ecovadis-evalue-la-maturite-iso.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/comment-ecovadis-evalue-la-maturite-iso/",
      "source_lang": "en",
      "translation_of": "how-ecovadis-evaluates-iso-system-maturity",
      "related": [
@@ -11708,7 +11560,7 @@
       "geaccrediteerde instantie"
      ],
      "path": "catalog/nl/faq/hoe-ecovadis-de-maturiteit-van-iso-systemen-beoordeelt.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/hoe-ecovadis-de-maturiteit-van-iso-systemen-beoordeelt/",
      "source_lang": "en",
      "translation_of": "how-ecovadis-evaluates-iso-system-maturity",
      "related": [
@@ -11723,7 +11575,7 @@
   {
    "id": "kb-0144",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -11773,7 +11625,7 @@
       "5%"
      ],
      "path": "catalog/en/faq/most-common-endorsements.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/most-common-endorsements/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -11797,7 +11649,7 @@
       "5%"
      ],
      "path": "catalog/fr/faq/adhesions-les-plus-courantes.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/adhesions-les-plus-courantes/",
      "source_lang": "en",
      "translation_of": "most-common-endorsements",
      "related": [
@@ -11821,7 +11673,7 @@
       "5%"
      ],
      "path": "catalog/nl/faq/meest-voorkomende-aansluitingen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/meest-voorkomende-aansluitingen/",
      "source_lang": "en",
      "translation_of": "most-common-endorsements",
      "related": [
@@ -11837,7 +11689,7 @@
   {
    "id": "kb-0145",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comparer",
    "situations": [
     "S1",
@@ -11888,7 +11740,7 @@
       "COP"
      ],
      "path": "catalog/en/faq/sbti-or-un-global-compact.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/sbti-or-un-global-compact/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -11909,7 +11761,7 @@
       "COP"
      ],
      "path": "catalog/fr/faq/sbti-ou-pacte-mondial.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/sbti-ou-pacte-mondial/",
      "source_lang": "en",
      "translation_of": "sbti-or-un-global-compact",
      "related": [
@@ -11930,7 +11782,7 @@
       "COP"
      ],
      "path": "catalog/nl/faq/sbti-of-un-global-compact.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/sbti-of-un-global-compact/",
      "source_lang": "en",
      "translation_of": "sbti-or-un-global-compact",
      "related": [
@@ -11945,7 +11797,7 @@
   {
    "id": "kb-0146",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -11994,7 +11846,7 @@
       "Insufficient to Leader"
      ],
      "path": "catalog/en/faq/non-sbti-science-based-targets.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/non-sbti-science-based-targets/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -12015,7 +11867,7 @@
       "Insufficient Leader"
      ],
      "path": "catalog/fr/faq/objectifs-science-based-non-valides-sbti.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/objectifs-science-based-non-valides-sbti/",
      "source_lang": "en",
      "translation_of": "non-sbti-science-based-targets",
      "related": [
@@ -12036,7 +11888,7 @@
       "Insufficient Leader"
      ],
      "path": "catalog/nl/faq/niet-door-sbti-gevalideerde-doelen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/niet-door-sbti-gevalideerde-doelen/",
      "source_lang": "en",
      "translation_of": "non-sbti-science-based-targets",
      "related": [
@@ -12051,7 +11903,7 @@
   {
    "id": "kb-0147",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -12101,7 +11953,7 @@
       "Sapin II"
      ],
      "path": "catalog/en/faq/high-quality-ethics-policy.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/high-quality-ethics-policy/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -12124,7 +11976,7 @@
       "Sapin II"
      ],
      "path": "catalog/fr/faq/politique-ethique-de-qualite.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/politique-ethique-de-qualite/",
      "source_lang": "en",
      "translation_of": "high-quality-ethics-policy",
      "related": [
@@ -12147,7 +11999,7 @@
       "Sapin II"
      ],
      "path": "catalog/nl/faq/hoogwaardig-ethiekbeleid.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/hoogwaardig-ethiekbeleid/",
      "source_lang": "en",
      "translation_of": "high-quality-ethics-policy",
      "related": [
@@ -12163,7 +12015,7 @@
   {
    "id": "kb-0148",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -12215,7 +12067,7 @@
       "control processes"
      ],
      "path": "catalog/en/faq/objectives-for-zero-tolerance-topics.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/objectives-for-zero-tolerance-topics/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -12237,7 +12089,7 @@
       "processus de contrôle"
      ],
      "path": "catalog/fr/faq/objectifs-pour-sujets-tolerance-zero.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/objectifs-pour-sujets-tolerance-zero/",
      "source_lang": "en",
      "translation_of": "objectives-for-zero-tolerance-topics",
      "related": [
@@ -12259,7 +12111,7 @@
       "controleprocessen"
      ],
      "path": "catalog/nl/faq/doelstellingen-voor-nultolerantie-onderwerpen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/doelstellingen-voor-nultolerantie-onderwerpen/",
      "source_lang": "en",
      "translation_of": "objectives-for-zero-tolerance-topics",
      "related": [
@@ -12275,7 +12127,7 @@
   {
    "id": "kb-0149",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -12328,7 +12180,7 @@
       "VSME"
      ],
      "path": "catalog/en/faq/what-complies-with-reporting-standards-requires.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/what-complies-with-reporting-standards-requires/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -12351,7 +12203,7 @@
       "VSME"
      ],
      "path": "catalog/fr/faq/que-signifie-conforme-aux-standards-de-reporting.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/que-signifie-conforme-aux-standards-de-reporting/",
      "source_lang": "en",
      "translation_of": "what-complies-with-reporting-standards-requires",
      "related": [
@@ -12374,7 +12226,7 @@
       "VSME"
      ],
      "path": "catalog/nl/faq/wat-conform-rapporteringsstandaarden-vereist.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/wat-conform-rapporteringsstandaarden-vereist/",
      "source_lang": "en",
      "translation_of": "what-complies-with-reporting-standards-requires",
      "related": [
@@ -12390,7 +12242,7 @@
   {
    "id": "kb-0150",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -12440,7 +12292,7 @@
       "Gold Platinum"
      ],
      "path": "catalog/en/faq/is-a-non-audited-report-a-barrier.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/is-a-non-audited-report-a-barrier/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -12462,7 +12314,7 @@
       "Or Platine"
      ],
      "path": "catalog/fr/faq/un-rapport-non-audite-est-il-un-frein.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/un-rapport-non-audite-est-il-un-frein/",
      "source_lang": "en",
      "translation_of": "is-a-non-audited-report-a-barrier",
      "related": [
@@ -12484,7 +12336,7 @@
       "Goud Platinum"
      ],
      "path": "catalog/nl/faq/is-een-niet-geauditeerd-rapport-een-rem.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/is-een-niet-geauditeerd-rapport-een-rem/",
      "source_lang": "en",
      "translation_of": "is-a-non-audited-report-a-barrier",
      "related": [
@@ -12500,7 +12352,7 @@
   {
    "id": "kb-0151",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -12550,11 +12402,11 @@
       "top suppliers"
      ],
      "path": "catalog/en/faq/supply-chain-engagement-for-small-companies.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/supply-chain-engagement-for-small-companies/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
-      "sustainable-procurement-measures-sup307",
+      "sustainable-procurement-measures",
       "sustainable-procurement-where-to-start"
      ],
      "relations": {},
@@ -12572,11 +12424,11 @@
       "principaux fournisseurs"
      ],
      "path": "catalog/fr/faq/engagement-chaine-d-approvisionnement-petites-entreprises.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/engagement-chaine-d-approvisionnement-petites-entreprises/",
      "source_lang": "en",
      "translation_of": "supply-chain-engagement-for-small-companies",
      "related": [
-      "mesures-achats-responsables-sup307",
+      "mesures-achats-responsables",
       "achats-responsables-par-ou-commencer"
      ],
      "relations": {},
@@ -12594,11 +12446,11 @@
       "topleveranciers"
      ],
      "path": "catalog/nl/faq/ketenengagement-voor-kleine-ondernemingen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/ketenengagement-voor-kleine-ondernemingen/",
      "source_lang": "en",
      "translation_of": "supply-chain-engagement-for-small-companies",
      "related": [
-      "duurzame-inkoop-maatregelen-sup307",
+      "duurzame-inkoop-maatregelen",
       "duurzame-inkoop-waar-beginnen"
      ],
      "relations": {},
@@ -12610,7 +12462,7 @@
   {
    "id": "kb-0152",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -12659,7 +12511,7 @@
       "office emissions"
      ],
      "path": "catalog/en/faq/environmental-evidence-for-asset-light-companies.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/environmental-evidence-for-asset-light-companies/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -12681,7 +12533,7 @@
       "émissions bureau"
      ],
      "path": "catalog/fr/faq/preuves-environnementales-entreprises-asset-light.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/preuves-environnementales-entreprises-asset-light/",
      "source_lang": "en",
      "translation_of": "environmental-evidence-for-asset-light-companies",
      "related": [
@@ -12703,7 +12555,7 @@
       "kantooremissies"
      ],
      "path": "catalog/nl/faq/milieubewijs-voor-asset-light-ondernemingen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/milieubewijs-voor-asset-light-ondernemingen/",
      "source_lang": "en",
      "translation_of": "environmental-evidence-for-asset-light-companies",
      "related": [
@@ -12719,7 +12571,7 @@
   {
    "id": "kb-0153",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -12769,7 +12621,7 @@
       "severity"
      ],
      "path": "catalog/en/faq/how-long-360-watch-findings-affect-score.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/how-long-360-watch-findings-affect-score/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -12792,7 +12644,7 @@
       "sévérité"
      ],
      "path": "catalog/fr/faq/duree-d-impact-des-constats-veille-360.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/duree-d-impact-des-constats-veille-360/",
      "source_lang": "en",
      "translation_of": "how-long-360-watch-findings-affect-score",
      "related": [
@@ -12815,7 +12667,7 @@
       "ernst"
      ],
      "path": "catalog/nl/faq/hoe-lang-360-watch-bevindingen-de-score-beinvloeden.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/hoe-lang-360-watch-bevindingen-de-score-beinvloeden/",
      "source_lang": "en",
      "translation_of": "how-long-360-watch-findings-affect-score",
      "related": [
@@ -12831,7 +12683,7 @@
   {
    "id": "kb-0154",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -12880,7 +12732,7 @@
       "press releases excluded"
      ],
      "path": "catalog/en/faq/positive-360-watch-signals.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/positive-360-watch-signals/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -12901,7 +12753,7 @@
       "communiqués exclus"
      ],
      "path": "catalog/fr/faq/signaux-positifs-veille-360.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/signaux-positifs-veille-360/",
      "source_lang": "en",
      "translation_of": "positive-360-watch-signals",
      "related": [
@@ -12922,7 +12774,7 @@
       "persberichten uitgesloten"
      ],
      "path": "catalog/nl/faq/positieve-360-watch-signalen.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/positieve-360-watch-signalen/",
      "source_lang": "en",
      "translation_of": "positive-360-watch-signals",
      "related": [
@@ -12937,7 +12789,7 @@
   {
    "id": "kb-0155",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -12986,7 +12838,7 @@
       "30% standalone audit"
      ],
      "path": "catalog/en/faq/affordable-certifications-for-smes.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/affordable-certifications-for-smes/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -13008,7 +12860,7 @@
       "audit autonome 30%"
      ],
      "path": "catalog/fr/faq/certifications-abordables-pour-pme.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/certifications-abordables-pour-pme/",
      "source_lang": "en",
      "translation_of": "affordable-certifications-for-smes",
      "related": [
@@ -13030,7 +12882,7 @@
       "zelfstandige audit 30%"
      ],
      "path": "catalog/nl/faq/betaalbare-certificaten-voor-kmo.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/betaalbare-certificaten-voor-kmo/",
      "source_lang": "en",
      "translation_of": "affordable-certifications-for-smes",
      "related": [
@@ -13046,7 +12898,7 @@
   {
    "id": "kb-0156",
    "type": "faq",
-   "status": "review",
+   "status": "archived",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -13155,7 +13007,7 @@
   {
    "id": "kb-0157",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -13204,7 +13056,7 @@
       "PACT Pathfinder"
      ],
      "path": "catalog/en/faq/product-carbon-footprint-methodology.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/product-carbon-footprint-methodology/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -13225,7 +13077,7 @@
       "PACT Pathfinder"
      ],
      "path": "catalog/fr/faq/methodologie-empreinte-carbone-produit.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/methodologie-empreinte-carbone-produit/",
      "source_lang": "en",
      "translation_of": "product-carbon-footprint-methodology",
      "related": [
@@ -13246,7 +13098,7 @@
       "PACT Pathfinder"
      ],
      "path": "catalog/nl/faq/methodologie-koolstofvoetafdruk-product.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/methodologie-koolstofvoetafdruk-product/",
      "source_lang": "en",
      "translation_of": "product-carbon-footprint-methodology",
      "related": [
@@ -13261,7 +13113,7 @@
   {
    "id": "kb-0158",
    "type": "faq",
-   "status": "review",
+   "status": "archived",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -13370,7 +13222,7 @@
   {
    "id": "kb-0159",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "choisir",
    "situations": [
     "S1",
@@ -13419,7 +13271,7 @@
       "criterion review"
      ],
      "path": "catalog/en/faq/improvement-roadmap-after-the-scorecard.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/improvement-roadmap-after-the-scorecard/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -13442,7 +13294,7 @@
       "revue par critère"
      ],
      "path": "catalog/fr/faq/feuille-de-route-apres-la-scorecard.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/feuille-de-route-apres-la-scorecard/",
      "source_lang": "en",
      "translation_of": "improvement-roadmap-after-the-scorecard",
      "related": [
@@ -13465,7 +13317,7 @@
       "review per criterium"
      ],
      "path": "catalog/nl/faq/verbeterplan-na-de-scorecard.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/verbeterplan-na-de-scorecard/",
      "source_lang": "en",
      "translation_of": "improvement-roadmap-after-the-scorecard",
      "related": [
@@ -13481,7 +13333,7 @@
   {
    "id": "kb-0160",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -13531,7 +13383,7 @@
       "no GHG data"
      ],
      "path": "catalog/en/faq/improving-without-scope-3-or-ghg-data.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/improving-without-scope-3-or-ghg-data/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -13554,7 +13406,7 @@
       "sans données GES"
      ],
      "path": "catalog/fr/faq/progresser-sans-scope-3-ni-donnees-ges.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/progresser-sans-scope-3-ni-donnees-ges/",
      "source_lang": "en",
      "translation_of": "improving-without-scope-3-or-ghg-data",
      "related": [
@@ -13577,7 +13429,7 @@
       "geen broeikasgasdata"
      ],
      "path": "catalog/nl/faq/verbeteren-zonder-scope-3-of-broeikasgasdata.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/verbeteren-zonder-scope-3-of-broeikasgasdata/",
      "source_lang": "en",
      "translation_of": "improving-without-scope-3-or-ghg-data",
      "related": [
@@ -13593,7 +13445,7 @@
   {
    "id": "kb-0161",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -13641,7 +13493,7 @@
       "three months review"
      ],
      "path": "catalog/en/faq/is-the-anniversary-date-the-deadline.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/is-the-anniversary-date-the-deadline/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -13663,7 +13515,7 @@
       "revue trois mois"
      ],
      "path": "catalog/fr/faq/la-date-anniversaire-est-elle-la-deadline.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/la-date-anniversaire-est-elle-la-deadline/",
      "source_lang": "en",
      "translation_of": "is-the-anniversary-date-the-deadline",
      "related": [
@@ -13685,7 +13537,7 @@
       "review drie maanden"
      ],
      "path": "catalog/nl/faq/is-de-verjaardag-de-deadline.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/is-de-verjaardag-de-deadline/",
      "source_lang": "en",
      "translation_of": "is-the-anniversary-date-the-deadline",
      "related": [
@@ -13701,7 +13553,7 @@
   {
    "id": "kb-0162",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -13750,7 +13602,7 @@
       "branded template"
      ],
      "path": "catalog/en/faq/documents-rejected-missing-name-or-logo.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/documents-rejected-missing-name-or-logo/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -13772,7 +13624,7 @@
       "modèle à en-tête"
      ],
      "path": "catalog/fr/faq/documents-rejetes-sans-nom-ni-logo.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/documents-rejetes-sans-nom-ni-logo/",
      "source_lang": "en",
      "translation_of": "documents-rejected-missing-name-or-logo",
      "related": [
@@ -13794,7 +13646,7 @@
       "huisstijlsjabloon"
      ],
      "path": "catalog/nl/faq/documenten-verworpen-zonder-naam-of-logo.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/documenten-verworpen-zonder-naam-of-logo/",
      "source_lang": "en",
      "translation_of": "documents-rejected-missing-name-or-logo",
      "related": [
@@ -13810,7 +13662,7 @@
   {
    "id": "kb-0163",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -13858,7 +13710,7 @@
       "reassessment review"
      ],
      "path": "catalog/en/faq/are-rejected-questions-flagged-at-reassessment.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/are-rejected-questions-flagged-at-reassessment/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -13880,7 +13732,7 @@
       "revue de réévaluation"
      ],
      "path": "catalog/fr/faq/les-questions-rejetees-sont-elles-signalees-a-la-reevaluation.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/les-questions-rejetees-sont-elles-signalees-a-la-reevaluation/",
      "source_lang": "en",
      "translation_of": "are-rejected-questions-flagged-at-reassessment",
      "related": [
@@ -13902,7 +13754,7 @@
       "herbeoordelingsreview"
      ],
      "path": "catalog/nl/faq/worden-verworpen-vragen-gemarkeerd-bij-herbeoordeling.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/worden-verworpen-vragen-gemarkeerd-bij-herbeoordeling/",
      "source_lang": "en",
      "translation_of": "are-rejected-questions-flagged-at-reassessment",
      "related": [
@@ -13918,7 +13770,7 @@
   {
    "id": "kb-0164",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -13967,7 +13819,7 @@
       "coverage boundary"
      ],
      "path": "catalog/en/faq/documenting-a-co2-emissions-reduction.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/documenting-a-co2-emissions-reduction/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -13989,7 +13841,7 @@
       "périmètre de couverture"
      ],
      "path": "catalog/fr/faq/documenter-une-reduction-d-emissions-co2.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/documenter-une-reduction-d-emissions-co2/",
      "source_lang": "en",
      "translation_of": "documenting-a-co2-emissions-reduction",
      "related": [
@@ -14011,7 +13863,7 @@
       "dekkingsscope"
      ],
      "path": "catalog/nl/faq/een-co2-emissiereductie-documenteren.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/een-co2-emissiereductie-documenteren/",
      "source_lang": "en",
      "translation_of": "documenting-a-co2-emissions-reduction",
      "related": [
@@ -14027,7 +13879,7 @@
   {
    "id": "kb-0165",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "verifier",
    "situations": [
     "S1",
@@ -14076,7 +13928,7 @@
       "quantitative targets"
      ],
      "path": "catalog/en/faq/policy-without-targets-plus-separate-targets-document.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/policy-without-targets-plus-separate-targets-document/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -14097,7 +13949,7 @@
       "cibles quantitatives"
      ],
      "path": "catalog/fr/faq/politique-sans-cibles-plus-document-de-cibles-separe.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/politique-sans-cibles-plus-document-de-cibles-separe/",
      "source_lang": "en",
      "translation_of": "policy-without-targets-plus-separate-targets-document",
      "related": [
@@ -14118,7 +13970,7 @@
       "kwantitatieve doelen"
      ],
      "path": "catalog/nl/faq/beleid-zonder-doelen-plus-apart-doelendocument.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/beleid-zonder-doelen-plus-apart-doelendocument/",
      "source_lang": "en",
      "translation_of": "policy-without-targets-plus-separate-targets-document",
      "related": [
@@ -14133,7 +13985,7 @@
   {
    "id": "kb-0166",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -14183,7 +14035,7 @@
       "four themes"
      ],
      "path": "catalog/en/faq/what-external-assurance-involves.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/what-external-assurance-involves/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -14206,7 +14058,7 @@
       "quatre thèmes"
      ],
      "path": "catalog/fr/faq/ce-qu-implique-l-assurance-externe.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/ce-qu-implique-l-assurance-externe/",
      "source_lang": "en",
      "translation_of": "what-external-assurance-involves",
      "related": [
@@ -14229,7 +14081,7 @@
       "vier thema's"
      ],
      "path": "catalog/nl/faq/wat-externe-assurance-inhoudt.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/wat-externe-assurance-inhoudt/",
      "source_lang": "en",
      "translation_of": "what-external-assurance-involves",
      "related": [
@@ -14245,7 +14097,7 @@
   {
    "id": "kb-0167",
    "type": "faq",
-   "status": "review",
+   "status": "published",
    "intent": "mettre-en-oeuvre",
    "situations": [
     "S1",
@@ -14293,7 +14145,7 @@
       "reassessment timing"
      ],
      "path": "catalog/en/faq/the-cap-is-visible-to-buyers.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/en/questions/the-cap-is-visible-to-buyers/",
      "source_lang": "en",
      "translation_of": null,
      "related": [
@@ -14315,7 +14167,7 @@
       "timing réévaluation"
      ],
      "path": "catalog/fr/faq/le-cap-est-visible-des-acheteurs.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/fr/questions/le-cap-est-visible-des-acheteurs/",
      "source_lang": "en",
      "translation_of": "the-cap-is-visible-to-buyers",
      "related": [
@@ -14337,7 +14189,7 @@
       "timing herbeoordeling"
      ],
      "path": "catalog/nl/faq/het-cap-is-zichtbaar-voor-kopers.md",
-     "canonical_url": null,
+     "canonical_url": "https://sos-ecovadis.com/nl/vragen/het-cap-is-zichtbaar-voor-kopers/",
      "source_lang": "en",
      "translation_of": "the-cap-is-visible-to-buyers",
      "related": [

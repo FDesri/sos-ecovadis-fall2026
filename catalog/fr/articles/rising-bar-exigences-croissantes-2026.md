@@ -7,16 +7,16 @@ translation_of: ecovadis-rising-standards-2026
 title: "Est-ce difficile d'obtenir une médaille Bronze ou Argent ? Les exigences croissantes d'EcoVadis en 2026"
 slug: rising-bar-exigences-croissantes-2026
 summary: >-
-  La barre ne cesse de monter : entre juillet 2025 et juillet 2026, le seuil
+  La barre ne cesse de monter : entre juillet 2025 et août 2026, le seuil
   indicatif de l'Argent est passé de 68 à 73/100 et l'Or de 77 à 81. Charger
   les mêmes preuves que l'an dernier peut vous laisser plusieurs points
   derrière votre objectif avant même le début de l'évaluation. Les leçons de
   2025 : cadrer correctement le périmètre d'évaluation, répondre aux exigences
-  de reporting nettement relevées (rapport public, 3 ans de données, 85 % de
+  de reporting nettement relevées pour l'Or et le Platine (rapport public, 3 ans de données, 85 % de
   couverture KPI), et mobiliser des audits qualifiés quand les certifications
   sont hors de portée. 2026 apporte la personnalisation de la matérialité, une
   Veille 360° affinée et la reconnaissance formelle du VSME.
-description: "Entre juillet 2025 et juillet 2026, l'Argent est passé de 68 à 73/100 et l'Or de 77 à 81 : les mêmes preuves valent moins chaque année."
+description: "Entre juillet 2025 et août 2026, l'Argent est passé de 68 à 73/100 et l'Or de 77 à 81 : les mêmes preuves valent moins chaque année."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
@@ -37,7 +37,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [ce-qui-change-en-2026, evolutions-methodologiques-t2-2026, de-bronze-a-argent, pourquoi-la-medaille-bronze-est-plus-difficile, soumissions-ecovadis-solides-et-regulieres]
 faq:
   - q: "Pourquoi ma médaille a-t-elle disparu alors que mon score n'a pas bougé ?"
@@ -85,7 +85,7 @@ Le périmètre pèse directement sur la notation. Une évaluation groupe nourrie
 
 Le reporting pèse **14 % du score global**, et EcoVadis a relevé la barre en 2025 : divulgation publique et rapports de durabilité complets sont désormais le minimum pour les scores élevés. Un score Rapports avancé ou exceptionnel exige :
 
-- **Une couverture KPI supérieure à 85 %** des critères matériels — des métriques quantitatives pour chaque critère activé des quatre thèmes, pas seulement les KPI demandés explicitement
+- **Une couverture KPI supérieure à 85 %** des critères matériels — exigence de niveau Or et Platine — des métriques quantitatives pour chaque critère activé des quatre thèmes, pas seulement les KPI demandés explicitement
 - **Trois années consécutives de données** dans le même document, la dernière période datant de moins de 2 ans
 - **Un rapport de durabilité ou rapport annuel public** — sans lui, le score Rapports est plafonné à 50/100, quelle que soit la donnée interne
 - **L'alignement sur des standards reconnus** : [GRI](https://www.globalreporting.org/standards/) (« in accordance »), SASB, IFRS S1 & S2, [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) ou [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)
@@ -119,8 +119,8 @@ Le chemin vers l'excellence EcoVadis ne consiste pas à déjouer le système : i
 
 ## À retenir
 
-- Les seuils montent à chaque cycle : Argent ~68 → 73 et Or ~77 → 81 entre juillet 2025 et juillet 2026. L'immobilité fait reculer.
+- Les seuils montent à chaque cycle : Argent ~68 → 73 et Or ~77 → 81 entre juillet 2025 et août 2026. L'immobilité fait reculer.
 - Le décalage de périmètre (groupe/entité/site) est l'erreur évitable la plus coûteuse.
-- Rapports = 14 % du score ; rapport public, 3 ans de données et 85 % de couverture KPI sont la nouvelle barre — commencez 3-4 mois à l'avance.
+- Rapports = 14 % du score. Le rapport public conditionne tout score supérieur à 50/100 ; les 3 ans de données et les 85 % de couverture KPI, eux, sont la barre de l'Or et du Platine — commencez 3-4 mois à l'avance.
 - Des audits autonomes qualifiés (SMETA, BSCI, TfS) peuvent remplacer les certifications, avec une valeur moindre et un risque de non-conformités.
 - 2026 : personnalisation de la matérialité, Veille 360° pondérée par le consensus des parties prenantes, reconnaissance du VSME (Basic = jusqu'à 75, Basic+Comprehensive = 100 en Rapports).

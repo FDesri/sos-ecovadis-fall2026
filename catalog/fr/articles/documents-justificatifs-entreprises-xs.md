@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [guide-essentiel-ecovadis, principaux-conseils-pratiques-ecovadis, du-badge-committed-a-la-medaille-bronze, combien-coute-un-accompagnement-ecovadis]
 faq:
   - q: "Une facture d'énergie peut-elle servir de preuve de reporting ?"

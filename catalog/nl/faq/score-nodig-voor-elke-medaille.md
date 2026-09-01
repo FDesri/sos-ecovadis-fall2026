@@ -8,11 +8,11 @@ title: "Welke score is nodig voor elke medaille, en kan de medaille vóór indie
 slug: score-nodig-voor-elke-medaille
 summary: >-
   Sinds januari 2024 zijn medailles percentielgebaseerd: Brons top 35%, Zilver
-  top 15%, Goud top 5%, Platinum top 1%. De ESGIM-benchmark (juli 2026)
-  plaatst de indicatieve drempels rond 64 (Brons), 73 (Zilver), 81 (Goud), 84
-  (Platinum) — richtinggevende ramingen, geen gepubliceerde doelen. Een
+  top 15%, Goud top 5%, Platinum top 1%. De ESGIM-benchmark (augustus 2026)
+  plaatst de indicatieve drempels rond 64 (Brons), 73 (Zilver), 81 (Goud),
+  86 (Platinum) — richtinggevende ramingen, geen gepubliceerde doelen. Een
   gestructureerde gap-analyse voorspelt de medaille met redelijke zekerheid.
-description: "Sinds januari 2024 zijn medailles percentielgebaseerd. De ESGIM-benchmark van juli 2026 plaatst de indicatieve drempels rond 64, 73, 81 en 84."
+description: "Sinds januari 2024 zijn medailles percentielgebaseerd. De ESGIM-benchmark van augustus 2026 plaatst de indicatieve drempels rond 64, 73, 81 en 86."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: methodology
@@ -20,7 +20,7 @@ intent: choisir
 themes: [general]
 topics: [medailles-percentiles, rising-bar]
 ecovadis_questions: []
-keywords: [medailledrempels, 64 Brons, 73 Zilver, 81 Goud, 84 Platinum, percentiel]
+keywords: [medailledrempels, 64 Brons, 73 Zilver, 81 Goud, 86 Platinum, percentiel]
 audience: [sustainability_lead, sme_owner]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
@@ -33,7 +33,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [rising-bar-strengere-normen-2026, ecovadis-drempels-verpakking-farma-belgie]
 ---
 
@@ -41,4 +41,4 @@ related: [rising-bar-strengere-normen-2026, ecovadis-drempels-verpakking-farma-b
 
 Sinds januari 2024 kent [EcoVadis](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) medailles toe op basis van **percentiel, niet van vaste drempels**: Brons voor de top 35% van de beoordeelde ondernemingen, Zilver voor de top 15%, Goud voor de top 5%, Platinum voor de top 1%. Omdat de databank groeit, stijgt de indicatieve score per niveau voortdurend.
 
-Volgens de interne benchmarkdata van ESGIM in **juli 2026** liggen de indicatieve drempels rond **64/100 voor Brons, 73/100 voor Zilver, 81/100 voor Goud en 84/100 voor Platinum**. Dit zijn richtinggevende ramingen uit het klantenportfolio van ESGIM, geen door EcoVadis gepubliceerde doelen. De medaille kan vóór indiening met redelijke zekerheid worden voorspeld via een **gestructureerde gap-analyse** tegen de scoringsindicatoren.
+Volgens de interne benchmarkdata van ESGIM in **augustus 2026** liggen de indicatieve drempels rond **64/100 voor Brons, 73/100 voor Zilver, 81/100 voor Goud en 86/100 voor Platinum**. Dit zijn richtinggevende ramingen uit het klantenportfolio van ESGIM, geen door EcoVadis gepubliceerde doelen. De medaille kan vóór indiening met redelijke zekerheid worden voorspeld via een **gestructureerde gap-analyse** tegen de scoringsindicatoren.

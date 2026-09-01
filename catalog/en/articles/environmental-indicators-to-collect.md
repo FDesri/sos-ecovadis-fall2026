@@ -34,8 +34,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [social-hr-indicators-to-collect, ecovadis-and-ghg-baseline, waste-management-env3549, build-strong-ecovadis-submissions-consistently]
+status: published
+related: [social-hr-indicators-to-collect, ecovadis-and-ghg-baseline, waste-management, build-strong-ecovadis-submissions-consistently]
 faq:
   - q: "Should you answer when an indicator is zero, such as reused water?"
     a: "Yes. If no recycling equipment is in place, answering \"0\" is acceptable and documentable — an empty field in the carbon footprint can serve as justification. A documented zero beats a missing answer."

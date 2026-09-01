@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [rising-bar-strengere-normen-2026, methodologie-updates-q2-2026, de-ecovadis-scorecard-begrijpen, sterke-ecovadis-indieningen-opbouwen]
 faq:
   - q: "Wat verandert er bij EcoVadis in 2026?"

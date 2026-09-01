@@ -7,16 +7,16 @@ translation_of: ecovadis-rising-standards-2026
 title: "Hoe moeilijk is een Bronzen of Zilveren medaille? De stijgende EcoVadis-normen in 2026"
 slug: rising-bar-strengere-normen-2026
 summary: >-
-  De lat ligt elk jaar hoger: tussen juli 2025 en juli 2026 schoof de
+  De lat ligt elk jaar hoger: tussen juli 2025 en augustus 2026 schoof de
   indicatieve Zilverdrempel van 68 naar 73/100 en Goud van 77 naar 81.
   Hetzelfde bewijs opladen als vorig jaar kan u meerdere punten achterstand
   geven nog vóór de beoordeling begint. De lessen van 2025: baken de
   beoordelingsscope correct af, voldoe aan de fors verhoogde
-  rapporteringseisen (publiek rapport, 3 jaar data, 85% KPI-dekking), en zet
+  rapporteringseisen voor Goud en Platinum (publiek rapport, 3 jaar data, 85% KPI-dekking), en zet
   gekwalificeerde audits in waar certificeringen buiten bereik zijn. 2026
   brengt materialiteitspersonalisatie, een verfijnde 360° Watch en formele
   VSME-erkenning.
-description: "Tussen juli 2025 en juli 2026 ging Zilver van 68 naar 73/100 en Goud van 77 naar 81: hetzelfde bewijs is elk jaar minder waard."
+description: "Tussen juli 2025 en augustus 2026 ging Zilver van 68 naar 73/100 en Goud van 77 naar 81: hetzelfde bewijs is elk jaar minder waard."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
@@ -37,7 +37,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [wat-verandert-in-2026, methodologie-updates-q2-2026, van-brons-naar-zilver, waarom-een-bronzen-medaille-moeilijker-wordt, sterke-ecovadis-indieningen-opbouwen]
 faq:
   - q: "Waarom verdween mijn medaille terwijl mijn score gelijk bleef?"
@@ -85,7 +85,7 @@ De scope beïnvloedt de scoring rechtstreeks. Een groepsbeoordeling gevoed met b
 
 Rapportering weegt **14% van de totaalscore**, en EcoVadis legde de lat in 2025 hoger: publieke bekendmaking en volwaardige duurzaamheidsrapporten zijn nu het minimum voor hoge scores. Een gevorderde of uitstekende rapporteringsscore vereist:
 
-- **KPI-dekking boven 85%** van uw materiële criteria — kwantitatieve indicatoren voor elk geactiveerd criterium over de vier thema's, niet alleen de expliciet gevraagde KPI's
+- **KPI-dekking boven 85%** van uw materiële criteria — een eis op Goud- en Platinumniveau — kwantitatieve indicatoren voor elk geactiveerd criterium over de vier thema's, niet alleen de expliciet gevraagde KPI's
 - **Drie opeenvolgende jaren data** in hetzelfde document, met de recentste periode niet ouder dan 2 jaar
 - **Een publiek duurzaamheids- of jaarverslag** — zonder wordt uw rapporteringsscore afgetopt op 50/100, hoeveel data u intern ook verzamelt
 - **Afstemming op erkende standaarden**: [GRI](https://www.globalreporting.org/standards/) ("in accordance"), SASB, IFRS S1 & S2, [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) of [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)
@@ -119,8 +119,8 @@ De weg naar EcoVadis-excellentie draait niet om het systeem slim af te troeven: 
 
 ## Om te onthouden
 
-- De drempels stijgen elke cyclus: Zilver ~68 → 73 en Goud ~77 → 81 tussen juli 2025 en juli 2026. Stilstaan is achteruitgaan.
+- De drempels stijgen elke cyclus: Zilver ~68 → 73 en Goud ~77 → 81 tussen juli 2025 en augustus 2026. Stilstaan is achteruitgaan.
 - Een verkeerde scope (groep/entiteit/site) is de duurste vermijdbare fout.
-- Rapportering = 14% van de score; een publiek rapport, 3 jaar data en 85% KPI-dekking zijn de nieuwe lat — begin 3-4 maanden op voorhand.
+- Rapportering = 14% van de score. Een publiek rapport is de voorwaarde voor elke score boven 50/100; 3 jaar data en 85% KPI-dekking zijn de lat voor Goud en Platinum — begin 3-4 maanden op voorhand.
 - Gekwalificeerde op zichzelf staande audits (SMETA, BSCI, TfS) kunnen certificeringen vervangen, met lagere waarde en non-conformiteitsrisico.
 - 2026: materialiteitspersonalisatie, 360° Watch gewogen op stakeholderconsensus, en VSME-erkenning (Basic = tot 75, Basic+Comprehensive = 100 op Rapportering).

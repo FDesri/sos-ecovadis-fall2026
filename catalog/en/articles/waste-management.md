@@ -3,9 +3,9 @@ id: kb-0035
 type: article
 lang: en
 source_lang: fr
-translation_of: gestion-des-dechets-env3549
-title: "What can you do better on waste management? (ENV3549)"
-slug: waste-management-env3549
+translation_of: gestion-des-dechets
+title: "What can you do better on waste management?"
+slug: waste-management
 summary: >-
   Question ENV3549 assesses five sub-actions: internal waste reduction (reuse,
   recovery, recycling), employee training on sorting, internal sorting by
@@ -36,8 +36,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [environmental-indicators-to-collect, raw-materials-and-chemicals-env3522, ecovadis-essentials-guide]
+status: published
+related: [environmental-indicators-to-collect, raw-materials-and-chemicals, ecovadis-essentials-guide]
 faq:
   - q: "Does EcoVadis forgive an unfavourable waste trend?"
     a: "Yes, if it is commented on AND paired with a quantified target. A rise in hazardous waste will be read as a deterioration; a target such as '−10% kg/t by 2028' written into the environmental policy changes how the whole file is read."
@@ -45,8 +45,7 @@ faq:
     a: "Sorting training: a half-hour toolbox talk with a signed attendance sheet is enough to cover the 'employee training' sub-action — often the only gaping hole in an otherwise solid file."
 ---
 
-# What can you do better on waste management? (ENV3549)
-
+# What can you do better on waste management?
 ## In brief
 
 ENV3549 asks: "What actions has your company implemented to manage waste?" — five sub-actions to document. Most industrial SMEs already have the essentials (procedures, collector registers, certificates); the work consists of linking each document to the right sub-action, filling the recurring training gap, and purging contradictions between documents before uploading.

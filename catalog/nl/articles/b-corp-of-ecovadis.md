@@ -9,7 +9,7 @@ slug: b-corp-of-ecovadis
 summary: >-
   Beide zijn documentgebaseerde beoordelingen op maat met continue verbetering
   — maar ze meten iets anders: EcoVadis beoordeelt uw
-  duurzaamheidsmanagementsysteem (130.000+ beoordeelde ondernemingen,
+  duurzaamheidsmanagementsysteem (150.000+ beoordeelde ondernemingen,
   medailles in niveaus, jaarlijkse cyclus, 4-6 maanden); B Corp certificeert
   uw globale impact en bedrijfsmodel (ongeveer 9.000 B Corps, minimum 80
   punten, statutair addendum, 9-24 maanden, hercertificering om de 3 jaar).
@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [de-ecovadis-scorecard-begrijpen, waarom-aan-ecovadis-beginnen, zelf-doen-of-expertbegeleiding, van-brons-naar-zilver]
 faq:
   - q: "Wanneer is een onderneming klaar voor B Corp?"
@@ -61,9 +61,9 @@ Onder groeiende druk van regelgevers, stakeholders en klanten is certificering v
 
 ## Wat zijn de belangrijkste verschillen?
 
-**Bereik.** EcoVadis is een van de meest gebruikte duurzaamheidsratings, met meer dan 130.000 beoordeelde ondernemingen wereldwijd; er zijn slechts ongeveer 9.000 B Corps.
+**Bereik.** EcoVadis is een van de meest gebruikte duurzaamheidsratings, met meer dan 150.000 beoordeelde ondernemingen wereldwijd; er zijn slechts ongeveer 9.000 B Corps.
 
-**Toegankelijkheid.** Een breder scala aan sectoren komt in aanmerking voor een EcoVadis-rating; B Corp is restrictiever door sectorale risico-overwegingen. B Corp vereist een **minimum van 80 punten**; EcoVadis werkt met niveaus (Brons, Zilver, Goud, Platinum) die verschillende gradaties van vooruitgang erkennen.
+**Toegankelijkheid.** Een breder scala aan sectoren komt in aanmerking voor een EcoVadis-rating; B Corp is restrictiever door sectorale risico-overwegingen. B Corp vereist een **minimum van 80 punten**. Een onderneming die EcoVadis Zilver (73/100) haalde, heeft de maturiteit om een B Corp-traject te starten; EcoVadis werkt met niveaus (Brons, Zilver, Goud, Platinum) die verschillende gradaties van vooruitgang erkennen.
 
 **De scope van de beoordeling.** Het hoofdverschil: **EcoVadis evalueert het duurzaamheidsmanagementsysteem; B Corp beoordeelt de impact van de onderneming** via haar activiteiten en bedrijfsmodel. B Corp vereist bovendien een addendum bij de statuten waarin de onderneming verklaart de belangen van milieu, samenleving en financiële prestaties gelijkwaardig af te wegen — een bescherming van de missie die organisatiewijzigingen overleeft.
 
@@ -90,7 +90,7 @@ Kies het traject dat past bij uw positie op de maturiteitscurve. Vroeg in het tr
 ## Om te onthouden
 
 - Dezelfde familie, andere objecten: EcoVadis beoordeelt het managementsysteem; B Corp certificeert de impact en het bedrijfsmodel.
-- EcoVadis is breder en gelaagd (130.000+ beoordeelde ondernemingen); B Corp is selectief (minimum 80 punten, ~9.000 ondernemingen, missie statutair verankerd).
+- EcoVadis is breder en gelaagd (150.000+ beoordeelde ondernemingen); B Corp is selectief (minimum 80 punten, ~9.000 ondernemingen, missie statutair verankerd).
 - Sterk verschillende doorlooptijden: 4-6 maanden per jaar tegenover 9-24 maanden om de drie jaar.
 - Beide vullen elkaar aan: EcoVadis voor keten en financiering, B Corp voor consumentengeloofwaardigheid en gemeenschap.
 - Maturiteitsvuistregel: EcoVadis Zilver = klaar voor B Corp.

@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
+status: published
 related: [indicateurs-environnementaux-a-collecter, canevas-diversite-corruption-travail-enfants, soumissions-ecovadis-solides-et-regulieres]
 faq:
   - q: "Où trouver ces chiffres dans une PME belge ?"

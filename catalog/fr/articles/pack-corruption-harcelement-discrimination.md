@@ -39,7 +39,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
+status: published
 related: [canevas-diversite-corruption-travail-enfants, indicateurs-sociaux-rh-a-collecter, documents-justificatifs-entreprises-xs]
 faq:
   - q: "Quelles sont les actions anticorruption les plus rentables pour EcoVadis ?"

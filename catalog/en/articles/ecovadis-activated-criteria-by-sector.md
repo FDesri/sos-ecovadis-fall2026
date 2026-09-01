@@ -36,8 +36,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [understanding-the-ecovadis-scorecard, ecovadis-rising-standards-2026, sustainable-procurement-where-to-start, raw-materials-and-chemicals-env3522]
+status: published
+related: [understanding-the-ecovadis-scorecard, ecovadis-rising-standards-2026, sustainable-procurement-where-to-start, raw-materials-and-chemicals]
 faq:
   - q: "What are EcoVadis activated criteria?"
     a: "The specific sustainability topics EcoVadis includes in your assessment, based on your industry classification (ISIC code), company size and operational locations. Of the 21 criteria across four themes, only those material to your business are activated. High-importance criteria carry the greatest weight; medium-importance ones contribute less; non-activated criteria don't count."
@@ -81,7 +81,7 @@ For FMCG and consumer goods brands the assessment looks markedly different: **Su
 
 **Child Labour, Forced Labour & Human Trafficking** is activated as a material criterion, particularly when operating in or sourcing from higher-risk regions — with focus on your own operations: prohibition policies, employee awareness training, documented grievance mechanisms. **Customer Health & Safety** is also activated: product safety policies, labelling procedures, documented recall response plans.
 
-**Sustainable Procurement remains the lowest-scoring theme globally** — a global average of 43.1/100 according to the EcoVadis Index, 9th edition (2025). For FMCG companies under pressure from the Consumer Goods Forum and regulators on supply chain transparency, it is both the greatest risk and the greatest improvement opportunity. Scoring well requires at minimum: a supplier code of conduct, evidence of supplier sustainability assessments (questionnaire-based at minimum), and records of buyer training on responsible sourcing. Supply-chain-level due diligence — audit coverage of the supply base, procurement team training on forced labour risks — is assessed here too. Many FMCG companies have these programmes; the gap is usually translating them into the format and specificity analysts can verify.
+**The supply chain is where the widest improvement margin sits**, and Sustainable Procurement is its clearest expression: a global average of 43.1/100 according to the EcoVadis Index, 9th edition (2025). The gap is widest among smaller suppliers, who run these practices without documenting them. For FMCG companies under pressure from the Consumer Goods Forum and regulators on supply chain transparency, it is both the greatest risk and the greatest improvement opportunity. Scoring well requires at minimum: a supplier code of conduct, evidence of supplier sustainability assessments (questionnaire-based at minimum), and records of buyer training on responsible sourcing. Supply-chain-level due diligence — audit coverage of the supply base, procurement team training on forced labour risks — is assessed here too. Many FMCG companies have these programmes; the gap is usually translating them into the format and specificity analysts can verify.
 
 ## What weighs most in chemicals?
 
@@ -101,6 +101,6 @@ The practical implication: **start every cycle by confirming which criteria are 
 
 - Your ISIC code, size and locations determine which of the 21 criteria are activated and how the four themes are weighted.
 - Manufacturing: Energy & GHGs and Employee H&S at high importance; [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)/45001/50001 are the impactful certifications.
-- FMCG: Sustainable Procurement and supply-chain labour risks under intense scrutiny — the lowest-scoring theme globally (43.1/100) is also the biggest opportunity.
+- FMCG: Sustainable Procurement and supply-chain labour risks under intense scrutiny — the theme with the widest improvement margin (global average 43.1/100), especially among smaller suppliers.
 - Chemicals: the broadest environmental activation — Materials/Chemicals & Waste, Air Pollution, Water — demanding detailed operational evidence.
 - Sequence preparation by importance level; a generic submission is the most common reason scores stall.

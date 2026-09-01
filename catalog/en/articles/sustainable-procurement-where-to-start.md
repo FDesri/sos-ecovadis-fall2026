@@ -36,8 +36,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [sustainable-procurement-measures-sup307, ecovadis-supplier-engagement-programmes, ecovadis-and-ghg-baseline]
+status: published
+related: [sustainable-procurement-measures, ecovadis-supplier-engagement-programmes, ecovadis-and-ghg-baseline]
 faq:
   - q: "How can we engage our suppliers, and how important is it?"
     a: "Start proportionate: map your supply base, engage deeply with the top 20% by spend (typically 80% of your procurement risk), and set lighter-touch requirements for the rest. It matters commercially: buyers now build EcoVadis thresholds into RFPs, and Sustainable Procurement is the theme where companies most commonly score below their potential."

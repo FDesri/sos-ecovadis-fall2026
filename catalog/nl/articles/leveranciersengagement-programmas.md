@@ -38,8 +38,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [duurzame-inkoop-waar-beginnen, duurzame-inkoop-maatregelen-sup307, lessen-van-ecovadis-sustain-2026]
+status: published
+related: [duurzame-inkoop-waar-beginnen, duurzame-inkoop-maatregelen, lessen-van-ecovadis-sustain-2026]
 faq:
   - q: "Waarom lopen leveranciersengagementprogramma's vast?"
     a: "Om dezelfde ontwerpredenen: uitnodigingen zonder context, scoredrempels vastgelegd zonder de nulmeting te kennen, geen capaciteitsopbouw, en geen interne bandbreedte voor opvolging. Het is een ontwerpprobleem, geen technologieprobleem — slechts 26% van de kopers dekt meer dan de helft van hun adresseerbare uitgaven met externe ESG-ratings."

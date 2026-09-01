@@ -37,8 +37,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [sustainable-procurement-where-to-start, sustainable-procurement-measures-sup307, ecovadis-sustain-2026-takeaways]
+status: published
+related: [sustainable-procurement-where-to-start, sustainable-procurement-measures, ecovadis-sustain-2026-takeaways]
 faq:
   - q: "Why do supplier engagement programmes stall?"
     a: "For the same design reasons: invitations sent without context, score thresholds set without knowing the baseline, no capacity building, and no internal bandwidth to follow up. It is a programme design problem, not a technology problem — only 26% of buyers cover more than half their addressable spend with third-party ESG ratings."

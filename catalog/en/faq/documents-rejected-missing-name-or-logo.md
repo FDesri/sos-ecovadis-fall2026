@@ -32,7 +32,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
+status: published
 related: [supporting-documents-for-xs-companies, build-strong-ecovadis-submissions-consistently]
 ---
 

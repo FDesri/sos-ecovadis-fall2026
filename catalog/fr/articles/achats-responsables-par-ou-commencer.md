@@ -38,8 +38,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [mesures-achats-responsables-sup307, programmes-engagement-fournisseurs, ecovadis-et-bilan-ges-de-base]
+status: published
+related: [mesures-achats-responsables, programmes-engagement-fournisseurs, ecovadis-et-bilan-ges-de-base]
 faq:
   - q: "Comment engager nos fournisseurs, et quelle est l'importance de la démarche ?"
     a: "Commencez proportionné : cartographiez votre base fournisseurs, engagez en profondeur le top 20 % des dépenses (typiquement 80 % du risque achats) et fixez des exigences allégées pour le reste. L'enjeu est commercial : les donneurs d'ordres inscrivent des seuils EcoVadis dans leurs appels d'offres, et les Achats Responsables sont le thème où les entreprises scorent le plus souvent sous leur potentiel."

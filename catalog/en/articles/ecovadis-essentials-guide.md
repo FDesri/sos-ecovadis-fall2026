@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [understanding-the-ecovadis-scorecard, improve-your-ecovadis-score-fast, build-strong-ecovadis-submissions-consistently, supporting-documents-for-xs-companies, full-ecovadis-support-mission]
 faq:
   - q: "How long before submission should you start preparing?"

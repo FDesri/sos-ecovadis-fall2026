@@ -35,8 +35,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [van-committed-badge-naar-brons, van-zilver-naar-goud, ecovadis-essentials-gids, rising-bar-strengere-normen-2026, duurzame-inkoop-waar-beginnen, ecovadis-expertadvies-dagen]
+status: published
+related: [van-committed-badge-naar-brons, van-zilver-naar-goud, ecovadis-essentials-gids, rising-bar-strengere-normen-2026, duurzame-inkoop-waar-beginnen]
 faq:
   - q: "Welke score heb ik nodig voor een Zilveren EcoVadis-medaille?"
     a: "Er is geen vaste drempel: sinds januari 2024 worden medailles per percentiel toegekend. Zilver gaat naar de top 15% van alle ondernemingen die de voorbije 12 maanden werden beoordeeld — in mei 2026 komt dat overeen met een score van ongeveer 73/100 (ESGIM-portfoliodata; richtinggevend, geen officieel EcoVadis-doel)."

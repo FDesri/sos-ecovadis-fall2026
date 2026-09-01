@@ -35,8 +35,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [van-brons-naar-zilver, rising-bar-strengere-normen-2026, scorecard-lezen-delen-optimaliseren, ecovadis-expertadvies-dagen]
+status: published
+related: [van-brons-naar-zilver, rising-bar-strengere-normen-2026, scorecard-lezen-delen-optimaliseren]
 faq:
   - q: "Welke score heb ik nodig voor een Gouden EcoVadis-medaille?"
     a: "Goud is voorbehouden aan de top 5% van de ondernemingen die de voorbije 12 maanden werden beoordeeld. In mei 2026 komt dat overeen met ongeveer 81/100, tegenover 77 een jaar eerder — in 2024 was het nog ongeveer 73. Deze drempel stijgt sneller dan alle andere niveaus."

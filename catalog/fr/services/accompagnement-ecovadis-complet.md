@@ -34,8 +34,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [combien-coute-un-accompagnement-ecovadis, jours-de-conseil-expert-ecovadis, francois-dequenne]
+status: published
+related: [combien-coute-un-accompagnement-ecovadis, francois-dequenne]
 faq:
   - q: "Qui fait le travail — mon équipe ou la vôtre ?"
     a: "Les experts ESGIM sont des managers de transition, pas des conseillers à distance : ils travaillent sur site aux côtés de vos équipes et prennent le travail en charge à votre place."

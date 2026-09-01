@@ -3,9 +3,9 @@ id: kb-0032
 type: article
 lang: nl
 source_lang: fr
-translation_of: risques-environnementaux-externes-env7003
-title: "Hoe neemt EcoVadis klimaatrisico's in aanmerking? (ENV7003)"
-slug: externe-klimaatrisicos-env7003
+translation_of: risques-environnementaux-externes
+title: "Hoe neemt EcoVadis klimaatrisico's in aanmerking?"
+slug: externe-klimaatrisicos
 summary: >-
   ENV7003 is een nieuwe vraag die in Q1 2026 aan de vragenlijsten werd
   toegevoegd voor ondernemingen van grootte S en meer: ze vraagt bewijs van
@@ -35,15 +35,14 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [milieuverstoringen-aanpakken-env7012, milieu-indicatoren-verzamelen, methodologie-updates-q2-2026]
+status: published
+related: [milieuverstoringen-aanpakken, milieu-indicatoren-verzamelen, methodologie-updates-q2-2026]
 faq:
   - q: "Telt ENV7003 mee voor de score?"
     a: "Nee. De vraag heeft geen impact op de score, maar de sterktes en verbeterpunten die uit de aangeleverde bewijsstukken worden afgeleid, verschijnen op de scorecard — en dus voor de ogen van uw opdrachtgevers."
 ---
 
-# Hoe neemt EcoVadis klimaatrisico's in aanmerking? (ENV7003)
-
+# Hoe neemt EcoVadis klimaatrisico's in aanmerking?
 ## In het kort
 
 **Expertinzicht — François Dequenne:** ENV7003 is een nieuwe vraag die in Q1 2026 aan de vragenlijsten werd toegevoegd voor ondernemingen van grootte S en meer. Ze weerspiegelt rechtstreeks de extreme weersgebeurtenissen die uit de klimaatopwarming voortvloeien. Ze vraagt twee soorten bewijs: een beoordeling van de fysieke klimaatrisico's en een beoordeling van de waterbekkengerelateerde risico's. Geen impact op de score — maar wat eruit komt, staat wel op uw scorecard.

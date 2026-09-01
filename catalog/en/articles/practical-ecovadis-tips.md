@@ -13,7 +13,7 @@ summary: >-
   documentary rules (logo + date, 8-year validity for policies, 2 years for
   KPIs and audits, no document created less than 2 months before the
   assessment, 55 new files per year), target the Reporting score (public
-  report or capped at 50/100, 85% KPI coverage, entity-level breakdowns) and
+  report or capped at 50/100; 85% KPI coverage for Gold and Platinum, entity-level breakdowns) and
   anticipate materiality and the 360° Watch.
 description: "Five families of field-tested EcoVadis tips: organise the team, scope correctly, respect deadlines, prove everything, review before sending."
 situations: [S1, S2, S3]
@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [ecovadis-essentials-guide, supporting-documents-for-xs-companies, ecovadis-rising-standards-2026, whats-changing-in-2026]
 faq:
   - q: "Is a document created just before the assessment accepted?"
@@ -85,7 +85,7 @@ Five families of tips concentrate most of the field experience: team organisatio
 
 **Publish a public sustainability report:** posting KPIs on a website no longer earns points. EcoVadis requires KPIs integrated into a **publicly accessible annual or sustainability report**, otherwise the Reporting score is capped at **50/100**. Drafting typically takes **3-4 months** — start well upstream.
 
-**Aim for 85% KPI coverage:** for the maximum score on the Environment and Labor & Human Rights themes, at least **85% of activated criteria** must be covered by documented KPIs.
+**Aim for 85% KPI coverage:** for the maximum score on the Environment and Labor & Human Rights themes — the level expected at Gold and Platinum, at least **85% of activated criteria** must be covered by documented KPIs.
 
 **Disaggregate subsidiary data:** for an entity-level assessment, a consolidated group CSR report is only accepted if KPIs and data are **explicitly broken down per entity**.
 
@@ -102,5 +102,5 @@ Five families of tips concentrate most of the field experience: team organisatio
 - One ambassador + one expert per theme: organisation is half the score.
 - Scope aligned with real governance; acquisitions reported (one-year grace period).
 - Documentary discipline: logo + date, 8-year / 2-year validity, nothing created within 2 months, 55 files per year.
-- Reporting: a public report is required to pass 50/100, 85% KPI coverage, entity-level breakdowns.
+- Reporting: a public report is required to pass 50/100; 85% KPI coverage at Gold and Platinum level; entity-level breakdowns.
 - Anticipate: materiality analysis ready, Live News monitored.

@@ -13,7 +13,7 @@ summary: >-
   les règles documentaires (logo + date, validité 8 ans pour les politiques,
   2 ans pour les KPI et audits, pas de document créé moins de 2 mois avant
   l'évaluation, limite de 55 nouveaux fichiers), viser le score Reporting
-  (rapport public sous peine de plafond à 50/100, 85 % de couverture KPI,
+  (rapport public sous peine de plafond à 50/100 ; 85 % de couverture KPI pour l'Or et le Platine,
   données ventilées par entité) et anticiper matérialité et Veille 360°.
 description: "Cinq familles de conseils de terrain EcoVadis : organiser l'équipe, cadrer le périmètre, respecter les délais, prouver, relire avant envoi."
 situations: [S1, S2, S3]
@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [guide-essentiel-ecovadis, documents-justificatifs-entreprises-xs, rising-bar-exigences-croissantes-2026, ce-qui-change-en-2026]
 faq:
   - q: "Un document créé juste avant l'évaluation est-il accepté ?"
@@ -85,7 +85,7 @@ Cinq familles de conseils concentrent l'essentiel de l'expérience de terrain : 
 
 **Publier un rapport de durabilité public** : publier de simples KPI sur son site ne rapporte plus de points. EcoVadis exige l'intégration des KPI dans un **rapport annuel ou de durabilité accessible au public**, sous peine d'un score Reporting plafonné à **50/100**. La rédaction prend généralement **3 à 4 mois** — à lancer bien en amont.
 
-**Viser 85 % de couverture KPI** : pour la note maximale dans les thèmes Environnement et Social et Droits Humains, au moins **85 % des critères activés** doivent être couverts par des KPI documentés.
+**Viser 85 % de couverture KPI** : pour la note maximale dans les thèmes Environnement et Social et Droits Humains — le niveau attendu à l'Or et au Platine, au moins **85 % des critères activés** doivent être couverts par des KPI documentés.
 
 **Désagréger les données des filiales** : pour une évaluation au niveau d'une entité, un rapport RSE consolidé groupe n'est accepté que si KPI et données sont **explicitement ventilés par entité**.
 
@@ -102,5 +102,5 @@ Cinq familles de conseils concentrent l'essentiel de l'expérience de terrain : 
 - Un ambassadeur unique + un expert par thème : l'organisation fait la moitié du score.
 - Périmètre aligné sur la gouvernance réelle ; acquisitions signalées (période de grâce d'un an).
 - Discipline documentaire : logo + date, validités 8 ans / 2 ans, rien de créé à moins de 2 mois, 55 fichiers par an.
-- Reporting : rapport public obligatoire pour dépasser 50/100, 85 % de couverture KPI, données ventilées par entité.
+- Reporting : rapport public obligatoire pour dépasser 50/100 ; 85 % de couverture KPI au niveau Or et Platine ; données ventilées par entité.
 - Anticipez : analyse de matérialité prête, Live News surveillée.

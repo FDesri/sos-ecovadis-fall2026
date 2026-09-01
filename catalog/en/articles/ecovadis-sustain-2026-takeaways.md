@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [ecovadis-supplier-engagement-programmes, sustainable-procurement-where-to-start, why-ecovadis-strengthens-sustainability-management, ecovadis-rising-standards-2026]
 faq:
   - q: "Is sustainability still a business opportunity in 2026?"

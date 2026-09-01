@@ -13,7 +13,7 @@ summary: >-
   questionnaire (économie circulaire, salaire décent) ; 2026 apporte le pilote
   de matérialité environnementale, le consensus des parties prenantes dans le
   360° Watch et la valorisation VSME/ESRS. Résultat : compétition continue par
-  percentiles, transparence accrue du reporting (rapport public, 85 % de
+  percentiles, transparence accrue du reporting (rapport public ; 85 % de
   couverture KPI), rigueur documentaire et risque d'inéligibilité de 3 à 5 ans
   via le 360° Watch.
 description: "Badges et médailles au percentile en 2024, catégorie XL en 2025, matérialité en 2026 : trois ans d'évolutions qui rendent le Bronze plus dur."
@@ -37,8 +37,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [rising-bar-exigences-croissantes-2026, risques-environnementaux-externes-env7003, perturbations-environnementales-env7012, du-badge-committed-a-la-medaille-bronze]
+status: published
+related: [rising-bar-exigences-croissantes-2026, risques-environnementaux-externes, perturbations-environnementales, du-badge-committed-a-la-medaille-bronze]
 faq:
   - q: "Depuis quand les médailles sont-elles attribuées par percentiles ?"
     a: "Depuis 2024. Les médailles ne dépendent plus de scores fixes mais d'un classement percentile comparant l'entreprise à toute la base EcoVadis des 12 mois précédents — d'où des seuils qui montent en continu."
@@ -70,12 +70,12 @@ En trois ans, EcoVadis a changé de nature : d'un score fixe à une compétition
 - **Projet pilote de matérialité environnementale** : dans certains secteurs, les entreprises peuvent choisir si des sujets comme l'eau, la pollution de l'air ou la fin de vie des produits sont matériels pour elles — une évaluation plus proportionnée et sur mesure.
 - **Évaluation renforcée du [360° Watch](https://ecovadis.com/)** : introduction du « consensus des parties prenantes » pour mieux évaluer la gravité des controverses et éviter les pénalités disproportionnées en cas d'impacts incertains ou contestés.
 - **Valorisation des normes [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) et [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)** : de nouveaux points forts pour les rapports conformes au standard [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) de l'EFRAG (PME européennes) et à la [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)/[ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj).
-- **Intégration des risques environnementaux externes** ([ENV7003](risques-environnementaux-externes-env7003.md)) et des **actions face aux perturbations environnementales externes** ([ENV7012](perturbations-environnementales-env7012.md)).
+- **Intégration des risques environnementaux externes** ([ENV7003](risques-environnementaux-externes.md)) et des **actions face aux perturbations environnementales externes** ([ENV7012](perturbations-environnementales.md)).
 
 ## Pourquoi obtenir et conserver une médaille est-il devenu plus difficile ?
 
 - **Une compétition continue (percentiles vs scores fixes)** : les seuils de score montent constamment à mesure que le réseau EcoVadis s'élargit et s'améliore. Le score indicatif estimé pour l'Or est passé de **77/100 en juillet 2025 à 78/100 en janvier 2026**.
-- **Exigences de transparence accrues pour le Reporting** : cet indicateur pèse 14 % de la note globale. Pour viser un score élevé, les KPI doivent être publiés dans un **rapport annuel ou de durabilité public** (plus seulement sur un site web), et au moins **85 % des critères de durabilité activés** doivent être couverts par des KPI pour la note maximale.
+- **Exigences de transparence accrues pour le Reporting** : cet indicateur pèse 14 % de la note globale. Pour dépasser 50/100, les KPI doivent être publiés dans un **rapport annuel ou de durabilité public** (plus seulement sur un site web), et, pour la note maximale attendue à l'Or et au Platine, au moins **85 % des critères de durabilité activés** doivent être couverts par des KPI.
 - **Rigueur sur la provenance des preuves** : lors d'une évaluation au niveau d'une filiale, les rapports ou données consolidés du groupe ne sont plus acceptés, sauf s'ils contiennent une ventilation spécifique et détaillée pour l'entité évaluée.
 - **L'impact d'exclusion du 360° Watch** : une infraction majeure ou sévère identifiée par la veille (accident du travail, pollution, non-respect des délais de paiement fournisseurs) peut rendre l'entreprise **inéligible à toute médaille pendant 3 à 5 ans**, indépendamment de la qualité du score global.
 

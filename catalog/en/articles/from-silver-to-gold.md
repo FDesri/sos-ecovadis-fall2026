@@ -35,8 +35,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [from-bronze-to-silver, ecovadis-rising-standards-2026, read-share-maximise-your-ecovadis-scorecard, ecovadis-expert-advice-days]
+status: published
+related: [from-bronze-to-silver, ecovadis-rising-standards-2026, read-share-maximise-your-ecovadis-scorecard]
 faq:
   - q: "What score do I need for an EcoVadis Gold medal?"
     a: "Gold is reserved for the top 5% of companies assessed over the last 12 months. As of May 2026 that corresponds to approximately 81/100, up from 77 a year earlier — in 2024 it was still around 73. The threshold is moving faster than any other medal level."

@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
+status: published
 related: [milieu-indicatoren-verzamelen, sjablonen-diversiteit-corruptie-kinderarbeid, sterke-ecovadis-indieningen-opbouwen]
 faq:
   - q: "Waar vindt u die cijfers in een Belgische kmo?"

@@ -36,8 +36,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [de-ecovadis-scorecard-begrijpen, rising-bar-strengere-normen-2026, duurzame-inkoop-waar-beginnen, grondstoffen-en-chemicalien-env3522]
+status: published
+related: [de-ecovadis-scorecard-begrijpen, rising-bar-strengere-normen-2026, duurzame-inkoop-waar-beginnen, grondstoffen-en-chemicalien]
 faq:
   - q: "Wat zijn geactiveerde EcoVadis-criteria?"
     a: "De duurzaamheidsonderwerpen die EcoVadis in uw beoordeling opneemt, op basis van uw sectorclassificatie (ISIC-code), grootte en vestigingen. Van de 21 criteria over vier thema's worden alleen de voor uw activiteit materiële criteria geactiveerd. Criteria met hoog belang wegen het zwaarst; criteria met gemiddeld belang tellen minder; niet-geactiveerde criteria tellen niet."
@@ -81,7 +81,7 @@ Voor FMCG-bedrijven en consumentenmerken ziet de beoordeling er duidelijk anders
 
 **Kinderarbeid, dwangarbeid & mensenhandel** wordt als materieel criterium geactiveerd, zeker bij activiteiten of sourcing in risicoregio's — met focus op de eigen operaties: verbodsbeleid, sensibiliseringsopleiding voor medewerkers, gedocumenteerde klachtenmechanismen. Ook **Gezondheid & veiligheid van klanten** wordt geactiveerd: productveiligheidsbeleid, etiketteringsprocedures, gedocumenteerde terugroepplannen.
 
-**Duurzame Inkoop blijft wereldwijd het laagst scorende thema** — een wereldwijd gemiddelde van 43,1/100 volgens de EcoVadis Index, 9e editie (2025). Voor FMCG-bedrijven, onder druk van het Consumer Goods Forum en regelgevers rond ketentransparantie, is dit thema tegelijk het grootste risico en de grootste kans. Goed scoren vereist minstens: een leveranciersgedragscode, bewijs van duurzaamheidsevaluaties van leveranciers (minimaal via vragenlijst), en registraties van opleidingen verantwoord inkopen voor de aankopers. Ook due diligence op ketenniveau — auditdekking van het leveranciersbestand, opleiding van het inkoopteam rond dwangarbeidrisico's — wordt hier beoordeeld. Veel FMCG-bedrijven hebben die programma's; de kloof zit meestal in de vertaling naar het formaat en de precisie die analisten kunnen verifiëren.
+**In de toeleveringsketen ligt de breedste verbetermarge**, en Duurzame Inkoop is daarvan de duidelijkste uitdrukking: een wereldwijd gemiddelde van 43,1/100 volgens de EcoVadis Index, 9e editie (2025). De kloof is het grootst bij kleinere leveranciers, die deze praktijken toepassen zonder ze te documenteren. Voor FMCG-bedrijven, onder druk van het Consumer Goods Forum en regelgevers rond ketentransparantie, is dit thema tegelijk het grootste risico en de grootste kans. Goed scoren vereist minstens: een leveranciersgedragscode, bewijs van duurzaamheidsevaluaties van leveranciers (minimaal via vragenlijst), en registraties van opleidingen verantwoord inkopen voor de aankopers. Ook due diligence op ketenniveau — auditdekking van het leveranciersbestand, opleiding van het inkoopteam rond dwangarbeidrisico's — wordt hier beoordeeld. Veel FMCG-bedrijven hebben die programma's; de kloof zit meestal in de vertaling naar het formaat en de precisie die analisten kunnen verifiëren.
 
 ## Wat weegt het zwaarst in de chemie?
 
@@ -101,6 +101,6 @@ De praktische conclusie: **begin elke cyclus met te bevestigen welke criteria op
 
 - Uw ISIC-code, grootte en vestigingen bepalen welke van de 21 criteria geactiveerd worden en hoe de vier thema's gewogen worden.
 - Productie: Energie & broeikasgassen en Gezondheid & veiligheid op hoog belang; [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)/45001/50001 zijn de certificeringen die tellen.
-- FMCG: Duurzame Inkoop en sociale ketenrisico's onder strenge controle — het wereldwijd laagst scorende thema (43,1/100) is ook de grootste kans.
+- FMCG: Duurzame Inkoop en sociale ketenrisico's onder strenge controle — het thema met de breedste verbetermarge (wereldwijd gemiddelde 43,1/100), zeker bij kleinere leveranciers.
 - Chemie: de breedste milieuactivering — Materialen & afval, Luchtverontreiniging, Water — met gedetailleerd operationeel bewijs.
 - Sequenceer de voorbereiding per belangniveau; de generieke indiening is de meest voorkomende reden waarom scores blijven steken.

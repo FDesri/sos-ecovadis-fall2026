@@ -34,7 +34,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [de-ecovadis-scorecard-begrijpen, ecovadis-score-snel-verbeteren, van-committed-badge-naar-brons, wat-kost-ecovadis-begeleiding]
 faq:
   - q: "Waarvoor gebruiken klanten uw EcoVadis-score?"

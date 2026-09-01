@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [indicateurs-environnementaux-a-collecter, evolutions-methodologiques-t2-2026, ameliorer-son-score-ecovadis-rapidement, de-bronze-a-argent]
 faq:
   - q: "Quelles données GES EcoVadis demande-t-il ?"

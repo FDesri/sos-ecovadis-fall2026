@@ -34,8 +34,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-08-27
 version: 1
-status: review
-related: [full-ecovadis-support-mission, ecovadis-expert-advice-days, francois-dequenne]
+status: published
+related: [full-ecovadis-support-mission, francois-dequenne]
 faq:
   - q: "What happens if the agreed medal is not reached?"
     a: "The final instalment is not due, and ESG Interim Management continues to support you at no further cost through to your next assessment 12 months later."

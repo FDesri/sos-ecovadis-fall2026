@@ -38,7 +38,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
+status: published
 related: [evidence-templates-diversity-corruption-child-labour, social-hr-indicators-to-collect, supporting-documents-for-xs-companies]
 faq:
   - q: "Which anti-corruption actions pay off most for EcoVadis?"

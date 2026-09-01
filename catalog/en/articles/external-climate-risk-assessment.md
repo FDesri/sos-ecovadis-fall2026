@@ -3,9 +3,9 @@ id: kb-0032
 type: article
 lang: en
 source_lang: fr
-translation_of: risques-environnementaux-externes-env7003
-title: "How does EcoVadis take climate risks into consideration? (ENV7003)"
-slug: external-climate-risk-assessment-env7003
+translation_of: risques-environnementaux-externes
+title: "How does EcoVadis take climate risks into consideration?"
+slug: external-climate-risk-assessment
 summary: >-
   ENV7003 is a new question added to questionnaires in Q1 2026 for size S
   companies and up: it asks for evidence of a physical climate risk assessment
@@ -34,15 +34,14 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [adapting-to-environmental-disruptions-env7012, environmental-indicators-to-collect, ecovadis-methodology-updates-q2-2026]
+status: published
+related: [adapting-to-environmental-disruptions, environmental-indicators-to-collect, ecovadis-methodology-updates-q2-2026]
 faq:
   - q: "Does ENV7003 count towards the score?"
     a: "No. The question has no impact on the score, but the strengths and improvement areas identified from the evidence provided appear on the scorecard — and therefore in front of your buyers."
 ---
 
-# How does EcoVadis take climate risks into consideration? (ENV7003)
-
+# How does EcoVadis take climate risks into consideration?
 ## In brief
 
 **Expert insight — François Dequenne:** ENV7003 is a new question added to questionnaires in Q1 2026 for size S companies and up. It directly reflects the extreme weather events that derive from climate warming. It asks for two kinds of evidence: a physical climate risk assessment and a watershed-related risk assessment. No impact on the score — but what comes out of it is displayed on your scorecard.

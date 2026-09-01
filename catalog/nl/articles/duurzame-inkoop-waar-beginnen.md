@@ -37,8 +37,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [duurzame-inkoop-maatregelen-sup307, leveranciersengagement-programmas, ecovadis-en-co2-nulmeting]
+status: published
+related: [duurzame-inkoop-maatregelen, leveranciersengagement-programmas, ecovadis-en-co2-nulmeting]
 faq:
   - q: "Hoe engageren we onze leveranciers, en hoe belangrijk is het?"
     a: "Begin proportioneel: breng uw leveranciersbasis in kaart, engageer diepgaand de top 20% van de uitgaven (doorgaans 80% van uw inkooprisico) en stel lichtere eisen voor de rest. De inzet is commercieel: opdrachtgevers bouwen EcoVadis-drempels in hun aanbestedingen in, en Duurzame Inkoop is het thema waar ondernemingen het vaakst onder hun potentieel scoren."

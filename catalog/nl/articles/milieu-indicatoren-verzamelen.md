@@ -35,8 +35,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [sociale-hr-indicatoren-verzamelen, ecovadis-en-co2-nulmeting, afvalbeheer-env3549, sterke-ecovadis-indieningen-opbouwen]
+status: published
+related: [sociale-hr-indicatoren-verzamelen, ecovadis-en-co2-nulmeting, afvalbeheer, sterke-ecovadis-indieningen-opbouwen]
 faq:
   - q: "Moet u antwoorden als een indicator nul is, zoals hergebruikt water?"
     a: "Ja. Als er geen recyclage-installatie is, is \"0\" antwoorden aanvaardbaar en documenteerbaar — een leeg veld in de CO₂-balans kan als verantwoording dienen. Een gedocumenteerde nul is beter dan een ontbrekend antwoord."

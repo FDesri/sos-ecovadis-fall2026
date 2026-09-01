@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [de-bronze-a-argent, guide-essentiel-ecovadis, comprendre-la-fiche-devaluation-ecovadis, rising-bar-exigences-croissantes-2026, accompagnement-ecovadis-complet]
 faq:
   - q: "Quel score faut-il pour une médaille Bronze EcoVadis ?"
@@ -54,7 +54,7 @@ faq:
 
 Depuis janvier 2024, EcoVadis attribue les médailles uniquement au **rang percentile**, plus sur des seuils fixes. Votre score global est comparé à toutes les entreprises évaluées sur les 12 derniers mois : Bronze = top 35 %, Argent = top 15 %, Or = top 5 %, Platine = top 1 %. La base grandit, les entreprises progressent : le score requis monte avec le temps. Les repères cités proviennent des données du portefeuille clients ESGIM (mise à jour mai 2026) — indicatifs, pas des objectifs officiels.
 
-Toute entreprise au badge Committed concourt pour le Bronze face à la même barre montante : environ 64/100 en mai 2026, contre 62 en juillet 2025. Deux points en moins d'un an peuvent sembler peu ; sur une base mondiale de plus de 130 000 entreprises évaluées, c'est un déplacement mesurable de la qualité moyenne des systèmes de gestion.
+Toute entreprise au badge Committed concourt pour le Bronze face à la même barre montante : environ 64/100 en mai 2026, contre 62 en juillet 2025. Deux points en moins d'un an peuvent sembler peu ; sur une base mondiale de plus de 150 000 entreprises évaluées, c'est un déplacement mesurable de la qualité moyenne des systèmes de gestion.
 
 ## Que contient réellement un système de gestion à 64/100 ?
 

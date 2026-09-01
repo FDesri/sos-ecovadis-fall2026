@@ -37,8 +37,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [comprendre-la-fiche-devaluation-ecovadis, rising-bar-exigences-croissantes-2026, achats-responsables-par-ou-commencer, matieres-premieres-produits-chimiques-env3522]
+status: published
+related: [comprendre-la-fiche-devaluation-ecovadis, rising-bar-exigences-croissantes-2026, achats-responsables-par-ou-commencer, matieres-premieres-produits-chimiques]
 faq:
   - q: "Que sont les critères activés EcoVadis ?"
     a: "Les sujets de durabilité qu'EcoVadis inclut dans votre évaluation, selon votre classification sectorielle (code ISIC), votre taille et vos implantations. Sur les 21 critères des quatre thèmes, seuls ceux matériels pour votre activité sont activés. Les critères à importance élevée pèsent le plus ; ceux à importance moyenne contribuent moins ; les critères non activés ne comptent pas."
@@ -82,7 +82,7 @@ Pour les marques de grande consommation, l'évaluation change nettement : **les 
 
 **Travail des enfants, travail forcé et traite** est activé comme critère matériel, surtout en cas d'opérations ou d'approvisionnements dans des régions à risque — avec un focus sur vos propres opérations : politiques d'interdiction, sensibilisation des employés, mécanismes de réclamation documentés. **Santé-sécurité des clients** est aussi activée : politiques de sécurité produit, procédures d'étiquetage, plans de rappel documentés.
 
-**Les Achats Responsables restent le thème le moins bien noté au monde** — moyenne globale de 43,1/100 selon l'Index EcoVadis, 9ᵉ édition (2025). Pour la grande consommation, sous pression du Consumer Goods Forum et des régulateurs sur la transparence de la chaîne, c'est à la fois le plus grand risque et la plus grande opportunité. Bien scorer exige au minimum : un code de conduite fournisseur, des preuves d'évaluations de durabilité des fournisseurs (au moins par questionnaire), et des traces de formation des acheteurs aux achats responsables. La vigilance au niveau de la chaîne — couverture d'audit du panel, formation des équipes achats aux risques de travail forcé — s'évalue ici aussi. Beaucoup d'entreprises ont ces programmes ; l'écart est généralement de les traduire dans le format et la précision vérifiables par les analystes.
+**C'est sur la chaîne d'approvisionnement que la marge de progression est la plus large**, et les Achats Responsables en sont le thème le plus révélateur : moyenne globale de 43,1/100 selon l'Index EcoVadis, 9ᵉ édition (2025). L'écart se creuse surtout chez les petits fournisseurs, qui exercent ces pratiques sans les documenter. Pour la grande consommation, sous pression du Consumer Goods Forum et des régulateurs sur la transparence de la chaîne, c'est à la fois le plus grand risque et la plus grande opportunité. Bien scorer exige au minimum : un code de conduite fournisseur, des preuves d'évaluations de durabilité des fournisseurs (au moins par questionnaire), et des traces de formation des acheteurs aux achats responsables. La vigilance au niveau de la chaîne — couverture d'audit du panel, formation des équipes achats aux risques de travail forcé — s'évalue ici aussi. Beaucoup d'entreprises ont ces programmes ; l'écart est généralement de les traduire dans le format et la précision vérifiables par les analystes.
 
 ## Qu'est-ce qui pèse le plus en chimie ?
 
@@ -102,6 +102,6 @@ L'implication pratique : **commencez chaque cycle en confirmant quels critères 
 
 - Votre code ISIC, votre taille et vos implantations déterminent quels critères (sur 21) sont activés et comment les quatre thèmes sont pondérés.
 - Industrie : Énergie & GES et Santé-Sécurité à importance élevée ; [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)/45001/50001 sont les certifications qui comptent.
-- Grande consommation : Achats Responsables et risques sociaux de la chaîne sous forte surveillance — le thème le moins bien noté au monde (43,1/100) est aussi la plus grande opportunité.
+- Grande consommation : Achats Responsables et risques sociaux de la chaîne sous forte surveillance — le thème où la marge de progression est la plus large (moyenne mondiale 43,1/100), en particulier chez les petits fournisseurs.
 - Chimie : l'activation environnementale la plus large — Matières & déchets, Pollution de l'air, Eau — exigeant des preuves opérationnelles détaillées.
 - Séquencez la préparation par niveau d'importance ; la soumission générique est la première cause de stagnation.

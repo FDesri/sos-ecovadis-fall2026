@@ -9,7 +9,7 @@ slug: b-corp-ou-ecovadis
 summary: >-
   Les deux démarches sont documentaires, sur mesure et fondées sur
   l'amélioration continue — mais elles mesurent des choses différentes :
-  EcoVadis note votre système de gestion de la durabilité (130 000+
+  EcoVadis note votre système de gestion de la durabilité (150 000+
   entreprises évaluées, médailles par paliers, cycle annuel, 4-6 mois) ;
   B Corp certifie votre impact global et votre modèle d'affaires (environ
   9 000 B Corps, minimum 80 points, addendum statutaire, 9-24 mois,
@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [comprendre-la-fiche-devaluation-ecovadis, pourquoi-se-lancer-dans-ecovadis, auto-evaluation-ou-accompagnement-expert, de-bronze-a-argent]
 faq:
   - q: "Quand une entreprise est-elle prête pour B Corp ?"
@@ -61,9 +61,9 @@ Sous la pression croissante des régulateurs, des parties prenantes et des clien
 
 ## Quelles sont les différences clés ?
 
-**La portée.** EcoVadis est l'une des notations RSE les plus utilisées, avec plus de 130 000 entreprises évaluées dans le monde ; il n'existe qu'environ 9 000 B Corps.
+**La portée.** EcoVadis est l'une des notations RSE les plus utilisées, avec plus de 150 000 entreprises évaluées dans le monde ; il n'existe qu'environ 9 000 B Corps.
 
-**L'accessibilité.** Un éventail de secteurs plus large est éligible à la notation EcoVadis ; B Corp est plus restrictif du fait de considérations de risque sectoriel. B Corp exige un **minimum de 80 points** ; EcoVadis fonctionne par paliers (Bronze, Argent, Or, Platine) qui reconnaissent différents niveaux de progrès.
+**L'accessibilité.** Un éventail de secteurs plus large est éligible à la notation EcoVadis ; B Corp est plus restrictif du fait de considérations de risque sectoriel. B Corp exige un **minimum de 80 points**. Une entreprise arrivée à l'Argent EcoVadis (73/100) a la maturité pour entamer une démarche B Corp ; EcoVadis fonctionne par paliers (Bronze, Argent, Or, Platine) qui reconnaissent différents niveaux de progrès.
 
 **Le périmètre de l'évaluation.** La différence principale : **EcoVadis évalue le système de gestion de la durabilité ; B Corp évalue l'impact de l'entreprise** à travers ses opérations et son modèle d'affaires. B Corp exige en outre un addendum aux statuts affirmant que l'entreprise considère à égalité les intérêts de l'environnement, de la société et de la performance financière — une protection de la mission qui survit aux changements d'organisation.
 
@@ -90,7 +90,7 @@ Choisissez le parcours qui correspond à votre position sur la courbe de maturit
 ## À retenir
 
 - Même famille, objets différents : EcoVadis note le système de gestion ; B Corp certifie l'impact et le modèle d'affaires.
-- EcoVadis est plus large et par paliers (130 000+ entreprises évaluées) ; B Corp est sélectif (minimum 80 points, ~9 000 entreprises, mission verrouillée dans les statuts).
+- EcoVadis est plus large et par paliers (150 000+ entreprises évaluées) ; B Corp est sélectif (minimum 80 points, ~9 000 entreprises, mission verrouillée dans les statuts).
 - Des délais très différents : 4-6 mois chaque année contre 9-24 mois tous les trois ans.
 - Les deux se complètent : EcoVadis pour la chaîne d'approvisionnement et la finance, B Corp pour la crédibilité grand public et la communauté.
 - Règle de maturité : EcoVadis Argent = prêt pour B Corp.

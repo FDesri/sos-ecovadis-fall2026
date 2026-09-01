@@ -38,7 +38,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [ecovadis-rising-standards-2026, why-keeping-a-bronze-medal-is-harder, ecovadis-activated-criteria-by-sector, understanding-the-ecovadis-scorecard]
 faq:
   - q: "A score of 65 used to be enough for Silver — why not any more?"
@@ -70,7 +70,7 @@ The global average keeps rising: ~40 points in 2011, 44 in 2016, past 50 in 2022
 
 | Medal | Indicative score (July 2024) | Expected evolution (2026) |
 |---|---|---|
-| Platinum | ~84-85 | > 85 |
+| Platinum | ~86 | > 85 |
 | Gold | ~73 | ~75 |
 | Silver | ~66 | ~72 |
 | Bronze | ~58 | ~65 |

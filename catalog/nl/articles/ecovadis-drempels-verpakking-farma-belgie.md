@@ -38,7 +38,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [rising-bar-strengere-normen-2026, waarom-een-bronzen-medaille-moeilijker-wordt, geactiveerde-criteria-per-sector, de-ecovadis-scorecard-begrijpen]
 faq:
   - q: "Een score van 65 volstond vroeger voor Zilver — waarom nu niet meer?"
@@ -70,7 +70,7 @@ De wereldwijde gemiddelde score stijgt: ~40 punten in 2011, 44 in 2016, boven 50
 
 | Medaille | Indicatieve score (juli 2024) | Verwachte evolutie (2026) |
 |---|---|---|
-| Platinum | ~84-85 | > 85 |
+| Platinum | ~86 | > 85 |
 | Goud | ~73 | ~75 |
 | Zilver | ~66 | ~72 |
 | Brons | ~58 | ~65 |

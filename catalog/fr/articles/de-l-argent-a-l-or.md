@@ -35,8 +35,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [de-bronze-a-argent, rising-bar-exigences-croissantes-2026, lire-partager-optimiser-sa-fiche-devaluation, jours-de-conseil-expert-ecovadis]
+status: published
+related: [de-bronze-a-argent, rising-bar-exigences-croissantes-2026, lire-partager-optimiser-sa-fiche-devaluation]
 faq:
   - q: "Quel score faut-il pour une médaille Or EcoVadis ?"
     a: "L'Or est réservé au top 5 % des entreprises évaluées sur les 12 derniers mois. En mai 2026, cela correspond à environ 81/100, contre 77 un an plus tôt — en 2024, c'était encore autour de 73. Ce seuil monte plus vite que tous les autres niveaux."

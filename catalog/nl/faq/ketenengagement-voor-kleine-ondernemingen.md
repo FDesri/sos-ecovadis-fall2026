@@ -33,8 +33,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [duurzame-inkoop-maatregelen-sup307, duurzame-inkoop-waar-beginnen]
+status: published
+related: [duurzame-inkoop-maatregelen, duurzame-inkoop-waar-beginnen]
 ---
 
 # Hoe beoordeelt EcoVadis het ketenengagement van kleine ondernemingen?

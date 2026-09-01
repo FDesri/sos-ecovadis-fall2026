@@ -4,8 +4,8 @@ type: article
 lang: fr
 source_lang: fr
 translation_of: null
-title: "Quelles actions face aux perturbations environnementales externes ? (ENV7012)"
-slug: perturbations-environnementales-env7012
+title: "Quelles actions face aux perturbations environnementales externes ?"
+slug: perturbations-environnementales
 summary: >-
   ENV7012 demande la preuve de deux familles d'actions : l'intégration de
   pratiques adaptatives dans les opérations (protocoles canicule ou tempête,
@@ -35,15 +35,14 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [risques-environnementaux-externes-env7003, indicateurs-environnementaux-a-collecter, evolutions-methodologiques-t2-2026]
+status: published
+related: [risques-environnementaux-externes, indicateurs-environnementaux-a-collecter, evolutions-methodologiques-t2-2026]
 faq:
   - q: "ENV7012 compte-t-elle dans le score ?"
     a: "Non. Comme ENV7003, cette question n'a pas d'impact sur le score, mais les forces et points d'amélioration identifiés à partir des preuves fournies apparaissent sur la fiche d'évaluation."
 ---
 
-# Quelles actions face aux perturbations environnementales externes ? (ENV7012)
-
+# Quelles actions face aux perturbations environnementales externes ?
 ## En bref
 
 [ENV7012](https://resources.ecovadis.com/whitepapers/ecovadis-ratings-methodology-overview-and-principles-2022-neutral) prolonge l'évaluation des risques climatiques (ENV7003) sur le terrain des **actions** : que fait concrètement l'entreprise pour résister aux perturbations environnementales ? Deux familles de preuves sont attendues — les pratiques adaptatives intégrées aux opérations, et les réserves d'urgence ou filets de sécurité. Sans impact sur le score, mais visible sur la fiche d'évaluation.

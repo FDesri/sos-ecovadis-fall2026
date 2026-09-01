@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [van-brons-naar-zilver, ecovadis-essentials-gids, de-ecovadis-scorecard-begrijpen, rising-bar-strengere-normen-2026, volledige-ecovadis-begeleiding]
 faq:
   - q: "Welke score heb ik nodig voor een Bronzen EcoVadis-medaille?"
@@ -54,7 +54,7 @@ faq:
 
 Sinds januari 2024 kent EcoVadis medailles uitsluitend toe op **percentielrang**, niet op vaste drempels. Uw totaalscore wordt vergeleken met alle ondernemingen die de voorbije 12 maanden werden beoordeeld: Brons = top 35%, Zilver = top 15%, Goud = top 5%, Platinum = top 1%. De databank groeit, ondernemingen verbeteren: de vereiste score stijgt mettertijd. De referenties komen uit de ESGIM-portfoliodata (mei 2026) — richtinggevend, geen officiële doelen.
 
-Elke onderneming met de Committed Badge strijdt voor Brons tegen dezelfde stijgende lat: ongeveer 64/100 in mei 2026, tegenover 62 in juli 2025. Twee punten in minder dan een jaar lijkt weinig; over een wereldwijde databank van meer dan 130.000 beoordeelde ondernemingen is dat een meetbare verschuiving van de gemiddelde kwaliteit van duurzaamheidsbeheer.
+Elke onderneming met de Committed Badge strijdt voor Brons tegen dezelfde stijgende lat: ongeveer 64/100 in mei 2026, tegenover 62 in juli 2025. Twee punten in minder dan een jaar lijkt weinig; over een wereldwijde databank van meer dan 150.000 beoordeelde ondernemingen is dat een meetbare verschuiving van de gemiddelde kwaliteit van duurzaamheidsbeheer.
 
 ## Wat bevat een managementsysteem van 64/100 werkelijk?
 

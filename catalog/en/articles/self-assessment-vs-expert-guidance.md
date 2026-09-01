@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [how-much-does-ecovadis-support-cost, full-ecovadis-support-mission, ecovadis-essentials-guide, from-committed-badge-to-bronze]
 faq:
   - q: "Should a company handle an EcoVadis assessment in-house or hire a consultant?"

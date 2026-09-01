@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [comprendre-la-fiche-devaluation-ecovadis, ameliorer-son-score-ecovadis-rapidement]
 ---
 

@@ -36,8 +36,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [ecovadis-rising-standards-2026, external-climate-risk-assessment-env7003, adapting-to-environmental-disruptions-env7012, from-committed-badge-to-bronze]
+status: published
+related: [ecovadis-rising-standards-2026, external-climate-risk-assessment, adapting-to-environmental-disruptions, from-committed-badge-to-bronze]
 faq:
   - q: "Since when are medals awarded by percentile?"
     a: "Since 2024. Medals no longer depend on fixed scores but on a percentile ranking comparing the company against the entire EcoVadis database of the previous 12 months — which is why the thresholds rise continuously."
@@ -69,12 +69,12 @@ In three years EcoVadis changed in nature: from a fixed score to continuous perc
 - **Environmental materiality pilot**: in certain sectors, companies can choose whether topics such as water, air pollution or product end-of-life are material to them — a more proportionate, tailored assessment.
 - **Reinforced [360° Watch](https://ecovadis.com/) assessment**: introduction of "stakeholder consensus" to better assess the severity of controversies and avoid disproportionate penalties for uncertain or disputed impacts.
 - **Recognition of [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) and [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) standards**: new strengths for reports compliant with EFRAG's [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded) standard (European SMEs) and with [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)/[ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj).
-- **Integration of external environmental risks** ([ENV7003](external-climate-risk-assessment-env7003.md)) and **actions against external environmental disruptions** ([ENV7012](adapting-to-environmental-disruptions-env7012.md)).
+- **Integration of external environmental risks** ([ENV7003](external-climate-risk-assessment.md)) and **actions against external environmental disruptions** ([ENV7012](adapting-to-environmental-disruptions.md)).
 
 ## Why has earning and keeping a medal become harder?
 
 - **Continuous competition (percentiles vs fixed scores)**: score thresholds rise constantly as the EcoVadis network grows and improves. The estimated indicative score for Gold went from **77/100 in July 2025 to 78/100 in January 2026**.
-- **Higher transparency requirements for Reporting**: this indicator weighs 14% of the overall score. For a high score, KPIs must be published in a **public annual or sustainability report** (no longer just a website), and at least **85% of the activated sustainability criteria** must be covered by KPIs for the maximum score.
+- **Higher transparency requirements for Reporting**: this indicator weighs 14% of the overall score. To pass 50/100, KPIs must be published in a **public annual or sustainability report** (no longer just a website), and, for the maximum score expected at Gold and Platinum, at least **85% of the activated sustainability criteria** must be covered by KPIs.
 - **Stricter evidence provenance**: in an entity-level assessment, consolidated group reports or data are no longer accepted by analysts unless they contain a specific, detailed breakdown for the assessed entity.
 - **The 360° Watch exclusion impact**: a major or severe infraction identified by the monitoring (workplace accident, pollution, late supplier payments) can make the company **ineligible for any medal for 3 to 5 years**, regardless of the overall score.
 

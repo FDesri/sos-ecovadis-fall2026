@@ -3,9 +3,9 @@ id: kb-0034
 type: article
 lang: en
 source_lang: fr
-translation_of: matieres-premieres-produits-chimiques-env3522
-title: "How to manage your raw materials and chemicals (ENV3522)"
-slug: raw-materials-and-chemicals-env3522
+translation_of: matieres-premieres-produits-chimiques
+title: "How to manage your raw materials and chemicals"
+slug: raw-materials-and-chemicals
 summary: >-
   Question ENV3522 assesses nine sub-actions, from process optimisation to
   the substitution of hazardous substances. An anonymised real case (Walloon
@@ -37,8 +37,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [waste-management-env3549, environmental-indicators-to-collect, ecovadis-essentials-guide]
+status: published
+related: [waste-management, environmental-indicators-to-collect, ecovadis-essentials-guide]
 faq:
   - q: "Can supplier documents (VACCP, code of conduct) be reused in ENV3522?"
     a: "No. EcoVadis expects them under the Sustainable Procurement theme; counting them twice adds nothing. ENV3522 targets the management of materials and substances in your own operations."
@@ -48,8 +48,7 @@ faq:
     a: "The training evidence on safe management of hazardous substances: a half-day on the solvent safety sheets with a signed attendance list turns the sub-action green."
 ---
 
-# How to manage your raw materials and chemicals (ENV3522)
-
+# How to manage your raw materials and chemicals
 ## In brief
 
 ENV3522 asks: "What actions has your company implemented to manage raw materials and chemicals?" — nine sub-actions. As with waste (ENV3549), most of the evidence already exists in an industrial file: procedures, safety information sheets, collector registers, certificates. The work consists of linking each document to the right sub-action, identifying the real gaps, and not wasting evidence that is expected elsewhere in the questionnaire.

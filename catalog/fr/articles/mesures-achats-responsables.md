@@ -4,8 +4,8 @@ type: article
 lang: fr
 source_lang: fr
 translation_of: null
-title: "Que faut-il faire par rapport à ses fournisseurs ? Les mesures Achats Responsables (SUP307)"
-slug: mesures-achats-responsables-sup307
+title: "Que faut-il faire par rapport à ses fournisseurs ? Les mesures Achats Responsables"
+slug: mesures-achats-responsables
 summary: >-
   La question SUP307 évalue neuf sous-actions Achats Responsables, du code de
   conduite fournisseurs aux programmes de développement des capacités. Règle
@@ -37,8 +37,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [achats-responsables-par-ou-commencer, programmes-engagement-fournisseurs, matieres-premieres-produits-chimiques-env3522]
+status: published
+related: [achats-responsables-par-ou-commencer, programmes-engagement-fournisseurs, matieres-premieres-produits-chimiques]
 faq:
   - q: "Faut-il cocher toutes les options de SUP307 pour maximiser son score ?"
     a: "Non, au contraire. Une option cochée sans preuve dédiée est neutralisée par l'analyste et fragilise l'ensemble de la section. Ne cochez que ce qui est prouvable par un document spécifique."
@@ -48,8 +48,7 @@ faq:
     a: "Seulement si aucune des options 1 à 8 ne s'applique — EcoVadis le précise explicitement. Si vous cochez déjà les options principales, y ajouter la 9 affaiblit la lecture du dossier."
 ---
 
-# Que faut-il faire par rapport à ses fournisseurs ? Les mesures Achats Responsables (SUP307)
-
+# Que faut-il faire par rapport à ses fournisseurs ? Les mesures Achats Responsables
 ## En bref
 
 SUP307 demande : « Quelles actions votre entreprise a-t-elle mises en œuvre pour intégrer les facteurs sociaux et environnementaux dans ses achats ? » — neuf sous-actions. La règle d'or : **ne cocher que ce qui est prouvable par un document dédié**. Une option cochée sans preuve spécifique est neutralisée par l'analyste et fragilise l'ensemble de la section. Dans un dossier de PME industrielle bien tenu, cinq options sur neuf sont souvent couvrables immédiatement ; deux autres sont des quick wins d'une demi-journée.

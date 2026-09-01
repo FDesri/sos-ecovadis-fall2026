@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [from-bronze-to-silver, ecovadis-essentials-guide, understanding-the-ecovadis-scorecard, ecovadis-rising-standards-2026, full-ecovadis-support-mission]
 faq:
   - q: "What score do I need for an EcoVadis Bronze medal?"
@@ -54,7 +54,7 @@ faq:
 
 Since January 2024, EcoVadis awards medals based entirely on **percentile ranking**, not fixed score thresholds. Your overall score is compared against every company rated on the platform over the previous 12 months: Bronze goes to the top 35%, Silver to the top 15%, Gold to the top 5%, Platinum to the top 1%. Because the database keeps growing and companies keep improving, the approximate score required for each medal rises over time. The benchmarks in this article come from ESG Interim Management's internal client portfolio data, last updated May 2026 — directional indicators, not official EcoVadis targets.
 
-Every company holding the Committed Badge is competing for Bronze against the same rising bar: approximately 64/100 as of May 2026, up from 62 in July 2025. Two points in under a year may not sound significant; across a global database of over 130,000 rated companies, it reflects a measurable shift in the average quality of sustainability management.
+Every company holding the Committed Badge is competing for Bronze against the same rising bar: approximately 64/100 as of May 2026, up from 62 in July 2025. Two points in under a year may not sound significant; across a global database of over 150,000 rated companies, it reflects a measurable shift in the average quality of sustainability management.
 
 ## What does a 64/100 management system actually contain?
 

@@ -4,8 +4,8 @@ type: article
 lang: fr
 source_lang: fr
 translation_of: null
-title: "Comment les risques climatiques sont-ils pris en compte dans EcoVadis ? (ENV7003)"
-slug: risques-environnementaux-externes-env7003
+title: "Comment les risques climatiques sont-ils pris en compte dans EcoVadis ?"
+slug: risques-environnementaux-externes
 summary: >-
   ENV7003 est une nouvelle question ajoutée aux questionnaires au T1 2026 pour
   les entreprises de taille S et plus : elle demande la preuve d'une évaluation
@@ -35,15 +35,14 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [perturbations-environnementales-env7012, indicateurs-environnementaux-a-collecter, evolutions-methodologiques-t2-2026]
+status: published
+related: [perturbations-environnementales, indicateurs-environnementaux-a-collecter, evolutions-methodologiques-t2-2026]
 faq:
   - q: "ENV7003 compte-t-elle dans le score ?"
     a: "Non. Cette question n'a pas d'impact sur le score, mais les forces et les points d'amélioration identifiés à partir des preuves fournies apparaissent sur la fiche d'évaluation — et donc aux yeux de vos donneurs d'ordres."
 ---
 
-# Comment les risques climatiques sont-ils pris en compte dans EcoVadis ? (ENV7003)
-
+# Comment les risques climatiques sont-ils pris en compte dans EcoVadis ?
 ## En bref
 
 **Regard d'expert — François Dequenne :** ENV7003 est une nouvelle question ajoutée aux questionnaires au T1 2026 pour les entreprises de taille S et plus. Elle reflète directement la multiplication des événements climatiques extrêmes liés au réchauffement. Elle demande deux types de preuves : une évaluation des risques climatiques physiques et une évaluation des risques liés aux bassins hydrographiques. Sans impact sur le score — mais ce qui en ressort s'affiche sur votre fiche d'évaluation.

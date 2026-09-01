@@ -3,9 +3,9 @@ id: kb-0035
 type: article
 lang: nl
 source_lang: fr
-translation_of: gestion-des-dechets-env3549
-title: "Wat kunt u beter doen in uw afvalbeheer? (ENV3549)"
-slug: afvalbeheer-env3549
+translation_of: gestion-des-dechets
+title: "Wat kunt u beter doen in uw afvalbeheer?"
+slug: afvalbeheer
 summary: >-
   Vraag ENV3549 beoordeelt vijf deelacties: interne afvalreductie
   (hergebruik, terugwinning, recyclage), opleiding van medewerkers in
@@ -37,8 +37,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [milieu-indicatoren-verzamelen, grondstoffen-en-chemicalien-env3522, ecovadis-essentials-gids]
+status: published
+related: [milieu-indicatoren-verzamelen, grondstoffen-en-chemicalien, ecovadis-essentials-gids]
 faq:
   - q: "Vergeeft EcoVadis een ongunstige afvaltrend?"
     a: "Ja, als ze wordt toegelicht ÉN gekoppeld aan een becijferd doel. Een stijging van het gevaarlijk afval wordt gelezen als een verslechtering; een doel als '−10% kg/t tegen 2028' in het milieubeleid verandert de lezing van het hele dossier."
@@ -46,8 +46,7 @@ faq:
     a: "De sorteeropleiding: een toolbox van een halfuur met ondertekende aanwezigheidslijst volstaat om de deelactie 'opleiding van medewerkers' te dekken — vaak het enige gapende gat in een verder degelijk dossier."
 ---
 
-# Wat kunt u beter doen in uw afvalbeheer? (ENV3549)
-
+# Wat kunt u beter doen in uw afvalbeheer?
 ## In het kort
 
 ENV3549 vraagt: "Welke acties heeft uw onderneming ingevoerd om afval te beheren?" — vijf deelacties om te documenteren. De meeste industriële kmo's hebben het essentiële al (procedures, registers van ophalers, certificaten); het werk bestaat erin elk document aan de juiste deelactie te koppelen, het terugkerende opleidingsgat te dichten en tegenstrijdigheden tussen documenten weg te werken vóór het opladen.

@@ -36,8 +36,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [rising-bar-strengere-normen-2026, externe-klimaatrisicos-env7003, milieuverstoringen-aanpakken-env7012, van-committed-badge-naar-brons]
+status: published
+related: [rising-bar-strengere-normen-2026, externe-klimaatrisicos, milieuverstoringen-aanpakken, van-committed-badge-naar-brons]
 faq:
   - q: "Sinds wanneer worden medailles per percentiel toegekend?"
     a: "Sinds 2024. Medailles hangen niet meer af van vaste scores maar van een percentielrangschikking tegenover de volledige EcoVadis-databank van de voorbije 12 maanden — vandaar dat de drempels voortdurend stijgen."
@@ -69,12 +69,12 @@ In drie jaar veranderde EcoVadis van aard: van een vaste score naar continue per
 - **Pilot milieumaterialiteit**: in bepaalde sectoren kunnen ondernemingen kiezen of onderwerpen zoals water, luchtverontreiniging of einde levensduur voor hen materieel zijn — een proportionelere beoordeling op maat.
 - **Versterkte [360° Watch](https://ecovadis.com/)-beoordeling**: introductie van "stakeholderconsensus" om de ernst van controverses beter in te schatten en onevenredige straffen bij onzekere of betwiste impact te vermijden.
 - **Erkenning van de [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)- en [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)-standaarden**: nieuwe sterktes voor rapporten conform de [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)-standaard van EFRAG (Europese kmo's) en de [CSRD](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)/[ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj).
-- **Integratie van externe milieurisico's** ([ENV7003](externe-klimaatrisicos-env7003.md)) en van **acties tegen externe milieuverstoringen** ([ENV7012](milieuverstoringen-aanpakken-env7012.md)).
+- **Integratie van externe milieurisico's** ([ENV7003](externe-klimaatrisicos.md)) en van **acties tegen externe milieuverstoringen** ([ENV7012](milieuverstoringen-aanpakken.md)).
 
 ## Waarom is een medaille behalen en behouden moeilijker geworden?
 
 - **Continue competitie (percentielen vs vaste scores)**: de scoredrempels stijgen voortdurend naarmate het EcoVadis-netwerk groeit en verbetert. De indicatieve score voor Goud ging van **77/100 in juli 2025 naar 78/100 in januari 2026**.
-- **Hogere transparantie-eisen voor Rapportering**: deze indicator weegt 14% van de totaalscore. Voor een hoge score moeten de KPI's gepubliceerd staan in een **publiek jaarverslag of duurzaamheidsrapport** (niet langer alleen op een website), en moet minstens **85% van de geactiveerde criteria** door KPI's gedekt zijn voor de maximumscore.
+- **Hogere transparantie-eisen voor Rapportering**: deze indicator weegt 14% van de totaalscore. Om boven 50/100 te raken moeten de KPI's gepubliceerd staan in een **publiek jaarverslag of duurzaamheidsrapport** (niet langer alleen op een website), en moet, voor de maximumscore die op Goud en Platinum wordt verwacht, minstens **85% van de geactiveerde criteria** door KPI's gedekt zijn.
 - **Strengere eisen aan de herkomst van bewijs**: bij een beoordeling op entiteitsniveau aanvaarden de analisten geen geconsolideerde groepsrapporten of -data meer, tenzij ze een specifieke, gedetailleerde uitsplitsing voor de beoordeelde entiteit bevatten.
 - **Het uitsluitingseffect van de 360° Watch**: een grote of ernstige inbreuk die de monitoring identificeert (arbeidsongeval, vervuiling, laattijdige leveranciersbetalingen) kan de onderneming **3 tot 5 jaar onverkiesbaar maken voor eender welke medaille**, ongeacht de kwaliteit van de totaalscore.
 

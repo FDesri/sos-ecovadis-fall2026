@@ -34,8 +34,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [indicateurs-sociaux-rh-a-collecter, ecovadis-et-bilan-ges-de-base, gestion-des-dechets-env3549, soumissions-ecovadis-solides-et-regulieres]
+status: published
+related: [indicateurs-sociaux-rh-a-collecter, ecovadis-et-bilan-ges-de-base, gestion-des-dechets, soumissions-ecovadis-solides-et-regulieres]
 faq:
   - q: "Faut-il répondre quand un indicateur est à zéro, comme l'eau réutilisée ?"
     a: "Oui. Si aucun dispositif de recyclage n'est en place, répondre « 0 » est acceptable et documentable — un champ vide dans le bilan carbone peut servir de justification. Mieux vaut un zéro documenté qu'une absence de réponse."

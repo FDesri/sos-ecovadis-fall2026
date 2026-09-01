@@ -33,8 +33,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [how-much-does-ecovadis-support-cost, ecovadis-expert-advice-days, francois-dequenne]
+status: published
+related: [how-much-does-ecovadis-support-cost, francois-dequenne]
 faq:
   - q: "Who does the work — my team or yours?"
     a: "ESGIM experts are interim managers, not distant advisers: they work on-site alongside your teams and take the work off your desk."

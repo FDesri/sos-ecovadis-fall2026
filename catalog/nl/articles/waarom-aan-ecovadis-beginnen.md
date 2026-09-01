@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [de-ecovadis-scorecard-begrijpen, ecovadis-essentials-gids, scorecard-lezen-delen-optimaliseren, van-committed-badge-naar-brons]
 faq:
   - q: "Kan een kleine onderneming de EcoVadis-beoordeling doorlopen?"

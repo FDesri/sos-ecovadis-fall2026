@@ -28,7 +28,7 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "Improve your EcoVadis score fast - Practical steps that work (Evernote, mise à jour 2026-08-24 ; noms clients rétablis et résultats corrigés par François le 01/09/2026 — les niveaux de médaille de Bridgestone et Les Tartes de Françoise restent à confirmer)"
+source_note: "Improve your EcoVadis score fast - Practical steps that work (Evernote, mise à jour 2026-08-24 ; noms clients rétablis et résultats corrigés par François le 01/09/2026)"
 sources: [ecovadis-medals, ecovadis-methodology]
 confidentiality: public
 reliability: expert-drafted
@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [guide-essentiel-ecovadis, soumissions-ecovadis-solides-et-regulieres, lire-partager-optimiser-sa-fiche-devaluation, achats-responsables-par-ou-commencer, ecovadis-et-bilan-ges-de-base]
 faq:
   - q: "Faut-il un logiciel coûteux pour commencer à rapporter des KPI ?"
@@ -89,13 +89,9 @@ La fiche d'évaluation carbone note la gestion carbone sur l'engagement, les act
 
 Des missions menées par ESGIM et ses consultants :
 
-- **CIREPA** (imprimerie flexographique, Wallonie, taille S) — la gestion carbone et l'engagement fournisseurs restaient peu développés face aux demandes des clients et des investisseurs. Mesure de l'empreinte carbone, objectifs d'émissions, vigilance fournisseurs alignée sur la réglementation : **passage du Bronze à l'Argent**. Le reporting climat et la gestion de la chaîne se révèlent les leviers les plus rapides.
-- **CPRO** (chimie et logistique) — un secteur où l'action climatique et la conformité fournisseurs sont très scrutées. Plan de transition climatique, émissions suivies par KPI, programme de vigilance fournisseurs : **médaille d'Argent dès la première évaluation**.
-- **Groupemeca** — consolider les politiques et rationaliser les publications sur plusieurs juridictions. Formalisation des politiques, alignement du reporting sur les axes EcoVadis, KPI structurés et validation externe : **Bronze acquis, la montée vers l'Argent est en cours**.
-- **Bridgestone** — améliorer rapidement la performance ESG pour rester compétitif face aux partenaires mondiaux. Durabilité ancrée dans les structures de gouvernance, avec l'adhésion du conseil : progression sensible du score — l'engagement des dirigeants accélère l'amélioration.
-- **Les Tartes de Françoise** — PME des biens de consommation arrivée à sa première évaluation avec des initiatives ponctuelles. Politiques de durabilité claires, code de conduite fournisseur, collecte de données alignée sur les attentes EcoVadis : un socle de reporting solide et une première médaille.
-
-*Les missions Bridgestone et Les Tartes de Françoise ont été menées par des consultants aujourd'hui chez ESGIM, sous une enseigne précédente.*
+- **CIREPA** (imprimerie flexographique, Wallonie, taille S) — la gestion carbone et l'engagement fournisseurs restaient peu développés face aux demandes des clients et des investisseurs. ESGIM a réalisé le bilan carbone, fixé des objectifs d'émissions et aligné la vigilance fournisseurs sur la réglementation : **passage du Bronze à l'Argent**.
+- **CPRO** (chimie et logistique) — un secteur où l'action climatique et la conformité fournisseurs sont très scrutées. Plan de transition climatique, émissions suivies par KPI, programme de vigilance fournisseurs : **médaille d'Argent obtenue dès la première évaluation, avec ESGIM**.
+- **Groupemeca** — consolider les politiques et rationaliser les publications sur plusieurs juridictions. Formalisation des politiques, alignement du reporting sur les axes EcoVadis, KPI structurés et validation externe : **Bronze acquis ; la mission est en cours et la montée vers l'Argent est quasiment acquise**.
 
 ## Comment passer de l'action à l'élan ?
 

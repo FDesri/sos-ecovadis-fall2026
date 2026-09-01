@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [wat-kost-ecovadis-begeleiding, volledige-ecovadis-begeleiding, ecovadis-essentials-gids, van-committed-badge-naar-brons]
 faq:
   - q: "Moet een onderneming de EcoVadis-beoordeling intern doen of een consultant nemen?"

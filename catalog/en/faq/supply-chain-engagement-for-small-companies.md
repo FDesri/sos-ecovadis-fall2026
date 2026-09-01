@@ -34,8 +34,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [sustainable-procurement-measures-sup307, sustainable-procurement-where-to-start]
+status: published
+related: [sustainable-procurement-measures, sustainable-procurement-where-to-start]
 ---
 
 # How does EcoVadis assess supply-chain engagement for small companies?

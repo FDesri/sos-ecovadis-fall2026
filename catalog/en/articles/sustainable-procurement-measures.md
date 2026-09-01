@@ -3,9 +3,9 @@ id: kb-0039
 type: article
 lang: en
 source_lang: fr
-translation_of: mesures-achats-responsables-sup307
-title: "What should you do about your suppliers? Sustainable Procurement measures (SUP307)"
-slug: sustainable-procurement-measures-sup307
+translation_of: mesures-achats-responsables
+title: "What should you do about your suppliers? Sustainable Procurement measures"
+slug: sustainable-procurement-measures
 summary: >-
   Question SUP307 assesses nine Sustainable Procurement sub-actions, from the
   supplier code of conduct to capacity-building programmes. Golden rule: only
@@ -37,8 +37,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [sustainable-procurement-where-to-start, ecovadis-supplier-engagement-programmes, raw-materials-and-chemicals-env3522]
+status: published
+related: [sustainable-procurement-where-to-start, ecovadis-supplier-engagement-programmes, raw-materials-and-chemicals]
 faq:
   - q: "Should you tick every SUP307 option to maximise your score?"
     a: "No — the opposite. A ticked option without dedicated evidence is neutralised by the assessor and weakens the whole section. Only tick what a specific document can prove."
@@ -48,8 +48,7 @@ faq:
     a: "Only if none of options 1 to 8 applies — EcoVadis states this explicitly. If you already tick the main options, adding 9 weakens the reading of the file."
 ---
 
-# What should you do about your suppliers? Sustainable Procurement measures (SUP307)
-
+# What should you do about your suppliers? Sustainable Procurement measures
 ## In brief
 
 SUP307 asks: "What actions has your company implemented to integrate social and environmental factors into procurement?" — nine sub-actions. The golden rule: **only tick what a dedicated document can prove**. A ticked option without specific evidence is neutralised by the assessor and weakens the whole section. In a well-kept industrial SME file, five of the nine options are often coverable immediately; two more are half-day quick wins.

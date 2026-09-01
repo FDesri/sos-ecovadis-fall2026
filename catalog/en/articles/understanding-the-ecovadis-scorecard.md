@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [read-share-maximise-your-ecovadis-scorecard, ecovadis-activated-criteria-by-sector, from-committed-badge-to-bronze, ecovadis-essentials-guide]
 faq:
   - q: "Does EcoVadis rate results or management systems?"

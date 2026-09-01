@@ -3,9 +3,9 @@ id: kb-0039
 type: article
 lang: nl
 source_lang: fr
-translation_of: mesures-achats-responsables-sup307
-title: "Wat moet u doen met uw leveranciers? De maatregelen Duurzame Inkoop (SUP307)"
-slug: duurzame-inkoop-maatregelen-sup307
+translation_of: mesures-achats-responsables
+title: "Wat moet u doen met uw leveranciers? De maatregelen Duurzame Inkoop"
+slug: duurzame-inkoop-maatregelen
 summary: >-
   Vraag SUP307 beoordeelt negen deelacties Duurzame Inkoop, van de
   gedragscode voor leveranciers tot programma's voor capaciteitsopbouw.
@@ -38,8 +38,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-02-27
 version: 1
-status: review
-related: [duurzame-inkoop-waar-beginnen, leveranciersengagement-programmas, grondstoffen-en-chemicalien-env3522]
+status: published
+related: [duurzame-inkoop-waar-beginnen, leveranciersengagement-programmas, grondstoffen-en-chemicalien]
 faq:
   - q: "Moet u alle SUP307-opties aanvinken om uw score te maximaliseren?"
     a: "Nee — integendeel. Een aangevinkte optie zonder specifiek bewijs wordt door de analist geneutraliseerd en verzwakt de hele sectie. Vink alleen aan wat een specifiek document kan bewijzen."
@@ -49,8 +49,7 @@ faq:
     a: "Alleen als geen van de opties 1 tot 8 van toepassing is — EcoVadis zegt dat expliciet. Als u de hoofdopties al aanvinkt, verzwakt optie 9 de lezing van het dossier."
 ---
 
-# Wat moet u doen met uw leveranciers? De maatregelen Duurzame Inkoop (SUP307)
-
+# Wat moet u doen met uw leveranciers? De maatregelen Duurzame Inkoop
 ## In het kort
 
 SUP307 vraagt: "Welke acties heeft uw onderneming ingevoerd om sociale en milieufactoren in haar inkoop te integreren?" — negen deelacties. De gouden regel: **vink alleen aan wat een specifiek document kan bewijzen**. Een aangevinkte optie zonder specifiek bewijs wordt door de analist geneutraliseerd en verzwakt de hele sectie. In een goed bijgehouden dossier van een industriële kmo zijn vijf van de negen opties vaak meteen te dekken; twee andere zijn quick wins van een halve dag.

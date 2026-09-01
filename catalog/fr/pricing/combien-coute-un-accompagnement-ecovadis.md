@@ -35,8 +35,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2027-08-27
 version: 1
-status: review
-related: [accompagnement-ecovadis-complet, jours-de-conseil-expert-ecovadis, francois-dequenne]
+status: published
+related: [accompagnement-ecovadis-complet, francois-dequenne]
 faq:
   - q: "Que se passe-t-il si la médaille convenue n'est pas atteinte ?"
     a: "Le solde n'est pas dû, et ESG Interim Management continue de vous accompagner sans frais supplémentaires jusqu'à votre évaluation suivante, 12 mois plus tard."

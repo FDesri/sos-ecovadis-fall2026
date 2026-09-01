@@ -35,7 +35,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [milieu-indicatoren-verzamelen, methodologie-updates-q2-2026, ecovadis-score-snel-verbeteren, van-brons-naar-zilver]
 faq:
   - q: "Welke broeikasgasdata vraagt EcoVadis?"

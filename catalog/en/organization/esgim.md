@@ -35,7 +35,7 @@ date_created: 2026-09-01
 date_updated: 2026-09-01
 review_due: 2027-09-01
 version: 1
-status: review
+status: published
 related: [francois-dequenne, full-ecovadis-support-mission, how-much-does-ecovadis-support-cost]
 ---
 

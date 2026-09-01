@@ -7,15 +7,15 @@ translation_of: null
 title: "How hard is it to get a Bronze or Silver medal? EcoVadis' rising standards in 2026"
 slug: ecovadis-rising-standards-2026
 summary: >-
-  The bar keeps rising: between July 2025 and July 2026 the indicative Silver
+  The bar keeps rising: between July 2025 and August 2026 the indicative Silver
   threshold moved from 68 to 73/100 and Gold from 77 to 81. Uploading the same
   evidence as last year can leave you several points behind before the
   assessment even begins. The 2025 lessons: get the assessment scope right,
-  meet the much higher reporting requirements (public report, 3 years of data,
+  meet the much higher reporting requirements for Gold and Platinum (public report, 3 years of data,
   85% KPI coverage), and use qualified audits where certifications are out of
   reach. 2026 brings materiality customisation, a refined 360° Watch and
   formal VSME recognition.
-description: "Between July 2025 and July 2026 Silver moved from 68 to 73/100 and Gold from 77 to 81: the same evidence is worth less every year."
+description: "Between July 2025 and August 2026 Silver moved from 68 to 73/100 and Gold from 77 to 81: the same evidence is worth less every year."
 situations: [S1, S2]
 sizes: [XS, S]
 content_kind: general
@@ -36,7 +36,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [whats-changing-in-2026, ecovadis-methodology-updates-q2-2026, from-bronze-to-silver, why-keeping-a-bronze-medal-is-harder, build-strong-ecovadis-submissions-consistently]
 faq:
   - q: "Why did my score stay flat while my medal disappeared?"
@@ -57,7 +57,7 @@ faq:
 
 Since EcoVadis moved to a percentile-based system in 2024, achieving and keeping medals has become progressively harder. Medals go to top performers over the previous 12 months — you compete against every other improving company, not a static benchmark. Between July 2025 and January 2026 alone, the Silver threshold jumped four points.
 
-| Medal | Rule (2024 onward) | ~July 2025 | ~January 2026 | ~July 2026 |
+| Medal | Rule (2024 onward) | ~July 2025 | ~January 2026 | ~August 2026 |
 |---|---|---|---|---|
 | Platinum | Top 1% | 83/100 | 86/100 | 86/100 |
 | Gold | Top 5% | 77/100 | 78/100 | 81/100 |
@@ -84,7 +84,7 @@ Scoping affects scoring directly. A group assessment fed with policy documents c
 
 Reporting accounts for **14% of the overall score**, and EcoVadis raised the bar in 2025: public disclosure and comprehensive sustainability reports are now the minimum for high scores. An advanced or outstanding Reporting score requires:
 
-- **KPI coverage above 85%** of your material criteria — quantitative metrics for each activated criterion across all four themes, not just EcoVadis' specific KPI requests
+- **KPI coverage above 85%** of your material criteria — a Gold and Platinum requirement — quantitative metrics for each activated criterion across all four themes, not just EcoVadis' specific KPI requests
 - **Three consecutive years of data** in the same document, with the latest period no older than 2 years
 - **A public sustainability or annual report** — without one, your Reporting score is capped at 50/100 regardless of internal data
 - **Alignment with recognised standards**: [GRI](https://www.globalreporting.org/standards/) ("in accordance"), SASB, IFRS S1 & S2, [ESRS](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) or [VSME](https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded)
@@ -118,8 +118,8 @@ The pathway to EcoVadis excellence isn't about gaming the system: it's about gen
 
 ## Key takeaways
 
-- Thresholds rise every cycle: Silver ~68 → 73 and Gold ~77 → 81 between July 2025 and July 2026. Standing still means falling behind.
+- Thresholds rise every cycle: Silver ~68 → 73 and Gold ~77 → 81 between July 2025 and August 2026. Standing still means falling behind.
 - Scope misalignment (group/entity/site) is the most costly avoidable mistake.
-- Reporting = 14% of the score; a public report, 3 years of data and 85% KPI coverage are the new bar — start 3-4 months ahead.
+- Reporting = 14% of the score. A public report gates any score above 50/100; three years of data and 85% KPI coverage are the Gold and Platinum bar — start 3-4 months ahead.
 - Qualified standalone audits (SMETA, BSCI, TfS) can substitute for certifications, at lower value and with non-conformity risk.
 - 2026: materiality customisation, stakeholder-consensus-weighted 360° Watch, and VSME recognition (Basic = up to 75, Basic+Comprehensive = 100 on Reporting).

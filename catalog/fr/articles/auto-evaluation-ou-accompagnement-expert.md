@@ -37,7 +37,7 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
+status: published
 related: [combien-coute-un-accompagnement-ecovadis, accompagnement-ecovadis-complet, guide-essentiel-ecovadis, du-badge-committed-a-la-medaille-bronze]
 faq:
   - q: "Faut-il gérer l'évaluation EcoVadis en interne ou prendre un consultant ?"

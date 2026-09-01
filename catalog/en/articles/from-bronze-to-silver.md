@@ -34,8 +34,8 @@ date_created: 2026-08-27
 date_updated: 2026-08-27
 review_due: 2026-11-27
 version: 1
-status: review
-related: [from-committed-badge-to-bronze, from-silver-to-gold, ecovadis-essentials-guide, ecovadis-rising-standards-2026, sustainable-procurement-where-to-start, ecovadis-expert-advice-days]
+status: published
+related: [from-committed-badge-to-bronze, from-silver-to-gold, ecovadis-essentials-guide, ecovadis-rising-standards-2026, sustainable-procurement-where-to-start]
 faq:
   - q: "What score do I need for an EcoVadis Silver medal?"
     a: "There is no fixed threshold: since January 2024 medals are awarded by percentile. Silver goes to the top 15% of all companies rated over the previous 12 months, which as of May 2026 corresponds to a score of approximately 73/100 (ESGIM portfolio data — directional, not an official EcoVadis target)."
