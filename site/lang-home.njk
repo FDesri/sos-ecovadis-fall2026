@@ -1,0 +1,27 @@
+---js
+{
+  pagination: { data: "indexPages.home", size: 1, alias: "p" },
+  permalink: (data) => `${data.p.url}index.html`,
+  layout: "layouts/base.njk",
+  eleventyComputed: {
+    title: (d) => `${d.site.name} — ${d.site.tagline[d.p.lang]}`,
+    htmlLang: (d) => d.p.lang,
+    description: (d) => d.i18n[d.p.lang].catalog_intro.slice(0, 150),
+    altUrls: (d) => d.p.alt,
+  }
+}
+---
+{%- set l = p.lang %}{% set t = i18n[l] %}
+<h1>{{ site.name }} — {{ site.tagline[l] }}</h1>
+<p class="lede">{{ t.catalog_intro }}</p>
+
+<ul class="cards">
+{%- for h in kb.hubs %}
+  {%- if h.members[l].length %}
+  <li>
+    <a href="{{ h.path[l] }}">{{ h.title[l] }}</a>
+    <p>{{ h.members[l].length }} {{ t.sheets }}</p>
+  </li>
+  {%- endif %}
+{%- endfor %}
+</ul>

@@ -1,0 +1,42 @@
+---
+layout: layouts/base.njk
+---
+{%- set t = i18n[htmlLang] %}
+<nav class="crumbs" aria-label="fil d'ariane">
+  <a href="/{{ htmlLang }}/{{ kb.branches.hub[htmlLang] }}/">{{ t.topics }}</a>
+  {%- if hubItems.length %} <span>›</span> <a href="{{ hubItems[0].url }}">{{ hubItems[0].title }}</a>{% endif %}
+</nav>
+
+<article class="doc" lang="{{ htmlLang }}">
+  <p class="kind">{{ t.types[type] }}</p>
+  {{ content | safe }}
+
+  {%- if faq and faq.length %}
+  <section class="faq">
+    <h2>{{ t.faq }}</h2>
+    {%- for item in faq %}
+    <details>
+      <summary>{{ item.q }}</summary>
+      <div>{{ item.a }}</div>
+    </details>
+    {%- endfor %}
+  </section>
+  {%- endif %}
+
+  {%- if relatedItems.length %}
+  <section class="related">
+    <h2>{{ t.further }}</h2>
+    <ul>
+      {%- for r in relatedItems %}
+      <li><a href="{{ r.url }}">{{ r.title }}</a></li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endif %}
+
+  {%- if hubItems.length %}
+  <nav class="chips" aria-label="{{ t.topics }}">
+    {%- for h in hubItems %}<a href="{{ h.url }}">{{ h.title }}</a>{% endfor %}
+  </nav>
+  {%- endif %}
+</article>

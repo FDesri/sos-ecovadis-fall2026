@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="{{ htmlLang | default('fr') }}">
+<head>
+{% include "partials/head.njk" %}
+{%- if jsonldBlocks %}
+<script type="application/ld+json">{{ jsonldBlocks | safe }}</script>
+{%- endif %}
+</head>
+<body>
+<a class="skip" href="#contenu">{{ i18n[htmlLang].skip }}</a>
+
+<header class="site">
+  <div class="wrap bar">
+    <a class="brand" href="/{{ htmlLang }}/">{{ site.name }}</a>
+    <nav class="langs" aria-label="{{ i18n[htmlLang].other_langs }}">
+      {%- for l in site.langs %}
+        {%- if altUrls and altUrls[l] and l != htmlLang %}
+        <a href="{{ altUrls[l] }}" hreflang="{{ l }}">{{ l | upper }}</a>
+        {%- elif l == htmlLang %}
+        <span aria-current="true">{{ l | upper }}</span>
+        {%- else %}
+        <a href="/{{ l }}/{{ kb.branches.hub[l] }}/" hreflang="{{ l }}">{{ l | upper }}</a>
+        {%- endif %}
+      {%- endfor %}
+    </nav>
+  </div>
+</header>
+
+<main id="contenu" class="wrap">
+{{ content | safe }}
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <p class="meta">
+      {%- if dateUpdated %}{{ i18n[htmlLang].updated }} {{ dateUpdated }} · {% endif -%}
+      {{ i18n[htmlLang].written_by }} {{ site.author }} — {{ site.publisher }}
+    </p>
+    <p class="links">
+      <a href="{{ site.aboutUrl }}">{{ i18n[htmlLang].who }}</a>
+      <a href="/{{ htmlLang }}/{{ kb.branches.hub[htmlLang] }}/">{{ i18n[htmlLang].all_topics }}</a>
+      <a href="{{ site.license.url }}" rel="license">{{ site.license.name }} — {{ i18n[htmlLang].license }}</a>
+    </p>
+  </div>
+</footer>
+</body>
+</html>

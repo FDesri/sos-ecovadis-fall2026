@@ -1,0 +1,32 @@
+export default {
+  fr: {
+    skip: "Aller au contenu", home: "Accueil", topics: "Sujets", all_topics: "Tous les sujets",
+    faq: "Questions fréquentes", further: "Pour aller plus loin", in_this_topic: "Dans ce sujet",
+    updated: "Mise à jour", written_by: "Rédigé par", review_due: "Prochaine revue",
+    sheets: "fiches", other_langs: "Autres langues", who: "Qui sommes-nous",
+    license: "Réutilisation avec attribution", notfound: "Page introuvable",
+    notfound_body: "Cette adresse n'existe pas ou plus. Les sujets ci-dessous mènent à l'ensemble du catalogue.",
+    catalog_intro: "Le catalogue rassemble l'expérience de plus de 100 projets EcoVadis menés pour des très petites et petites entreprises. Chaque fiche répond à une question réelle, posée par un dirigeant ou un responsable durabilité.",
+    types: { article: "Article", faq: "Question", service: "Service", pricing: "Tarifs", expert: "Expert", glossary: "Glossaire", organization: "À propos" },
+  },
+  nl: {
+    skip: "Naar de inhoud", home: "Start", topics: "Onderwerpen", all_topics: "Alle onderwerpen",
+    faq: "Veelgestelde vragen", further: "Verder lezen", in_this_topic: "In dit onderwerp",
+    updated: "Bijgewerkt", written_by: "Geschreven door", review_due: "Volgende herziening",
+    sheets: "fiches", other_langs: "Andere talen", who: "Wie zijn wij",
+    license: "Hergebruik met bronvermelding", notfound: "Pagina niet gevonden",
+    notfound_body: "Dit adres bestaat niet (meer). Via de onderwerpen hieronder vindt u de volledige kennisbank.",
+    catalog_intro: "De kennisbank bundelt de ervaring van meer dan 100 EcoVadis-projecten bij zeer kleine en kleine ondernemingen. Elke fiche beantwoordt een echte vraag van een zaakvoerder of duurzaamheidsverantwoordelijke.",
+    types: { article: "Artikel", faq: "Vraag", service: "Dienst", pricing: "Tarieven", expert: "Expert", glossary: "Woordenlijst", organization: "Over ons" },
+  },
+  en: {
+    skip: "Skip to content", home: "Home", topics: "Topics", all_topics: "All topics",
+    faq: "Frequently asked questions", further: "Read next", in_this_topic: "In this topic",
+    updated: "Updated", written_by: "Written by", review_due: "Next review",
+    sheets: "entries", other_langs: "Other languages", who: "Who we are",
+    license: "Reuse with attribution", notfound: "Page not found",
+    notfound_body: "This address does not exist, or no longer does. The topics below lead to the whole catalogue.",
+    catalog_intro: "The catalogue gathers the experience of more than 100 EcoVadis projects run for very small and small companies. Each entry answers a real question, asked by an owner or a sustainability lead.",
+    types: { article: "Article", faq: "Question", service: "Service", pricing: "Pricing", expert: "Expert", glossary: "Glossary", organization: "About" },
+  },
+};

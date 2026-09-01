@@ -1,0 +1,17 @@
+---
+permalink: /404.html
+layout: layouts/base.njk
+title: Page introuvable
+description: "Cette adresse n'existe pas sur SOS-EcoVadis."
+htmlLang: fr
+robots: "noindex, follow"
+---
+<h1>{{ i18n.fr.notfound }}</h1>
+<p class="lede">{{ i18n.fr.notfound_body }}</p>
+<ul class="cards">
+{%- for h in kb.hubs %}
+  {%- if h.members.fr.length %}
+  <li><a href="{{ h.path.fr }}">{{ h.title.fr }}</a></li>
+  {%- endif %}
+{%- endfor %}
+</ul>

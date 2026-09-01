@@ -1,0 +1,29 @@
+---js
+{
+  pagination: { data: "hubPages", size: 1, alias: "hp" },
+  permalink: (data) => `${data.hp.url}index.html`,
+  layout: "layouts/base.njk",
+  eleventyComputed: {
+    title: (d) => d.hp.title,
+    htmlLang: (d) => d.hp.lang,
+    description: (d) => `${d.hp.members.length} ${d.i18n[d.hp.lang].sheets} — ${d.hp.title}`,
+    altUrls: (d) => d.hp.alt,
+  }
+}
+---
+{%- set t = i18n[hp.lang] %}
+<nav class="crumbs" aria-label="fil d'ariane">
+  <a href="/{{ hp.lang }}/{{ kb.branches.hub[hp.lang] }}/">{{ t.topics }}</a>
+</nav>
+
+<h1>{{ hp.title }}</h1>
+<p class="lede">{{ hp.members.length }} {{ t.sheets }}.</p>
+
+<ul class="cards">
+{%- for m in hp.members %}
+  <li>
+    <a href="{{ m.url }}"><span class="kind">{{ t.types[m.type] }}</span>{{ m.title }}</a>
+    <p>{{ m.description }}</p>
+  </li>
+{%- endfor %}
+</ul>

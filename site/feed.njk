@@ -1,0 +1,25 @@
+---js
+{
+  permalink: "/feed.xml",
+  eleventyExcludeFromCollections: true
+}
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.name }} — {{ site.tagline.fr }}</title>
+  <link href="{{ site.url }}/feed.xml" rel="self"/>
+  <link href="{{ site.url }}/fr/"/>
+  <id>{{ site.url }}/</id>
+  <updated>{{ feedItems.updated }}</updated>
+  <author><name>{{ site.author }}</name></author>
+  <rights>{{ site.license.name }}</rights>
+{%- for m in feedItems.items %}
+  <entry>
+    <title>{{ m.title | escape }}</title>
+    <link href="{{ site.url }}{{ m.url }}"/>
+    <id>{{ site.url }}{{ m.url }}</id>
+    <updated>{{ m.updated }}</updated>
+    <summary>{{ m.description | escape }}</summary>
+  </entry>
+{%- endfor %}
+</feed>

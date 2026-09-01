@@ -5,6 +5,40 @@ Format : [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnement : le catalogue suit un versionnement sémantique propre, distinct
 du champ `version` de chaque fiche.
 
+## [2.1.0] — 2026-09-01
+
+Le catalogue devient un site. Jusqu'ici il n'existait qu'en Markdown sur GitHub,
+ce qui faisait échouer 7 des 10 contrôles bloquants de la grille LLM-ready
+(audit v1) : pas de HTML, donc pas de `<title>`, pas de canonique, pas de
+JSON-LD servi, pas de politique robots publiable.
+
+### Ajouté
+
+- Rendu HTML par Eleventy 3 : `eleventy.config.js`, `site/`, `package.json`.
+  356 pages — 301 fiches publiées, 48 hubs, 3 index de sujets, 3 accueils de
+  langue, 404. Les URL sont calculées avec la fonction de `url-plan.yaml`, pas
+  réécrites (KC-A02, A08, A09, C01).
+- `netlify.toml` — build, en-têtes de sécurité (CSP, HSTS, Referrer-Policy,
+  Permissions-Policy), redirections racine et alias du glossaire. La CSP ouvre
+  déjà HubSpot et Calendly pour l'étape suivante.
+- `scripts/check_build.mjs` — contrôle de sortie bloquant : URL du sitemap sans
+  page, fiche non publiée rendue, balise obligatoire absente, lien interne mort.
+  Lancé par Netlify à chaque déploiement.
+- Flux Atom `/feed.xml` et `catalog.json` servi à la racine, comme le prévoit
+  `url-plan.yaml` §machine_files.
+
+### Modifié
+
+- `scripts/build_index.py` — le sitemap inclut désormais les six pages d'index
+  du rendu (accueil et index des sujets, × 3 langues). `lastmod` déterministe.
+
+### Note
+
+Tant que `sos-ecovadis.com` ne pointe pas sur le projet Netlify, `netlify.toml`
+sert un `X-Robots-Tag: noindex` : les pages portent un canonique que le moteur
+ne peut pas atteindre, elles ne doivent pas être indexées sous `netlify.app`.
+Retirer cette ligne le jour du branchement du domaine.
+
 ## [2.0.0] — 2026-09-01
 
 Mise en conformité avec la grille de contrôle « LLM-ready » pour un Knowledge

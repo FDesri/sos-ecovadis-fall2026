@@ -1,65 +1,86 @@
-# SOS-EcoVadis — configuration Netlify
-# Éditeur : IMAGINATION@WORK SRL (marque ESGIM). Domaine cible : sos-ecovadis.com
+# ============================================================
+# SOS-EcoVadis — Knowledge Catalogue
+# Build, en-têtes et redirections. Le plan d'URL vit dans
+# taxonomy/url-plan.yaml : rien ici ne le contredit.
+# ============================================================
 
 [build]
-  command = "npm run build"
+  command = "npm run build && npm run check"
   publish = "_site"
 
 [build.environment]
-  NODE_VERSION = "20"
-  NPM_FLAGS = "--no-audit --no-fund"
+  NODE_VERSION = "22"   # version sur laquelle le build a été vérifié ; 20 fonctionne aussi
+  # Le canonique est TOUJOURS le domaine cible : sitemap.xml, llms.txt et
+  # index/jsonld.json l'écrivent déjà en dur. Ne pas le faire varier par
+  # contexte : deux canoniques concurrents valent moins que zéro.
+  URL_CANONIQUE = "https://sos-ecovadis.com"
 
+# Le HTML servi est exactement celui qu'Eleventy produit.
 [build.processing]
   skip_processing = true
 
-[context.production.environment]
-  URL_CANONIQUE = "https://sos-ecovadis.com"
+[context.deploy-preview]
+  command = "npm run build && npm run check"
 
-# ---------------------------------------------------------------------------
+# ------------------------------------------------------------
 # Redirections
-# ---------------------------------------------------------------------------
+# ------------------------------------------------------------
 
-# Racine → français. La détection de langue par le navigateur viendra plus tard.
+# Racine → français (langue par défaut du plan d'URL).
 [[redirects]]
   from = "/"
   to = "/fr/"
   status = 301
   force = true
 
-# www → apex (l'apex est canonique). Netlify le fait aussi côté domaine ;
-# la règle reste ici pour que le dépôt porte la décision.
+# Le glossaire est trilingue : une seule page, une seule canonique.
 [[redirects]]
-  from = "https://www.sos-ecovadis.com/*"
-  to = "https://sos-ecovadis.com/:splat"
+  from = "/nl/woordenlijst/*"
+  to = "/fr/glossaire/"
   status = 301
   force = true
 
-# ---------------------------------------------------------------------------
+[[redirects]]
+  from = "/en/glossary/*"
+  to = "/fr/glossaire/"
+  status = 301
+  force = true
+
+# ------------------------------------------------------------
 # En-têtes
-# ---------------------------------------------------------------------------
+# ------------------------------------------------------------
 
 [[headers]]
   for = "/*"
   [headers.values]
-    X-Frame-Options = "SAMEORIGIN"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
     X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=(), interest-cohort=()"
-    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
-    Cross-Origin-Opener-Policy = "same-origin-allow-popups"
-    Content-Security-Policy = """
-      default-src 'self'; \
+    Cross-Origin-Opener-Policy = "same-origin"
+    # L'allocation HubSpot et Calendly est déjà ouverte : le script s'allumera
+    # à l'étape de la landing sans toucher à cette politique.
+    Content-Security-Policy = """default-src 'self'; \
       base-uri 'self'; \
-      form-action 'self' https://*.hsforms.com https://calendly.com; \
-      frame-ancestors 'self'; \
+      form-action 'self' https://forms.hsforms.com; \
+      frame-ancestors 'none'; \
       object-src 'none'; \
-      script-src 'self' 'unsafe-inline' https://js.hs-scripts.com https://js.hs-analytics.net https://js.hs-banner.com https://js.hscollectedforms.net https://js.hsadspixel.net https://js.hsleadflows.net https://js.usemessages.com https://js.hsforms.net https://cdn2.hubspot.net https://assets.calendly.com; \
-      style-src 'self' 'unsafe-inline' https://cdn2.hubspot.net https://assets.calendly.com https://fonts.googleapis.com; \
-      font-src 'self' data: https://fonts.gstatic.com https://cdn2.hubspot.net; \
-      img-src 'self' data: https: ; \
-      connect-src 'self' https://api.hubapi.com https://forms.hubspot.com https://api.hubspot.com https://track.hubspot.com https://forms.hsforms.com https://calendly.com; \
-      frame-src https://calendly.com https://*.hubspot.com; \
+      img-src 'self' data: https://*.hubspot.com https://*.hsforms.com https://track.hubspot.com; \
+      style-src 'self' 'unsafe-inline'; \
+      font-src 'self' data:; \
+      script-src 'self' https://js.hs-scripts.com https://js.hs-banner.com https://js.hsforms.net https://js.hsadspixel.net https://js.usemessages.com https://cdn2.hubspot.net https://assets.calendly.com; \
+      connect-src 'self' https://forms.hubspot.com https://api.hubapi.com https://api.hubspot.com https://calendly.com; \
+      frame-src https://calendly.com https://*.calendly.com https://app.hubspot.com; \
       upgrade-insecure-requests"""
+
+    # ---------------------------------------------------------------------
+    # GARDE-FOU : tant que sos-ecovadis.com ne pointe pas sur ce projet, les
+    # pages portent un canonique que le moteur ne peut pas atteindre. Elles
+    # ne doivent donc pas être indexées sous *.netlify.app.
+    # À RETIRER (cette ligne seule) le jour où le domaine est branché.
+    # ---------------------------------------------------------------------
+    X-Robots-Tag = "noindex, nofollow"
 
 [[headers]]
   for = "/assets/*"
@@ -70,3 +91,22 @@
   for = "/*.html"
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/llms.txt"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/llms-full.txt"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/catalog.json"
+  [headers.values]
+    Content-Type = "application/json; charset=utf-8"
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=3600"

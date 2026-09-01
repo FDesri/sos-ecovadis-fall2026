@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }} · {{ site.name }}</title>
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<meta name="robots" content="{{ robots | default('index, follow, max-snippet:-1, max-image-preview:large') }}">
+{%- for l, href in altUrls %}
+<link rel="alternate" hreflang="{{ l }}" href="{{ site.url }}{{ href }}">
+{%- endfor %}
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:locale" content="{{ htmlLang }}">
+<meta name="twitter:card" content="summary">
+<meta name="author" content="{{ site.author }}">
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
