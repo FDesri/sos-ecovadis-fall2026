@@ -26,9 +26,9 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "Improve your EcoVadis score fast - Practical steps that work (Evernote, updated 2026-08-24; client success stories anonymised pending validation)"
+source_note: "Improve your EcoVadis score fast - Practical steps that work (Evernote, updated 2026-08-24; client names restored and outcomes corrected by François on 2026-09-01 — medal levels for Bridgestone and Les Tartes de Françoise still to be confirmed)"
 confidentiality: public
-reliability: to-validate
+reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
 version: 1
@@ -83,13 +83,15 @@ The Carbon Scorecard evaluates carbon management across commitment, actions and 
 
 ## What this looks like across the portfolio
 
-Patterns from ESGIM engagements (details anonymised):
+Engagements delivered by ESGIM and its consultants:
 
-- An industrial group consolidated policies and streamlined disclosures across multiple jurisdictions, structured its KPIs and external validation — and reached a higher medal through transparency and reporting discipline.
-- A large manufacturer embedded sustainability into corporate governance with board-level buy-in, showing that executive commitment accelerates improvement.
-- A consumer-goods SME entering its first assessment with ad-hoc initiatives built structured policies, supplier codes of conduct and data collection — and turned that reporting foundation into a strong first medal.
-- A printing company under customer and investor pressure prioritised carbon footprint measurement, emissions targets and supplier due diligence — climate reporting and supply chain management proved the fastest levers.
-- A company in a high-scrutiny sector combined climate transition planning, KPI-tracked emissions and supplier due diligence to reach the top medal range.
+- **CIREPA** (flexographic printing, Wallonia, size S) — carbon management and supplier engagement were underdeveloped against customer and investor demands. Carbon footprint measurement, emissions targets and supplier due diligence aligned with regulation: **moved from Bronze to Silver**. Climate reporting and supply chain management proved the fastest levers.
+- **CPRO** (chemicals and logistics) — a sector where climate action and supplier compliance are under high scrutiny. Climate transition planning, KPI-tracked emissions and a supplier due diligence programme: **Silver at the first assessment**.
+- **Groupemeca** — consolidating policies and streamlining disclosures across multiple jurisdictions. Formalised policies, reporting aligned with the EcoVadis focus areas, structured KPIs and external validation: **Bronze secured, the move to Silver under way**.
+- **Bridgestone** — improving ESG performance rapidly to stay competitive with global partners. Sustainability embedded in corporate governance structures with board-level buy-in: a significant improvement in standing — executive commitment accelerates progress.
+- **Les Tartes de Françoise** — a consumer-goods SME entering its first assessment with ad-hoc initiatives. Clear sustainability policies, a supplier code of conduct and data collection aligned with EcoVadis requirements: a solid reporting foundation and a first medal.
+
+*The Bridgestone and Les Tartes de Françoise engagements were delivered by consultants now at ESGIM, under a previous banner.*
 
 ## From action to momentum
 

@@ -74,13 +74,16 @@ Une fiche remplacée n'est jamais supprimée : `status: archived`, déplacement 
 1. **Source unique** : toutes les fiches proviennent de la même source propriétaire ESGIM (notes de François Dequenne), quelle que soit la mécanique de capture. `source: esgim-proprietary` partout.
 2. **Track record ESGIM** : « 100+ projets » (la mention « 600+ » dans certaines notes était une coquille). Les autres chiffres portefeuille (87 % des clients améliorent leur score ; +13,8 points en moyenne) restent tels que dans les notes.
 3. **Intervenants externes ponctuels** : les noms d'intervenants externes (notamment C. Savanco, N. Scheepens) ne sont pas repris dans les fiches.
-4. **Anonymisation client** : les données de mission (indicateurs chiffrés) sont conservées pour leur valeur pédagogique, mais anonymisées — noms d'entreprises clientes et de personnes remplacés par une description générique (« un client ESGIM, imprimeur flexographique wallon de taille S »).
+4. **Noms de clients — deux régimes distincts** (précisé le 01/09/2026) :
+   - **Références commerciales** (nom du client + résultat obtenu) : on garde **un maximum de noms réels**, avec le résultat exact et son statut (obtenu / en cours). Exemple : kb-0023. Une mission menée par un consultant ESGIM sous une enseigne antérieure est signalée comme telle.
+   - **Cas techniques détaillés** (dossier de preuves, documents internes, tonnages, écarts, trous) : **anonymisés** en description sectorielle — « imprimeur flexographique wallon, taille S » (kb-0034/0035/0039), « installateur en techniques spéciales du bâtiment wallon, taille XS » (kb-0038). Les indicateurs chiffrés sont conservés pour leur valeur pédagogique ; les noms de personnes ne le sont jamais.
+   Un même client peut relever des deux régimes : CIREPA est nommé comme référence dans kb-0023 et anonymisé comme cas technique dans kb-0034.
 5. **Codes questions EcoVadis** (ENV7003, SUP307…) : métadonnées de liaison avec le questionnaire (`ecovadis_questions`), pas des titres ni des questions humaines.
 6. **Liens externes** : aucun lien vers des consultances concurrentes ; les renvois se font vers d'autres fiches du catalogue (`related`). Les liens utilitaires (outils WRI Aqueduct, WWF Water Risk Filter…) sont conservés.
 7. **Bloc « À propos d'ESGIM »** : un seul texte standard (celui de kb-0002 / kb-0003), pas de variantes marketing par fiche.
 8. **Boutons / mentions « Qui sommes-nous »** : pointent vers la page À propos d'esgim.eu (hub de crédibilité).
 9. **Néerlandais = flamand** : en cas d'écart entre l'usage flamand (Belgique) et l'usage des Pays-Bas, **le flamand l'emporte**, toujours. Cela vaut pour le vocabulaire (kmo et non mkb, VTE, rapportering, welzijn op het werk), les institutions et références légales (FOD Werkgelegenheid, Unia, arbeidsreglement), la syntaxe et le registre (vouvoiement « u »). Les termes néerlandais des Pays-Bas ne sont admis qu'en `keywords`, pour la recherche. La colonne NL du glossaire (kb-0005) fait foi ; le NL se traduit depuis l'anglais ou le concept, jamais depuis le français.
-10. **Tarifs (kb-0001)** : grille et modalités validées par François le 01/09/2026 — paiement en trois tranches **20 % / 60 % / 20 %**, la dernière tranche conditionnée à l'atteinte du niveau convenu. Reste ouvert : le prix S1 (montée) pour une XS, 8 000 € au tableau de la note source contre 9 000 € dans sa prose ; le tableau fait foi jusqu'à arbitrage.
+10. **Tarifs (kb-0001)** : grille et modalités validées par François le 01/09/2026 — paiement en trois tranches **20 % / 60 % / 20 %**, la dernière tranche conditionnée à l'atteinte du niveau convenu. Prix S1 (montée) pour une XS : **8 000 €** — le tableau de la note source fait foi (arbitré le 01/09/2026).
 
 ## 8. Extension du catalogue
 

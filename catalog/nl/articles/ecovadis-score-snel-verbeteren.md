@@ -27,9 +27,9 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "Improve your EcoVadis score fast - Practical steps that work (Evernote, bijgewerkt 2026-08-24; klantcases geanonimiseerd in afwachting van validatie)"
+source_note: "Improve your EcoVadis score fast - Practical steps that work (Evernote, bijgewerkt 2026-08-24; klantnamen hersteld en resultaten gecorrigeerd door François op 01/09/2026 — de medailleniveaus van Bridgestone en Les Tartes de Françoise moeten nog worden bevestigd)"
 confidentiality: public
-reliability: to-validate
+reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
 version: 1
@@ -84,13 +84,15 @@ De CO₂-scorecard beoordeelt het koolstofbeheer op engagement, acties en rappor
 
 ## Wat dat oplevert in het portfolio
 
-Patronen uit ESGIM-missies (details geanonimiseerd):
+Missies uitgevoerd door ESGIM en zijn consultants:
 
-- Een industriële groep consolideerde haar beleid en stroomlijnde de rapportering over meerdere jurisdicties, structureerde de KPI's en hun externe validatie — en steeg een medailleniveau door discipline in transparantie en rapportering.
-- Een grote producent verankerde duurzaamheid in de governance met steun van de raad van bestuur: het engagement van de top versnelt de verbetering.
-- Een kmo in consumentengoederen, aan haar eerste beoordeling begonnen met ad-hocinitiatieven, bouwde gestructureerd beleid, een leveranciersgedragscode en dataverzameling — en zette dat fundament om in een sterke eerste medaille.
-- Een drukkerij onder klanten- en investeerdersdruk gaf voorrang aan de meting van de CO₂-voetafdruk, emissiedoelen en leveranciers-due-diligence — klimaatrapportering en ketenbeheer bleken de snelste hefbomen.
-- Een onderneming in een streng bekeken sector combineerde een klimaattransitieplan, met KPI's opgevolgde emissies en leveranciers-due-diligence om de top van het klassement te bereiken.
+- **CIREPA** (flexografische drukkerij, Wallonië, grootte S) — het koolstofbeheer en het leveranciersengagement waren onderontwikkeld tegenover de vragen van klanten en investeerders. Meting van de CO₂-voetafdruk, emissiedoelen en leveranciers-due-diligence conform de regelgeving: **van Brons naar Zilver**. Klimaatrapportering en ketenbeheer blijken de snelste hefbomen.
+- **CPRO** (chemie en logistiek) — een sector waar klimaatactie en leveranciersconformiteit streng worden bekeken. Klimaattransitieplan, met KPI's opgevolgde emissies en een programma voor leveranciers-due-diligence: **Zilver bij de eerste beoordeling**.
+- **Groupemeca** — het beleid consolideren en de rapportering over meerdere jurisdicties stroomlijnen. Geformaliseerd beleid, rapportering afgestemd op de EcoVadis-focusgebieden, gestructureerde KPI's en externe validatie: **Brons behaald, de stap naar Zilver loopt**.
+- **Bridgestone** — de ESG-prestaties snel verbeteren om competitief te blijven tegenover wereldwijde partners. Duurzaamheid verankerd in de governancestructuren, met steun van de raad van bestuur: een aanzienlijke verbetering — het engagement van de top versnelt de vooruitgang.
+- **Les Tartes de Françoise** — een kmo in consumentengoederen die aan haar eerste beoordeling begon met ad-hocinitiatieven. Helder duurzaamheidsbeleid, een leveranciersgedragscode en dataverzameling afgestemd op de EcoVadis-vereisten: een stevig rapporteringsfundament en een eerste medaille.
+
+*De missies Bridgestone en Les Tartes de Françoise werden uitgevoerd door consultants die vandaag bij ESGIM werken, onder een vorige naam.*
 
 ## Van actie naar momentum
 

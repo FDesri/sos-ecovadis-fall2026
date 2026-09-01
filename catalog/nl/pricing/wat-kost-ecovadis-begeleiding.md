@@ -25,9 +25,9 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "EcoVadis ESGIM Princing (Evernote, bijgewerkt 2026-08-27; verdeling in schijven 20/60/20 bevestigd door François op 01/09/2026; nog te beslissen: S1 XS 8.000 € in de tabel vs 9.000 € in de tekst)"
+source_note: "EcoVadis ESGIM Princing (Evernote, bijgewerkt 2026-08-27; tarieven en modaliteiten gevalideerd door François op 01/09/2026: schijven 20/60/20, S1 XS op 8.000 € — de tabel van de bronnota geldt)"
 confidentiality: public
-reliability: to-validate
+reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
 version: 1

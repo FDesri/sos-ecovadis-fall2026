@@ -25,9 +25,9 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "EcoVadis ESGIM Princing (Evernote, mise à jour 2026-08-27 ; répartition des tranches 20/60/20 confirmée par François le 01/09/2026 ; reste à arbitrer : S1 XS 8 000 € au tableau vs 9 000 € en prose)"
+source_note: "EcoVadis ESGIM Princing (Evernote, mise à jour 2026-08-27 ; grille et modalités validées par François le 01/09/2026 : tranches 20/60/20, S1 XS à 8 000 € — le tableau de la note source fait foi)"
 confidentiality: public
-reliability: to-validate
+reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
 version: 1

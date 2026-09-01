@@ -28,7 +28,7 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "EcoVadis - Pack corruption - harcèlement - discrimination (Evernote, bijgewerkt 2026-08-24; klant geanonimiseerd: Waalse installateur speciale technieken (hvac/elektriciteit), grootte XS)"
+source_note: "EcoVadis - Pack corruption - harcèlement - discrimination (Evernote, bijgewerkt 2026-08-24; klant geanonimiseerd: Waalse installateur bouwtechniek, grootte XS)"
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -49,7 +49,7 @@ faq:
 
 ## In het kort
 
-Een zeer "Belgische kmo / EcoVadis"-selectie: eenvoudige, geloofwaardige, documenteerbare en communiceerbare acties **zonder een bureaucratische machine op te tuigen**. Ze werd opgebouwd voor een ESGIM-klant — een Waalse installateur speciale technieken (hvac/elektriciteit), grootte XS — en is zo overdraagbaar naar elke Belgische kmo. Vertrekpunt: EcoVadis beoordeelt het managementsysteem via Beleid-Acties-Resultaten; documenten moeten geformaliseerd, recent en vooraf bestaand zijn en werkelijk uitgevoerde praktijken aantonen (referentie: EcoVadis Help Center). Voor een kleine structuur volstaan eenvoudige documenten: een ondertekende engagementsbrief, actieplannen, bewijzen van concrete acties, rapporteringselementen.
+Een zeer "Belgische kmo / EcoVadis"-selectie: eenvoudige, geloofwaardige, documenteerbare en communiceerbare acties **zonder een bureaucratische machine op te tuigen**. Ze werd opgebouwd voor een ESGIM-klant — een Waalse installateur bouwtechniek, grootte XS — en is zo overdraagbaar naar elke Belgische kmo. Vertrekpunt: EcoVadis beoordeelt het managementsysteem via Beleid-Acties-Resultaten; documenten moeten geformaliseerd, recent en vooraf bestaand zijn en werkelijk uitgevoerde praktijken aantonen (referentie: EcoVadis Help Center). Voor een kleine structuur volstaan eenvoudige documenten: een ondertekende engagementsbrief, actieplannen, bewijzen van concrete acties, rapporteringselementen.
 
 ## 1) Preventie van corruptierisico's — tien kleine acties
 

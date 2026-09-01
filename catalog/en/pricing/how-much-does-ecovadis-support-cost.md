@@ -24,9 +24,9 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "EcoVadis ESGIM Princing (Evernote, updated 2026-08-27; 20/60/20 instalment split confirmed by François on 2026-09-01; still open: S1 XS €8,000 in the table vs €9,000 in the prose)"
+source_note: "EcoVadis ESGIM Princing (Evernote, updated 2026-08-27; grid and terms validated by François on 2026-09-01: 20/60/20 instalments, S1 XS at €8,000 — the source note table prevails)"
 confidentiality: public
-reliability: to-validate
+reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
 version: 1
