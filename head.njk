@@ -1,0 +1,14 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}{% if title != site.name %} — {{ site.name }}{% endif %}</title>
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="{{ page.url | absolute }}">
+<meta name="robots" content="{{ robots | default('index, follow') }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:url" content="{{ page.url | absolute }}">
+<meta property="og:locale" content="{{ ogLocale | default('fr_BE') }}">
+<meta name="twitter:card" content="summary">
+<link rel="stylesheet" href="/assets/css/main.css">

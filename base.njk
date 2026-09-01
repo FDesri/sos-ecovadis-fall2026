@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{ lang | default(site.langDefault) }}">
+<head>
+  {% include "partials/head.njk" %}
+</head>
+<body>
+  <a class="skip" href="#contenu">Aller au contenu</a>
+  <header class="site-header">
+    <a class="wordmark" href="{{ urlplan.root[lang | default(site.langDefault)] }}">
+      SOS<span>-</span>EcoVadis
+    </a>
+  </header>
+
+  <main id="contenu">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      {{ site.publisher.brand }} — une marque de {{ site.publisher.legalName }},
+      BCE {{ site.publisher.companyNumber }}, TVA {{ site.publisher.vatID }},
+      {{ site.publisher.street }}, {{ site.publisher.postalCode }} {{ site.publisher.city }}.
+    </p>
+    <p>
+      <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> ·
+      <a href="{{ site.publisher.legalUrl }}" rel="noopener">Mentions légales</a> ·
+      <a href="{{ site.author.aboutUrl }}" rel="noopener">Qui sommes-nous</a>
+    </p>
+  </footer>
+</body>
+</html>

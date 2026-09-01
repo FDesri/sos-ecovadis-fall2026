@@ -1,0 +1,105 @@
+/* Jetons de base. L'identité ESGIM complète (skill esgim-design) arrive à l'étape 2 :
+   ce fichier ne fixe que ce dont la preuve de pipeline a besoin. */
+:root {
+  --navy-900: #0a1c2e;
+  --navy-800: #102a44;
+  --teal-400: #2dd4bf;
+  --blue-500: #3b82f6;
+  --indigo-600: #4f46e5;
+  --ink: #e8eef5;
+  --ink-muted: #9db0c4;
+  --gradient: linear-gradient(90deg, var(--teal-400), var(--blue-500), var(--indigo-600));
+  --mesure: 68ch;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--navy-900);
+  color: var(--ink);
+  font: 16px/1.6 Inter, "Segoe UI", system-ui, -apple-system, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.skip {
+  position: absolute;
+  left: -9999px;
+}
+.skip:focus {
+  left: 1rem;
+  top: 1rem;
+  background: var(--ink);
+  color: var(--navy-900);
+  padding: .5rem .75rem;
+  border-radius: 6px;
+}
+
+.site-header,
+.site-footer,
+main {
+  width: min(100% - 2.5rem, 62rem);
+  margin-inline: auto;
+}
+
+.site-header { padding: 1.75rem 0; }
+
+.wordmark {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: -.02em;
+  font-size: 1.15rem;
+}
+.wordmark span { color: var(--teal-400); }
+
+main { flex: 1; padding: 2rem 0 4rem; }
+
+h1 {
+  font-size: clamp(1.9rem, 5vw, 3rem);
+  line-height: 1.15;
+  letter-spacing: -.03em;
+  margin: 0 0 1rem;
+  max-width: var(--mesure);
+}
+
+.lede {
+  font-size: 1.15rem;
+  color: var(--ink-muted);
+  max-width: var(--mesure);
+}
+
+.rule {
+  height: 3px;
+  border: 0;
+  background: var(--gradient);
+  width: 6rem;
+  margin: 2rem 0;
+  border-radius: 3px;
+}
+
+.etat {
+  border: 1px solid #23405e;
+  background: var(--navy-800);
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  max-width: var(--mesure);
+}
+.etat h2 { margin-top: 0; font-size: 1rem; text-transform: uppercase; letter-spacing: .08em; color: var(--teal-400); }
+.etat ul { margin: 0; padding-left: 1.1rem; }
+.etat li { margin: .35rem 0; }
+
+.site-footer {
+  padding: 1.5rem 0 2.5rem;
+  border-top: 1px solid #1d3550;
+  color: var(--ink-muted);
+  font-size: .85rem;
+}
+.site-footer a { color: var(--ink-muted); }
+
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
