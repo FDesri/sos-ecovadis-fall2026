@@ -28,7 +28,8 @@ catalog/      en/ fr/ nl/ — un dossier par langue
               glossary/ — le glossaire trilingue (objet unique)
 index/        catalog.json (index machine complet, généré)
               llms.txt (répertoire pour LLMs, généré)
-scripts/      parse_enex.py (ENEX → texte), build_index.py (fiches → index)
+scripts/      parse_enex.py (ENEX → texte), build_index.py (fiches → index),
+              publish.py (review → published), gen_faqs.py + faq_data_*.py (générateur FAQ)
 GOVERNANCE.md propriétaires, workflow de validation, révision, archivage, nommage
 SOURCES.md    registre: chaque fiche ↔ sa note source ↔ son fichier d'origine
 ```
@@ -47,7 +48,7 @@ Types d'objets : `article`, `faq` (une question humaine = un objet), `pricing`, 
 |---|---|---|
 | EN | Pivot terminologique | Termes de la plateforme (scorecard, assessment, supporting documents) |
 | FR | Langue principale | « fiche d'évaluation (scorecard) », « Social et Droits Humains », « Achats Responsables » |
-| NL | Néerlandais de Belgique | scorecard (non traduit), kmo (+ mkb en keywords), VTE, rapportering, vouvoiement « u » |
+| NL | **Flamand** (néerlandais de Belgique) | En cas d'écart avec l'usage des Pays-Bas, le flamand l'emporte toujours : scorecard (non traduit), kmo (+ mkb en keywords), VTE, rapportering, références FOD/Unia, vouvoiement « u » |
 
 Le NL se traduit depuis l'anglais ou le concept, **jamais depuis le français**. Référence : le glossaire (`catalog/glossary/`), qui prime sur toute autre source terminologique.
 

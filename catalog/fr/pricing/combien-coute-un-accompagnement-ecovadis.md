@@ -25,7 +25,7 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "EcoVadis ESGIM Princing (Evernote, mise à jour 2026-08-27)"
+source_note: "EcoVadis ESGIM Princing (Evernote, mise à jour 2026-08-27 ; répartition des tranches 20/60/20 confirmée par François le 01/09/2026 ; reste à arbitrer : S1 XS 8 000 € au tableau vs 9 000 € en prose)"
 confidentiality: public
 reliability: to-validate
 date_created: 2026-08-27
@@ -69,8 +69,8 @@ Pour les **situations de montée (S1)**, il y a généralement déjà un respons
 ## Le paiement en trois tranches
 
 - **20 %** au démarrage de la mission
-- **40 %** à la soumission du questionnaire EcoVadis
-- **le solde** si et seulement si l'objectif convenu (Bronze ou Argent) est atteint
+- **60 %** à la soumission du questionnaire EcoVadis
+- **20 %** (le solde) si et seulement si l'objectif convenu (Bronze ou Argent) est atteint
 
 Si le niveau convenu n'est pas atteint, le solde n'est pas dû — et ESGIM continue de vous accompagner sans frais supplémentaires jusqu'à votre évaluation suivante, 12 mois plus tard.
 

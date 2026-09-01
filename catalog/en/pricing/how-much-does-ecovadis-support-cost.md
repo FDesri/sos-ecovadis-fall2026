@@ -24,7 +24,7 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "EcoVadis ESGIM Princing (Evernote, updated 2026-08-27)"
+source_note: "EcoVadis ESGIM Princing (Evernote, updated 2026-08-27; 20/60/20 instalment split confirmed by François on 2026-09-01; still open: S1 XS €8,000 in the table vs €9,000 in the prose)"
 confidentiality: public
 reliability: to-validate
 date_created: 2026-08-27
@@ -67,9 +67,9 @@ For **upgrade situations (S1)** there is usually already someone internally in c
 
 ## Payment in three instalments
 
-- **20 %** at the start of the mission
-- **40 %** upon submission of the EcoVadis questionnaire
-- **the balance** if and only if the agreed goal (Bronze or Silver) is achieved
+- **20%** at the start of the mission
+- **60%** upon submission of the EcoVadis questionnaire
+- **20%** (the balance) if and only if the agreed goal (Bronze or Silver) is achieved
 
 If the agreed level is not reached, the balance is not due — and ESGIM continues to support you at no further cost through to your next assessment 12 months later.
 

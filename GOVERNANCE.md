@@ -26,6 +26,19 @@ Fiche validée                      status: published   reliability: expert-vali
 
 Règle : rien ne passe en `status: published` sans relecture humaine. Les fiches créées en masse le 27/08/2026 sont en `status: review` : le contenu vient des notes expertes, la mise en fiche et les traductions attendent la relecture de François.
 
+**En pratique** — `scripts/publish.py` applique la transition sur les trois langues d'un objet à la fois :
+
+```bash
+python3 scripts/publish.py --list          # ce qui attend en review
+python3 scripts/publish.py kb-0034         # publier un objet (3 langues)
+python3 scripts/publish.py --type pricing  # publier tout un type
+python3 scripts/publish.py --all           # tout publier (après relecture complète)
+python3 scripts/build_index.py             # régénérer les index — obligatoire
+git commit -am "Publish kb-0034" && git push
+```
+
+Le script passe `status: review → published`, `reliability → expert-validated`, met `date_updated` au jour, et laisse `version` inchangé (publier n'est pas un changement de fond). `--dry-run` simule, `--keep-reliability` publie sans requalifier la fiabilité (utile pour kb-0001 tant qu'un point tarifaire reste ouvert).
+
 ## 3. Fréquence de révision
 
 | Objet | Cadence | Déclencheur additionnel |
@@ -66,6 +79,8 @@ Une fiche remplacée n'est jamais supprimée : `status: archived`, déplacement 
 6. **Liens externes** : aucun lien vers des consultances concurrentes ; les renvois se font vers d'autres fiches du catalogue (`related`). Les liens utilitaires (outils WRI Aqueduct, WWF Water Risk Filter…) sont conservés.
 7. **Bloc « À propos d'ESGIM »** : un seul texte standard (celui de kb-0002 / kb-0003), pas de variantes marketing par fiche.
 8. **Boutons / mentions « Qui sommes-nous »** : pointent vers la page À propos d'esgim.eu (hub de crédibilité).
+9. **Néerlandais = flamand** : en cas d'écart entre l'usage flamand (Belgique) et l'usage des Pays-Bas, **le flamand l'emporte**, toujours. Cela vaut pour le vocabulaire (kmo et non mkb, VTE, rapportering, welzijn op het werk), les institutions et références légales (FOD Werkgelegenheid, Unia, arbeidsreglement), la syntaxe et le registre (vouvoiement « u »). Les termes néerlandais des Pays-Bas ne sont admis qu'en `keywords`, pour la recherche. La colonne NL du glossaire (kb-0005) fait foi ; le NL se traduit depuis l'anglais ou le concept, jamais depuis le français.
+10. **Tarifs (kb-0001)** : grille et modalités validées par François le 01/09/2026 — paiement en trois tranches **20 % / 60 % / 20 %**, la dernière tranche conditionnée à l'atteinte du niveau convenu. Reste ouvert : le prix S1 (montée) pour une XS, 8 000 € au tableau de la note source contre 9 000 € dans sa prose ; le tableau fait foi jusqu'à arbitrage.
 
 ## 8. Extension du catalogue
 

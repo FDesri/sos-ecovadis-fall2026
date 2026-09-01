@@ -29,7 +29,7 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "EcoVadis - Pack corruption - harcèlement - discrimination (Evernote, mise à jour 2026-08-24 ; nom du client retiré)"
+source_note: "EcoVadis - Pack corruption - harcèlement - discrimination (Evernote, mise à jour 2026-08-24 ; client anonymisé : installateur en techniques spéciales du bâtiment wallon, taille XS)"
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -50,7 +50,7 @@ faq:
 
 ## En bref
 
-Une sélection très « PME belge / EcoVadis » : des actions simples, crédibles, documentables et communicables **sans créer une usine à gaz**. Point de départ : EcoVadis évalue le système de management via Politiques-Actions-Résultats ; les documents doivent être formalisés, récents, préexistants et démontrer des pratiques réellement mises en œuvre (référence : Centre d'aide EcoVadis). Pour une petite structure, des documents simples suffisent : lettre d'engagement signée, plans d'action, preuves d'actions concrètes, éléments de reporting.
+Une sélection très « PME belge / EcoVadis » : des actions simples, crédibles, documentables et communicables **sans créer une usine à gaz**. Elle a été construite pour un client ESGIM — un installateur en techniques spéciales du bâtiment wallon, taille XS — et se transpose telle quelle à toute PME belge. Point de départ : EcoVadis évalue le système de management via Politiques-Actions-Résultats ; les documents doivent être formalisés, récents, préexistants et démontrer des pratiques réellement mises en œuvre (référence : Centre d'aide EcoVadis). Pour une petite structure, des documents simples suffisent : lettre d'engagement signée, plans d'action, preuves d'actions concrètes, éléments de reporting.
 
 ## 1) Prévention des risques de corruption — dix petites actions
 

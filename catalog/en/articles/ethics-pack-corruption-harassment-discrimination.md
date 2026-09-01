@@ -28,7 +28,7 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "EcoVadis - Pack corruption - harcèlement - discrimination (Evernote, updated 2026-08-24; client name removed)"
+source_note: "EcoVadis - Pack corruption - harcèlement - discrimination (Evernote, updated 2026-08-24; client anonymised: Walloon building-services (HVAC/electrical) installer, size XS)"
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
@@ -49,7 +49,7 @@ faq:
 
 ## In brief
 
-A very "Belgian SME / EcoVadis" selection: simple, credible, documentable and communicable actions **without building a bureaucratic machine**. Starting point: EcoVadis assesses the management system through Policy-Actions-Results; documents must be formalised, recent, pre-existing and demonstrate practices actually implemented (reference: EcoVadis Help Center). For a small structure, simple documents suffice: a signed commitment letter, action plans, evidence of concrete actions, reporting elements.
+A very "Belgian SME / EcoVadis" selection: simple, credible, documentable and communicable actions **without building a bureaucratic machine**. It was built for an ESGIM client — a Walloon building-services (HVAC/electrical) installer, size XS — and transfers as-is to any Belgian SME. Starting point: EcoVadis assesses the management system through Policy-Actions-Results; documents must be formalised, recent, pre-existing and demonstrate practices actually implemented (reference: EcoVadis Help Center). For a small structure, simple documents suffice: a signed commitment letter, action plans, evidence of concrete actions, reporting elements.
 
 ## 1) Corruption risk prevention — ten small actions
 

@@ -25,7 +25,7 @@ audience: [sme_owner, sustainability_lead]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "EcoVadis ESGIM Princing (Evernote, bijgewerkt 2026-08-27)"
+source_note: "EcoVadis ESGIM Princing (Evernote, bijgewerkt 2026-08-27; verdeling in schijven 20/60/20 bevestigd door François op 01/09/2026; nog te beslissen: S1 XS 8.000 € in de tabel vs 9.000 € in de tekst)"
 confidentiality: public
 reliability: to-validate
 date_created: 2026-08-27
@@ -69,8 +69,8 @@ Bij een **upgrade (S1)** is er intern meestal al iemand verantwoordelijk; de beh
 ## Betaling in drie schijven
 
 - **20 %** bij de start van de missie
-- **40 %** bij de indiening van de EcoVadis-vragenlijst
-- **het saldo** als en alleen als het afgesproken doel (Brons of Zilver) wordt gehaald
+- **60 %** bij de indiening van de EcoVadis-vragenlijst
+- **20 %** (het saldo) als en alleen als het afgesproken doel (Brons of Zilver) wordt gehaald
 
 Wordt het afgesproken niveau niet gehaald, dan is het saldo niet verschuldigd — en blijft ESGIM u zonder bijkomende kosten begeleiden tot uw volgende beoordeling, 12 maanden later.
 
