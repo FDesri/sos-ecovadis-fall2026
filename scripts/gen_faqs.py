@@ -2,7 +2,7 @@
 """Generate trilingual FAQ knowledge objects (kb-0100+) from authored data files."""
 import importlib.util, os, sys
 
-REPO = "/home/claude/sos-ecovadis-fall2026"
+REPO = "/home/claude/sos-ecovadis-knowledge-catalogue"
 LANGS = ["en", "fr", "nl"]
 
 # EN article slug -> {fr, nl} equivalents (for `related` auto-mapping)

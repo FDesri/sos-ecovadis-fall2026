@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json, os, re, yaml
 
-REPO = "/home/claude/sos-ecovadis-fall2026"
+REPO = "/home/claude/sos-ecovadis-knowledge-catalogue"
 inv = json.load(open('/home/claude/kc/inventory.json'))
 
 # collect front matter of canonical files (en + the mul glossary)

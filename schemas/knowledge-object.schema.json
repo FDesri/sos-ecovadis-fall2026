@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/FDesri/sos-ecovadis-fall2026/schemas/knowledge-object.schema.json",
+  "$id": "https://github.com/FDesri/sos-ecovadis-knowledge-catalogue/schemas/knowledge-object.schema.json",
   "title": "SOS-EcoVadis Knowledge Object (front matter)",
   "description": "Schéma du front matter YAML de toute fiche du Knowledge Catalog. Une fiche = un objet de connaissance autonome, normalisé, relié aux autres. v2 (2026-09-01, vision v1.2) : ajout de description, intent, review_due, sources et relations. NOTE — canonical_url n'est PAS un champ de front matter : il est DÉRIVÉ de taxonomy/url-plan.yaml (langue + type + slug) par build_index.py, pour qu'une seule source fixe les URL et qu'aucune dérive ne soit possible (décision D13).",
   "type": "object",

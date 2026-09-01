@@ -12,7 +12,7 @@ Sans gouvernance, un catalogue devient obsolète. Ce document fixe qui possède 
 | Propriétaire du catalogue | François Dequenne (fd@esgim.eu), administrateur | Décisions finales, validation de toute fiche, tarifs |
 | Propriétaire par domaine | François Dequenne (par défaut) ; un expert ESGIM peut être désigné par thème via `expert_reviewer` | Exactitude méthodologique du domaine |
 | Rédaction et maintenance | Claude (sessions du projet « Create and promote ESG consultancy services ») | Conversion ENEX → fiches, traductions, index, cohérence |
-| Source de vérité | Ce dépôt GitHub (`FDesri/sos-ecovadis-fall2026`) | Evernote = capture uniquement ; Drive = bureau de relecture |
+| Source de vérité | Ce dépôt GitHub (`FDesri/sos-ecovadis-knowledge-catalogue`) | Evernote = capture uniquement ; Drive = bureau de relecture |
 
 ## 2. Workflow de validation
 

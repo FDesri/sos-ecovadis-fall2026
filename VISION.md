@@ -8,7 +8,7 @@ Statut : vision et décisions techniques D1–D21 actées. **Une nouvelle sessio
 
 ## 0. En un paragraphe
 
-François Dequenne (co-fondateur d'ESGIM, ESG Interim Management, esgim.eu, Bruxelles) a transformé ~50 notes Evernote d'expertise EcoVadis en un **Knowledge Catalogue de 106 objets trilingues (EN-FR-NL), gouverné et versionné**, hébergé dans le dépôt public `FDesri/sos-ecovadis-fall2026`. Le projet construit sur **sos-ecovadis.com** (1) la publication HTML de ce catalogue, conçue pour être trouvée et citée par les moteurs et les agents, et (2) **une landing page trilingue** présentant trois situations d'entreprise, chacune ouvrant une sous-page, toutes menant à un seul appel à l'action : réserver et prépayer un appel de découverte de 30 minutes (125 € HTVA) via le Calendly existant. Site statique (Eleventy) sur Netlify, identité ESGIM, suivi HubSpot Starter. **À ce jour le catalogue existe et est conforme au fond ; il n'est publié nulle part en HTML — c'est l'objet des étapes 1 à 5.**
+François Dequenne (co-fondateur d'ESGIM, ESG Interim Management, esgim.eu, Bruxelles) a transformé ~50 notes Evernote d'expertise EcoVadis en un **Knowledge Catalogue de 106 objets trilingues (EN-FR-NL), gouverné et versionné**, hébergé dans le dépôt public `FDesri/sos-ecovadis-knowledge-catalogue`. Le projet construit sur **sos-ecovadis.com** (1) la publication HTML de ce catalogue, conçue pour être trouvée et citée par les moteurs et les agents, et (2) **une landing page trilingue** présentant trois situations d'entreprise, chacune ouvrant une sous-page, toutes menant à un seul appel à l'action : réserver et prépayer un appel de découverte de 30 minutes (125 € HTVA) via le Calendly existant. Site statique (Eleventy) sur Netlify, identité ESGIM, suivi HubSpot Starter. **À ce jour le catalogue existe et est conforme au fond ; il n'est publié nulle part en HTML — c'est l'objet des étapes 1 à 5.**
 
 ---
 
@@ -25,7 +25,7 @@ François Dequenne (co-fondateur d'ESGIM, ESG Interim Management, esgim.eu, Brux
 | Netlify | Équipe « Sotrelco », slug `francois-dequenne`, plan Free, François Owner. |
 | Supabase | Projet `etemxbhitvblzgzaalvg` (eu-central-1), en pause. Hors MVP. |
 | Google Drive | Dossier de relecture `sos_ecovadis_fall2026`. |
-| **Dépôt GitHub** | **`FDesri/sos-ecovadis-fall2026` — PUBLIC.** 106 objets, 316 fichiers, branche `main`, tag `v2.0.0`. Écart assumé avec D2 (qui prévoyait un dépôt privé) : un catalogue privé ne peut être cité par personne. À renommer (D16). |
+| **Dépôt GitHub** | **`FDesri/sos-ecovadis-knowledge-catalogue` — PUBLIC.** 106 objets, 316 fichiers, branche `main`, tag `v2.0.0`. Écart assumé avec D2 (qui prévoyait un dépôt privé) : un catalogue privé ne peut être cité par personne. Renommé le 01/09 (D16). |
 | Licence | Contenu **CC BY-NC 4.0**, code **MIT** (D15). |
 | Apify | Connecté ; optionnel (mesure de citation, plus tard). |
 
@@ -158,7 +158,7 @@ D1–D12 : inchangées depuis la v1.1, sauf D1 (voir D13) et D2 (dépôt public,
 | **D13** | **Plan d'URL étendu aux sept types d'objets** ; branches d'articles v1.1 conservées ; source unique `taxonomy/url-plan.yaml` ; les pages S1/S2/S3 font office de hub de situation | KC-C01 exige une URL par unité de connaissance : 106, pas 32. Les 68 FAQ n'avaient nulle part où vivre | **Difficile** une fois indexé — c'est pourquoi elle est prise avant publication |
 | **D14** | **Liens sortants vers référentiels, régulateurs et institutions publiques autorisés** ; concurrents toujours interdits. Révise la décision de gouvernance n° 6 du 27/08 | 93 articles sur 96 n'avaient aucune source alors qu'ils avançaient des chiffres datés. EcoVadis et la Commission ne sont pas des concurrents d'ESGIM : citer sa source prouve qu'on sait de quoi on parle | Facile |
 | **D15** | **Licence : contenu CC BY-NC 4.0, code MIT.** Pas de clause « pas de modification » | Sans licence, le droit d'auteur par défaut s'applique et personne ne sait s'il peut citer. La clause ND ferait douter du droit de résumer — précisément l'usage recherché | **Sens unique** : on assouplit, on ne resserre pas ce qui a circulé |
-| **D16** | **Renommer le dépôt** `sos-ecovadis-fall2026` → `sos-ecovadis-knowledge-catalogue` | « fall2026 » date un actif permanent | Facile aujourd'hui, coûteux après le premier lien externe |
+| **D16** | **Renommer le dépôt** `sos-ecovadis-knowledge-catalogue` → `sos-ecovadis-knowledge-catalogue` | « fall2026 » date un actif permanent | Facile aujourd'hui, coûteux après le premier lien externe |
 | **D17** | **Facette d'intention** sur chaque objet + **fiche d'identité de l'organisation** (kb-0006) | KC-S03 et KC-S12. Un catalogue sans page d'identité n'est pas rattachable à une entité | Facile |
 | **D18** | **Hubs sur un axe unique, le sujet** ; seuil de 4 objets ; générés, pas rédigés | KC-S09 et KC-T07. Un hub « thème » et un hub « sujet » sur le même contenu, c'est la cannibalisation que KC-S08 interdit | Facile |
 | **D19** | **Rien d'indexable hors `status: published`** : URL canonique, sitemap et `llms.txt` réservés aux fiches publiées | KC-G17. Les 106 objets sont en relecture : les surfaces publiques sont donc vides. C'est voulu, et cela se remplit à mesure des « approved » | Facile |
@@ -171,18 +171,19 @@ D1–D12 : inchangées depuis la v1.1, sauf D1 (voir D13) et D2 (dépôt public,
 
 ## 10. Ce que François doit faire lui-même
 
-**GitHub, maintenant (3 minutes, KC-G02 à G04).** L'API GitHub n'est pas accessible depuis les sessions Claude : ces trois champs se règlent dans l'UI du dépôt, bouton « Edit » à droite de « About ».
+**GitHub — fait le 01/09/2026**, sauf les topics (KC-G04, voir ci-dessous). L'API GitHub n'est pas accessible depuis les sessions Claude : ces trois champs se règlent dans l'UI du dépôt, bouton « Edit » à droite de « About ».
 
 - **Description** : `Base de connaissances trilingue (EN-FR-NL) sur la notation EcoVadis pour les TPE et PME belges : méthode, preuves, médailles, coûts. Publiée par ESG Interim Management.`
 - **Website** : `https://sos-ecovadis.com`
 - **Topics** (12) : `ecovadis` · `esg` · `sustainability` · `csr` · `sme` · `belgium` · `knowledge-base` · `sustainable-procurement` · `vsme` · `csrd` · `llms-txt` · `trilingual`
-- **Renommer** le dépôt en `sos-ecovadis-knowledge-catalogue` (D16). GitHub maintient les redirections.
+- ~~**Renommer** le dépôt~~ — fait. `FDesri/sos-ecovadis-knowledge-catalogue`. GitHub maintient les redirections depuis l'ancien nom ; toutes les références internes ont été mises à jour.
+- **Topics : toujours vides.** Le champ se remplit dans le même panneau « About » que la description. Les 12 valeurs sont ci-dessus.
 
 **Jeton d'accès.** Pour que Claude puisse pousser, le PAT fine-grained a besoin de **Contents : Read and write** et, pour les fichiers `.github/workflows/`, de **Workflows : Read and write**.
 
-~~**Identifiants légaux**~~ — **reçus le 01/09/2026.** kb-0006 porte désormais la distinction marque / personne morale, et le JSON-LD expose `legalName`, `vatID` et l'adresse postale. Reste à confirmer d'un mot que le numéro de TVA est bien BE 0774.373.269, c'est-à-dire le numéro d'entreprise préfixé.
+~~**Identifiants légaux**~~ — **reçus le 01/09/2026.** kb-0006 porte désormais la distinction marque / personne morale, et le JSON-LD expose `legalName`, `vatID` et l'adresse postale. Numéro d'entreprise 0774.373.269, TVA BE0774.373.269 — confirmés par François le 01/09/2026.
 
-**Lien depuis esgim.eu (KC-E01).** Le signal d'appartenance le moins cher à produire : une mention sur esgim.eu confirmant que le catalogue est une ressource officielle d'ESGIM.
+**Lien depuis esgim.eu (KC-E01).** Reporté à l'étape de mise en ligne HTML, décidé le 01/09/2026 : le lien pointera vers le domaine, pas vers le dépôt.
 
 **Plus tard, à l'étape correspondante :** HubSpot (propriété de situation, bandeau de consentement, 5 CTA, sync Calendly), Netlify (site depuis le dépôt, domaine, DNS), one.com (serveurs de noms), Search Console et Bing.
 
@@ -203,7 +204,7 @@ Photo de l'auteur (carrée, ≥ 800 px) ; bio de 2 lignes FR (NL/EN ensuite) ; U
 | **0 — Fondations** | Vision, dossiers Drive, guide Evernote, taxonomie | ✅ fait |
 | **0b — Catalogue** | 106 objets trilingues, gouvernance, index machine | ✅ fait (v1.0.0, 27/08) |
 | **0c — Conformité LLM-ready** | Front matter v2, intertitres interrogatifs, sources, hubs, licence, CI, panel de mesure | ✅ **fait (v2.0.0, 01/09)** |
-| **0d — Relecture** | François valide les fiches → `status: published` | ⏳ **à lui.** Rien n'est publiable avant |
+| **0d — Relecture** | François valide les fiches → `status: published` | ⏳ **conversation dédiée, au signal de François.** Rien n'est publiable avant |
 | **M — Mesure de référence** | Search Console, Bing, 1080 relevés du panel | ⏳ **à faire AVANT la mise en ligne** |
 | **1 — Preuve de pipeline** | Squelette Eleventy, `netlify.toml`, une page déployée | ⏳ |
 | **2 — Coquille de la landing** | `/fr/`, pages légales, HubSpot, design ESGIM | ⏳ |
