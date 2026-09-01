@@ -143,6 +143,13 @@
    "url": "https://www.unia.be/",
    "accessed": "2026-09-01"
   },
+  "esgim-legal": {
+   "title": "Mentions légales — ESG Interim Management",
+   "publisher": "IMAGINATION@WORK SRL",
+   "kind": "proprietary",
+   "url": "https://esgim.eu/legal",
+   "accessed": "2026-09-01"
+  },
   "esgim-portfolio": {
    "title": "Portefeuille de missions ESG Interim Management",
    "publisher": "ESG Interim Management",
@@ -1398,7 +1405,7 @@
   {
    "id": "kb-0006",
    "type": "organization",
-   "status": "draft",
+   "status": "review",
    "intent": "comprendre",
    "situations": [
     "S1",
@@ -1427,6 +1434,7 @@
    "source": "esgim-proprietary",
    "reliability": "expert-drafted",
    "sources": [
+    "esgim-legal",
     "esgim-portfolio"
    ],
    "date_updated": "2026-09-01",
@@ -1439,15 +1447,19 @@
     "en": {
      "slug": "esgim",
      "title": "ESG Interim Management (ESGIM) — who are we?",
-     "summary": "ESG Interim Management (ESGIM) is a Belgian collective of interim managers specialised in sustainability, co-founded by François Dequenne. ESGIM takes charge of the EcoVadis journey of very small (XS) and small (S) companies end to end — gap audit, action plan, evidence creation, submission — and leaves behind an organisation able to hold its score without dependency. More than 100 EcoVadis projects delivered.",
-     "description": "ESG Interim Management (ESGIM) is a Belgian collective of interim managers running the EcoVadis journey of XS and S companies.",
+     "summary": "ESG Interim Management (ESGIM) is the trademark, registered with the Benelux Office for Intellectual Property by IMAGINATION@WORK SRL, under which François Dequenne and his collective of interim managers work in sustainability. ESGIM takes charge of the EcoVadis journey of very small (XS) and small (S) companies end to end — gap audit, action plan, evidence creation, submission — and leaves behind an organisation able to hold its score without dependency. More than 100 EcoVadis projects delivered.",
+     "description": "ESGIM is the trademark of IMAGINATION@WORK SRL (company no. 0774.373.269), a Belgian collective of interim managers specialised in EcoVadis.",
      "keywords": [
       "ESGIM",
       "ESG Interim Management",
+      "IMAGINATION@WORK",
+      "IMAGINATION@WORK SRL",
+      "0774.373.269",
       "sustainability interim management",
       "EcoVadis consultant Belgium",
       "Belgian CSR collective",
-      "about us"
+      "about us",
+      "Brussels"
      ],
      "path": "catalog/en/organization/esgim.md",
      "canonical_url": null,
@@ -1464,15 +1476,19 @@
     "fr": {
      "slug": "esgim",
      "title": "ESG Interim Management (ESGIM) — qui sommes-nous ?",
-     "summary": "ESG Interim Management (ESGIM) est un collectif belge de managers de transition spécialisés en durabilité, co-fondé par François Dequenne. ESGIM prend en charge de bout en bout la démarche EcoVadis des très petites (XS) et petites (S) entreprises — audit des écarts, plan d'actions, création des preuves, soumission — et laisse derrière elle une organisation capable de tenir son score sans dépendance. Plus de 100 projets EcoVadis livrés.",
-     "description": "ESG Interim Management (ESGIM) est un collectif belge de managers de transition qui pilote la démarche EcoVadis des entreprises XS et S.",
+     "summary": "ESG Interim Management (ESGIM) est la marque, déposée auprès de l'Office Benelux de la Propriété Intellectuelle par IMAGINATION@WORK SRL, sous laquelle François Dequenne et son collectif de managers de transition interviennent en durabilité. ESGIM prend en charge de bout en bout la démarche EcoVadis des très petites (XS) et petites (S) entreprises — audit des écarts, plan d'actions, création des preuves, soumission — et laisse derrière elle une organisation capable de tenir son score sans dépendance. Plus de 100 projets EcoVadis livrés.",
+     "description": "ESGIM est la marque de IMAGINATION@WORK SRL (BCE 0774.373.269), collectif belge de managers de transition spécialisés en EcoVadis.",
      "keywords": [
       "ESGIM",
       "ESG Interim Management",
+      "IMAGINATION@WORK",
+      "IMAGINATION@WORK SRL",
+      "0774.373.269",
       "management de transition durabilité",
       "consultant EcoVadis Belgique",
       "collectif RSE belge",
-      "qui sommes-nous"
+      "qui sommes-nous",
+      "Watermael-Boitsfort"
      ],
      "path": "catalog/fr/organization/esgim.md",
      "canonical_url": null,
@@ -1489,16 +1505,20 @@
     "nl": {
      "slug": "esgim",
      "title": "ESG Interim Management (ESGIM) — wie zijn wij?",
-     "summary": "ESG Interim Management (ESGIM) is een Belgisch collectief van interim managers gespecialiseerd in duurzaamheid, mede opgericht door François Dequenne. ESGIM neemt het EcoVadis-traject van zeer kleine (XS) en kleine (S) ondernemingen van begin tot einde in handen — gap-audit, actieplan, opbouw van bewijsstukken, indiening — en laat een organisatie achter die haar score zelfstandig kan vasthouden. Meer dan 100 EcoVadis-projecten geleverd.",
-     "description": "ESG Interim Management (ESGIM) is een Belgisch collectief van interim managers dat het EcoVadis-traject van XS- en S-ondernemingen stuurt.",
+     "summary": "ESG Interim Management (ESGIM) is het merk, gedeponeerd bij het Benelux-Bureau voor de Intellectuele Eigendom door IMAGINATION@WORK BV, waaronder François Dequenne en zijn collectief van interim managers in duurzaamheid werken. ESGIM neemt het EcoVadis-traject van zeer kleine (XS) en kleine (S) ondernemingen van begin tot einde in handen — gap-audit, actieplan, opbouw van bewijsstukken, indiening — en laat een organisatie achter die haar score zelfstandig kan vasthouden. Meer dan 100 EcoVadis-projecten geleverd.",
+     "description": "ESGIM is het merk van IMAGINATION@WORK BV (ondernemingsnr. 0774.373.269), een Belgisch collectief van interim managers gespecialiseerd in EcoVadis.",
      "keywords": [
       "ESGIM",
       "ESG Interim Management",
+      "IMAGINATION@WORK",
+      "IMAGINATION@WORK BV",
+      "0774.373.269",
       "interim management duurzaamheid",
       "EcoVadis consultant België",
       "Belgisch MVO-collectief",
       "over ons",
-      "kmo"
+      "kmo",
+      "Watermaal-Bosvoorde"
      ],
      "path": "catalog/nl/organization/esgim.md",
      "canonical_url": null,

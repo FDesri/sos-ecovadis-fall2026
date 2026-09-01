@@ -7,13 +7,14 @@ translation_of: esgim
 title: "ESG Interim Management (ESGIM) — who are we?"
 slug: esgim
 summary: >-
-  ESG Interim Management (ESGIM) is a Belgian collective of interim managers
-  specialised in sustainability, co-founded by François Dequenne. ESGIM takes
-  charge of the EcoVadis journey of very small (XS) and small (S) companies end
-  to end — gap audit, action plan, evidence creation, submission — and leaves
-  behind an organisation able to hold its score without dependency. More than
-  100 EcoVadis projects delivered.
-description: "ESG Interim Management (ESGIM) is a Belgian collective of interim managers running the EcoVadis journey of XS and S companies."
+  ESG Interim Management (ESGIM) is the trademark, registered with the Benelux
+  Office for Intellectual Property by IMAGINATION@WORK SRL, under which
+  François Dequenne and his collective of interim managers work in
+  sustainability. ESGIM takes charge of the EcoVadis journey of very small (XS)
+  and small (S) companies end to end — gap audit, action plan, evidence
+  creation, submission — and leaves behind an organisation able to hold its
+  score without dependency. More than 100 EcoVadis projects delivered.
+description: "ESGIM is the trademark of IMAGINATION@WORK SRL (company no. 0774.373.269), a Belgian collective of interim managers specialised in EcoVadis."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
@@ -21,20 +22,20 @@ intent: comprendre
 themes: [general]
 topics: [methodologie, tarifs]
 ecovadis_questions: []
-keywords: [ESGIM, ESG Interim Management, sustainability interim management, EcoVadis consultant Belgium, Belgian CSR collective, about us]
+keywords: [ESGIM, ESG Interim Management, IMAGINATION@WORK, IMAGINATION@WORK SRL, 0774.373.269, sustainability interim management, EcoVadis consultant Belgium, Belgian CSR collective, about us, Brussels]
 audience: [sme_owner, sustainability_lead, buyer]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "Organisation identity — vision v1.2, decision D17 (KC-S12)"
-sources: [esgim-portfolio]
+source_note: "Identité d'organisation — identifiants légaux fournis par François Dequenne le 01/09/2026 ; esgim.eu/legal"
+sources: [esgim-portfolio, esgim-legal]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-09-01
 date_updated: 2026-09-01
 review_due: 2027-09-01
 version: 1
-status: draft
+status: review
 related: [francois-dequenne, full-ecovadis-support-mission, how-much-does-ecovadis-support-cost]
 ---
 
@@ -66,13 +67,18 @@ François Dequenne, EcoVadis Interim Manager at ESGIM, is its author and reviewe
 
 By email at **fd@esgim.eu**. The full presentation of the collective and the profiles of all its experts are on [esgim.eu](https://esgim.eu/).
 
-## Legal identifiers
+## Which legal entity is behind ESGIM?
 
-> **To be completed by François before publication.** This entry stays in
-> `status: draft` until the four items below are filled in, because KC-S12 asks
-> for a verifiable organisation identity and legal data cannot be invented:
->
-> - exact legal name and legal form
-> - company number (BCE / KBO)
-> - VAT number
-> - registered office address
+**ESG INTERIM MANAGEMENT (ESGIM) is a trademark, not a company.** The mark is registered with the Benelux Office for Intellectual Property by **IMAGINATION@WORK SRL**, which is the contracting legal entity.
+
+| | |
+|---|---|
+| Trademark | ESG INTERIM MANAGEMENT (ESGIM), registered with the Benelux Office for Intellectual Property |
+| Legal entity | IMAGINATION@WORK SRL (Belgian private limited company) |
+| Company number (BCE/KBO) | 0774.373.269 |
+| VAT number | BE 0774.373.269 |
+| Address | c/o Buzzy Nest, Boulevard du Souverain 24, 1170 Watermael-Boitsfort, Brussels, Belgium |
+| Legal representative | François Dequenne, director — fd@esgim.eu |
+| Legal notices | [esgim.eu/legal](https://esgim.eu/legal) |
+
+IMAGINATION@WORK SRL is therefore the entity that contracts, invoices and bears liability; ESGIM is the name the practice trades and publishes under.

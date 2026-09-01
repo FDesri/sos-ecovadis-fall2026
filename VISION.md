@@ -16,7 +16,8 @@ François Dequenne (co-fondateur d'ESGIM, ESG Interim Management, esgim.eu, Brux
 
 | Élément | Valeur |
 |---|---|
-| Auteur | François Dequenne, ESG Interim Management (ESGIM). Contact site et expéditeur HubSpot : fd@esgim.eu. |
+| Éditeur | **IMAGINATION@WORK SRL** — BCE et TVA 0774.373.269, Boulevard du Souverain 24 (chez Buzzy Nest), 1170 Watermael-Boitsfort, représentée par François Dequenne, administrateur. [esgim.eu/legal](https://esgim.eu/legal). **ESG INTERIM MANAGEMENT (ESGIM) est une marque** déposée auprès de l'Office Benelux de la Propriété Intellectuelle par cette société. |
+| Auteur | François Dequenne. Contact site et expéditeur HubSpot : fd@esgim.eu. |
 | Site hub (existant, agence, Nuxt.js) | https://esgim.eu — référence externe seulement. « Qui sommes-nous » pointe vers la page À propos d'esgim.eu. Aucun changement sur esgim.eu, aucune demande à l'agence. |
 | Domaine de campagne | sos-ecovadis.com — enregistré chez one.com, DNS sous contrôle de François. Pas d'adresse e-mail (pas de MX). |
 | Réservation | https://calendly.com/francois-dequenne/30min — Calendly Standard, Stripe, intégrations HubSpot et Zoom opérationnelles. 30 min, 125 € HTVA, prépayé. |
@@ -179,7 +180,7 @@ D1–D12 : inchangées depuis la v1.1, sauf D1 (voir D13) et D2 (dépôt public,
 
 **Jeton d'accès.** Pour que Claude puisse pousser, le PAT fine-grained a besoin de **Contents : Read and write** et, pour les fichiers `.github/workflows/`, de **Workflows : Read and write**.
 
-**Identifiants légaux (bloquant pour kb-0006).** Dénomination légale exacte et forme juridique, numéro BCE, numéro de TVA, adresse du siège. La fiche reste en `draft` tant qu'ils manquent : une donnée légale ne s'invente pas.
+~~**Identifiants légaux**~~ — **reçus le 01/09/2026.** kb-0006 porte désormais la distinction marque / personne morale, et le JSON-LD expose `legalName`, `vatID` et l'adresse postale. Reste à confirmer d'un mot que le numéro de TVA est bien BE 0774.373.269, c'est-à-dire le numéro d'entreprise préfixé.
 
 **Lien depuis esgim.eu (KC-E01).** Le signal d'appartenance le moins cher à produire : une mention sur esgim.eu confirmant que le catalogue est une ressource officielle d'ESGIM.
 
@@ -189,7 +190,9 @@ D1–D12 : inchangées depuis la v1.1, sauf D1 (voir D13) et D2 (dépôt public,
 
 ## 11. Ce qu'il manque encore
 
-Photo de l'auteur (carrée, ≥ 800 px) ; bio de 2 lignes FR (NL/EN ensuite) ; URL LinkedIn ; **identifiants légaux ESGIM** ; URL de la page À propos d'esgim.eu ; nom et valeurs de la propriété de situation HubSpot.
+Photo de l'auteur (carrée, ≥ 800 px) ; bio de 2 lignes FR (NL/EN ensuite) ; URL LinkedIn ; URL de la page À propos d'esgim.eu ; nom et valeurs de la propriété de situation HubSpot.
+
+~~Identifiants légaux~~ — **fournis le 01/09/2026**, kb-0006 est complétée et passée en relecture.
 
 ---
 
@@ -229,7 +232,7 @@ Audit initial : `claude/audit-llm-ready-catalogue-v1.md`. État après le travai
 | **P0 — bloquants** (10) | 2 | 2 conformes, **6 prêts** | Tout dépend de la publication HTML. `robots.txt` est écrit et motivé, il n'est pas encore servi |
 | **KC-C — extractibilité** (16) | 10 | **14** | C12 (fait vs analyse) et C13 (auteur/date visibles dans la page) relèvent du gabarit HTML |
 | **KC-T — métadonnées** (12) | 2 | **9** | T10 (HTML sémantique) et T12 (404) n'ont pas d'objet sans site |
-| **KC-S — couverture** (14) | 9 | **12** | S12 attend les identifiants légaux ; S14 (cohérence catalogue/réalité) est une vérification de François |
+| **KC-S — couverture** (14) | 9 | **13** | S12 conforme depuis le 01/09 ; S14 (cohérence catalogue/réalité) reste une vérification de François |
 | **KC-G — dépôt** (17) | 6 | **14** | G02/G03/G04 = 3 minutes dans l'UI GitHub ; G15 attend le scope Workflows du jeton |
 | **KC-E — autorité** (8) | 0 | 1 | E01, le lien depuis esgim.eu, est le prochain geste utile |
 | **KC-L — llms.txt** (6) | 2 | **6 prêts** | Générés ; se remplissent quand des fiches passent en `published` |

@@ -4,8 +4,62 @@
   "@type": "Organization",
   "@id": "https://sos-ecovadis.com/#organization",
   "name": "ESG Interim Management",
-  "alternateName": "ESGIM",
-  "url": "https://esgim.eu/"
+  "alternateName": [
+   "ESGIM"
+  ],
+  "legalName": "IMAGINATION@WORK SRL",
+  "brand": {
+   "@type": "Brand",
+   "name": "ESG INTERIM MANAGEMENT"
+  },
+  "identifier": [
+   {
+    "@type": "PropertyValue",
+    "propertyID": "BE-KBO",
+    "value": "0774.373.269"
+   },
+   {
+    "@type": "PropertyValue",
+    "propertyID": "VAT",
+    "value": "BE0774373269"
+   }
+  ],
+  "vatID": "BE0774373269",
+  "address": {
+   "@type": "PostalAddress",
+   "streetAddress": "Boulevard du Souverain 24 (c/o Buzzy Nest)",
+   "postalCode": "1170",
+   "addressLocality": "Watermael-Boitsfort",
+   "addressRegion": "Bruxelles-Capitale",
+   "addressCountry": "BE"
+  },
+  "email": "fd@esgim.eu",
+  "url": "https://esgim.eu/",
+  "sameAs": [
+   "https://esgim.eu/",
+   "https://esgim.eu/legal"
+  ],
+  "areaServed": [
+   {
+    "@type": "Country",
+    "name": "Belgium"
+   },
+   {
+    "@type": "Place",
+    "name": "Benelux"
+   }
+  ],
+  "knowsAbout": [
+   "EcoVadis",
+   "sustainability rating",
+   "sustainable procurement",
+   "VSME",
+   "CSRD",
+   "ESG reporting"
+  ],
+  "founder": {
+   "@id": "https://sos-ecovadis.com/#francois-dequenne"
+  }
  },
  "person": {
   "@type": "Person",

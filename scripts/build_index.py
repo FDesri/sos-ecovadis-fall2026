@@ -246,10 +246,33 @@ def main():
                             encoding="utf-8"), ensure_ascii=False, indent=1, default=str)
 
     # --- JSON-LD (KC-T04) --------------------------------------------------
+    # ESG INTERIM MANAGEMENT est une MARQUE ; la personne morale est
+    # IMAGINATION@WORK SRL. Un moteur à qui l'on demande « qui est ESGIM »
+    # doit trouver les deux et savoir laquelle contracte (KC-S07, KC-S12).
     ORG = {
         "@type": "Organization", "@id": f"{base}/#organization",
-        "name": "ESG Interim Management", "alternateName": "ESGIM",
+        "name": "ESG Interim Management", "alternateName": ["ESGIM"],
+        "legalName": "IMAGINATION@WORK SRL",
+        "brand": {"@type": "Brand", "name": "ESG INTERIM MANAGEMENT"},
+        "identifier": [
+            {"@type": "PropertyValue", "propertyID": "BE-KBO", "value": "0774.373.269"},
+            {"@type": "PropertyValue", "propertyID": "VAT", "value": "BE0774373269"},
+        ],
+        "vatID": "BE0774373269",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Boulevard du Souverain 24 (c/o Buzzy Nest)",
+            "postalCode": "1170", "addressLocality": "Watermael-Boitsfort",
+            "addressRegion": "Bruxelles-Capitale", "addressCountry": "BE",
+        },
+        "email": "fd@esgim.eu",
         "url": "https://esgim.eu/",
+        "sameAs": ["https://esgim.eu/", "https://esgim.eu/legal"],
+        "areaServed": [{"@type": "Country", "name": "Belgium"},
+                       {"@type": "Place", "name": "Benelux"}],
+        "knowsAbout": ["EcoVadis", "sustainability rating", "sustainable procurement",
+                       "VSME", "CSRD", "ESG reporting"],
+        "founder": {"@id": f"{base}/#francois-dequenne"},
     }
     PERSON = {
         "@type": "Person", "@id": f"{base}/#francois-dequenne",
@@ -264,7 +287,10 @@ def main():
                 continue
             node = {
                 "@context": "https://schema.org",
-                "@type": "FAQPage" if obj["type"] == "faq" else "Article",
+                "@type": ("FAQPage" if obj["type"] == "faq"
+                          else "AboutPage" if obj["type"] == "organization"
+                          else "ProfilePage" if obj["type"] == "expert"
+                          else "Article"),
                 "@id": v["canonical_url"], "url": v["canonical_url"],
                 "headline": v["title"], "description": v["description"],
                 "inLanguage": "nl-BE" if lang == "nl" else lang,
@@ -277,7 +303,11 @@ def main():
                 "citation": [registry[s]["url"] for s in obj["sources"]
                              if registry.get(s, {}).get("url")],
             }
-            if obj["type"] == "faq":
+            if obj["type"] == "organization":
+                node["mainEntity"] = {"@id": f"{base}/#organization"}
+            elif obj["type"] == "expert":
+                node["mainEntity"] = {"@id": f"{base}/#francois-dequenne"}
+            elif obj["type"] == "faq":
                 node["mainEntity"] = [{
                     "@type": "Question", "name": v["title"],
                     "acceptedAnswer": {"@type": "Answer", "text": v["description"]},

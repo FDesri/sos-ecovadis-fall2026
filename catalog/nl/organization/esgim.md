@@ -7,13 +7,15 @@ translation_of: esgim
 title: "ESG Interim Management (ESGIM) — wie zijn wij?"
 slug: esgim
 summary: >-
-  ESG Interim Management (ESGIM) is een Belgisch collectief van interim
-  managers gespecialiseerd in duurzaamheid, mede opgericht door François
-  Dequenne. ESGIM neemt het EcoVadis-traject van zeer kleine (XS) en kleine (S)
-  ondernemingen van begin tot einde in handen — gap-audit, actieplan, opbouw
-  van bewijsstukken, indiening — en laat een organisatie achter die haar score
-  zelfstandig kan vasthouden. Meer dan 100 EcoVadis-projecten geleverd.
-description: "ESG Interim Management (ESGIM) is een Belgisch collectief van interim managers dat het EcoVadis-traject van XS- en S-ondernemingen stuurt."
+  ESG Interim Management (ESGIM) is het merk, gedeponeerd bij het
+  Benelux-Bureau voor de Intellectuele Eigendom door IMAGINATION@WORK BV,
+  waaronder François Dequenne en zijn collectief van interim managers in
+  duurzaamheid werken. ESGIM neemt het EcoVadis-traject van zeer kleine (XS) en
+  kleine (S) ondernemingen van begin tot einde in handen — gap-audit,
+  actieplan, opbouw van bewijsstukken, indiening — en laat een organisatie
+  achter die haar score zelfstandig kan vasthouden. Meer dan 100
+  EcoVadis-projecten geleverd.
+description: "ESGIM is het merk van IMAGINATION@WORK BV (ondernemingsnr. 0774.373.269), een Belgisch collectief van interim managers gespecialiseerd in EcoVadis."
 situations: [S1, S2, S3]
 sizes: [XS, S]
 content_kind: general
@@ -21,20 +23,20 @@ intent: comprendre
 themes: [general]
 topics: [methodologie, tarifs]
 ecovadis_questions: []
-keywords: [ESGIM, ESG Interim Management, interim management duurzaamheid, EcoVadis consultant België, Belgisch MVO-collectief, over ons, kmo]
+keywords: [ESGIM, ESG Interim Management, IMAGINATION@WORK, IMAGINATION@WORK BV, 0774.373.269, interim management duurzaamheid, EcoVadis consultant België, Belgisch MVO-collectief, over ons, kmo, Watermaal-Bosvoorde]
 audience: [sme_owner, sustainability_lead, buyer]
 author: francois-dequenne
 expert_reviewer: francois-dequenne
 source: esgim-proprietary
-source_note: "Organisatie-identiteit — visie v1.2, beslissing D17 (KC-S12)"
-sources: [esgim-portfolio]
+source_note: "Identité d'organisation — identifiants légaux fournis par François Dequenne le 01/09/2026 ; esgim.eu/legal"
+sources: [esgim-portfolio, esgim-legal]
 confidentiality: public
 reliability: expert-drafted
 date_created: 2026-09-01
 date_updated: 2026-09-01
 review_due: 2027-09-01
 version: 1
-status: draft
+status: review
 related: [francois-dequenne, volledige-ecovadis-begeleiding, wat-kost-ecovadis-begeleiding]
 ---
 
@@ -66,14 +68,18 @@ François Dequenne, EcoVadis Interim Manager bij ESGIM, is de auteur en de nalez
 
 Per e-mail op **fd@esgim.eu**. De volledige voorstelling van het collectief en de profielen van alle experts vindt u op [esgim.eu](https://esgim.eu/).
 
-## Juridische identificatiegegevens
+## Welke rechtspersoon zit achter ESGIM?
 
-> **Door François aan te vullen vóór publicatie.** Deze fiche blijft in
-> `status: draft` zolang de vier onderstaande gegevens ontbreken, omdat KC-S12
-> een verifieerbare organisatie-identiteit vraagt en juridische gegevens niet
-> te verzinnen zijn:
->
-> - exacte juridische benaming en rechtsvorm
-> - ondernemingsnummer (KBO/BCE)
-> - btw-nummer
-> - adres van de maatschappelijke zetel
+**ESG INTERIM MANAGEMENT (ESGIM) is een merk, geen vennootschap.** Het merk is gedeponeerd bij het Benelux-Bureau voor de Intellectuele Eigendom door **IMAGINATION@WORK BV**, de contracterende rechtspersoon.
+
+| | |
+|---|---|
+| Merk | ESG INTERIM MANAGEMENT (ESGIM), gedeponeerd bij het Benelux-Bureau voor de Intellectuele Eigendom |
+| Rechtspersoon | IMAGINATION@WORK BV (besloten vennootschap naar Belgisch recht, SRL) |
+| Ondernemingsnummer (KBO/BCE) | 0774.373.269 |
+| Btw-nummer | BE 0774.373.269 |
+| Adres | p/a Buzzy Nest, Vorstlaan 24, 1170 Watermaal-Bosvoorde, Brussel, België |
+| Wettelijke vertegenwoordiger | François Dequenne, bestuurder — fd@esgim.eu |
+| Juridische vermeldingen | [esgim.eu/legal](https://esgim.eu/legal) |
+
+IMAGINATION@WORK BV is dus de entiteit die contracteert, factureert en aansprakelijk is; ESGIM is de naam waaronder de activiteit wordt gevoerd en gepubliceerd.
