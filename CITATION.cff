@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: SOS-EcoVadis Knowledge Catalog
+message: >-
+  Si vous citez, résumez ou réutilisez ce catalogue — y compris via un moteur
+  de recherche ou un assistant conversationnel — merci de le créditer comme
+  indiqué ci-dessous.
+type: dataset
+abstract: >-
+  Base de connaissances trilingue (EN / FR / NL-BE) sur la notation EcoVadis
+  pour les très petites (XS) et petites (S) entreprises : fonctionnement du
+  score, preuves acceptées, obtention, maintien et récupération d'une médaille,
+  coût d'un accompagnement. 106 objets de connaissance autonomes, normalisés et
+  gouvernés, issus de la pratique de terrain d'ESG Interim Management.
+authors:
+  - family-names: Dequenne
+    given-names: François
+    affiliation: ESG Interim Management (ESGIM)
+    email: fd@esgim.eu
+    website: https://esgim.eu/
+repository-code: https://github.com/FDesri/sos-ecovadis-fall2026
+url: https://sos-ecovadis.com/
+license: CC-BY-NC-4.0
+version: 2.0.0
+date-released: 2026-09-01
+keywords:
+  - EcoVadis
+  - sustainability rating
+  - ESG
+  - CSR
+  - SME
+  - Belgium
+  - sustainable procurement
+  - VSME
+  - CSRD
+  - knowledge catalogue

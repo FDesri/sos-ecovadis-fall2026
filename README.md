@@ -20,19 +20,37 @@ Le site web n'est qu'une vue parmi d'autres sur cette connaissance. Les agents I
 ## Structure du dépôt
 
 ```
-taxonomy/     taxonomy.yaml (facettes: situations S1-S3, tailles, thèmes, sujets, audiences)
-              ecovadis-question-codes.json (46 codes du questionnaire, avec thème et libellé)
-schemas/      knowledge-object.schema.json (le modèle unique de toute fiche)
+taxonomy/     taxonomy.yaml            facettes: situations S1-S3, tailles, thèmes, sujets, audiences
+              url-plan.yaml            LE plan d'URL canonique — source unique des URL
+              hubs.yaml                16 hubs thématiques (index par sujet), avec leur texte
+              sources-registry.yaml    18 sources citables + politique de liens sortants
+              intents.json             niveau d'intention de chaque objet
+              ecovadis-question-codes.json  46 codes du questionnaire
+schemas/      knowledge-object.schema.json  le modèle unique de toute fiche (v2)
 catalog/      en/ fr/ nl/ — un dossier par langue
-                articles/  faq/  pricing/  services/  experts/
+                articles/  faq/  pricing/  services/  experts/  organization/
               glossary/ — le glossaire trilingue (objet unique)
-index/        catalog.json (index machine complet, généré)
-              llms.txt (répertoire pour LLMs, généré)
-scripts/      parse_enex.py (ENEX → texte), build_index.py (fiches → index),
-              publish.py (review → published), gen_faqs.py + faq_data_*.py (générateur FAQ)
-GOVERNANCE.md propriétaires, workflow de validation, révision, archivage, nommage
+index/        catalog.json             graphe machine complet, généré
+              jsonld.json              JSON-LD schema.org par objet, généré
+public/       robots.txt sitemap.xml llms.txt llms-full.txt   ← servis à la RACINE du domaine, générés
+measurement/  question-panel.md/.csv   panel de mesure de découvrabilité, généré
+scripts/      build_index.py           index, hubs, sitemap, JSON-LD, llms.txt + VALIDATION
+              publish.py               review → published
+              migrate_v2.py            migration du front matter
+              rewrite_headings.py      intertitres interrogatifs
+              link_sources.py          références au plus près des affirmations
+              build_question_panel.py  panel de mesure
+              parse_enex.py            ENEX → texte
+GOVERNANCE.md propriétaires, validation, révision, archivage, nommage, décisions, robots
+CONTRIBUTING.md  l'essentiel pour contribuer
+CHANGELOG.md  ce qui a changé, version par version
+LICENSE       CC BY-NC 4.0 pour le contenu, MIT pour le code
 SOURCES.md    registre: chaque fiche ↔ sa note source ↔ son fichier d'origine
+CITATION.cff  comment citer ce catalogue
 ```
+
+**Ce qui est généré ne s'édite pas à la main** : tout `index/`, tout `public/`,
+tout `measurement/`. Régénérer avec `python3 scripts/build_index.py`.
 
 ## Le modèle de fiche
 

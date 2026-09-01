@@ -130,6 +130,7 @@ TYPE_SOURCES = {
     "service":  ["esgim-portfolio"],
     "pricing":  ["esgim-portfolio"],
     "expert":   ["esgim-portfolio"],
+    "organization": ["esgim-portfolio"],
     # Tout article, FAQ ou entrée de glossaire de ce catalogue répond à une
     # question posée dans le cadre EcoVadis : sa provenance de fond est la
     # méthodologie de l'éditeur, même quand le corps ne le nomme pas.

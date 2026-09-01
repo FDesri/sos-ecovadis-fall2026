@@ -79,12 +79,43 @@ Une fiche remplacée n'est jamais supprimée : `status: archived`, déplacement 
    - **Cas techniques détaillés** (dossier de preuves, documents internes, tonnages, écarts, trous) : **anonymisés** en description sectorielle — « imprimeur flexographique wallon, taille S » (kb-0034/0035/0039), « installateur en techniques spéciales du bâtiment wallon, taille XS » (kb-0038). Les indicateurs chiffrés sont conservés pour leur valeur pédagogique ; les noms de personnes ne le sont jamais.
    Un même client peut relever des deux régimes : CIREPA est nommé comme référence dans kb-0023 et anonymisé comme cas technique dans kb-0034.
 5. **Codes questions EcoVadis** (ENV7003, SUP307…) : métadonnées de liaison avec le questionnaire (`ecovadis_questions`), pas des titres ni des questions humaines.
-6. **Liens externes** : aucun lien vers des consultances concurrentes ; les renvois se font vers d'autres fiches du catalogue (`related`). Les liens utilitaires (outils WRI Aqueduct, WWF Water Risk Filter…) sont conservés.
+6. **Liens externes — RÉVISÉ le 01/09/2026 (décision D14).** La règle initiale excluait tout lien sortant. Elle visait les concurrents, mais elle privait les fiches de leurs sources : 93 articles sur 96 n'en portaient aucune, alors qu'ils avançaient des chiffres datés et vérifiables. Le contrôle KC-C11 de la grille LLM-ready demande la référence immédiatement après l'affirmation, et c'est un des critères que les moteurs pèsent le plus lourd pour juger une source fiable.
+   - **Autorisé** : référentiels (EcoVadis, GRI, GHG Protocol, ISO), régulateurs (Commission européenne, EUR-Lex), normalisateurs (EFRAG), institutions publiques (SPF Emploi / FOD Werkgelegenheid, Unia), outils publics d'analyse de risque. Citer sa source ne renvoie pas le lecteur ailleurs : cela prouve qu'on sait de quoi on parle.
+   - **Interdit** : cabinets de conseil concurrents, plateformes de notation concurrentes, agrégateurs et comparateurs commerciaux.
+   - Les sources autorisées sont énumérées dans `taxonomy/sources-registry.yaml`. Une fiche les référence par `id` ; le build refuse un `id` inconnu. Une donnée issue du portefeuille ESGIM est attribuée à ESGIM (`esgim-portfolio`), jamais présentée comme un chiffre publié par EcoVadis.
 7. **Bloc « À propos d'ESGIM »** : un seul texte standard (celui de kb-0002 / kb-0003), pas de variantes marketing par fiche.
 8. **Boutons / mentions « Qui sommes-nous »** : pointent vers la page À propos d'esgim.eu (hub de crédibilité).
 9. **Néerlandais = flamand** : en cas d'écart entre l'usage flamand (Belgique) et l'usage des Pays-Bas, **le flamand l'emporte**, toujours. Cela vaut pour le vocabulaire (kmo et non mkb, VTE, rapportering, welzijn op het werk), les institutions et références légales (FOD Werkgelegenheid, Unia, arbeidsreglement), la syntaxe et le registre (vouvoiement « u »). Les termes néerlandais des Pays-Bas ne sont admis qu'en `keywords`, pour la recherche. La colonne NL du glossaire (kb-0005) fait foi ; le NL se traduit depuis l'anglais ou le concept, jamais depuis le français.
 10. **Tarifs (kb-0001)** : grille et modalités validées par François le 01/09/2026 — paiement en trois tranches **20 % / 60 % / 20 %**, la dernière tranche conditionnée à l'atteinte du niveau convenu. Prix S1 (montée) pour une XS : **8 000 €** — le tableau de la note source fait foi (arbitré le 01/09/2026).
 
-## 8. Extension du catalogue
+## 8. Décisions techniques du 01/09/2026 (grille LLM-ready — vision v1.2)
+
+Prises après application des 95 contrôles de la grille « LLM-ready » au dépôt.
+Le détail, avec contexte et réversibilité, est dans la vision v1.2 §9.
+
+| # | Décision | Où elle vit |
+|---|---|---|
+| D13 | **Plan d'URL étendu aux sept types d'objets.** La vision v1.1 ne logeait que les articles ; le catalogue en compte sept types et 106 objets, or KC-C01 exige une URL par unité de connaissance. Les branches articles (`/fr/savoir/`, `/nl/kennis/`, `/en/knowledge/`) sont conservées telles quelles. Les hubs de situation ne sont pas des objets : les pages S1/S2/S3 de la landing en font office, pour éviter la cannibalisation. | `taxonomy/url-plan.yaml` |
+| D14 | **Liens sortants vers les sources institutionnelles autorisés**, concurrents toujours interdits. Révise la décision n° 6 ci-dessus. | `taxonomy/sources-registry.yaml` |
+| D15 | **Licence explicite** : contenu en CC BY-NC 4.0, code en MIT. Pas de clause « pas de modification » : elle ferait douter du droit de résumer, qui est précisément l'usage recherché. Une licence s'assouplit, ne se resserre pas. | `LICENSE` |
+| D16 | **Renommage du dépôt** en `sos-ecovadis-knowledge-catalogue` : « fall2026 » date un actif permanent. À faire tant qu'aucun lien externe n'existe. | action GitHub de François |
+| D17 | **Facette d'intention** (`comprendre`, `comparer`, `choisir`, `mettre-en-oeuvre`, `verifier`) sur chaque objet, et **fiche d'identité de l'organisation** (kb-0006), que la grille réclame (KC-S03, KC-S12). | `taxonomy/intents.json`, `catalog/*/organization/` |
+| D18 | **Hubs thématiques sur un axe unique, le sujet.** Les quatre thèmes officiels EcoVadis y figurent sous leur nom officiel : un hub « thème » distinct d'un hub « sujet » sur le même contenu serait de la cannibalisation. Un sujet devient un hub à partir de 4 objets. Les hubs sont générés, pas rédigés en double. | `taxonomy/hubs.yaml` |
+| D19 | **Rien d'indexable hors `status: published`.** Seuls les objets publiés reçoivent une URL canonique et entrent au sitemap, dans `llms.txt` et dans `llms-full.txt`. Les 106 objets étant en relecture, les surfaces publiques sont vides — c'est voulu, pas un défaut. | `scripts/build_index.py` |
+| D20 | **Contrôles bloquants en intégration continue.** Champ obligatoire manquant, `description` hors fenêtre, id ou slug dupliqué, `related` non résolu, source inconnue, parité de langues rompue, objet sans hub, fiche publiée dont la révision est due : le build échoue. | `.github/workflows/validate.yml` |
+| D21 | **Fraîcheur outillée.** `review_due` est calculée depuis `date_updated` selon les cadences du §3 ci-dessus, et une fiche publiée en retard de révision fait échouer le build. Le §3 cesse d'être une intention. | champ `review_due` |
+
+## 9. Politique de robots
+
+Décidée le 01/09/2026, appliquée par `public/robots.txt`, régénéré à chaque build.
+
+| Robot | Décision | Motif |
+|---|---|---|
+| OAI-SearchBot, PerplexityBot, ClaudeBot | **Autorisé** | Ce sont les robots qui font apparaître le catalogue comme source dans les réponses. C'est l'objectif B de la vision. |
+| Googlebot, Bingbot, Google-Extended | **Autorisé** | Recherche classique et alimentation des AI Overviews. Bing compte doublement : il alimente ChatGPT et Copilot. |
+| GPTBot, CCBot, Applebot-Extended | **Autorisé** | Décision distincte de la recherche. Être présent dans les données d'entraînement sert la découvrabilité, et le contenu est une expertise publique qu'ESGIM veut voir attribuée. Réversible en une ligne. |
+| Tout autre | **Autorisé** | Aucun blocage accidentel (KC-A06). |
+
+## 10. Extension du catalogue
 
 Nouvelle note → nouvelle fiche : suivre `README.md` § « Ajouter une connaissance ». Nouvelle valeur de taxonomie : l'ajouter d'abord à `taxonomy/taxonomy.yaml` (commit dédié), puis l'utiliser. Nouveau type d'objet (cas client, témoignage…) : définir sa plage d'IDs dans la taxonomie et son gabarit dans `schemas/`.

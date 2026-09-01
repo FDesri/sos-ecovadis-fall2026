@@ -142,6 +142,7 @@ object_types:
   service:  { id_range: "kb-0003 → kb-0004",  description_fr: "Offre de service ESGIM structurée" }
   expert:   { id_range: "kb-0002",            description_fr: "Identité d'auteur / expert référent" }
   glossary: { id_range: "kb-0005",            description_fr: "Glossaire terminologique EN-FR-NL" }
+  organization: { id_range: "kb-0006",        description_fr: "Identité de l'organisation éditrice (KC-S12)" }
 
 # ------------------------------------------------------------
 # Codes questions EcoVadis (métadonnées)

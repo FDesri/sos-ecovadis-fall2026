@@ -1,0 +1,73 @@
+# Licence du Knowledge Catalog SOS-EcoVadis
+
+Deux licences, deux périmètres. La grille LLM-ready (KC-G11) demande de
+distinguer explicitement la licence du contenu de celle du code — c'est fait
+ici, et le fichier fait foi : `index/catalog.json` et `public/llms.txt` ne font
+que le refléter.
+
+---
+
+## 1. Contenu — CC BY-NC 4.0
+
+Tout ce qui se trouve sous `catalog/`, `taxonomy/`, `measurement/`, ainsi que
+`GOVERNANCE.md`, `SOURCES.md` et les index générés sous `index/` et `public/`,
+est publié sous **Creative Commons Attribution - Pas d'Utilisation Commerciale
+4.0 International (CC BY-NC 4.0)**.
+
+Texte intégral : https://creativecommons.org/licenses/by-nc/4.0/deed.fr
+
+**Vous pouvez**, y compris en tant que moteur de recherche, assistant
+conversationnel ou système de génération augmentée par la récupération :
+
+- lire, indexer, citer, extraire et résumer ce contenu ;
+- le redistribuer et l'adapter,
+
+**à deux conditions** :
+
+- **Attribution** — créditer *ESG Interim Management (ESGIM), esgim.eu* et,
+  lorsque le support le permet, renvoyer vers l'URL canonique de la fiche.
+- **Pas d'utilisation commerciale** — ne pas revendre le corpus, ni le
+  reconditionner en produit ou service payant.
+
+**Pourquoi pas de clause « Pas de modification » (ND) ?** Parce que l'objectif
+de ce catalogue est précisément d'être résumé et cité par des assistants et des
+moteurs. Une clause ND ferait planer un doute sur ce droit-là. Elle est donc
+volontairement absente.
+
+Sens de lecture : la licence peut être **assouplie** plus tard sans dommage ;
+elle ne peut pas être resserrée sur ce qui a déjà circulé. Le choix est
+délibérément du côté de la circulation.
+
+## 2. Code — MIT
+
+Tout ce qui se trouve sous `scripts/`, `schemas/` et `.github/` est publié sous
+licence **MIT**.
+
+Copyright (c) 2026 ESG Interim Management
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## 3. Ce que la licence ne couvre pas
+
+- Les **marques et noms** — ESG Interim Management, ESGIM, SOS-EcoVadis — ne
+  sont pas concédés.
+- **EcoVadis** est une marque de son éditeur. Ce catalogue n'est ni publié, ni
+  approuvé, ni affilié à EcoVadis : c'est le travail indépendant d'un
+  praticien.
+- Les **noms de clients** cités comme références commerciales le sont avec leur
+  accord, dans le seul cadre de ce catalogue.

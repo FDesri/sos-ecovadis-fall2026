@@ -1,0 +1,42 @@
+# SOS-EcoVadis Knowledge Catalog — ESG Interim Management (esgim.eu)
+# Politique de robots explicite. Toute décision ci-dessous est délibérée :
+# aucun blocage n'est accidentel (KC-A06).
+
+# --- Recherche assistée par IA : autorisée, c'est l'objectif du catalogue ---
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# --- Recherche classique ---------------------------------------------------
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# --- Entraînement de modèles : décision distincte de la recherche -----------
+# ESGIM autorise l'entraînement : être une source citée sert l'objectif de
+# découvrabilité, et le contenu est une expertise publique que l'on veut voir
+# attribuée. Remplacer par "Disallow: /" pour revenir sur ce choix.
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# --- Tout le reste ---------------------------------------------------------
+User-agent: *
+Allow: /
+
+Sitemap: https://sos-ecovadis.com/sitemap.xml
