@@ -30,8 +30,22 @@ jobs:
       - name: Valider le front matter contre le schéma
         run: |
           python3 - <<'PY'
-          import json, os, re, sys, yaml
+          import datetime, json, os, re, sys, yaml
           from jsonschema import Draft202012Validator
+
+          def dates_to_str(x):
+              # PyYAML rend les dates non quotees en date/datetime ; le schema
+              # attend des chaines "format: date". On convertit partout, pour
+              # qu'un nouveau champ date (verified_at en v3) ne casse plus la
+              # validation.
+              if isinstance(x, (datetime.date, datetime.datetime)):
+                  return x.isoformat()
+              if isinstance(x, dict):
+                  return {k: dates_to_str(v) for k, v in x.items()}
+              if isinstance(x, list):
+                  return [dates_to_str(v) for v in x]
+              return x
+
           schema = json.load(open("schemas/knowledge-object.schema.json"))
           v = Draft202012Validator(schema)
           bad = 0
@@ -44,9 +58,7 @@ jobs:
                   if not m:
                       print(f"::error file={p}::pas de front matter"); bad += 1; continue
                   fm = yaml.safe_load(m.group(1))
-                  for k in ("date_created", "date_updated", "review_due"):
-                      if k in fm and fm[k] is not None:
-                          fm[k] = str(fm[k])
+                  fm = dates_to_str(fm)
                   for e in v.iter_errors(fm):
                       print(f"::error file={p}::{'.'.join(str(x) for x in e.path) or '(racine)'} — {e.message}")
                       bad += 1
