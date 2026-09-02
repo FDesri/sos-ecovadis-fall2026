@@ -7,6 +7,10 @@
 {%- for l, href in altUrls %}
 <link rel="alternate" hreflang="{{ l }}" href="{{ site.url }}{{ href }}">
 {%- endfor %}
+{%- set xdefault = altUrls.fr or altUrls.en or altUrls.nl %}
+{%- if xdefault %}
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ xdefault }}">
+{%- endif %}
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:title" content="{{ title }}">
