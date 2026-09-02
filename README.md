@@ -32,7 +32,7 @@ catalog/      en/ fr/ nl/ — un dossier par langue
               glossary/ — le glossaire trilingue (objet unique)
 index/        catalog.json             graphe machine complet, généré
               jsonld.json              JSON-LD schema.org par objet, généré
-public/       robots.txt sitemap.xml llms.txt llms-full.txt   ← servis à la RACINE du domaine, générés
+public/       robots.txt sitemap.xml llms.txt             ← servis à la RACINE du domaine, générés
 measurement/  question-panel.md/.csv   panel de mesure de découvrabilité, généré
 scripts/      build_index.py           index, hubs, sitemap, JSON-LD, llms.txt + VALIDATION
               publish.py               review → published

@@ -8,7 +8,6 @@
 > Licence : CC BY-NC 4.0 — citation avec attribution à ESG Interim Management.
 
 Index machine complet : https://sos-ecovadis.com/catalog.json
-Texte intégral : https://sos-ecovadis.com/llms-full.txt
 
 ## Index par sujet
 

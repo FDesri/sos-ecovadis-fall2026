@@ -44,7 +44,7 @@ for (const p of pages) {
 
 // 4. Tout lien interne doit aboutir à une page produite
 const known = new Set(pages.map((p) => "/" + path.relative(OUT, p).replace(/index\.html$/, "").replace(/\\/g, "/")));
-for (const f of ["/robots.txt", "/sitemap.xml", "/llms.txt", "/llms-full.txt", "/catalog.json", "/feed.xml", "/assets/css/main.css"]) known.add(f);
+for (const f of ["/robots.txt", "/sitemap.xml", "/llms.txt", "/catalog.json", "/feed.xml", "/assets/css/main.css"]) known.add(f);
 for (const p of pages) {
   const html = fs.readFileSync(p, "utf8");
   const from = "/" + path.relative(OUT, p).replace(/index\.html$/, "").replace(/\\/g, "/");
@@ -54,7 +54,7 @@ for (const p of pages) {
 }
 
 // 5. Fichiers machine à la racine
-for (const f of ["robots.txt", "sitemap.xml", "llms.txt", "llms-full.txt", "catalog.json", "404.html"]) {
+for (const f of ["robots.txt", "sitemap.xml", "llms.txt", "catalog.json", "404.html"]) {
   if (!fs.existsSync(path.join(OUT, f))) note(`fichier machine absent : /${f}`);
 }
 

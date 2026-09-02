@@ -15,12 +15,11 @@ public/                 Ce qui sera servi à la RACINE du domaine :
   robots.txt            Politique de robots explicite (KC-A03 → A06).
   sitemap.xml           Objets PUBLIÉS uniquement (KC-T06).
   llms.txt              Répertoire agents : hubs d'abord, fiches ensuite (KC-L01→L04).
-  llms-full.txt         Texte intégral des fiches publiées, généré (KC-L05).
 
 Règle de publication (décision D19)
 -----------------------------------
 Seuls les objets en `status: published` reçoivent une URL canonique et entrent
-au sitemap, dans llms.txt et dans llms-full.txt. Une fiche en `review` ou
+au sitemap et dans llms.txt. Une fiche en `review` ou
 `draft` reste dans catalog.json, marquée comme telle, et n'est pas indexable.
 Tant que François n'a pas relu, les surfaces publiques sont vides — c'est le
 comportement voulu, pas un bug.
@@ -533,7 +532,7 @@ Sitemap: {base}/sitemap.xml
          "> Licence : CC BY-NC 4.0 — citation avec attribution à ESG Interim Management.",
          "",
          f"Index machine complet : {base}/catalog.json",
-         f"Texte intégral : {base}/llms-full.txt", ""]
+         ""]
     L += ["## Index par sujet", ""]
     for h in sorted(hub_defs, key=lambda k: -len(hub_members[k])):
         pub = [o for o in hub_members[h] if o in published_ids]
@@ -564,20 +563,10 @@ Sitemap: {base}/sitemap.xml
               "Ce fichier se remplira à mesure des validations — voir GOVERNANCE.md §2.", ""]
     open(os.path.join(public, "llms.txt"), "w", encoding="utf-8").write("\n".join(L))
 
-    # --- llms-full.txt (KC-L05) -------------------------------------------
-    F = [f"# SOS-EcoVadis Knowledge Catalog — texte intégral",
-         f"# Généré par scripts/build_index.py — ne pas éditer à la main.",
-         f"# Licence : CC BY-NC 4.0 — citation avec attribution à ESG Interim Management.",
-         ""]
-    for oid in sorted(published_ids):
-        o = objects[oid]
-        for lang in LANGS:
-            v = o["languages"].get(lang)
-            if not v or not v["canonical_url"]:
-                continue
-            F += [f"<!-- {oid} [{lang}] {v['canonical_url']} "
-                  f"maj {o['date_updated']} -->", bodies[(oid, lang)].strip(), ""]
-    open(os.path.join(public, "llms-full.txt"), "w", encoding="utf-8").write("\n".join(F))
+    # llms-full.txt n'est plus produit (D27, 02/09/2026). Le HTML est crawlable
+    # et llms.txt dit où trouver quoi : une seconde copie intégrale du catalogue
+    # se maintient, se désynchronise, et sous CC BY-NC facilite la reprise en gros
+    # plutôt que la citation. Le code retiré est dans l'historique git.
 
     # --- rapport -----------------------------------------------------------
     nfiles = sum(len(o["languages"]) for o in objects.values())
@@ -591,7 +580,7 @@ Sitemap: {base}/sitemap.xml
     for w in warnings:
         print("AVERTISSEMENT :", w)
     print(f"écrit : index/catalog.json, index/jsonld.json, "
-          f"public/{{robots.txt, sitemap.xml, llms.txt, llms-full.txt}}")
+          f"public/{{robots.txt, sitemap.xml, llms.txt}}")
     if len(published_ids) == 0:
         print("NOTE : aucune fiche publiée, donc sitemap et llms.txt sont vides. "
               "C'est le comportement voulu (décision D19).")
