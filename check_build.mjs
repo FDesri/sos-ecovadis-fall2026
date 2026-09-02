@@ -44,12 +44,19 @@ for (const p of pages) {
 
 // 4. Tout lien interne doit aboutir à une page produite
 const known = new Set(pages.map((p) => "/" + path.relative(OUT, p).replace(/index\.html$/, "").replace(/\\/g, "/")));
-for (const f of ["/robots.txt", "/sitemap.xml", "/llms.txt", "/catalog.json", "/feed.xml", "/assets/css/main.css"]) known.add(f);
+for (const f of ["/robots.txt", "/sitemap.xml", "/llms.txt", "/catalog.json", "/feed.xml"]) known.add(f);
+// Un href peut aussi viser un fichier servi tel quel (feuille de style,
+// police, favicon). On vérifie qu'il existe vraiment dans _site plutôt que
+// d'en tenir une liste en dur, qui se périme au premier actif ajouté.
+const servi = (u) => {
+  const f = path.join(OUT, decodeURIComponent(u));
+  return fs.existsSync(f) && fs.statSync(f).isFile();
+};
 for (const p of pages) {
   const html = fs.readFileSync(p, "utf8");
   const from = "/" + path.relative(OUT, p).replace(/index\.html$/, "").replace(/\\/g, "/");
   for (const m of html.matchAll(/href="(\/[^"#?]*)"/g)) {
-    if (!known.has(m[1])) note(`lien interne mort : ${from} -> ${m[1]}`);
+    if (!known.has(m[1]) && !servi(m[1])) note(`lien interne mort : ${from} -> ${m[1]}`);
   }
 }
 

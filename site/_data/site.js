@@ -16,8 +16,12 @@ export default {
   },
   publisher: "ESG Interim Management",
   publisherUrl: "https://esgim.eu/",
-  aboutUrl: "https://esgim.eu/about",   // GOVERNANCE §7 décision 8
+  aboutUrl: "https://esgim.eu/a-propos", // GOVERNANCE §7 décision 8 — page vérifiée le 02/09
   author: "François Dequenne",
-  license: { name: "CC BY-NC 4.0", url: "https://creativecommons.org/licenses/by-nc/4.0/" },
+  // D40 : la clause NonCommercial est levée, l'attribution reste obligatoire.
+  // Cette ligne alimente le pied de page de TOUTES les pages ; la page
+  // /fr/mentions-legales/ de l'étape 2 ne peut pas annoncer autre chose.
+  // Les onze autres endroits de la licence sont traités par l'étape 1 quater.
+  license: { name: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/" },
   langs: ["fr", "nl", "en"],
 };
