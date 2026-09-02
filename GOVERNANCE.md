@@ -53,6 +53,23 @@ Le script passe `status: review → published`, `reliability → expert-validate
 
 Chaque révision incrémente `version`, met à jour `date_updated`, et se trace dans l'historique git.
 
+**Depuis le 02/09/2026 (D33), cette table est outillée par un champ.** Chaque fiche
+déclare une `volatility` et une date `verified_at` ; `review_due` en est dérivée par
+`taxonomy/freshness.yaml`. Les cadences : `evergreen` 24 mois, `annual` 12,
+`ecovadis-cycle` 6, `event-driven` 3.
+
+`date_updated` change à chaque modification, une virgule comprise. `verified_at` ne
+change que lorsque les **faits** ont été revérifiés. Corriger une coquille ne rajeunit
+pas un seuil de médaille.
+
+**Ce que fait le build quand une révision est due (D32).** Il avertit trente jours
+avant. Il avertit encore une fois l'échéance passée. Si la fiche est volatile
+(`ecovadis-cycle` ou `event-driven`), il la retire des surfaces indexables et la marque
+`review_required` : elle reste dans `catalog.json`, elle n'est plus servie. Elle ne
+devient une **erreur** que dans le commit qui la modifie — on ne retouche pas une fiche
+périmée sans regarder ses faits. En aucun cas une date n'arrête la chaîne de
+construction : un correctif de sécurité passe toujours.
+
 ## 4. Politique d'archivage
 
 Une fiche remplacée n'est jamais supprimée : `status: archived`, déplacement vers `catalog/_archive/`, et la fiche qui la remplace la référence dans `source_note`. Les slugs publiés ne sont jamais réutilisés. Les notes sources (.enex) restent archivées dans Drive `sos_ecovadis_fall2026` ; le registre `SOURCES.md` fait le lien fiche ↔ note ↔ fichier Drive.
@@ -101,10 +118,14 @@ Le détail, avec contexte et réversibilité, est dans la vision v1.2 §9.
 | D15 | **Licence explicite** : contenu en CC BY-NC 4.0, code en MIT. Pas de clause « pas de modification » : elle ferait douter du droit de résumer, qui est précisément l'usage recherché. Une licence s'assouplit, ne se resserre pas. | `LICENSE` |
 | D16 | **Renommage du dépôt** en `sos-ecovadis-knowledge-catalogue` : « fall2026 » date un actif permanent. À faire tant qu'aucun lien externe n'existe. | action GitHub de François |
 | D17 | **Facette d'intention** (`comprendre`, `comparer`, `choisir`, `mettre-en-oeuvre`, `verifier`) sur chaque objet, et **fiche d'identité de l'organisation** (kb-0006), que la grille réclame (KC-S03, KC-S12). | `taxonomy/intents.json`, `catalog/*/organization/` |
-| D18 | **Hubs thématiques sur un axe unique, le sujet.** Les quatre thèmes officiels EcoVadis y figurent sous leur nom officiel : un hub « thème » distinct d'un hub « sujet » sur le même contenu serait de la cannibalisation. Un sujet devient un hub à partir de 4 objets. Les hubs sont générés, pas rédigés en double. | `taxonomy/hubs.yaml` |
+| D18 | **Hubs thématiques sur un axe unique, le sujet.** Les quatre thèmes officiels EcoVadis y figurent sous leur nom officiel : un hub « thème » distinct d'un hub « sujet » sur le même contenu serait de la cannibalisation. Un sujet devient un hub à partir de 4 objets. Les hubs sont générés, pas rédigés en double. | `taxonomy/hubs.yaml` | *Portée révisée par D31.*
 | D19 | **Rien d'indexable hors `status: published`.** Seuls les objets publiés reçoivent une URL canonique et entrent au sitemap, dans `llms.txt` et dans `llms-full.txt`. Les 106 objets étant en relecture, les surfaces publiques sont vides — c'est voulu, pas un défaut. | `scripts/build_index.py` |
-| D20 | **Contrôles bloquants en intégration continue.** Champ obligatoire manquant, `description` hors fenêtre, id ou slug dupliqué, `related` non résolu, source inconnue, parité de langues rompue, objet sans hub, fiche publiée dont la révision est due : le build échoue. | `.github/workflows/validate.yml` |
-| D21 | **Fraîcheur outillée.** `review_due` est calculée depuis `date_updated` selon les cadences du §3 ci-dessus, et une fiche publiée en retard de révision fait échouer le build. Le §3 cesse d'être une intention. | champ `review_due` |
+| D20 | **Contrôles bloquants en intégration continue.** Champ obligatoire manquant, id ou slug dupliqué, `related` non résolu, source inconnue, sujet inconnu, fiche sans aucun sujet, volatilité inconnue : le build échoue. | `.github/workflows/validate.yml` |
+| D21 | **Fraîcheur outillée.** `review_due` porte l'échéance de révision de chaque fiche. *Mécanisme et sanction révisés par D32 et D33.* | champ `review_due` |
+| D28 | **Les quotas de forme sont indicatifs.** Aucun quota d'intertitres interrogatifs. `description` hors de la fenêtre 70-155 : avertissement. `description` absente : bloquant — c'est un fait manquant, pas un jugement de style. | `scripts/build_index.py` |
+| D31 | **Le hub n'est pas dû.** Un sujet devient un hub à partir de 4 objets ; en dessous il reste une facette. Une fiche sans hub n'est pas une erreur : elle vit dans l'index général des sujets, au sitemap, dans `llms.txt` et dans les pages de situation. Ce qui reste bloquant est le fait : aucune fiche sans sujet, aucun sujet inconnu de la taxonomie. Un sujet qui atteint le seuil déclenche un avertissement de promotion. | `scripts/build_index.py`, `taxonomy/hubs.yaml` |
+| D32 | **Une date ne bloque pas une chaîne de construction.** Avertissement à J−30, avertissement à l'échéance, retrait automatique en `review_required` pour les contenus volatils, erreur sur la seule fiche modifiée alors que sa révision est due. Jamais d'échec global. | `scripts/build_index.py`, `taxonomy/freshness.yaml` |
+| D33 | **Champ `volatility` et date `verified_at`.** Quatre classes : `evergreen`, `annual`, `ecovadis-cycle`, `event-driven`. `review_due` en est dérivée. Une fiche ne vieillit plus au même rythme qu'une autre parce qu'une table le disait quelque part. | `taxonomy/freshness.yaml`, `schemas/knowledge-object.schema.json` |
 
 ## 9. Politique de robots
 

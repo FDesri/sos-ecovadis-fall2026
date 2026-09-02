@@ -1,0 +1,35 @@
+# ============================================================
+# SOS-EcoVadis — Politique de fraîcheur
+# Version: 1.0 (2026-09-02) — décisions D32 et D33 (vision v2.3)
+# Propriétaire: François Dequenne (ESGIM)
+#
+# Source UNIQUE des cadences de révision. `review_due` n'est plus
+# un champ que l'on écrit : il est DÉRIVÉ de `verified_at` et de
+# `volatility` par build_index.py, comme `canonical_url` est dérivé
+# de url-plan.yaml. Une seule source, aucune dérive possible.
+#
+# `date_updated` = dernière modification, quelle qu'elle soit (une
+# virgule compte). `verified_at` = dernière fois que les FAITS de la
+# fiche ont été vérifiés. Corriger une coquille ne rajeunit pas un
+# seuil de médaille : les deux dates ne bougent pas ensemble.
+# ============================================================
+
+# Mois de validité par classe de volatilité.
+cadence_months:
+  evergreen:        24   # mécanique stable : P-A-R, structure du questionnaire, définitions
+  annual:           12   # défaut : pratique, méthode, offre
+  ecovadis-cycle:    6   # ce qu'EcoVadis recalibre : seuils, percentiles, médailles, tarifs
+  event-driven:      3   # ce qu'un texte ou une annonce peut périmer : CSRD, Omnibus, VSME
+
+# Avertissement avant échéance.
+warn_days_before: 30
+
+# Classes dont une fiche périmée sort des surfaces indexables sans
+# attendre la relecture. Elle reste dans catalog.json, marquée
+# `review_required` : rien n'est perdu, rien de faux n'est servi.
+withdraw_when_overdue:
+  - ecovadis-cycle
+  - event-driven
+
+# Volatilité appliquée quand une fiche n'en déclare pas (transition).
+default: annual

@@ -765,6 +765,30 @@
    ]
   }
  ],
+ "facets": [
+  {
+   "id": "b-corp",
+   "member_count": 1,
+   "members": [
+    "kb-0026"
+   ]
+  },
+  {
+   "id": "secteur-emballage",
+   "member_count": 1,
+   "members": [
+    "kb-0020"
+   ]
+  },
+  {
+   "id": "secteur-pharma",
+   "member_count": 1,
+   "members": [
+    "kb-0020"
+   ]
+  }
+ ],
+ "unhubbed": [],
  "objects": [
   {
    "id": "kb-0001",
@@ -802,7 +826,11 @@
     "esgim-portfolio"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "tarifs",
     "timing"
@@ -951,7 +979,11 @@
     "esgim-portfolio"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "evergreen",
+   "review_due": "2028-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie"
    ],
@@ -1069,7 +1101,11 @@
     "esgim-portfolio"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "tarifs",
@@ -1226,7 +1262,11 @@
     "eu-csrd"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "evergreen",
+   "review_due": "2028-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "plateforme"
@@ -1296,7 +1336,11 @@
     "esgim-portfolio"
    ],
    "date_updated": "2026-09-01",
-   "review_due": "2027-09-01",
+   "verified_at": "2026-09-01",
+   "volatility": "evergreen",
+   "review_due": "2028-09-01",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "tarifs"
@@ -1431,7 +1475,11 @@
     "esgim-portfolio"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "ethique",
     "medailles-percentiles",
@@ -1593,7 +1641,11 @@
     "esgim-portfolio"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "achats-responsables",
     "medailles-percentiles",
@@ -1757,7 +1809,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "medailles-percentiles",
     "methodologie",
@@ -1912,7 +1968,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "plateforme",
@@ -2074,7 +2134,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "medailles-percentiles",
     "methodologie",
@@ -2259,7 +2323,11 @@
     "iso-14001"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "medailles-percentiles",
     "methodologie",
@@ -2465,7 +2533,11 @@
     "eu-csrd"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "360-watch",
     "medailles-percentiles",
@@ -2641,7 +2713,11 @@
     "gri-standards"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "360-watch",
     "methodologie",
@@ -2809,7 +2885,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "carbone-ghg",
     "methodologie",
@@ -2970,7 +3050,11 @@
     "eu-csrd"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "360-watch",
     "medailles-percentiles",
@@ -3137,7 +3221,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "360-watch",
     "medailles-percentiles",
@@ -3321,7 +3409,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "medailles-percentiles",
     "methodologie"
@@ -3507,7 +3599,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves",
@@ -3676,7 +3772,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "achats-responsables",
     "carbone-ghg",
@@ -3845,7 +3945,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "questionnaire",
@@ -4002,7 +4106,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "tarifs",
@@ -4192,7 +4300,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "timing"
@@ -4350,7 +4462,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "achats-responsables",
     "carbone-ghg",
@@ -4513,7 +4629,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "360-watch",
     "methodologie",
@@ -4672,7 +4792,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves",
@@ -4829,7 +4953,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "environnement",
     "preuves",
@@ -4985,7 +5113,11 @@
     "sbti"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "carbone-ghg",
     "environnement",
@@ -5171,7 +5303,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "environnement",
     "methodologie",
@@ -5320,7 +5456,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "environnement",
     "methodologie",
@@ -5466,7 +5606,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "achats-responsables",
     "environnement",
@@ -5638,7 +5782,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "environnement",
     "preuves",
@@ -5796,7 +5944,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "preuves",
     "questionnaire",
@@ -5963,7 +6115,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "ethique",
     "preuves",
@@ -6140,7 +6296,11 @@
     "esgim-portfolio"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "ethique",
     "preuves",
@@ -6311,7 +6471,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "achats-responsables",
     "preuves",
@@ -6483,7 +6647,11 @@
     "eu-csddd"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "achats-responsables",
     "carbone-ghg",
@@ -6654,7 +6822,11 @@
     "eu-csrd"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "achats-responsables",
     "carbone-ghg",
@@ -6828,7 +7000,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "plateforme",
     "preuves",
@@ -6939,7 +7115,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "medailles-percentiles",
     "methodologie"
@@ -7047,7 +7227,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "achats-responsables"
    ],
@@ -7155,7 +7339,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "donneur-d-ordres",
     "plateforme"
@@ -7262,7 +7450,11 @@
     "efrag-vsme"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "vsme-csrd"
@@ -7374,7 +7566,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "vsme-csrd"
@@ -7480,7 +7676,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "vsme-csrd"
@@ -7587,7 +7787,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "medailles-percentiles",
     "methodologie"
@@ -7692,7 +7896,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "carbone-ghg"
    ],
@@ -7800,7 +8008,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "achats-responsables",
     "carbone-ghg"
@@ -7908,7 +8120,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "carbone-ghg"
    ],
@@ -8013,7 +8229,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "carbone-ghg",
     "environnement"
@@ -8119,7 +8339,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": false,
+   "effective_status": "archived",
    "hubs": [
     "carbone-ghg",
     "methodologie"
@@ -8225,7 +8449,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": false,
+   "effective_status": "archived",
    "hubs": [
     "carbone-ghg",
     "methodologie"
@@ -8327,7 +8555,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "plateforme",
     "questionnaire",
@@ -8435,7 +8667,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "questionnaire"
@@ -8541,7 +8777,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "plateforme",
     "timing"
@@ -8650,7 +8890,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "questionnaire"
@@ -8756,7 +9000,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "donneur-d-ordres",
     "plateforme"
@@ -8861,7 +9109,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "questionnaire",
     "timing"
@@ -8971,7 +9223,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "rising-bar",
@@ -9084,7 +9340,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "vsme-csrd"
@@ -9200,7 +9460,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves",
@@ -9316,7 +9580,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "preuves",
     "questionnaire"
@@ -9422,7 +9690,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "plateforme",
     "preuves"
@@ -9524,7 +9796,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves"
@@ -9633,7 +9909,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves"
@@ -9744,7 +10024,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "preuves",
     "questionnaire"
@@ -9853,7 +10137,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "preuves",
     "questionnaire"
@@ -9960,7 +10248,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves",
@@ -10071,7 +10363,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "360-watch",
     "methodologie",
@@ -10186,7 +10482,11 @@
     "esgim-portfolio"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "medailles-percentiles",
     "rising-bar"
@@ -10301,7 +10601,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "medailles-percentiles",
     "preuves"
@@ -10414,7 +10718,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "medailles-percentiles",
     "methodologie"
@@ -10527,7 +10835,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "ecovadis-cycle",
+   "review_due": "2027-02-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "medailles-percentiles",
     "rising-bar"
@@ -10635,7 +10947,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie"
    ],
@@ -10740,7 +11056,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves"
@@ -10846,7 +11166,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves"
@@ -10953,7 +11277,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie"
    ],
@@ -11061,7 +11389,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "rising-bar",
@@ -11171,7 +11503,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "questionnaire"
@@ -11280,7 +11616,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves"
@@ -11394,7 +11734,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves"
@@ -11500,7 +11844,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves"
@@ -11606,7 +11954,11 @@
     "ungc-cop"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie"
    ],
@@ -11722,7 +12074,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "carbone-ghg",
     "methodologie"
@@ -11828,7 +12184,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "carbone-ghg",
     "methodologie"
@@ -11934,7 +12294,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "ethique",
     "preuves"
@@ -12048,7 +12412,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "ethique",
     "preuves",
@@ -12160,7 +12528,11 @@
     "gri-standards"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "rising-bar",
@@ -12274,7 +12646,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "vsme-csrd"
@@ -12384,7 +12760,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "achats-responsables",
     "preuves"
@@ -12493,7 +12873,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "environnement",
     "preuves"
@@ -12602,7 +12986,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "360-watch",
     "methodologie"
@@ -12714,7 +13102,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "360-watch",
     "methodologie"
@@ -12820,7 +13212,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves"
@@ -12929,7 +13325,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": false,
+   "effective_status": "archived",
    "hubs": [
     "environnement",
     "methodologie"
@@ -13038,7 +13438,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "carbone-ghg",
     "methodologie"
@@ -13144,7 +13548,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": false,
+   "effective_status": "archived",
    "hubs": [
     "methodologie",
     "vsme-csrd"
@@ -13252,7 +13660,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "questionnaire"
@@ -13364,7 +13776,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "carbone-ghg",
     "methodologie"
@@ -13475,7 +13891,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "plateforme",
     "timing"
@@ -13584,7 +14004,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "preuves",
     "questionnaire"
@@ -13692,7 +14116,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "plateforme",
     "questionnaire"
@@ -13801,7 +14229,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "carbone-ghg",
     "preuves"
@@ -13910,7 +14342,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2026-11-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "preuves"
@@ -14016,7 +14452,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
+   "verified_at": "2026-08-27",
+   "volatility": "event-driven",
    "review_due": "2026-11-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "methodologie",
     "vsme-csrd"
@@ -14127,7 +14567,11 @@
     "ecovadis-methodology"
    ],
    "date_updated": "2026-08-27",
-   "review_due": "2027-02-27",
+   "verified_at": "2026-08-27",
+   "volatility": "annual",
+   "review_due": "2027-08-27",
+   "indexable": true,
+   "effective_status": "published",
    "hubs": [
     "donneur-d-ordres",
     "plateforme"

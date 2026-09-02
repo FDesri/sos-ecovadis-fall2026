@@ -5,7 +5,24 @@ import { urlplan, LANGS, pathFor, hubPath } from "../lib/urls.js";
 
 const catalog = JSON.parse(fs.readFileSync("index/catalog.json", "utf8"));
 
-const published = catalog.objects.filter((o) => o.status === "published");
+// Une fiche retirée pour révision dépassée (D32) reste dans catalog.json mais
+// ne se rend plus : `indexable` est la seule autorité côté rendu.
+const published = catalog.objects.filter(
+  (o) => o.status === "published" && o.indexable !== false,
+);
+const excluded = new Set(
+  catalog.objects
+    .filter((o) => o.status === "published" && o.indexable === false)
+    .map((o) => o.id),
+);
+
+// Fiche -> carte affichable dans une liste, pour une langue donnée.
+const card = (o, l) => ({
+  id: o.id, type: o.type,
+  title: o.languages[l]?.title,
+  description: o.languages[l]?.description,
+  url: o.languages[l] ? pathFor(l, o.type, o.languages[l].slug) : null,
+});
 
 // slug (par langue) -> fiche, pour résoudre `related`
 const bySlug = {};
@@ -41,16 +58,24 @@ const hubs = catalog.hubs.map((h) => ({
     h.members
       .map((id) => published.find((o) => o.id === id))
       .filter(Boolean)
-      .map((o) => ({
-        id: o.id, type: o.type,
-        title: o.languages[l]?.title,
-        description: o.languages[l]?.description,
-        url: o.languages[l] ? pathFor(l, o.type, o.languages[l].slug) : null,
-      }))
+      .map((o) => card(o, l))
       .filter((m) => m.url)
       .sort((a, b) => a.title.localeCompare(b.title, l)),
   ])),
 }));
+
+// Fiches publiées qu'aucun hub ne porte (D31). Elles ne sont pas orphelines :
+// l'index des sujets les liste sous « Autres fiches ».
+const unhubbed = Object.fromEntries(
+  LANGS.map((l) => [l,
+    (catalog.unhubbed || [])
+      .map((id) => published.find((o) => o.id === id))
+      .filter(Boolean)
+      .map((o) => card(o, l))
+      .filter((m) => m.url)
+      .sort((a, b) => a.title.localeCompare(b.title, l)),
+  ]),
+);
 
 export default {
   branches: urlplan.branches,
@@ -58,6 +83,8 @@ export default {
   langs: LANGS,
   count: published.length,
   hubs,
+  unhubbed,
+  excluded: [...excluded],
   bySlug,
   alternates,
   jsonld: JSON.parse(fs.readFileSync("index/jsonld.json", "utf8")),

@@ -30,7 +30,9 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
-review_due: 2026-11-27
+verified_at: 2026-08-27
+volatility: ecovadis-cycle
+review_due: 2027-02-27
 version: 1
 status: published
 related: [ecovadis-rising-standards-2026, whats-changing-in-2026]

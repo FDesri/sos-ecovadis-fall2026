@@ -33,7 +33,9 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
-review_due: 2026-11-27
+verified_at: 2026-08-27
+volatility: annual
+review_due: 2027-08-27
 version: 1
 status: published
 related: [lire-partager-optimiser-sa-fiche-devaluation, criteres-actives-ecovadis-par-secteur, du-badge-committed-a-la-medaille-bronze, guide-essentiel-ecovadis]

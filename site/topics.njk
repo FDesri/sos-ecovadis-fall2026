@@ -25,3 +25,15 @@
   {%- endif %}
 {%- endfor %}
 </ul>
+
+{%- if kb.unhubbed[l].length %}
+<h2>{{ t.other_sheets }}</h2>
+<ul class="cards">
+{%- for m in kb.unhubbed[l] %}
+  <li>
+    <a href="{{ m.url }}">{{ m.title }}</a>
+    <p>{{ m.description }}</p>
+  </li>
+{%- endfor %}
+</ul>
+{%- endif %}

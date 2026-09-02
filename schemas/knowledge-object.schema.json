@@ -1,284 +1,299 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/FDesri/sos-ecovadis-knowledge-catalogue/schemas/knowledge-object.schema.json",
-  "title": "SOS-EcoVadis Knowledge Object (front matter)",
-  "description": "Schéma du front matter YAML de toute fiche du Knowledge Catalog. Une fiche = un objet de connaissance autonome, normalisé, relié aux autres. v2 (2026-09-01, vision v1.2) : ajout de description, intent, review_due, sources et relations. NOTE — canonical_url n'est PAS un champ de front matter : il est DÉRIVÉ de taxonomy/url-plan.yaml (langue + type + slug) par build_index.py, pour qu'une seule source fixe les URL et qu'aucune dérive ne soit possible (décision D13).",
-  "type": "object",
-  "required": [
-    "id",
-    "type",
-    "lang",
-    "title",
-    "slug",
-    "summary",
-    "description",
-    "intent",
-    "author",
-    "source",
-    "date_created",
-    "date_updated",
-    "review_due",
-    "version",
-    "status"
-  ],
-  "properties": {
-    "id": {
-      "type": "string",
-      "pattern": "^kb-[0-9]{4}$",
-      "description": "Identifiant permanent, partagé par les trois versions linguistiques d'un même objet. Plages par type: voir taxonomy.yaml."
-    },
-    "type": {
-      "enum": [
-        "article",
-        "faq",
-        "pricing",
-        "service",
-        "expert",
-        "glossary",
-        "organization"
-      ]
-    },
-    "lang": {
-      "enum": [
-        "en",
-        "fr",
-        "nl",
-        "mul"
-      ],
-      "description": "nl = néerlandais de Belgique (kmo, VTE, rapportering, vouvoiement u)."
-    },
-    "source_lang": {
-      "enum": [
-        "en",
-        "fr",
-        "nl",
-        "mul"
-      ],
-      "description": "Langue de la note source originale. Une traduction NL se fait depuis l'anglais ou le concept, jamais depuis le français (règle glossaire §1-2)."
-    },
-    "translation_of": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "description": "Slug de la fiche dans la langue source quand cette fiche est une traduction; null pour l'original."
-    },
-    "title": {
-      "type": "string",
-      "description": "Titre formulé comme la question ou la recherche d'un humain (règle glossaire §1-5)."
-    },
-    "slug": {
-      "type": "string",
-      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
-      "description": "Stable, kebab-case, localisé par langue. Ne change jamais après publication."
-    },
-    "summary": {
-      "type": "string",
-      "description": "2 à 4 phrases, answer-first: la réponse d'abord, le contexte ensuite. Alimente llms.txt, meta description et les cartes."
-    },
-    "situations": {
-      "type": "array",
-      "items": {
-        "enum": [
-          "S1",
-          "S2",
-          "S3"
-        ]
-      }
-    },
-    "sizes": {
-      "type": "array",
-      "items": {
-        "enum": [
-          "XS",
-          "S",
-          "M",
-          "L"
-        ]
-      }
-    },
-    "content_kind": {
-      "enum": [
-        "general",
-        "methodology",
-        "policies",
-        "actions",
-        "reporting"
-      ]
-    },
-    "themes": {
-      "type": "array",
-      "items": {
-        "enum": [
-          "general",
-          "environment",
-          "labor-human-rights",
-          "ethics",
-          "sustainable-procurement"
-        ]
-      }
-    },
-    "topics": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "description": "Valeurs de taxonomy.yaml > topics."
-    },
-    "ecovadis_questions": {
-      "type": "array",
-      "items": {
-        "type": "string",
-        "pattern": "^(GEN|LAB|ENV|CAR|FB|FBP|SUP)[0-9]{3,4}s?$"
-      },
-      "description": "Codes des questions du questionnaire EcoVadis couvertes par la fiche (métadonnées de liaison, PAS des questions humaines)."
-    },
-    "keywords": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "description": "Les formulations qui coexistent: terme officiel, terme praticien, question posée. NL: repartir du concept, inclure kmo ET mkb, MVO ET duurzaamheid."
-    },
-    "audience": {
-      "type": "array",
-      "items": {
-        "enum": [
-          "sme_owner",
-          "sustainability_lead",
-          "buyer"
-        ]
-      }
-    },
-    "author": {
-      "type": "string",
-      "description": "Slug de l'objet expert (ex: francois-dequenne, kb-0002)."
-    },
-    "expert_reviewer": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "description": "Expert référent qui valide la fiche (gouvernance)."
-    },
-    "source": {
-      "const": "esgim-proprietary",
-      "description": "Toutes les fiches proviennent de la même source propriétaire ESGIM (notes Evernote de François Dequenne)."
-    },
-    "source_note": {
-      "type": "string",
-      "description": "Titre Evernote + date de dernière mise à jour de la note source."
-    },
-    "confidentiality": {
-      "enum": [
-        "public",
-        "internal"
-      ],
-      "default": "public"
-    },
-    "reliability": {
-      "enum": [
-        "expert-validated",
-        "expert-drafted",
-        "to-validate"
-      ],
-      "description": "expert-validated: relu et approuvé par François; expert-drafted: rédigé depuis une note experte, en attente de relecture; to-validate: contient des points à arbitrer."
-    },
-    "date_created": {
-      "type": "string",
-      "format": "date"
-    },
-    "date_updated": {
-      "type": "string",
-      "format": "date"
-    },
-    "version": {
-      "type": "integer",
-      "minimum": 1
-    },
-    "status": {
-      "enum": [
-        "draft",
-        "review",
-        "published",
-        "archived"
-      ],
-      "description": "Workflow: draft → review (relecture François) → published. archived: remplacée, jamais supprimée."
-    },
-    "related": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "description": "Slugs de fiches liées dans la MÊME langue (graphe plat). Les relations typées parent/enfant/alternative/prérequis sont dans `relations`."
-    },
-    "faq": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "q",
-          "a"
-        ],
-        "properties": {
-          "q": {
-            "type": "string"
-          },
-          "a": {
-            "type": "string"
-          }
-        }
-      },
-      "description": "Q/R embarquées dans un article. Les notes purement FAQ sont éclatées en objets faq autonomes."
-    },
-    "description": {
-      "type": "string",
-      "minLength": 70,
-      "maxLength": 155,
-      "description": "Meta description de la page: 70 à 155 caractères, une phrase qui résume la RÉPONSE. Distincte de summary, qui est plus long et alimente llms.txt. (KC-T02)"
-    },
-    "intent": {
-      "enum": [
-        "comprendre",
-        "comparer",
-        "choisir",
-        "mettre-en-oeuvre",
-        "verifier"
-      ],
-      "description": "Niveau d'intention couvert par la fiche (KC-S03). comprendre: définitions et mécanismes. comparer: X ou Y. choisir: prix, délais, éligibilité, quel niveau viser. mettre-en-oeuvre: étapes, canevas, preuves à produire. verifier: contrôler, valider, ce qui est rejeté."
-    },
-    "review_due": {
-      "type": "string",
-      "format": "date",
-      "description": "Date de révision due, calculée depuis date_updated selon la cadence GOVERNANCE §3 par type et sujet. Un build échoue si une fiche published a dépassé sa date (KC-M12)."
-    },
-    "sources": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "description": "IDs du registre taxonomy/sources-registry.yaml. Le build refuse un id inconnu. Toute affirmation chiffrée, datée ou réglementaire du corps doit être couverte par une entrée ici (KC-C11)."
-    },
-    "relations": {
-      "type": "object",
-      "additionalProperties": false,
-      "description": "Relations typées entre objets (KC-S10), en complément de `related` qui reste la liste plate des fiches connexes de la même langue. parent et children sont DÉRIVÉS des hubs par build_index.py et ne s'écrivent pas ici.",
-      "properties": {
-        "alternatives": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          },
-          "description": "Slugs (même langue) d'objets qui répondent à la même intention par une autre voie."
-        },
-        "prerequisites": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          },
-          "description": "Slugs (même langue) à lire ou à faire avant celui-ci."
-        }
-      }
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://github.com/FDesri/sos-ecovadis-knowledge-catalogue/schemas/knowledge-object.schema.json",
+ "title": "SOS-EcoVadis Knowledge Object (front matter)",
+ "description": "Schéma du front matter YAML de toute fiche du Knowledge Catalog. Une fiche = un objet de connaissance autonome, normalisé, relié aux autres. v3 (2026-09-02, vision v2.3) : ajout de volatility et verified_at, review_due devient dérivée. v2 (2026-09-01, vision v1.2) : ajout de description, intent, review_due, sources et relations. NOTE — canonical_url n'est PAS un champ de front matter : il est DÉRIVÉ de taxonomy/url-plan.yaml (langue + type + slug) par build_index.py, pour qu'une seule source fixe les URL et qu'aucune dérive ne soit possible (décision D13).",
+ "type": "object",
+ "required": [
+  "id",
+  "type",
+  "lang",
+  "title",
+  "slug",
+  "summary",
+  "description",
+  "intent",
+  "author",
+  "source",
+  "date_created",
+  "date_updated",
+  "verified_at",
+  "volatility",
+  "version",
+  "status"
+ ],
+ "properties": {
+  "id": {
+   "type": "string",
+   "pattern": "^kb-[0-9]{4}$",
+   "description": "Identifiant permanent, partagé par les trois versions linguistiques d'un même objet. Plages par type: voir taxonomy.yaml."
+  },
+  "type": {
+   "enum": [
+    "article",
+    "faq",
+    "pricing",
+    "service",
+    "expert",
+    "glossary",
+    "organization"
+   ]
+  },
+  "lang": {
+   "enum": [
+    "en",
+    "fr",
+    "nl",
+    "mul"
+   ],
+   "description": "nl = néerlandais de Belgique (kmo, VTE, rapportering, vouvoiement u)."
+  },
+  "source_lang": {
+   "enum": [
+    "en",
+    "fr",
+    "nl",
+    "mul"
+   ],
+   "description": "Langue de la note source originale. Une traduction NL se fait depuis l'anglais ou le concept, jamais depuis le français (règle glossaire §1-2)."
+  },
+  "translation_of": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Slug de la fiche dans la langue source quand cette fiche est une traduction; null pour l'original."
+  },
+  "title": {
+   "type": "string",
+   "description": "Titre formulé comme la question ou la recherche d'un humain (règle glossaire §1-5)."
+  },
+  "slug": {
+   "type": "string",
+   "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+   "description": "Stable, kebab-case, localisé par langue. Ne change jamais après publication."
+  },
+  "summary": {
+   "type": "string",
+   "description": "2 à 4 phrases, answer-first: la réponse d'abord, le contexte ensuite. Alimente llms.txt, meta description et les cartes."
+  },
+  "situations": {
+   "type": "array",
+   "items": {
+    "enum": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   }
+  },
+  "sizes": {
+   "type": "array",
+   "items": {
+    "enum": [
+     "XS",
+     "S",
+     "M",
+     "L"
+    ]
+   }
+  },
+  "content_kind": {
+   "enum": [
+    "general",
+    "methodology",
+    "policies",
+    "actions",
+    "reporting"
+   ]
+  },
+  "themes": {
+   "type": "array",
+   "items": {
+    "enum": [
+     "general",
+     "environment",
+     "labor-human-rights",
+     "ethics",
+     "sustainable-procurement"
+    ]
+   }
+  },
+  "topics": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "Valeurs de taxonomy.yaml > topics."
+  },
+  "ecovadis_questions": {
+   "type": "array",
+   "items": {
+    "type": "string",
+    "pattern": "^(GEN|LAB|ENV|CAR|FB|FBP|SUP)[0-9]{3,4}s?$"
+   },
+   "description": "Codes des questions du questionnaire EcoVadis couvertes par la fiche (métadonnées de liaison, PAS des questions humaines)."
+  },
+  "keywords": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "Les formulations qui coexistent: terme officiel, terme praticien, question posée. NL: repartir du concept, inclure kmo ET mkb, MVO ET duurzaamheid."
+  },
+  "audience": {
+   "type": "array",
+   "items": {
+    "enum": [
+     "sme_owner",
+     "sustainability_lead",
+     "buyer"
+    ]
+   }
+  },
+  "author": {
+   "type": "string",
+   "description": "Slug de l'objet expert (ex: francois-dequenne, kb-0002)."
+  },
+  "expert_reviewer": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Expert référent qui valide la fiche (gouvernance)."
+  },
+  "source": {
+   "const": "esgim-proprietary",
+   "description": "Toutes les fiches proviennent de la même source propriétaire ESGIM (notes Evernote de François Dequenne)."
+  },
+  "source_note": {
+   "type": "string",
+   "description": "Titre Evernote + date de dernière mise à jour de la note source."
+  },
+  "confidentiality": {
+   "enum": [
+    "public",
+    "internal"
+   ],
+   "default": "public"
+  },
+  "reliability": {
+   "enum": [
+    "expert-validated",
+    "expert-drafted",
+    "to-validate"
+   ],
+   "description": "expert-validated: relu et approuvé par François; expert-drafted: rédigé depuis une note experte, en attente de relecture; to-validate: contient des points à arbitrer."
+  },
+  "date_created": {
+   "type": "string",
+   "format": "date"
+  },
+  "date_updated": {
+   "type": "string",
+   "format": "date"
+  },
+  "version": {
+   "type": "integer",
+   "minimum": 1
+  },
+  "status": {
+   "enum": [
+    "draft",
+    "review",
+    "published",
+    "archived"
+   ],
+   "description": "Workflow: draft → review (relecture François) → published. archived: remplacée, jamais supprimée."
+  },
+  "related": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "Slugs de fiches liées dans la MÊME langue (graphe plat). Les relations typées parent/enfant/alternative/prérequis sont dans `relations`."
+  },
+  "faq": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "q",
+     "a"
+    ],
+    "properties": {
+     "q": {
+      "type": "string"
+     },
+     "a": {
+      "type": "string"
+     }
     }
+   },
+   "description": "Q/R embarquées dans un article. Les notes purement FAQ sont éclatées en objets faq autonomes."
+  },
+  "description": {
+   "type": "string",
+   "minLength": 70,
+   "maxLength": 155,
+   "description": "Meta description de la page: 70 à 155 caractères, une phrase qui résume la RÉPONSE. Distincte de summary, qui est plus long et alimente llms.txt. (KC-T02)"
+  },
+  "intent": {
+   "enum": [
+    "comprendre",
+    "comparer",
+    "choisir",
+    "mettre-en-oeuvre",
+    "verifier"
+   ],
+   "description": "Niveau d'intention couvert par la fiche (KC-S03). comprendre: définitions et mécanismes. comparer: X ou Y. choisir: prix, délais, éligibilité, quel niveau viser. mettre-en-oeuvre: étapes, canevas, preuves à produire. verifier: contrôler, valider, ce qui est rejeté."
+  },
+  "verified_at": {
+   "type": "string",
+   "format": "date",
+   "description": "Date à laquelle les FAITS de la fiche ont été vérifiés pour la dernière fois. Distincte de date_updated : corriger une coquille ne rajeunit pas un seuil de médaille."
+  },
+  "volatility": {
+   "enum": [
+    "evergreen",
+    "annual",
+    "ecovadis-cycle",
+    "event-driven"
+   ],
+   "description": "Vitesse à laquelle le contenu se périme. evergreen = mécanique stable (P-A-R, définitions). annual = pratique et offre. ecovadis-cycle = ce qu'EcoVadis recalibre (seuils, percentiles, médailles). event-driven = ce qu'un texte ou une annonce peut périmer (CSRD, Omnibus, VSME). Cadences : taxonomy/freshness.yaml."
+  },
+  "review_due": {
+   "type": "string",
+   "format": "date",
+   "description": "DÉRIVÉE de verified_at + volatility (taxonomy/freshness.yaml). Écrite dans le front matter pour rester lisible sur GitHub ; en cas d'écart avec la valeur dérivée, c'est la dérivée qui fait foi et le build avertit. Une fiche périmée n'arrête jamais le build (D32)."
+  },
+  "sources": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "IDs du registre taxonomy/sources-registry.yaml. Le build refuse un id inconnu. Toute affirmation chiffrée, datée ou réglementaire du corps doit être couverte par une entrée ici (KC-C11)."
+  },
+  "relations": {
+   "type": "object",
+   "additionalProperties": false,
+   "description": "Relations typées entre objets (KC-S10), en complément de `related` qui reste la liste plate des fiches connexes de la même langue. parent et children sont DÉRIVÉS des hubs par build_index.py et ne s'écrivent pas ici.",
+   "properties": {
+    "alternatives": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     },
+     "description": "Slugs (même langue) d'objets qui répondent à la même intention par une autre voie."
+    },
+    "prerequisites": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     },
+     "description": "Slugs (même langue) à lire ou à faire avant celui-ci."
+    }
+   }
   }
+ }
 }

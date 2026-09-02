@@ -43,6 +43,8 @@ export default function (eleventyConfig) {
     const p = (data.page && data.page.inputPath) || "";
     if (!p.includes("/catalog/")) return;
     if (data.status !== "published") return false;
+    // Retirée pour révision dépassée sur un contenu volatil (D32).
+    if (kb.excluded.includes(data.id)) return false;
 
     const l = lang(data);
     data.layout = "layouts/object.njk";

@@ -30,7 +30,9 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-08-27
 date_updated: 2026-08-27
-review_due: 2027-02-27
+verified_at: 2026-08-27
+volatility: annual
+review_due: 2027-08-27
 version: 1
 status: published
 related: [build-strong-ecovadis-submissions-consistently, improve-your-ecovadis-score-fast]

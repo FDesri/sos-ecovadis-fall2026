@@ -34,7 +34,9 @@ confidentiality: public
 reliability: expert-drafted
 date_created: 2026-09-01
 date_updated: 2026-09-01
-review_due: 2027-09-01
+verified_at: 2026-09-01
+volatility: evergreen
+review_due: 2028-09-01
 version: 1
 status: published
 related: [francois-dequenne, accompagnement-ecovadis-complet, combien-coute-un-accompagnement-ecovadis]

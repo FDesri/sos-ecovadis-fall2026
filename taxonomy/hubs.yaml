@@ -17,8 +17,18 @@
 #
 # Seuil : un sujet devient un hub à partir de 4 objets. Les sujets
 # sous le seuil (b-corp, secteur-emballage, secteur-pharma) restent des
-# facettes de filtrage ; leurs fiches sont rattachées par leurs autres sujets.
-# Vérifié le 2026-09-01 : 0 objet sur 105 sans hub.
+# facettes de filtrage.
+#
+# D31 (02/09/2026) — LE HUB N'EST PAS DÛ. Une fiche dont aucun sujet
+# n'atteint le seuil n'est pas une erreur de build : elle est listée à
+# l'index général des sujets, sous « Autres fiches », et elle est au
+# sitemap et dans llms.txt comme les autres. On peut donc ouvrir un sujet
+# neuf avec une seule fiche, ce que la règle précédente interdisait de
+# fait — elle exigeait quatre fiches avant la première.
+#
+# Quand un sujet atteint le seuil, build_index.py le signale ; le hub
+# s'ajoute ici à la main, parce qu'un hub porte un titre et une
+# introduction en trois langues, et que cela s'écrit.
 # ============================================================
 
 threshold: 4
