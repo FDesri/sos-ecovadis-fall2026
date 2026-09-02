@@ -39,8 +39,8 @@
     <p class="links">
       <a href="{{ site.aboutUrl }}">{{ i18n[htmlLang].who }}</a>
       <a href="/{{ htmlLang }}/{{ kb.branches.hub[htmlLang] }}/">{{ i18n[htmlLang].all_topics }}</a>
-      <a href="{{ site.license.url }}" rel="license">{{ site.license.name }} — {{ i18n[htmlLang].license }}</a>
     </p>
+    {% include "partials/mentions.njk" %}
   </div>
 </footer>
 </body>
