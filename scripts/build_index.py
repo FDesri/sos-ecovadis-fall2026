@@ -147,13 +147,20 @@ def main():
             }
             bodies[(oid, lang)] = body
 
-    # --- parité de langues -------------------------------------------------
+    # --- parité de langues (D26) -------------------------------------------
+    # Indicateur éditorial, PAS une condition de build : une fiche peut vivre
+    # dans une seule langue. Règle d'exploitation : une langue est absente ou
+    # publiée, jamais entre les deux (le statut reste au niveau de l'objet).
+    incomplets = []
     for oid, obj in sorted(objects.items()):
         langs = set(obj["languages"])
         if "mul" in langs:
             continue
         if langs != set(LANGS):
-            errors.append(f"{oid}: versions linguistiques {sorted(langs)} (attendu en, fr, nl)")
+            manque = sorted(set(LANGS) - langs)
+            incomplets.append(oid)
+            warnings.append(f"{oid}: langue(s) manquante(s) {manque} — parité incomplète")
+    parite = f"parité : {len(objects) - len(incomplets)}/{len(objects)} objets complets"
 
     # --- résolution des `related` -----------------------------------------
     for oid, obj in sorted(objects.items()):
@@ -200,6 +207,7 @@ def main():
     if check_only:
         print(f"{len(objects)} objets, {sum(len(o['languages']) for o in objects.values())} "
               f"fichiers — 0 erreur, {len(warnings)} avertissement(s)")
+        print(parite)
         for w in warnings:
             print("WARN:", w)
         return
@@ -456,6 +464,9 @@ Sitemap: {base}/sitemap.xml
     print(f"{len(objects)} objets / {nfiles} fichiers — 0 erreur")
     print(f"publiés : {len(published_ids)} ; en relecture : {len(objects)-len(published_ids)}")
     print(f"hubs : {len(hub_defs)} ; objets orphelins : 0")
+    print(parite)
+    for w in warnings:
+        print("AVERTISSEMENT :", w)
     print(f"écrit : index/catalog.json, index/jsonld.json, "
           f"public/{{robots.txt, sitemap.xml, llms.txt, llms-full.txt}}")
     if len(published_ids) == 0:
